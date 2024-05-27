@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Revisiting MoE and Dense Speed-Accuracy Comparisons for LLM Training**|Xianzhi Du et.al.|[2405.15052](http://arxiv.org/abs/2405.15052)|**[link](https://github.com/apple/axlearn)**|
 |**2024-05-23**|**From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step**|Yuntian Deng et.al.|[2405.14838](http://arxiv.org/abs/2405.14838)|null|
 |**2024-05-23**|**Unchosen Experts Can Contribute Too: Unleashing MoE Models' Power by Self-Contrast**|Chufan Shi et.al.|[2405.14507](http://arxiv.org/abs/2405.14507)|null|
 |**2024-05-23**|**ZipCache: Accurate and Efficient KV Cache Quantization with Salient Token Identification**|Yefei He et.al.|[2405.14256](http://arxiv.org/abs/2405.14256)|null|
@@ -29,6 +30,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**Procedural Construction of Atomistic Polyurethane Block Copolymer Models for High Throughput Simulations**|Dominic Robe et.al.|[2405.15226](http://arxiv.org/abs/2405.15226)|null|
+|**2024-05-23**|**The Fraction of Dust Mass in the Form of PAHs on 10-50 pc Scales in Nearby Galaxies**|Jessica Sutter et.al.|[2405.15102](http://arxiv.org/abs/2405.15102)|null|
 |**2024-05-23**|**Data Augmentation Techniques for Process Extraction from Scientific Publications**|Yuni Susanti et.al.|[2405.14594](http://arxiv.org/abs/2405.14594)|null|
 |**2024-05-23**|**Beyond the Buzz: Strategic Paths for Enabling Useful NISQ Applications**|Pratibha Raghupati Hegde et.al.|[2405.14561](http://arxiv.org/abs/2405.14561)|null|
 |**2024-05-22**|**fsemipar: an R package for SoF semiparametric regression**|Silvia Novo et.al.|[2405.14048](http://arxiv.org/abs/2405.14048)|null|
