@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-26**|**Multi-Reference Preference Optimization for Large Language Models**|Hung Le et.al.|[2405.16388](http://arxiv.org/abs/2405.16388)|null|
+|**2024-05-25**|**MindStar: Enhancing Math Reasoning in Pre-trained LLMs at Inference Time**|Jikun Kang et.al.|[2405.16265](http://arxiv.org/abs/2405.16265)|null|
 |**2024-05-23**|**Revisiting MoE and Dense Speed-Accuracy Comparisons for LLM Training**|Xianzhi Du et.al.|[2405.15052](http://arxiv.org/abs/2405.15052)|**[link](https://github.com/apple/axlearn)**|
 |**2024-05-23**|**From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step**|Yuntian Deng et.al.|[2405.14838](http://arxiv.org/abs/2405.14838)|null|
 |**2024-05-23**|**Unchosen Experts Can Contribute Too: Unleashing MoE Models' Power by Self-Contrast**|Chufan Shi et.al.|[2405.14507](http://arxiv.org/abs/2405.14507)|null|
@@ -36,6 +38,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**Optimized thread-block arrangement in a GPU implementation of a linear solver for atmospheric chemistry mechanisms**|Christian Guzman Ruiz et.al.|[2405.17363](http://arxiv.org/abs/2405.17363)|null|
+|**2024-05-27**|**Model-Driven Engineering for Quantum Programming: A Case Study on Ground State Energy Calculation**|Furkan Polat et.al.|[2405.17065](http://arxiv.org/abs/2405.17065)|null|
+|**2024-05-27**|**Gas-phase hydrogenation of large, astronomically relevant PAH cations**|Lijun Hua et.al.|[2405.16811](http://arxiv.org/abs/2405.16811)|null|
+|**2024-05-27**|**Gas-phase formation of fullerene/9-hydroxyfluorene cluster cations**|Yin Wu et.al.|[2405.16804](http://arxiv.org/abs/2405.16804)|null|
+|**2024-05-26**|**SE3Set: Harnessing equivariant hypergraph neural networks for molecular representation learning**|Hongfei Wu et.al.|[2405.16511](http://arxiv.org/abs/2405.16511)|null|
+|**2024-05-25**|**Retro-prob: Retrosynthetic Planning Based on a Probabilistic Model**|Chengyang Tian et.al.|[2405.16123](http://arxiv.org/abs/2405.16123)|null|
+|**2024-05-24**|**The Singlet-Triplet Gap of Cyclobutadiene: The CIPSI-Driven CC( $P$;$Q$ ) Study**|Swati S. Priyadarsini et.al.|[2405.15864](http://arxiv.org/abs/2405.15864)|null|
 |**2024-05-24**|**Procedural Construction of Atomistic Polyurethane Block Copolymer Models for High Throughput Simulations**|Dominic Robe et.al.|[2405.15226](http://arxiv.org/abs/2405.15226)|null|
 |**2024-05-23**|**The Fraction of Dust Mass in the Form of PAHs on 10-50 pc Scales in Nearby Galaxies**|Jessica Sutter et.al.|[2405.15102](http://arxiv.org/abs/2405.15102)|null|
 |**2024-05-23**|**Data Augmentation Techniques for Process Extraction from Scientific Publications**|Yuni Susanti et.al.|[2405.14594](http://arxiv.org/abs/2405.14594)|null|
