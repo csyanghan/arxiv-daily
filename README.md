@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**Arithmetic Reasoning with LLM: Prolog Generation & Permutation**|Xiaocheng Yang et.al.|[2405.17893](http://arxiv.org/abs/2405.17893)|null|
+|**2024-05-27**|**LoRA-XS: Low-Rank Adaptation with Extremely Small Number of Parameters**|Klaudia Bałazy et.al.|[2405.17604](http://arxiv.org/abs/2405.17604)|**[link](https://github.com/mohammadrezabanaei/lora-xs)**|
 |**2024-05-26**|**Multi-Reference Preference Optimization for Large Language Models**|Hung Le et.al.|[2405.16388](http://arxiv.org/abs/2405.16388)|null|
 |**2024-05-25**|**MindStar: Enhancing Math Reasoning in Pre-trained LLMs at Inference Time**|Jikun Kang et.al.|[2405.16265](http://arxiv.org/abs/2405.16265)|null|
 |**2024-05-23**|**Revisiting MoE and Dense Speed-Accuracy Comparisons for LLM Training**|Xianzhi Du et.al.|[2405.15052](http://arxiv.org/abs/2405.15052)|**[link](https://github.com/apple/axlearn)**|
@@ -38,6 +40,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**Population III star formation in the presence of turbulence, magnetic fields and ionizing radiation feedback**|Piyush Sharda et.al.|[2405.18265](http://arxiv.org/abs/2405.18265)|null|
+|**2024-05-28**|**Raman analysis of the dehydrogenation process of hydrogenated monolayer graphene**|Tom Fournier et.al.|[2405.18096](http://arxiv.org/abs/2405.18096)|null|
+|**2024-05-28**|**Molecular Structure and Rotational Dynamics in the Acetonitrile:Acetylene (1:2) Plastic Co-Crystal at Titan Conditions**|Atul C. Thakur et.al.|[2405.17751](http://arxiv.org/abs/2405.17751)|null|
+|**2024-05-27**|**The MQT Handbook: A Summary of Design Automation Tools and Software for Quantum Computing**|Robert Wille et.al.|[2405.17543](http://arxiv.org/abs/2405.17543)|null|
 |**2024-05-27**|**Optimized thread-block arrangement in a GPU implementation of a linear solver for atmospheric chemistry mechanisms**|Christian Guzman Ruiz et.al.|[2405.17363](http://arxiv.org/abs/2405.17363)|null|
 |**2024-05-27**|**Model-Driven Engineering for Quantum Programming: A Case Study on Ground State Energy Calculation**|Furkan Polat et.al.|[2405.17065](http://arxiv.org/abs/2405.17065)|null|
 |**2024-05-27**|**Gas-phase hydrogenation of large, astronomically relevant PAH cations**|Lijun Hua et.al.|[2405.16811](http://arxiv.org/abs/2405.16811)|null|
