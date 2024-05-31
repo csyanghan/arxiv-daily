@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-30**|**TAIA: Large Language Models are Out-of-Distribution Data Learners**|Shuyang Jiang et.al.|[2405.20192](http://arxiv.org/abs/2405.20192)|null|
+|**2024-05-30**|**SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths**|Kaixuan Huang et.al.|[2405.19715](http://arxiv.org/abs/2405.19715)|null|
+|**2024-05-30**|**GKT: A Novel Guidance-Based Knowledge Transfer Framework For Efficient Cloud-edge Collaboration LLM Deployment**|Yao Yao et.al.|[2405.19635](http://arxiv.org/abs/2405.19635)|null|
 |**2024-05-28**|**Arithmetic Reasoning with LLM: Prolog Generation & Permutation**|Xiaocheng Yang et.al.|[2405.17893](http://arxiv.org/abs/2405.17893)|null|
 |**2024-05-27**|**LoRA-XS: Low-Rank Adaptation with Extremely Small Number of Parameters**|Klaudia Bałazy et.al.|[2405.17604](http://arxiv.org/abs/2405.17604)|**[link](https://github.com/mohammadrezabanaei/lora-xs)**|
 |**2024-05-26**|**Multi-Reference Preference Optimization for Large Language Models**|Hung Le et.al.|[2405.16388](http://arxiv.org/abs/2405.16388)|null|
@@ -40,6 +43,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-30**|**Multi-headed lattices and Green functions**|Qipin Chen et.al.|[2405.20294](http://arxiv.org/abs/2405.20294)|null|
+|**2024-05-30**|**Lethal surface ozone concentrations are possible on habitable zone exoplanets**|G. J. Cooke et.al.|[2405.20167](http://arxiv.org/abs/2405.20167)|null|
+|**2024-05-30**|**A low cosmic-ray ionisation rate in the prestellar core Ophiuchus/H-MM1. Mapping of the molecular ions ortho-H2D+, N2H+, and DCO+**|Jorma Harju et.al.|[2405.20004](http://arxiv.org/abs/2405.20004)|null|
+|**2024-05-30**|**Polarized sub-meV Photoluminescence in 2D PbS Nanoplatelets at Cryogenic Temperatures**|Pengji Li et.al.|[2405.19821](http://arxiv.org/abs/2405.19821)|null|
+|**2024-05-29**|**Quo Vadis ChatGPT? From Large Language Models to Large Knowledge Models**|Venkat Venkatasubramanian et.al.|[2405.19561](http://arxiv.org/abs/2405.19561)|null|
 |**2024-05-29**|**Quantum Tunneling Could Enable Proton Transfer Reactions on Titan**|Henry W. Longo et.al.|[2405.19195](http://arxiv.org/abs/2405.19195)|null|
 |**2024-05-29**|**UniIF: Unified Molecule Inverse Folding**|Zhangyang Gao et.al.|[2405.18968](http://arxiv.org/abs/2405.18968)|null|
 |**2024-05-28**|**Population III star formation in the presence of turbulence, magnetic fields and ionizing radiation feedback**|Piyush Sharda et.al.|[2405.18265](http://arxiv.org/abs/2405.18265)|null|
