@@ -43,6 +43,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**Quantum state preparation for multivariate functions**|Matthias Rosenkranz et.al.|[2405.21058](http://arxiv.org/abs/2405.21058)|null|
+|**2024-05-31**|**Enhanced formation of interstellar complex organic molecules on carbon monoxide ice**|Germán Molpeceres et.al.|[2405.20707](http://arxiv.org/abs/2405.20707)|null|
+|**2024-05-30**|**An Automatic Question Usability Evaluation Toolkit**|Steven Moore et.al.|[2405.20529](http://arxiv.org/abs/2405.20529)|null|
+|**2024-05-30**|**Automated Generation and Tagging of Knowledge Components from Multiple-Choice Questions**|Steven Moore et.al.|[2405.20526](http://arxiv.org/abs/2405.20526)|**[link](https://github.com/stevenjamesmoore/learningatscale24)**|
+|**2024-05-30**|**Quantum encoder for fixed Hamming-weight subspaces**|Renato M. S. Farias et.al.|[2405.20408](http://arxiv.org/abs/2405.20408)|null|
 |**2024-05-30**|**Multi-headed lattices and Green functions**|Qipin Chen et.al.|[2405.20294](http://arxiv.org/abs/2405.20294)|null|
 |**2024-05-30**|**Lethal surface ozone concentrations are possible on habitable zone exoplanets**|G. J. Cooke et.al.|[2405.20167](http://arxiv.org/abs/2405.20167)|null|
 |**2024-05-30**|**A low cosmic-ray ionisation rate in the prestellar core Ophiuchus/H-MM1. Mapping of the molecular ions ortho-H2D+, N2H+, and DCO+**|Jorma Harju et.al.|[2405.20004](http://arxiv.org/abs/2405.20004)|null|
