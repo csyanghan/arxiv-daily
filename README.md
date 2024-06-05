@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**mCoT: Multilingual Instruction Tuning for Reasoning Consistency in Language Models**|Huiyuan Lai et.al.|[2406.02301](http://arxiv.org/abs/2406.02301)|null|
+|**2024-06-02**|**Automatic Instruction Evolving for Large Language Models**|Weihao Zeng et.al.|[2406.00770](http://arxiv.org/abs/2406.00770)|null|
 |**2024-05-30**|**TAIA: Large Language Models are Out-of-Distribution Data Learners**|Shuyang Jiang et.al.|[2405.20192](http://arxiv.org/abs/2405.20192)|**[link](https://github.com/pixas/TAIA_LLM)**|
 |**2024-05-30**|**SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths**|Kaixuan Huang et.al.|[2405.19715](http://arxiv.org/abs/2405.19715)|null|
 |**2024-05-30**|**GKT: A Novel Guidance-Based Knowledge Transfer Framework For Efficient Cloud-edge Collaboration LLM Deployment**|Yao Yao et.al.|[2405.19635](http://arxiv.org/abs/2405.19635)|null|
@@ -43,6 +45,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**A fast neural emulator for interstellar chemistry**|A. Asensio Ramos et.al.|[2406.02387](http://arxiv.org/abs/2406.02387)|null|
+|**2024-06-04**|**Understanding the chemistry of the young stellar object G29.862-0.0044**|N. C. Martinez et.al.|[2406.02358](http://arxiv.org/abs/2406.02358)|null|
+|**2024-06-04**|**QCDGE database, Quantum Chemistry Database with Ground- and Excited-state Properties of 450 Kilo Molecules**|Yifei Zhu et.al.|[2406.02341](http://arxiv.org/abs/2406.02341)|null|
+|**2024-06-04**|**Abundances of trace constituents in Jupiter's atmosphere inferred from Herschel/PACS observations**|Cyril Gapp et.al.|[2406.02179](http://arxiv.org/abs/2406.02179)|null|
+|**2024-06-04**|**Predicting the Curie temperature of magnetic materials with automated calculations across chemistries and structures**|Marian Arale Brännvall et.al.|[2406.02084](http://arxiv.org/abs/2406.02084)|null|
+|**2024-06-04**|**First close-coupling study of the excitation of a large cyclic molecule: collision of c-C5H6 with He**|Sándor Demes et.al.|[2406.02036](http://arxiv.org/abs/2406.02036)|null|
+|**2024-06-04**|**High-temperature magnetic anomaly via suppression of antisite disorder through synthesis route modification in a Kitaev candidate Cu $_2$IrO$_3$**|Yuya Haraguchi et.al.|[2406.01925](http://arxiv.org/abs/2406.01925)|null|
+|**2024-06-03**|**Unveiling gas phase H2NCO radical: Laboratory rotational spectroscopy and interstellar search toward IRAS 16293-2422**|Marie-Aline Martin-Drumel et.al.|[2406.01796](http://arxiv.org/abs/2406.01796)|null|
+|**2024-06-03**|**Distributed Quantum Computing in Silicon**|Francis Afzal et.al.|[2406.01704](http://arxiv.org/abs/2406.01704)|null|
+|**2024-06-03**|**Isotopologue-selective laser cooling of molecules**|Felix Kogel et.al.|[2406.01569](http://arxiv.org/abs/2406.01569)|null|
 |**2024-05-31**|**Quantum state preparation for multivariate functions**|Matthias Rosenkranz et.al.|[2405.21058](http://arxiv.org/abs/2405.21058)|null|
 |**2024-05-31**|**Enhanced formation of interstellar complex organic molecules on carbon monoxide ice**|Germán Molpeceres et.al.|[2405.20707](http://arxiv.org/abs/2405.20707)|null|
 |**2024-05-30**|**An Automatic Question Usability Evaluation Toolkit**|Steven Moore et.al.|[2405.20529](http://arxiv.org/abs/2405.20529)|null|
