@@ -7,18 +7,18 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.05
+## Updated on 2024.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-04**|**mCoT: Multilingual Instruction Tuning for Reasoning Consistency in Language Models**|Huiyuan Lai et.al.|[2406.02301](http://arxiv.org/abs/2406.02301)|null|
+|**2024-06-04**|**mCoT: Multilingual Instruction Tuning for Reasoning Consistency in Language Models**|Huiyuan Lai et.al.|[2406.02301](http://arxiv.org/abs/2406.02301)|**[link](https://github.com/laihuiyuan/mcot)**|
 |**2024-06-02**|**Automatic Instruction Evolving for Large Language Models**|Weihao Zeng et.al.|[2406.00770](http://arxiv.org/abs/2406.00770)|null|
 |**2024-05-30**|**TAIA: Large Language Models are Out-of-Distribution Data Learners**|Shuyang Jiang et.al.|[2405.20192](http://arxiv.org/abs/2405.20192)|**[link](https://github.com/pixas/TAIA_LLM)**|
 |**2024-05-30**|**SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths**|Kaixuan Huang et.al.|[2405.19715](http://arxiv.org/abs/2405.19715)|null|
-|**2024-05-30**|**GKT: A Novel Guidance-Based Knowledge Transfer Framework For Efficient Cloud-edge Collaboration LLM Deployment**|Yao Yao et.al.|[2405.19635](http://arxiv.org/abs/2405.19635)|null|
+|**2024-05-30**|**GKT: A Novel Guidance-Based Knowledge Transfer Framework For Efficient Cloud-edge Collaboration LLM Deployment**|Yao Yao et.al.|[2405.19635](http://arxiv.org/abs/2405.19635)|**[link](https://github.com/zoeyyao27/gkt)**|
 |**2024-05-28**|**Arithmetic Reasoning with LLM: Prolog Generation & Permutation**|Xiaocheng Yang et.al.|[2405.17893](http://arxiv.org/abs/2405.17893)|null|
 |**2024-05-27**|**LoRA-XS: Low-Rank Adaptation with Extremely Small Number of Parameters**|Klaudia Bałazy et.al.|[2405.17604](http://arxiv.org/abs/2405.17604)|**[link](https://github.com/mohammadrezabanaei/lora-xs)**|
 |**2024-05-26**|**Multi-Reference Preference Optimization for Large Language Models**|Hung Le et.al.|[2405.16388](http://arxiv.org/abs/2405.16388)|null|
