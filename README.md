@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Does your data spark joy? Performance gains from domain upsampling at the end of training**|Cody Blakeney et.al.|[2406.03476](http://arxiv.org/abs/2406.03476)|null|
 |**2024-06-04**|**mCoT: Multilingual Instruction Tuning for Reasoning Consistency in Language Models**|Huiyuan Lai et.al.|[2406.02301](http://arxiv.org/abs/2406.02301)|**[link](https://github.com/laihuiyuan/mcot)**|
 |**2024-06-02**|**Automatic Instruction Evolving for Large Language Models**|Weihao Zeng et.al.|[2406.00770](http://arxiv.org/abs/2406.00770)|null|
 |**2024-05-30**|**TAIA: Large Language Models are Out-of-Distribution Data Learners**|Shuyang Jiang et.al.|[2405.20192](http://arxiv.org/abs/2405.20192)|**[link](https://github.com/pixas/TAIA_LLM)**|
@@ -45,6 +46,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Recurrent neural chemical reaction networks that approximate arbitrary dynamics**|Alexander Dack et.al.|[2406.03456](http://arxiv.org/abs/2406.03456)|null|
+|**2024-06-05**|**Foundation Models for Geophysics: Reviews and Perspectives**|Qi Liu et.al.|[2406.03163](http://arxiv.org/abs/2406.03163)|null|
+|**2024-06-05**|**MESS: Modern Electronic Structure Simulations**|Hatem Helal et.al.|[2406.03121](http://arxiv.org/abs/2406.03121)|**[link](https://github.com/graphcore-research/mess)**|
+|**2024-06-04**|**Skeletal Density Measurements for Adsorbent Nanomaterials**|Andrew K. Gillespie et.al.|[2406.02762](http://arxiv.org/abs/2406.02762)|null|
 |**2024-06-04**|**A fast neural emulator for interstellar chemistry**|A. Asensio Ramos et.al.|[2406.02387](http://arxiv.org/abs/2406.02387)|null|
 |**2024-06-04**|**Understanding the chemistry of the young stellar object G29.862-0.0044**|N. C. Martinez et.al.|[2406.02358](http://arxiv.org/abs/2406.02358)|null|
 |**2024-06-04**|**QCDGE database, Quantum Chemistry Database with Ground- and Excited-state Properties of 450 Kilo Molecules**|Yifei Zhu et.al.|[2406.02341](http://arxiv.org/abs/2406.02341)|null|
