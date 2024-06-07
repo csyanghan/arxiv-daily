@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-06**|**DICE: Detecting In-distribution Contamination in LLM's Fine-tuning Phase for Math Reasoning**|Shangqing Tu et.al.|[2406.04197](http://arxiv.org/abs/2406.04197)|**[link](https://github.com/thu-keg/dice)**|
 |**2024-06-05**|**Does your data spark joy? Performance gains from domain upsampling at the end of training**|Cody Blakeney et.al.|[2406.03476](http://arxiv.org/abs/2406.03476)|null|
 |**2024-06-04**|**mCoT: Multilingual Instruction Tuning for Reasoning Consistency in Language Models**|Huiyuan Lai et.al.|[2406.02301](http://arxiv.org/abs/2406.02301)|**[link](https://github.com/laihuiyuan/mcot)**|
 |**2024-06-02**|**Automatic Instruction Evolving for Large Language Models**|Weihao Zeng et.al.|[2406.00770](http://arxiv.org/abs/2406.00770)|null|
@@ -40,6 +41,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-06**|**Cooperative CO $_2$ capture via oxalate formation on metal-decorated graphene**|Inioluwa Christianah Popoola et.al.|[2406.03795](http://arxiv.org/abs/2406.03795)|null|
+|**2024-06-06**|**Evaluating the World Model Implicit in a Generative Model**|Keyon Vafa et.al.|[2406.03689](http://arxiv.org/abs/2406.03689)|null|
+|**2024-06-06**|**Randomness in atomic disorder and consequent squandering of spin-polarization in a ferromagnetically fragile quaternary Heusler alloy FeRuCrSi**|Shuvankar Gupta et.al.|[2406.03661](http://arxiv.org/abs/2406.03661)|null|
 |**2024-06-05**|**Recurrent neural chemical reaction networks that approximate arbitrary dynamics**|Alexander Dack et.al.|[2406.03456](http://arxiv.org/abs/2406.03456)|null|
 |**2024-06-05**|**Foundation Models for Geophysics: Reviews and Perspectives**|Qi Liu et.al.|[2406.03163](http://arxiv.org/abs/2406.03163)|null|
 |**2024-06-05**|**MESS: Modern Electronic Structure Simulations**|Hatem Helal et.al.|[2406.03121](http://arxiv.org/abs/2406.03121)|**[link](https://github.com/graphcore-research/mess)**|
