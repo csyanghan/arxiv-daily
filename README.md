@@ -48,7 +48,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-06**|**Cooperative CO $_2$ capture via oxalate formation on metal-decorated graphene**|Inioluwa Christianah Popoola et.al.|[2406.03795](http://arxiv.org/abs/2406.03795)|null|
-|**2024-06-06**|**Evaluating the World Model Implicit in a Generative Model**|Keyon Vafa et.al.|[2406.03689](http://arxiv.org/abs/2406.03689)|null|
+|**2024-06-06**|**Evaluating the World Model Implicit in a Generative Model**|Keyon Vafa et.al.|[2406.03689](http://arxiv.org/abs/2406.03689)|**[link](https://github.com/keyonvafa/world-model-evaluation)**|
 |**2024-06-06**|**Randomness in atomic disorder and consequent squandering of spin-polarization in a ferromagnetically fragile quaternary Heusler alloy FeRuCrSi**|Shuvankar Gupta et.al.|[2406.03661](http://arxiv.org/abs/2406.03661)|null|
 |**2024-06-05**|**Recurrent neural chemical reaction networks that approximate arbitrary dynamics**|Alexander Dack et.al.|[2406.03456](http://arxiv.org/abs/2406.03456)|null|
 |**2024-06-05**|**Foundation Models for Geophysics: Reviews and Perspectives**|Qi Liu et.al.|[2406.03163](http://arxiv.org/abs/2406.03163)|null|
