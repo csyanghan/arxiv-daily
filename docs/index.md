@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-07**|**Uncertainty Aware Learning for Language Model Alignment**|Yikun Wang et.al.|[2406.04854](http://arxiv.org/abs/2406.04854)|null|
 |**2024-06-06**|**DICE: Detecting In-distribution Contamination in LLM's Fine-tuning Phase for Math Reasoning**|Shangqing Tu et.al.|[2406.04197](http://arxiv.org/abs/2406.04197)|**[link](https://github.com/thu-keg/dice)**|
 |**2024-06-05**|**Does your data spark joy? Performance gains from domain upsampling at the end of training**|Cody Blakeney et.al.|[2406.03476](http://arxiv.org/abs/2406.03476)|null|
 |**2024-06-04**|**mCoT: Multilingual Instruction Tuning for Reasoning Consistency in Language Models**|Huiyuan Lai et.al.|[2406.02301](http://arxiv.org/abs/2406.02301)|**[link](https://github.com/laihuiyuan/mcot)**|
@@ -41,6 +42,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-07**|**Combinatorial Complex Score-based Diffusion Modelling through Stochastic Differential Equations**|Adrien Carrel et.al.|[2406.04916](http://arxiv.org/abs/2406.04916)|null|
+|**2024-06-07**|**Cactus-like Metamaterial Structures for Electromagnetically Induced Transparency at THz frequencies**|Savvas Papamakarios et.al.|[2406.04862](http://arxiv.org/abs/2406.04862)|null|
+|**2024-06-07**|**A survey and benchmark of high-dimensional Bayesian optimization of discrete sequences**|Miguel González-Duque et.al.|[2406.04739](http://arxiv.org/abs/2406.04739)|null|
+|**2024-06-07**|**FlowMM: Generating Materials with Riemannian Flow Matching**|Benjamin Kurt Miller et.al.|[2406.04713](http://arxiv.org/abs/2406.04713)|null|
+|**2024-06-07**|**SynAsk: Unleashing the Power of Large Language Models in Organic Synthesis**|Chonghuan Zhang et.al.|[2406.04593](http://arxiv.org/abs/2406.04593)|null|
+|**2024-06-06**|**Estimating molecular thermal averages with the quantum equation of motion and informationally complete measurements**|Daniele Morrone et.al.|[2406.04475](http://arxiv.org/abs/2406.04475)|null|
+|**2024-06-06**|**Sulfur Dioxide and Other Molecular Species in the Atmosphere of the Sub-Neptune GJ 3470 b**|Thomas G. Beatty et.al.|[2406.04450](http://arxiv.org/abs/2406.04450)|null|
 |**2024-06-06**|**Cooperative CO $_2$ capture via oxalate formation on metal-decorated graphene**|Inioluwa Christianah Popoola et.al.|[2406.03795](http://arxiv.org/abs/2406.03795)|null|
 |**2024-06-06**|**Evaluating the World Model Implicit in a Generative Model**|Keyon Vafa et.al.|[2406.03689](http://arxiv.org/abs/2406.03689)|**[link](https://github.com/keyonvafa/world-model-evaluation)**|
 |**2024-06-06**|**Randomness in atomic disorder and consequent squandering of spin-polarization in a ferromagnetically fragile quaternary Heusler alloy FeRuCrSi**|Shuvankar Gupta et.al.|[2406.03661](http://arxiv.org/abs/2406.03661)|null|
