@@ -42,6 +42,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-10**|**Equivariant Neural Tangent Kernels**|Philipp Misof et.al.|[2406.06504](http://arxiv.org/abs/2406.06504)|null|
+|**2024-06-10**|**Probing out-of-distribution generalization in machine learning for materials**|Kangming Li et.al.|[2406.06489](http://arxiv.org/abs/2406.06489)|null|
+|**2024-06-10**|**How Useful is Intermittent, Asynchronous Expert Feedback for Bayesian Optimization?**|Agustinus Kristiadi et.al.|[2406.06459](http://arxiv.org/abs/2406.06459)|**[link](https://github.com/wiseodd/bo-async-feedback)**|
+|**2024-06-10**|**Discovering classical spin liquids by topological search of high symmetry nets**|Joseph A. M. Paddison et.al.|[2406.06416](http://arxiv.org/abs/2406.06416)|null|
+|**2024-06-10**|**Accurate Prediction of Core Level Binding Energies from Ground-State Density Functional Calculations: The Importance of Localization and Screening**|Jincheng Yu et.al.|[2406.06345](http://arxiv.org/abs/2406.06345)|null|
+|**2024-06-10**|**Feasibility of accelerating homogeneous catalyst discovery with fault-tolerant quantum computers**|Nicole Bellonzi et.al.|[2406.06335](http://arxiv.org/abs/2406.06335)|null|
+|**2024-06-10**|**Feasibility of accelerating incompressible computational fluid dynamics simulations with fault-tolerant quantum computers**|John Penuel et.al.|[2406.06323](http://arxiv.org/abs/2406.06323)|null|
+|**2024-06-10**|**Deep Search for Phosphine in a Prestellar Core**|Kenji Furuya et.al.|[2406.05978](http://arxiv.org/abs/2406.05978)|null|
+|**2024-06-09**|**What is my quantum computer good for? Quantum capability learning with physics-aware neural networks**|Daniel Hothem et.al.|[2406.05636](http://arxiv.org/abs/2406.05636)|null|
+|**2024-06-08**|**Flexible Multi-Dimensional FFTs for Plane Wave Density Functional Theory Codes**|Doru Thom Popovici et.al.|[2406.05577](http://arxiv.org/abs/2406.05577)|null|
 |**2024-06-07**|**Combinatorial Complex Score-based Diffusion Modelling through Stochastic Differential Equations**|Adrien Carrel et.al.|[2406.04916](http://arxiv.org/abs/2406.04916)|null|
 |**2024-06-07**|**Cactus-like Metamaterial Structures for Electromagnetically Induced Transparency at THz frequencies**|Savvas Papamakarios et.al.|[2406.04862](http://arxiv.org/abs/2406.04862)|null|
 |**2024-06-07**|**A survey and benchmark of high-dimensional Bayesian optimization of discrete sequences**|Miguel González-Duque et.al.|[2406.04739](http://arxiv.org/abs/2406.04739)|null|
