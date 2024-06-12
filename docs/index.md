@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B**|Di Zhang et.al.|[2406.07394](http://arxiv.org/abs/2406.07394)|null|
+|**2024-06-05**|**Improve Mathematical Reasoning in Language Models by Automated Process Supervision**|Liangchen Luo et.al.|[2406.06592](http://arxiv.org/abs/2406.06592)|null|
 |**2024-06-07**|**Uncertainty Aware Learning for Language Model Alignment**|Yikun Wang et.al.|[2406.04854](http://arxiv.org/abs/2406.04854)|null|
 |**2024-06-06**|**DICE: Detecting In-distribution Contamination in LLM's Fine-tuning Phase for Math Reasoning**|Shangqing Tu et.al.|[2406.04197](http://arxiv.org/abs/2406.04197)|**[link](https://github.com/thu-keg/dice)**|
 |**2024-06-05**|**Does your data spark joy? Performance gains from domain upsampling at the end of training**|Cody Blakeney et.al.|[2406.03476](http://arxiv.org/abs/2406.03476)|null|
@@ -42,6 +44,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Interacting-bath dynamical embedding for capturing non-local electron correlation in solids**|Jiachen Li et.al.|[2406.07531](http://arxiv.org/abs/2406.07531)|null|
+|**2024-06-11**|**Study of selected mild steels for application in vacuum systems of future gravitational wave detectors**|Carlo Scarcia et.al.|[2406.07123](http://arxiv.org/abs/2406.07123)|null|
+|**2024-06-11**|**Anomalous propagators and the particle-particle channel: Hedin's equations**|Antoine Marie et.al.|[2406.07062](http://arxiv.org/abs/2406.07062)|null|
+|**2024-06-11**|**Photo-induced dynamics with continuous and discrete quantum baths**|Zhaoxuan Xie et.al.|[2406.07047](http://arxiv.org/abs/2406.07047)|null|
+|**2024-06-11**|**Edge Metric Dimension of Silicate Networks**|S. Prabhu et.al.|[2406.07019](http://arxiv.org/abs/2406.07019)|null|
+|**2024-06-10**|**MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension**|Khiem Le et.al.|[2406.06777](http://arxiv.org/abs/2406.06777)|null|
+|**2024-06-10**|**Discrepancies between spectroscopy and HST photometry in tagging multiple stellar populations in 22 globular clusters**|Eugenio Carretta et.al.|[2406.06683](http://arxiv.org/abs/2406.06683)|null|
 |**2024-06-10**|**Equivariant Neural Tangent Kernels**|Philipp Misof et.al.|[2406.06504](http://arxiv.org/abs/2406.06504)|null|
 |**2024-06-10**|**Probing out-of-distribution generalization in machine learning for materials**|Kangming Li et.al.|[2406.06489](http://arxiv.org/abs/2406.06489)|null|
 |**2024-06-10**|**How Useful is Intermittent, Asynchronous Expert Feedback for Bayesian Optimization?**|Agustinus Kristiadi et.al.|[2406.06459](http://arxiv.org/abs/2406.06459)|**[link](https://github.com/wiseodd/bo-async-feedback)**|
