@@ -44,6 +44,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**Visualization of atomic structures on faceted and non-flat surfaces by difference-of-gaussians approach**|A. Yu. Aladyshkin et.al.|[2406.08436](http://arxiv.org/abs/2406.08436)|null|
+|**2024-06-12**|**Exploring the ultra-hot Jupiter WASP-178b. Constraints on atmospheric chemistry and dynamics from a joint retrieval of VLT/CRIRES $^+$ and space photometric data**|D. Cont et.al.|[2406.08166](http://arxiv.org/abs/2406.08166)|null|
+|**2024-06-12**|**Chemistry3D: Robotic Interaction Benchmark for Chemistry Experiments**|Shoujie Li et.al.|[2406.08160](http://arxiv.org/abs/2406.08160)|null|
+|**2024-06-12**|**Optimal control of quantum system in fermion fields: Pontryagin-type maximum principle(I)**|Penghui Wang et.al.|[2406.08153](http://arxiv.org/abs/2406.08153)|null|
+|**2024-06-12**|**Analytical evaluation of ground state gradients in quantum electrodynamics coupled cluster theory**|Marcus Takvam Lexander et.al.|[2406.08107](http://arxiv.org/abs/2406.08107)|null|
+|**2024-06-12**|**Vacancy-induced pseudo-gap formation in antiferromagnetic Cr $_{0.86}$ ZnSb**|Michael Parzer et.al.|[2406.08021](http://arxiv.org/abs/2406.08021)|null|
+|**2024-06-12**|**Investigating Sulfur Chemistry in the HD 163296 disk**|Rong Ma et.al.|[2406.07896](http://arxiv.org/abs/2406.07896)|null|
+|**2024-06-12**|**Are Large Language Models Good Statisticians?**|Yizhang Zhu et.al.|[2406.07815](http://arxiv.org/abs/2406.07815)|**[link](https://github.com/derrickzhuyz/statqa)**|
+|**2024-06-11**|**Role of Kinetic Exchange and Coulomb Interaction in Bonding of Hydrogen Molecular Systems and Excited States**|Maciej Hendzel et.al.|[2406.07729](http://arxiv.org/abs/2406.07729)|null|
+|**2024-06-11**|**Chip-scale sub-Doppler atomic spectroscopy enabled by a metasurface integrated photonic emitter**|Alexander Yulaev et.al.|[2406.07672](http://arxiv.org/abs/2406.07672)|null|
 |**2024-06-11**|**Interacting-bath dynamical embedding for capturing non-local electron correlation in solids**|Jiachen Li et.al.|[2406.07531](http://arxiv.org/abs/2406.07531)|null|
 |**2024-06-11**|**Study of selected mild steels for application in vacuum systems of future gravitational wave detectors**|Carlo Scarcia et.al.|[2406.07123](http://arxiv.org/abs/2406.07123)|null|
 |**2024-06-11**|**Anomalous propagators and the particle-particle channel: Hedin's equations**|Antoine Marie et.al.|[2406.07062](http://arxiv.org/abs/2406.07062)|null|
