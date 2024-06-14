@@ -14,7 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-13**|**Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B**|Di Zhang et.al.|[2406.07394](http://arxiv.org/abs/2406.07394)|null|
+|**2024-06-13**|**MiLoRA: Harnessing Minor Singular Components for Parameter-Efficient LLM Finetuning**|Hanqing Wang et.al.|[2406.09044](http://arxiv.org/abs/2406.09044)|null|
+|**2024-06-13**|**Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B**|Di Zhang et.al.|[2406.07394](http://arxiv.org/abs/2406.07394)|**[link](https://github.com/trotsky1997/mathblackbox)**|
 |**2024-06-05**|**Improve Mathematical Reasoning in Language Models by Automated Process Supervision**|Liangchen Luo et.al.|[2406.06592](http://arxiv.org/abs/2406.06592)|null|
 |**2024-06-07**|**Uncertainty Aware Learning for Language Model Alignment**|Yikun Wang et.al.|[2406.04854](http://arxiv.org/abs/2406.04854)|null|
 |**2024-06-06**|**DICE: Detecting In-distribution Contamination in LLM's Fine-tuning Phase for Math Reasoning**|Shangqing Tu et.al.|[2406.04197](http://arxiv.org/abs/2406.04197)|**[link](https://github.com/thu-keg/dice)**|
@@ -44,6 +45,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**Prospects for NMR Spectral Prediction on Fault-Tolerant Quantum Computers**|Justin E. Elenewski et.al.|[2406.09340](http://arxiv.org/abs/2406.09340)|null|
+|**2024-06-13**|**SySTeC: A Symmetric Sparse Tensor Compiler**|Radha Patel et.al.|[2406.09266](http://arxiv.org/abs/2406.09266)|null|
+|**2024-06-13**|**Solving the Synthetic Riddle of Colloidal 2D PbTe Nanoplatelets with Tunable Near-Infrared Emission**|Leon Biesterfeld et.al.|[2406.09223](http://arxiv.org/abs/2406.09223)|null|
+|**2024-06-13**|**An attractive way to correct for missing singles excitations in unitary coupled cluster doubles theory**|Zachary W. Windom et.al.|[2406.09174](http://arxiv.org/abs/2406.09174)|null|
+|**2024-06-13**|**Controlling the Magnetic Properties of the van der Waals Multiferroic Crystals Co $_{1-x}$Ni$_{x}$I$_2$**|Anastasiia Lukovkina et.al.|[2406.09146](http://arxiv.org/abs/2406.09146)|null|
+|**2024-06-13**|**The Cygnus Allscale Survey of Chemistry and Dynamical Environments: CASCADE III. The large scale distribution of DCO+, DNC and DCN in the DR21 filament**|I. Barlach Christensen et.al.|[2406.09145](http://arxiv.org/abs/2406.09145)|null|
+|**2024-06-13**|**SciKnowEval: Evaluating Multi-level Scientific Knowledge of Large Language Models**|Kehua Feng et.al.|[2406.09098](http://arxiv.org/abs/2406.09098)|**[link](https://github.com/hicai-zju/sciknoweval)**|
+|**2024-06-13**|**DubWise: Video-Guided Speech Duration Control in Multimodal LLM-based Text-to-Speech for Dubbing**|Neha Sahipjohn et.al.|[2406.08802](http://arxiv.org/abs/2406.08802)|null|
+|**2024-06-12**|**Quantum Hardware-Enabled Molecular Dynamics via Transfer Learning**|Abid Khan et.al.|[2406.08554](http://arxiv.org/abs/2406.08554)|null|
 |**2024-06-12**|**Visualization of atomic structures on faceted and non-flat surfaces by difference-of-gaussians approach**|A. Yu. Aladyshkin et.al.|[2406.08436](http://arxiv.org/abs/2406.08436)|null|
 |**2024-06-13**|**Exploring the ultra-hot Jupiter WASP-178b. Constraints on atmospheric chemistry and dynamics from a joint retrieval of VLT/CRIRES $^+$ and space photometric data**|D. Cont et.al.|[2406.08166](http://arxiv.org/abs/2406.08166)|null|
 |**2024-06-12**|**Chemistry3D: Robotic Interaction Benchmark for Chemistry Experiments**|Shoujie Li et.al.|[2406.08160](http://arxiv.org/abs/2406.08160)|null|
