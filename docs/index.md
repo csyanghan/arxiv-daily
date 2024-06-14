@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.13
+## Updated on 2024.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-11**|**Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B**|Di Zhang et.al.|[2406.07394](http://arxiv.org/abs/2406.07394)|null|
+|**2024-06-13**|**Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B**|Di Zhang et.al.|[2406.07394](http://arxiv.org/abs/2406.07394)|null|
 |**2024-06-05**|**Improve Mathematical Reasoning in Language Models by Automated Process Supervision**|Liangchen Luo et.al.|[2406.06592](http://arxiv.org/abs/2406.06592)|null|
 |**2024-06-07**|**Uncertainty Aware Learning for Language Model Alignment**|Yikun Wang et.al.|[2406.04854](http://arxiv.org/abs/2406.04854)|null|
 |**2024-06-06**|**DICE: Detecting In-distribution Contamination in LLM's Fine-tuning Phase for Math Reasoning**|Shangqing Tu et.al.|[2406.04197](http://arxiv.org/abs/2406.04197)|**[link](https://github.com/thu-keg/dice)**|
@@ -45,7 +45,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-12**|**Visualization of atomic structures on faceted and non-flat surfaces by difference-of-gaussians approach**|A. Yu. Aladyshkin et.al.|[2406.08436](http://arxiv.org/abs/2406.08436)|null|
-|**2024-06-12**|**Exploring the ultra-hot Jupiter WASP-178b. Constraints on atmospheric chemistry and dynamics from a joint retrieval of VLT/CRIRES $^+$ and space photometric data**|D. Cont et.al.|[2406.08166](http://arxiv.org/abs/2406.08166)|null|
+|**2024-06-13**|**Exploring the ultra-hot Jupiter WASP-178b. Constraints on atmospheric chemistry and dynamics from a joint retrieval of VLT/CRIRES $^+$ and space photometric data**|D. Cont et.al.|[2406.08166](http://arxiv.org/abs/2406.08166)|null|
 |**2024-06-12**|**Chemistry3D: Robotic Interaction Benchmark for Chemistry Experiments**|Shoujie Li et.al.|[2406.08160](http://arxiv.org/abs/2406.08160)|null|
 |**2024-06-12**|**Optimal control of quantum system in fermion fields: Pontryagin-type maximum principle(I)**|Penghui Wang et.al.|[2406.08153](http://arxiv.org/abs/2406.08153)|null|
 |**2024-06-12**|**Analytical evaluation of ground state gradients in quantum electrodynamics coupled cluster theory**|Marcus Takvam Lexander et.al.|[2406.08107](http://arxiv.org/abs/2406.08107)|null|
