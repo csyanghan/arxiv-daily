@@ -51,6 +51,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**MINDS. A multi-instrument investigation into the molecule-rich JWST-MIRI spectrum of the DF Tau binary system**|Sierra L. Grant et.al.|[2406.10217](http://arxiv.org/abs/2406.10217)|null|
+|**2024-06-14**|**Intepretative Deep Learning using Domain Adaptation for Fluorescence Spectroscopy**|Umberto Michelucci et.al.|[2406.10031](http://arxiv.org/abs/2406.10031)|null|
+|**2024-06-14**|**Learning Multi-view Molecular Representations with Structured and Unstructured Knowledge**|Yizhen Luo et.al.|[2406.09841](http://arxiv.org/abs/2406.09841)|**[link](https://github.com/pharmolix/openbiomed)**|
+|**2024-06-14**|**Efficient and Precise Force Field Optimization for Biomolecules Using DPA-2**|Junhan Chang et.al.|[2406.09817](http://arxiv.org/abs/2406.09817)|null|
+|**2024-06-14**|**Numerical Modeling of Transient Absorption in Hybrid Dual-Plasmonic Au/CuS Nanostructures**|Atefeh Habibpourmoghadam et.al.|[2406.09712](http://arxiv.org/abs/2406.09712)|null|
+|**2024-06-14**|**The inadequacy of the geometric features of MA islands in relating bainite microstructures to composition and processing conditions**|Vinod Kumar et.al.|[2406.09658](http://arxiv.org/abs/2406.09658)|null|
+|**2024-06-14**|**Phase-resolving the absorption signatures of water and carbon monoxide in the atmosphere of the ultra-hot Jupiter WASP-121b with GEMINI-S/IGRINS**|Joost P. Wardenier et.al.|[2406.09641](http://arxiv.org/abs/2406.09641)|null|
+|**2024-06-13**|**JWST/NIRCam 4-5 $μ$ m Imaging of the Giant Planet AF Lep b**|Kyle Franson et.al.|[2406.09528](http://arxiv.org/abs/2406.09528)|null|
 |**2024-06-13**|**Prospects for NMR Spectral Prediction on Fault-Tolerant Quantum Computers**|Justin E. Elenewski et.al.|[2406.09340](http://arxiv.org/abs/2406.09340)|null|
 |**2024-06-13**|**SySTeC: A Symmetric Sparse Tensor Compiler**|Radha Patel et.al.|[2406.09266](http://arxiv.org/abs/2406.09266)|null|
 |**2024-06-13**|**Solving the Synthetic Riddle of Colloidal 2D PbTe Nanoplatelets with Tunable Near-Infrared Emission**|Leon Biesterfeld et.al.|[2406.09223](http://arxiv.org/abs/2406.09223)|null|
