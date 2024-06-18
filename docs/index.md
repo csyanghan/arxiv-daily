@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**DELLA-Merging: Reducing Interference in Model Merging through Magnitude-Based Sampling**|Pala Tej Deep et.al.|[2406.11617](http://arxiv.org/abs/2406.11617)|**[link](https://github.com/declare-lab/della)**|
 |**2024-06-13**|**MiLoRA: Harnessing Minor Singular Components for Parameter-Efficient LLM Finetuning**|Hanqing Wang et.al.|[2406.09044](http://arxiv.org/abs/2406.09044)|null|
 |**2024-06-13**|**Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B**|Di Zhang et.al.|[2406.07394](http://arxiv.org/abs/2406.07394)|**[link](https://github.com/trotsky1997/mathblackbox)**|
 |**2024-06-05**|**Improve Mathematical Reasoning in Language Models by Automated Process Supervision**|Liangchen Luo et.al.|[2406.06592](http://arxiv.org/abs/2406.06592)|null|
@@ -45,6 +46,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**Non-unitary Coupled Cluster on Gate-based Quantum Computers**|Alexandre Fleury et.al.|[2406.11574](http://arxiv.org/abs/2406.11574)|null|
+|**2024-06-17**|**Quantum Algorithm for a Stochastic Multicloud Model**|Kazumasa Ueno et.al.|[2406.11350](http://arxiv.org/abs/2406.11350)|null|
+|**2024-06-17**|**Acceleration without Disruption: DFT Software as a Service**|Fusong Ju et.al.|[2406.11185](http://arxiv.org/abs/2406.11185)|null|
+|**2024-06-17**|**All-electron $BSE@GW$ method with Numeric Atom-Centered Orbitals for Extended Systems**|Ruiyi Zhou et.al.|[2406.11122](http://arxiv.org/abs/2406.11122)|null|
 |**2024-06-14**|**MINDS. A multi-instrument investigation into the molecule-rich JWST-MIRI spectrum of the DF Tau binary system**|Sierra L. Grant et.al.|[2406.10217](http://arxiv.org/abs/2406.10217)|null|
 |**2024-06-14**|**Intepretative Deep Learning using Domain Adaptation for Fluorescence Spectroscopy**|Umberto Michelucci et.al.|[2406.10031](http://arxiv.org/abs/2406.10031)|null|
 |**2024-06-14**|**Learning Multi-view Molecular Representations with Structured and Unstructured Knowledge**|Yizhen Luo et.al.|[2406.09841](http://arxiv.org/abs/2406.09841)|**[link](https://github.com/pharmolix/openbiomed)**|
