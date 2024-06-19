@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.18
+## Updated on 2024.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -46,13 +46,13 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240619>back to top</a>)</p>
 
 ## AI for Science
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-17**|**Non-unitary Coupled Cluster on Gate-based Quantum Computers**|Alexandre Fleury et.al.|[2406.11574](http://arxiv.org/abs/2406.11574)|null|
+|**2024-06-17**|**Non-unitary Coupled Cluster on Gate-based Quantum Computers**|Alexandre Fleury et.al.|[2406.11574](http://arxiv.org/abs/2406.11574)|**[link](https://github.com/goodchemistryco/Tangelo-Examples/blob/nuccsd_paper_notebook/examples/chemistry/nuccsd.ipynb)**|
 |**2024-06-17**|**Quantum Algorithm for a Stochastic Multicloud Model**|Kazumasa Ueno et.al.|[2406.11350](http://arxiv.org/abs/2406.11350)|null|
 |**2024-06-17**|**Acceleration without Disruption: DFT Software as a Service**|Fusong Ju et.al.|[2406.11185](http://arxiv.org/abs/2406.11185)|null|
 |**2024-06-17**|**All-electron $BSE@GW$ method with Numeric Atom-Centered Orbitals for Extended Systems**|Ruiyi Zhou et.al.|[2406.11122](http://arxiv.org/abs/2406.11122)|null|
@@ -160,7 +160,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240619>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

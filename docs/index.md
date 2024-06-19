@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.18
+## Updated on 2024.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -46,7 +46,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-17**|**Non-unitary Coupled Cluster on Gate-based Quantum Computers**|Alexandre Fleury et.al.|[2406.11574](http://arxiv.org/abs/2406.11574)|null|
+|**2024-06-17**|**Non-unitary Coupled Cluster on Gate-based Quantum Computers**|Alexandre Fleury et.al.|[2406.11574](http://arxiv.org/abs/2406.11574)|**[link](https://github.com/goodchemistryco/Tangelo-Examples/blob/nuccsd_paper_notebook/examples/chemistry/nuccsd.ipynb)**|
 |**2024-06-17**|**Quantum Algorithm for a Stochastic Multicloud Model**|Kazumasa Ueno et.al.|[2406.11350](http://arxiv.org/abs/2406.11350)|null|
 |**2024-06-17**|**Acceleration without Disruption: DFT Software as a Service**|Fusong Ju et.al.|[2406.11185](http://arxiv.org/abs/2406.11185)|null|
 |**2024-06-17**|**All-electron $BSE@GW$ method with Numeric Atom-Centered Orbitals for Extended Systems**|Ruiyi Zhou et.al.|[2406.11122](http://arxiv.org/abs/2406.11122)|null|
