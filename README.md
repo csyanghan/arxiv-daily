@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools**|Team GLM et.al.|[2406.12793](http://arxiv.org/abs/2406.12793)|null|
 |**2024-06-17**|**DELLA-Merging: Reducing Interference in Model Merging through Magnitude-Based Sampling**|Pala Tej Deep et.al.|[2406.11617](http://arxiv.org/abs/2406.11617)|**[link](https://github.com/declare-lab/della)**|
 |**2024-06-13**|**MiLoRA: Harnessing Minor Singular Components for Parameter-Efficient LLM Finetuning**|Hanqing Wang et.al.|[2406.09044](http://arxiv.org/abs/2406.09044)|null|
 |**2024-06-13**|**Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B**|Di Zhang et.al.|[2406.07394](http://arxiv.org/abs/2406.07394)|**[link](https://github.com/trotsky1997/mathblackbox)**|
@@ -52,6 +53,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**Modelling predicts a molecule-rich disk around the AGB star L2 Puppis**|M. Van de Sande et.al.|[2406.12768](http://arxiv.org/abs/2406.12768)|null|
+|**2024-06-18**|**Windows Into Other Worlds: Pitfalls in the physical interpretation of exoplanet atmospheric spectroscopy**|Darius Modirrousta-Galian et.al.|[2406.12765](http://arxiv.org/abs/2406.12765)|null|
+|**2024-06-18**|**Hybrid Quantum-Classical Algorithms**|Roberto Campos et.al.|[2406.12371](http://arxiv.org/abs/2406.12371)|null|
+|**2024-06-18**|**A Comparative Simulation Study of Hot and Ultra-hot Jupiter Atmospheres using Different Ground-based High-resolution Spectrographs with Cross-correlation Spectroscopy**|Dwaipayan Dubey et.al.|[2406.12240](http://arxiv.org/abs/2406.12240)|null|
+|**2024-06-17**|**4D Printing of Programmable Digital Metamaterials**|Ido Levin et.al.|[2406.12113](http://arxiv.org/abs/2406.12113)|null|
 |**2024-06-17**|**Non-unitary Coupled Cluster on Gate-based Quantum Computers**|Alexandre Fleury et.al.|[2406.11574](http://arxiv.org/abs/2406.11574)|**[link](https://github.com/goodchemistryco/Tangelo-Examples/blob/nuccsd_paper_notebook/examples/chemistry/nuccsd.ipynb)**|
 |**2024-06-17**|**Quantum Algorithm for a Stochastic Multicloud Model**|Kazumasa Ueno et.al.|[2406.11350](http://arxiv.org/abs/2406.11350)|null|
 |**2024-06-17**|**Acceleration without Disruption: DFT Software as a Service**|Fusong Ju et.al.|[2406.11185](http://arxiv.org/abs/2406.11185)|null|
