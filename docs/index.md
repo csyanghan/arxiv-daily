@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.19
+## Updated on 2024.06.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -52,7 +52,7 @@ layout: default
 |**2024-06-18**|**Hybrid Quantum-Classical Algorithms**|Roberto Campos et.al.|[2406.12371](http://arxiv.org/abs/2406.12371)|null|
 |**2024-06-18**|**A Comparative Simulation Study of Hot and Ultra-hot Jupiter Atmospheres using Different Ground-based High-resolution Spectrographs with Cross-correlation Spectroscopy**|Dwaipayan Dubey et.al.|[2406.12240](http://arxiv.org/abs/2406.12240)|null|
 |**2024-06-17**|**4D Printing of Programmable Digital Metamaterials**|Ido Levin et.al.|[2406.12113](http://arxiv.org/abs/2406.12113)|null|
-|**2024-06-17**|**Non-unitary Coupled Cluster on Gate-based Quantum Computers**|Alexandre Fleury et.al.|[2406.11574](http://arxiv.org/abs/2406.11574)|**[link](https://github.com/goodchemistryco/Tangelo-Examples/blob/nuccsd_paper_notebook/examples/chemistry/nuccsd.ipynb)**|
+|**2024-06-17**|**Non-unitary Coupled Cluster on Gate-based Quantum Computers**|Alexandre Fleury et.al.|[2406.11574](http://arxiv.org/abs/2406.11574)|**[link](https://github.com/goodchemistryco/Tangelo-Examples/blob/main/examples/chemistry/nuccsd.ipynb)**|
 |**2024-06-17**|**Quantum Algorithm for a Stochastic Multicloud Model**|Kazumasa Ueno et.al.|[2406.11350](http://arxiv.org/abs/2406.11350)|null|
 |**2024-06-17**|**Acceleration without Disruption: DFT Software as a Service**|Fusong Ju et.al.|[2406.11185](http://arxiv.org/abs/2406.11185)|null|
 |**2024-06-17**|**All-electron $BSE@GW$ method with Numeric Atom-Centered Orbitals for Extended Systems**|Ruiyi Zhou et.al.|[2406.11122](http://arxiv.org/abs/2406.11122)|null|
