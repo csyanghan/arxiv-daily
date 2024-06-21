@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold**|Amrith Setlur et.al.|[2406.14532](http://arxiv.org/abs/2406.14532)|null|
+|**2024-06-20**|**Q*: Improving Multi-step Reasoning for LLMs with Deliberative Planning**|Chaojie Wang et.al.|[2406.14283](http://arxiv.org/abs/2406.14283)|null|
+|**2024-06-20**|**The Reason behind Good or Bad: Towards a Better Mathematical Verifier with Natural Language Feedback**|Bofei Gao et.al.|[2406.14024](http://arxiv.org/abs/2406.14024)|null|
+|**2024-06-20**|**Inference-Time Decontamination: Reusing Leaked Benchmarks for Large Language Model Evaluation**|Qin Zhu et.al.|[2406.13990](http://arxiv.org/abs/2406.13990)|null|
+|**2024-06-19**|**Can LLMs Reason in the Wild with Programs?**|Yuan Yang et.al.|[2406.13764](http://arxiv.org/abs/2406.13764)|**[link](https://github.com/gblackout/reason-in-the-wild)**|
 |**2024-06-18**|**ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools**|Team GLM et.al.|[2406.12793](http://arxiv.org/abs/2406.12793)|null|
 |**2024-06-17**|**DELLA-Merging: Reducing Interference in Model Merging through Magnitude-Based Sampling**|Pala Tej Deep et.al.|[2406.11617](http://arxiv.org/abs/2406.11617)|**[link](https://github.com/declare-lab/della)**|
 |**2024-06-13**|**MiLoRA: Harnessing Minor Singular Components for Parameter-Efficient LLM Finetuning**|Hanqing Wang et.al.|[2406.09044](http://arxiv.org/abs/2406.09044)|null|
@@ -53,6 +58,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**Magnetic anisotropy of $4f$ atoms on a WSe$_2$ monolayer: a DFT+U study**|Johanna P. Carbone et.al.|[2406.14400](http://arxiv.org/abs/2406.14400)|null|
+|**2024-06-20**|**$\nabla^2$ DFT: A Universal Quantum Chemistry Dataset of Drug-Like Molecules and a Benchmark for Neural Network Potentials**|Kuzma Khrabrov et.al.|[2406.14347](http://arxiv.org/abs/2406.14347)|null|
+|**2024-06-20**|**Abundant hydrocarbons in the disk around a very-low-mass star**|A. M. Arabhavi et.al.|[2406.14293](http://arxiv.org/abs/2406.14293)|null|
+|**2024-06-20**|**A Survey of Methods for Mitigating Barren Plateaus for Parameterized Quantum Circuits**|Michelle Gelman et.al.|[2406.14285](http://arxiv.org/abs/2406.14285)|null|
+|**2024-06-20**|**Compact fermionic quantum state preparation with a natural-orbitalizing variational quantum eigensolving scheme**|Pauline Besserve et.al.|[2406.14170](http://arxiv.org/abs/2406.14170)|null|
+|**2024-06-20**|**CheMFi: A Multifidelity Dataset of Quantum Chemical Properties of Diverse Molecules**|Vivin Vinod et.al.|[2406.14149](http://arxiv.org/abs/2406.14149)|null|
+|**2024-06-20**|**IGRINS observations of WASP-127 b: H $_2$ O, CO, and super-Solar atmospheric metallicity in the inflated sub-Saturn**|Krishna Kanumalla et.al.|[2406.14072](http://arxiv.org/abs/2406.14072)|null|
+|**2024-06-20**|**Topological Solitons in Square-root Graphene Nanoribbons Controlled by Electric Fields**|Haiyue Huang et.al.|[2406.13978](http://arxiv.org/abs/2406.13978)|null|
+|**2024-06-20**|**MR-BEN: A Comprehensive Meta-Reasoning Benchmark for Large Language Models**|Zhongshen Zeng et.al.|[2406.13975](http://arxiv.org/abs/2406.13975)|null|
+|**2024-06-19**|**Quantum simulation for strongly interacting fermions with neutral atoms array: towards the simulation of materials of interest**|Antoine Michel et.al.|[2406.13343](http://arxiv.org/abs/2406.13343)|null|
 |**2024-06-18**|**Modelling predicts a molecule-rich disk around the AGB star L2 Puppis**|M. Van de Sande et.al.|[2406.12768](http://arxiv.org/abs/2406.12768)|null|
 |**2024-06-18**|**Windows Into Other Worlds: Pitfalls in the physical interpretation of exoplanet atmospheric spectroscopy**|Darius Modirrousta-Galian et.al.|[2406.12765](http://arxiv.org/abs/2406.12765)|null|
 |**2024-06-18**|**Hybrid Quantum-Classical Algorithms**|Roberto Campos et.al.|[2406.12371](http://arxiv.org/abs/2406.12371)|null|
