@@ -58,6 +58,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**Tailored topotactic chemistry unlocks heterostructures of magnetic intercalation compounds**|Samra Husremović et.al.|[2406.15261](http://arxiv.org/abs/2406.15261)|null|
+|**2024-06-21**|**Ab initio modeling of superconducting alloys**|Pedro N. Ferreira et.al.|[2406.15174](http://arxiv.org/abs/2406.15174)|null|
+|**2024-06-21**|**Enhancing Irradiation Resistance in Refractory Medium Entropy Alloys with Simplified Chemistry**|M. A. Tunes et.al.|[2406.15022](http://arxiv.org/abs/2406.15022)|null|
+|**2024-06-21**|**O -Acetylated sugars in the gas phase: stability, migration, positional isomers and conformation**|Oznur Yeni et.al.|[2406.14937](http://arxiv.org/abs/2406.14937)|null|
+|**2024-06-20**|**Structural chirality and related properties in the periodic inorganic solids: Review and perspectives**|Eric Bousquet et.al.|[2406.14684](http://arxiv.org/abs/2406.14684)|null|
+|**2024-06-20**|**Bayesian Optimization Priors for Efficient Variational Quantum Algorithms**|Farshud Sorourifar et.al.|[2406.14627](http://arxiv.org/abs/2406.14627)|null|
+|**2024-06-20**|**Quantum Extreme Learning of molecular potential energy surfaces and force fields**|Gabriele Lo Monaco et.al.|[2406.14607](http://arxiv.org/abs/2406.14607)|null|
 |**2024-06-20**|**Magnetic anisotropy of $4f$ atoms on a WSe$_2$ monolayer: a DFT+U study**|Johanna P. Carbone et.al.|[2406.14400](http://arxiv.org/abs/2406.14400)|null|
 |**2024-06-20**|**$\nabla^2$ DFT: A Universal Quantum Chemistry Dataset of Drug-Like Molecules and a Benchmark for Neural Network Potentials**|Kuzma Khrabrov et.al.|[2406.14347](http://arxiv.org/abs/2406.14347)|null|
 |**2024-06-20**|**Abundant hydrocarbons in the disk around a very-low-mass star**|A. M. Arabhavi et.al.|[2406.14293](http://arxiv.org/abs/2406.14293)|null|
