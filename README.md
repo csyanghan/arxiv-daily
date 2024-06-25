@@ -18,10 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-23**|**PORT: Preference Optimization on Reasoning Traces**|Salem Lahlou et.al.|[2406.16061](http://arxiv.org/abs/2406.16061)|null|
 |**2024-06-20**|**RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold**|Amrith Setlur et.al.|[2406.14532](http://arxiv.org/abs/2406.14532)|**[link](https://github.com/ars22/scaling-LLM-math-synthetic-data)**|
-|**2024-06-20**|**Q*: Improving Multi-step Reasoning for LLMs with Deliberative Planning**|Chaojie Wang et.al.|[2406.14283](http://arxiv.org/abs/2406.14283)|null|
+|**2024-06-24**|**Q*: Improving Multi-step Reasoning for LLMs with Deliberative Planning**|Chaojie Wang et.al.|[2406.14283](http://arxiv.org/abs/2406.14283)|null|
 |**2024-06-20**|**The Reason behind Good or Bad: Towards a Better Mathematical Verifier with Natural Language Feedback**|Bofei Gao et.al.|[2406.14024](http://arxiv.org/abs/2406.14024)|null|
-|**2024-06-20**|**Inference-Time Decontamination: Reusing Leaked Benchmarks for Large Language Model Evaluation**|Qin Zhu et.al.|[2406.13990](http://arxiv.org/abs/2406.13990)|**[link](https://github.com/8188zq/Inference-Time-Decontamination)**|
+|**2024-06-23**|**Inference-Time Decontamination: Reusing Leaked Benchmarks for Large Language Model Evaluation**|Qin Zhu et.al.|[2406.13990](http://arxiv.org/abs/2406.13990)|**[link](https://github.com/8188zq/Inference-Time-Decontamination)**|
 |**2024-06-19**|**Can LLMs Reason in the Wild with Programs?**|Yuan Yang et.al.|[2406.13764](http://arxiv.org/abs/2406.13764)|**[link](https://github.com/gblackout/reason-in-the-wild)**|
 |**2024-06-18**|**ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools**|Team GLM et.al.|[2406.12793](http://arxiv.org/abs/2406.12793)|null|
 |**2024-06-17**|**DELLA-Merging: Reducing Interference in Model Merging through Magnitude-Based Sampling**|Pala Tej Deep et.al.|[2406.11617](http://arxiv.org/abs/2406.11617)|**[link](https://github.com/declare-lab/della)**|
@@ -58,6 +59,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**OlympicArena Medal Ranks: Who Is the Most Intelligent AI So Far?**|Zhen Huang et.al.|[2406.16772](http://arxiv.org/abs/2406.16772)|**[link](https://github.com/gair-nlp/olympicarena)**|
+|**2024-06-24**|**OQuPy: A Python package to efficiently simulate non-Markovian open quantum systems with process tensors**|Gerald E. Fux et.al.|[2406.16650](http://arxiv.org/abs/2406.16650)|null|
+|**2024-06-24**|**PRODIGE -- Planet-forming disks in Taurus with NOEMA**|R. Franceschi et.al.|[2406.16498](http://arxiv.org/abs/2406.16498)|null|
+|**2024-06-24**|**A versatile and transportable endstation for controlled molecule experiments**|Wuwei Jin et.al.|[2406.16491](http://arxiv.org/abs/2406.16491)|null|
+|**2024-06-23**|**Improved Modularity and New Features in ipie: Towards Even Larger AFQMC Calculations on CPUs and GPUs at Zero and Finite Temperatures**|Tong Jiang et.al.|[2406.16238](http://arxiv.org/abs/2406.16238)|null|
+|**2024-06-23**|**From Text to Test: AI-Generated Control Software for Materials Science Instruments**|Davi M Fébba et.al.|[2406.16224](http://arxiv.org/abs/2406.16224)|null|
+|**2024-06-23**|**Automating Variational Differentiation**|Kangbo Li et.al.|[2406.16154](http://arxiv.org/abs/2406.16154)|null|
+|**2024-06-23**|**Interior convection regime, host star luminosity, and predicted atmospheric CO $_2$ abundance in terrestrial exoplanets**|Antonin Affholder et.al.|[2406.16104](http://arxiv.org/abs/2406.16104)|null|
+|**2024-06-22**|**Decoupling Many-Body Interactions in CeO2 (111) Oxygen Vacancy Structure: Insights from Machine-Learning and Cluster Expansion**|Yujing Zhang et.al.|[2406.15956](http://arxiv.org/abs/2406.15956)|null|
+|**2024-06-22**|**Clapton: Clifford-Assisted Problem Transformation for Error Mitigation in Variational Quantum Algorithms**|Lennart Maximilian Seifert et.al.|[2406.15721](http://arxiv.org/abs/2406.15721)|null|
 |**2024-06-21**|**Tailored topotactic chemistry unlocks heterostructures of magnetic intercalation compounds**|Samra Husremović et.al.|[2406.15261](http://arxiv.org/abs/2406.15261)|null|
 |**2024-06-21**|**Ab initio modeling of superconducting alloys**|Pedro N. Ferreira et.al.|[2406.15174](http://arxiv.org/abs/2406.15174)|null|
 |**2024-06-21**|**Enhancing Irradiation Resistance in Refractory Medium Entropy Alloys with Simplified Chemistry**|M. A. Tunes et.al.|[2406.15022](http://arxiv.org/abs/2406.15022)|null|
