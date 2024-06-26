@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**VarBench: Robust Language Model Benchmarking Through Dynamic Variable Perturbation**|Kun Qian et.al.|[2406.17681](http://arxiv.org/abs/2406.17681)|null|
 |**2024-06-23**|**PORT: Preference Optimization on Reasoning Traces**|Salem Lahlou et.al.|[2406.16061](http://arxiv.org/abs/2406.16061)|null|
 |**2024-06-20**|**RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold**|Amrith Setlur et.al.|[2406.14532](http://arxiv.org/abs/2406.14532)|**[link](https://github.com/ars22/scaling-LLM-math-synthetic-data)**|
 |**2024-06-24**|**Q*: Improving Multi-step Reasoning for LLMs with Deliberative Planning**|Chaojie Wang et.al.|[2406.14283](http://arxiv.org/abs/2406.14283)|null|
@@ -59,6 +60,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**Flux and fluence effects on the Vacuum-UV photodesorption and photoprocessing of CO $_2$ ices**|Antoine B. Hacquard et.al.|[2406.17596](http://arxiv.org/abs/2406.17596)|null|
+|**2024-06-25**|**Evaluating and improving the predictive accuracy of mixing enthalpies and volumes in disordered alloys from universal pre-trained machine learning potentials**|Luis Casillas-Trujillo et.al.|[2406.17499](http://arxiv.org/abs/2406.17499)|null|
+|**2024-06-25**|**Synthesis pathways to thin films of stable layered nitrides**|Andriy Zakutayev et.al.|[2406.17492](http://arxiv.org/abs/2406.17492)|null|
+|**2024-06-25**|**Chemical Evolution of Complex Organic Molecules in Turbulent Protoplanetary Disks: Effect of stochastic UV irradiation**|Taiki Suzuki et.al.|[2406.17367](http://arxiv.org/abs/2406.17367)|null|
+|**2024-06-25**|**Exact controllability to eigensolutions of the heat equation via bilinear controls on two-dimensional domains**|Rémi Buffe et.al.|[2406.17348](http://arxiv.org/abs/2406.17348)|null|
+|**2024-06-25**|**One-step synthesis of Cu-doped Pb $_{10}$(PO$_{4}$)$_{6}$Cl$_{2}$ apatite: A wide-gap semiconductor**|W. Z. Yang et.al.|[2406.17239](http://arxiv.org/abs/2406.17239)|null|
+|**2024-06-25**|**Extending the Operational Lifetime of Nucleic Acid-Based Electrochemical Sensors via Protection Against Competitive Displacement of Oligonucleotides**|Vincent Clark et.al.|[2406.17208](http://arxiv.org/abs/2406.17208)|null|
+|**2024-06-24**|**Unraveling Abnormal Collective Effects via the Non-Monotonic Number Dependence of Electron Transfer in Confined Electromagnetic Fields**|Shravan Kumar Sharma et.al.|[2406.17101](http://arxiv.org/abs/2406.17101)|null|
 |**2024-06-24**|**OlympicArena Medal Ranks: Who Is the Most Intelligent AI So Far?**|Zhen Huang et.al.|[2406.16772](http://arxiv.org/abs/2406.16772)|**[link](https://github.com/gair-nlp/olympicarena)**|
 |**2024-06-24**|**OQuPy: A Python package to efficiently simulate non-Markovian open quantum systems with process tensors**|Gerald E. Fux et.al.|[2406.16650](http://arxiv.org/abs/2406.16650)|null|
 |**2024-06-24**|**PRODIGE -- Planet-forming disks in Taurus with NOEMA**|R. Franceschi et.al.|[2406.16498](http://arxiv.org/abs/2406.16498)|null|
