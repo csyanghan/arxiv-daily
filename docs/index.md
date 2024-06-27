@@ -14,7 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-25**|**VarBench: Robust Language Model Benchmarking Through Dynamic Variable Perturbation**|Kun Qian et.al.|[2406.17681](http://arxiv.org/abs/2406.17681)|null|
+|**2024-06-26**|**VarBench: Robust Language Model Benchmarking Through Dynamic Variable Perturbation**|Kun Qian et.al.|[2406.17681](http://arxiv.org/abs/2406.17681)|**[link](https://github.com/qbetterk/VarBench)**|
 |**2024-06-23**|**PORT: Preference Optimization on Reasoning Traces**|Salem Lahlou et.al.|[2406.16061](http://arxiv.org/abs/2406.16061)|null|
 |**2024-06-20**|**RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold**|Amrith Setlur et.al.|[2406.14532](http://arxiv.org/abs/2406.14532)|**[link](https://github.com/ars22/scaling-LLM-math-synthetic-data)**|
 |**2024-06-24**|**Q*: Improving Multi-step Reasoning for LLMs with Deliberative Planning**|Chaojie Wang et.al.|[2406.14283](http://arxiv.org/abs/2406.14283)|null|
@@ -54,6 +54,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation**|Shenghai Yuan et.al.|[2406.18522](http://arxiv.org/abs/2406.18522)|null|
+|**2024-06-26**|**Green/WeakCoupling: Implementation of fully self-consistent finite-temperature many-body perturbation theory for molecules and solids**|Sergei Iskakov et.al.|[2406.18479](http://arxiv.org/abs/2406.18479)|null|
+|**2024-06-26**|**Longitudinal chiral forces in photonic integrated waveguides to separate particles with realistically small chirality**|Josep Martínez-Romeu et.al.|[2406.18405](http://arxiv.org/abs/2406.18405)|null|
+|**2024-06-26**|**Cavity-modified electronic interactions in molecular ensembles under vibrational strong coupling: Combined insights from cavity Born-Oppenheimer perturbation theory and ab initio wave function theory**|Eric W. Fischer et.al.|[2406.18355](http://arxiv.org/abs/2406.18355)|null|
+|**2024-06-26**|**A Pre-trained Deep Potential Model for Sulfide Solid Electrolytes with Broad Coverage and High Accuracy**|Ruoyu Wang et.al.|[2406.18263](http://arxiv.org/abs/2406.18263)|null|
+|**2024-06-26**|**Near-limit H $_2$-O$_2$-N$_2$ combustion in nonpremixed counterflow mixing layers**|Jaime Carpio et.al.|[2406.18232](http://arxiv.org/abs/2406.18232)|null|
+|**2024-06-26**|**Similarity-Based Analysis of Atmospheric Organic Compounds for Machine Learning Applications**|Hilda Sandström et.al.|[2406.18171](http://arxiv.org/abs/2406.18171)|null|
+|**2024-06-26**|**Graphical Conditions ensuring Equality between Differential and Mean Stochastic Dynamics**|Hugo Buscemi et.al.|[2406.18126](http://arxiv.org/abs/2406.18126)|null|
+|**2024-06-26**|**PharmGPT: Domain-Specific Large Language Models for Bio-Pharmaceutical and Chemistry**|Linqing Chen et.al.|[2406.18045](http://arxiv.org/abs/2406.18045)|null|
 |**2024-06-25**|**Flux and fluence effects on the Vacuum-UV photodesorption and photoprocessing of CO $_2$ ices**|Antoine B. Hacquard et.al.|[2406.17596](http://arxiv.org/abs/2406.17596)|null|
 |**2024-06-25**|**Evaluating and improving the predictive accuracy of mixing enthalpies and volumes in disordered alloys from universal pre-trained machine learning potentials**|Luis Casillas-Trujillo et.al.|[2406.17499](http://arxiv.org/abs/2406.17499)|null|
 |**2024-06-25**|**Synthesis pathways to thin films of stable layered nitrides**|Andriy Zakutayev et.al.|[2406.17492](http://arxiv.org/abs/2406.17492)|null|
