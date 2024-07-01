@@ -61,6 +61,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**Topological ferroelectric chirality**|Igor Luk'yanchuk et.al.|[2406.19728](http://arxiv.org/abs/2406.19728)|null|
 |**2024-06-27**|**Silver-enriched Microdomain Patterns as Advanced Bactericidal Coatings for Polymer-based Medical Devices**|Jana Pryjmakova et.al.|[2406.19099](http://arxiv.org/abs/2406.19099)|null|
 |**2024-06-27**|**Ultrastrongly-coupled magnetochiral magnon-polaritons in metamaterials**|Kentaro Mita et.al.|[2406.19046](http://arxiv.org/abs/2406.19046)|null|
 |**2024-06-26**|**Exploring the Complex Ionization Environment of the Turbulent DM Tau Disk**|Deryl E. Long et.al.|[2406.18657](http://arxiv.org/abs/2406.18657)|null|
