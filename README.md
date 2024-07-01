@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -55,7 +55,7 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240701>back to top</a>)</p>
 
 ## AI for Science
 
@@ -64,12 +64,12 @@
 |**2024-06-27**|**Silver-enriched Microdomain Patterns as Advanced Bactericidal Coatings for Polymer-based Medical Devices**|Jana Pryjmakova et.al.|[2406.19099](http://arxiv.org/abs/2406.19099)|null|
 |**2024-06-27**|**Ultrastrongly-coupled magnetochiral magnon-polaritons in metamaterials**|Kentaro Mita et.al.|[2406.19046](http://arxiv.org/abs/2406.19046)|null|
 |**2024-06-26**|**Exploring the Complex Ionization Environment of the Turbulent DM Tau Disk**|Deryl E. Long et.al.|[2406.18657](http://arxiv.org/abs/2406.18657)|null|
-|**2024-06-26**|**ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation**|Shenghai Yuan et.al.|[2406.18522](http://arxiv.org/abs/2406.18522)|**[link](https://github.com/pku-yuangroup/chronomagic-bench)**|
+|**2024-06-26**|**ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation**|Shenghai Yuan et.al.|[2406.18522](http://arxiv.org/abs/2406.18522)|**[link](https://github.com/pku-yuangroup/magictime)**|
 |**2024-06-26**|**Green/WeakCoupling: Implementation of fully self-consistent finite-temperature many-body perturbation theory for molecules and solids**|Sergei Iskakov et.al.|[2406.18479](http://arxiv.org/abs/2406.18479)|null|
 |**2024-06-26**|**Longitudinal chiral forces in photonic integrated waveguides to separate particles with realistically small chirality**|Josep Martínez-Romeu et.al.|[2406.18405](http://arxiv.org/abs/2406.18405)|null|
 |**2024-06-26**|**Cavity-modified electronic interactions in molecular ensembles under vibrational strong coupling: Combined insights from cavity Born-Oppenheimer perturbation theory and ab initio wave function theory**|Eric W. Fischer et.al.|[2406.18355](http://arxiv.org/abs/2406.18355)|null|
 |**2024-06-26**|**A Pre-trained Deep Potential Model for Sulfide Solid Electrolytes with Broad Coverage and High Accuracy**|Ruoyu Wang et.al.|[2406.18263](http://arxiv.org/abs/2406.18263)|null|
-|**2024-06-26**|**Near-limit H $_2$-O$_2$-N$_2$ combustion in nonpremixed counterflow mixing layers**|Jaime Carpio et.al.|[2406.18232](http://arxiv.org/abs/2406.18232)|null|
+|**2024-06-27**|**Near-limit H $_2$-O$_2$-N$_2$ combustion in nonpremixed counterflow mixing layers**|Jaime Carpio et.al.|[2406.18232](http://arxiv.org/abs/2406.18232)|null|
 |**2024-06-26**|**Similarity-Based Analysis of Atmospheric Organic Compounds for Machine Learning Applications**|Hilda Sandström et.al.|[2406.18171](http://arxiv.org/abs/2406.18171)|null|
 |**2024-06-26**|**Graphical Conditions ensuring Equality between Differential and Mean Stochastic Dynamics**|Hugo Buscemi et.al.|[2406.18126](http://arxiv.org/abs/2406.18126)|null|
 |**2024-06-26**|**PharmGPT: Domain-Specific Large Language Models for Bio-Pharmaceutical and Chemistry**|Linqing Chen et.al.|[2406.18045](http://arxiv.org/abs/2406.18045)|null|
@@ -221,7 +221,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240701>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
