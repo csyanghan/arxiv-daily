@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-01**|**Min P Sampling: Balancing Creativity and Coherence at High Temperature**|Minh Nguyen et.al.|[2407.01082](http://arxiv.org/abs/2407.01082)|null|
+|**2024-07-02**|**Step-Controlled DPO: Leveraging Stepwise Error for Enhanced Mathematical Reasoning**|Zimu Lu et.al.|[2407.00782](http://arxiv.org/abs/2407.00782)|null|
+|**2024-06-29**|**Advancing Process Verification for Large Language Models via Tree-Based Preference Learning**|Mingqian He et.al.|[2407.00390](http://arxiv.org/abs/2407.00390)|null|
+|**2024-06-29**|**LiteSearch: Efficacious Tree Search for LLM**|Ante Wang et.al.|[2407.00320](http://arxiv.org/abs/2407.00320)|null|
 |**2024-06-26**|**Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of LLMs**|Xin Lai et.al.|[2406.18629](http://arxiv.org/abs/2406.18629)|**[link](https://github.com/dvlab-research/step-dpo)**|
 |**2024-06-26**|**VarBench: Robust Language Model Benchmarking Through Dynamic Variable Perturbation**|Kun Qian et.al.|[2406.17681](http://arxiv.org/abs/2406.17681)|**[link](https://github.com/qbetterk/VarBench)**|
 |**2024-06-23**|**PORT: Preference Optimization on Reasoning Traces**|Salem Lahlou et.al.|[2406.16061](http://arxiv.org/abs/2406.16061)|null|
@@ -61,6 +65,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-02**|**Asymmetries in the simulated ozone distribution on TRAPPIST-1e due to orography**|Anand Bhongade et.al.|[2407.02444](http://arxiv.org/abs/2407.02444)|null|
+|**2024-07-02**|**Hypersonic Boundary Layer Transition and Heat Loading**|Ahmad Peyvan et.al.|[2407.02311](http://arxiv.org/abs/2407.02311)|null|
+|**2024-07-02**|**Turbulent Diffuse Molecular Media with Non-ideal Magnetohydrodynamics and Consistent Thermochemistry: Numerical Simulations and Dynamic Characteristics**|Nannan Yue et.al.|[2407.02306](http://arxiv.org/abs/2407.02306)|null|
+|**2024-07-02**|**On the Expressive Power of Sparse Geometric MPNNs**|Yonatan Sverdlov et.al.|[2407.02025](http://arxiv.org/abs/2407.02025)|null|
+|**2024-07-01**|**Column and row subset selection using nuclear scores: algorithms and theory for Nyström approximation, CUR decomposition, and graph Laplacian reduction**|Mark Fornace et.al.|[2407.01698](http://arxiv.org/abs/2407.01698)|null|
+|**2024-07-01**|**Investigating the ultraviolet and infrared radiation through the turbulent life of molecular clouds**|Fabio Di Mascia et.al.|[2407.01662](http://arxiv.org/abs/2407.01662)|null|
+|**2024-07-01**|**Machine learning models for atom-diatom reactions across isotopologues**|Daniel Julian et.al.|[2407.01485](http://arxiv.org/abs/2407.01485)|null|
+|**2024-07-02**|**How Land-Mass Distribution Influences the Atmospheric Dynamics of Tidally Locked Terrestrial Exoplanets**|F. Sainsbury-Martinez et.al.|[2407.01480](http://arxiv.org/abs/2407.01480)|null|
+|**2024-07-01**|**Polaritonic Chemistry using the Density Matrix Renormalization Group Method**|Mikuláš Matoušek et.al.|[2407.01381](http://arxiv.org/abs/2407.01381)|null|
+|**2024-07-01**|**Creation, Control, and Modeling of NV Centers in Nanodiamonds**|Pietro Aprà et.al.|[2407.01362](http://arxiv.org/abs/2407.01362)|null|
 |**2024-06-28**|**Topological ferroelectric chirality**|Igor Luk'yanchuk et.al.|[2406.19728](http://arxiv.org/abs/2406.19728)|null|
 |**2024-06-28**|**Silver-enriched Microdomain Patterns as Advanced Bactericidal Coatings for Polymer-based Medical Devices**|Jana Pryjmakova et.al.|[2406.19099](http://arxiv.org/abs/2406.19099)|null|
 |**2024-06-27**|**Ultrastrongly-coupled magnetochiral magnon-polaritons in metamaterials**|Kentaro Mita et.al.|[2406.19046](http://arxiv.org/abs/2406.19046)|null|
