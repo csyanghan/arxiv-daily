@@ -59,6 +59,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**Beating Grover search for low-energy estimation and state preparation**|Harry Buhrman et.al.|[2407.03073](http://arxiv.org/abs/2407.03073)|null|
+|**2024-07-03**|**Visible, Near-, and Mid-infrared Computational Spectrometer Enabled by Single-Spinning Film Encoder**|Junren Wen et.al.|[2407.03053](http://arxiv.org/abs/2407.03053)|null|
+|**2024-07-02**|**Your Clean Graphene is Still Not Clean**|Ondrej Dyck et.al.|[2407.02642](http://arxiv.org/abs/2407.02642)|null|
+|**2024-07-02**|**Open quantum dynamics with variational non-Gaussian states and the truncated Wigner approximation**|Liam J. Bond et.al.|[2407.02617](http://arxiv.org/abs/2407.02617)|null|
 |**2024-07-02**|**Asymmetries in the simulated ozone distribution on TRAPPIST-1e due to orography**|Anand Bhongade et.al.|[2407.02444](http://arxiv.org/abs/2407.02444)|null|
 |**2024-07-02**|**Hypersonic Boundary Layer Transition and Heat Loading**|Ahmad Peyvan et.al.|[2407.02311](http://arxiv.org/abs/2407.02311)|null|
 |**2024-07-02**|**Turbulent Diffuse Molecular Media with Non-ideal Magnetohydrodynamics and Consistent Thermochemistry: Numerical Simulations and Dynamic Characteristics**|Nannan Yue et.al.|[2407.02306](http://arxiv.org/abs/2407.02306)|null|
