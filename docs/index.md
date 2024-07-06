@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-01**|**Min P Sampling: Balancing Creativity and Coherence at High Temperature**|Minh Nguyen et.al.|[2407.01082](http://arxiv.org/abs/2407.01082)|null|
-|**2024-07-02**|**Step-Controlled DPO: Leveraging Stepwise Error for Enhanced Mathematical Reasoning**|Zimu Lu et.al.|[2407.00782](http://arxiv.org/abs/2407.00782)|null|
+|**2024-07-02**|**Step-Controlled DPO: Leveraging Stepwise Error for Enhanced Mathematical Reasoning**|Zimu Lu et.al.|[2407.00782](http://arxiv.org/abs/2407.00782)|**[link](https://github.com/mathllm/Step-Controlled_DPO)**|
 |**2024-06-29**|**Advancing Process Verification for Large Language Models via Tree-Based Preference Learning**|Mingqian He et.al.|[2407.00390](http://arxiv.org/abs/2407.00390)|null|
 |**2024-06-29**|**LiteSearch: Efficacious Tree Search for LLM**|Ante Wang et.al.|[2407.00320](http://arxiv.org/abs/2407.00320)|null|
 |**2024-06-26**|**Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of LLMs**|Xin Lai et.al.|[2406.18629](http://arxiv.org/abs/2406.18629)|**[link](https://github.com/dvlab-research/step-dpo)**|
@@ -67,7 +67,7 @@ layout: default
 |**2024-07-02**|**Hypersonic Boundary Layer Transition and Heat Loading**|Ahmad Peyvan et.al.|[2407.02311](http://arxiv.org/abs/2407.02311)|null|
 |**2024-07-02**|**Turbulent Diffuse Molecular Media with Non-ideal Magnetohydrodynamics and Consistent Thermochemistry: Numerical Simulations and Dynamic Characteristics**|Nannan Yue et.al.|[2407.02306](http://arxiv.org/abs/2407.02306)|null|
 |**2024-07-02**|**On the Expressive Power of Sparse Geometric MPNNs**|Yonatan Sverdlov et.al.|[2407.02025](http://arxiv.org/abs/2407.02025)|null|
-|**2024-07-01**|**Column and row subset selection using nuclear scores: algorithms and theory for Nyström approximation, CUR decomposition, and graph Laplacian reduction**|Mark Fornace et.al.|[2407.01698](http://arxiv.org/abs/2407.01698)|null|
+|**2024-07-01**|**Column and row subset selection using nuclear scores: algorithms and theory for Nyström approximation, CUR decomposition, and graph Laplacian reduction**|Mark Fornace et.al.|[2407.01698](http://arxiv.org/abs/2407.01698)|**[link](https://github.com/mfornace/nuclear-score-maximization)**|
 |**2024-07-01**|**Investigating the ultraviolet and infrared radiation through the turbulent life of molecular clouds**|Fabio Di Mascia et.al.|[2407.01662](http://arxiv.org/abs/2407.01662)|null|
 |**2024-07-01**|**Machine learning models for atom-diatom reactions across isotopologues**|Daniel Julian et.al.|[2407.01485](http://arxiv.org/abs/2407.01485)|null|
 |**2024-07-02**|**How Land-Mass Distribution Influences the Atmospheric Dynamics of Tidally Locked Terrestrial Exoplanets**|F. Sainsbury-Martinez et.al.|[2407.01480](http://arxiv.org/abs/2407.01480)|null|
