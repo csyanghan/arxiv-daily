@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-04**|**DotaMath: Decomposition of Thought with Code Assistance and Self-correction for Mathematical Reasoning**|Chengpeng Li et.al.|[2407.04078](http://arxiv.org/abs/2407.04078)|**[link](https://github.com/chengpengli1003/dotamath)**|
+|**2024-07-04**|**Question-Analysis Prompting Improves LLM Performance in Reasoning Tasks**|Dharunish Yugeswardeenoo et.al.|[2407.03624](http://arxiv.org/abs/2407.03624)|null|
+|**2024-07-03**|**AgentInstruct: Toward Generative Teaching with Agentic Flows**|Arindam Mitra et.al.|[2407.03502](http://arxiv.org/abs/2407.03502)|null|
 |**2024-07-01**|**Min P Sampling: Balancing Creativity and Coherence at High Temperature**|Minh Nguyen et.al.|[2407.01082](http://arxiv.org/abs/2407.01082)|null|
 |**2024-07-02**|**Step-Controlled DPO: Leveraging Stepwise Error for Enhanced Mathematical Reasoning**|Zimu Lu et.al.|[2407.00782](http://arxiv.org/abs/2407.00782)|**[link](https://github.com/mathllm/Step-Controlled_DPO)**|
 |**2024-06-29**|**Advancing Process Verification for Large Language Models via Tree-Based Preference Learning**|Mingqian He et.al.|[2407.00390](http://arxiv.org/abs/2407.00390)|null|
@@ -65,6 +68,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**Decoupling NO production and UV emission intensity over the E-H mode transition in a low-pressure inductively coupled plasma device**|Lars Schücke et.al.|[2407.04441](http://arxiv.org/abs/2407.04441)|null|
+|**2024-07-05**|**Efficient simulation of quantum chemistry problems in an enlarged basis set**|Maxine Luo et.al.|[2407.04432](http://arxiv.org/abs/2407.04432)|null|
+|**2024-07-05**|**Oscillatory Bias Dependence of Visible Height of Monatomic Pb(111) Steps: Consequence of Quantum-Size Effect for Thin Metallic Films**|A. Yu. Aladyshkin et.al.|[2407.04299](http://arxiv.org/abs/2407.04299)|null|
+|**2024-07-05**|**A Unified Intracellular pH Landscape with SITE-pHorin: a Quantum-Entanglement-Enhanced pH Probe**|Shu-Ang Li et.al.|[2407.04232](http://arxiv.org/abs/2407.04232)|null|
+|**2024-07-04**|**Force-Matching Based Polarizable and Non-Polarizable Force Fields for Perovskite and Non-Perovskite Phases of CsPbI $_3$**|C. Vona et.al.|[2407.03874](http://arxiv.org/abs/2407.03874)|null|
+|**2024-07-04**|**Parameterizing Intersecting Surfaces via Invariants**|Timon S. Gutleb et.al.|[2407.03731](http://arxiv.org/abs/2407.03731)|null|
+|**2024-07-03**|**Planet Formation and Disk Chemistry: Dust and Gas Evolution during Planet Formation**|G. Perotti et.al.|[2407.03520](http://arxiv.org/abs/2407.03520)|null|
+|**2024-07-03**|**Factorized Quadruples and a Predictor of Higher-Level Correlation in Thermochemistry**|James H. Thorpe et.al.|[2407.03519](http://arxiv.org/abs/2407.03519)|null|
+|**2024-07-03**|**In-Depth Exploration of Catalytic Sites on Amorphous Solid Water: I. The Astrosynthesis of Aminomethanol**|Giulia M. Bovolenta et.al.|[2407.03493](http://arxiv.org/abs/2407.03493)|null|
+|**2024-07-03**|**2500 vibronic eigenstates of the NO $_3$ radical**|Henrik R. Larsson et.al.|[2407.03398](http://arxiv.org/abs/2407.03398)|null|
 |**2024-07-03**|**Beating Grover search for low-energy estimation and state preparation**|Harry Buhrman et.al.|[2407.03073](http://arxiv.org/abs/2407.03073)|null|
 |**2024-07-03**|**Visible, Near-, and Mid-infrared Computational Spectrometer Enabled by Single-Spinning Film Encoder**|Junren Wen et.al.|[2407.03053](http://arxiv.org/abs/2407.03053)|null|
 |**2024-07-02**|**Your Clean Graphene is Still Not Clean**|Ondrej Dyck et.al.|[2407.02642](http://arxiv.org/abs/2407.02642)|null|
