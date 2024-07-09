@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**When is the consistent prediction likely to be a correct prediction?**|Alex Nguyen et.al.|[2407.05778](http://arxiv.org/abs/2407.05778)|null|
+|**2024-07-06**|**LoRA-GA: Low-Rank Adaptation with Gradient Approximation**|Shaowen Wang et.al.|[2407.05000](http://arxiv.org/abs/2407.05000)|**[link](https://github.com/outsider565/lora-ga)**|
 |**2024-07-04**|**DotaMath: Decomposition of Thought with Code Assistance and Self-correction for Mathematical Reasoning**|Chengpeng Li et.al.|[2407.04078](http://arxiv.org/abs/2407.04078)|**[link](https://github.com/chengpengli1003/dotamath)**|
 |**2024-07-04**|**Question-Analysis Prompting Improves LLM Performance in Reasoning Tasks**|Dharunish Yugeswardeenoo et.al.|[2407.03624](http://arxiv.org/abs/2407.03624)|null|
 |**2024-07-03**|**AgentInstruct: Toward Generative Teaching with Agentic Flows**|Arindam Mitra et.al.|[2407.03502](http://arxiv.org/abs/2407.03502)|null|
@@ -68,6 +70,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Hydrogen sulfide and metal-enriched atmosphere for a Jupiter-mass exoplanet**|Guangwei Fu et.al.|[2407.06163](http://arxiv.org/abs/2407.06163)|null|
+|**2024-07-06**|**Multiple Interacting Photonic Modes in Strongly Coupled Organic Microcavities**|Felipe Herrera et.al.|[2407.04904](http://arxiv.org/abs/2407.04904)|null|
+|**2024-07-05**|**Signatures of supermassive charged gravitinos in liquid scintillator detectors**|Adrianna Kruk et.al.|[2407.04883](http://arxiv.org/abs/2407.04883)|null|
+|**2024-07-05**|**FAUST XVII: Super deuteration in the planet forming system IRS 63 where the streamer strikes the disk**|L. Podio et.al.|[2407.04813](http://arxiv.org/abs/2407.04813)|null|
 |**2024-07-05**|**Decoupling NO production and UV emission intensity over the E-H mode transition in a low-pressure inductively coupled plasma device**|Lars Schücke et.al.|[2407.04441](http://arxiv.org/abs/2407.04441)|null|
 |**2024-07-05**|**Efficient simulation of quantum chemistry problems in an enlarged basis set**|Maxine Luo et.al.|[2407.04432](http://arxiv.org/abs/2407.04432)|null|
 |**2024-07-05**|**Oscillatory Bias Dependence of Visible Height of Monatomic Pb(111) Steps: Consequence of Quantum-Size Effect for Thin Metallic Films**|A. Yu. Aladyshkin et.al.|[2407.04299](http://arxiv.org/abs/2407.04299)|null|
