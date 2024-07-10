@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-08**|**When is the consistent prediction likely to be a correct prediction?**|Alex Nguyen et.al.|[2407.05778](http://arxiv.org/abs/2407.05778)|null|
 |**2024-07-06**|**LoRA-GA: Low-Rank Adaptation with Gradient Approximation**|Shaowen Wang et.al.|[2407.05000](http://arxiv.org/abs/2407.05000)|**[link](https://github.com/outsider565/lora-ga)**|
-|**2024-07-04**|**DotaMath: Decomposition of Thought with Code Assistance and Self-correction for Mathematical Reasoning**|Chengpeng Li et.al.|[2407.04078](http://arxiv.org/abs/2407.04078)|**[link](https://github.com/chengpengli1003/dotamath)**|
+|**2024-07-09**|**DotaMath: Decomposition of Thought with Code Assistance and Self-correction for Mathematical Reasoning**|Chengpeng Li et.al.|[2407.04078](http://arxiv.org/abs/2407.04078)|**[link](https://github.com/chengpengli1003/dotamath)**|
 |**2024-07-04**|**Question-Analysis Prompting Improves LLM Performance in Reasoning Tasks**|Dharunish Yugeswardeenoo et.al.|[2407.03624](http://arxiv.org/abs/2407.03624)|null|
 |**2024-07-03**|**AgentInstruct: Toward Generative Teaching with Agentic Flows**|Arindam Mitra et.al.|[2407.03502](http://arxiv.org/abs/2407.03502)|null|
 |**2024-07-01**|**Min P Sampling: Balancing Creativity and Coherence at High Temperature**|Minh Nguyen et.al.|[2407.01082](http://arxiv.org/abs/2407.01082)|null|
@@ -64,6 +64,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**Pathways to Interstellar Amides via Carbamoyl (NH2CO) Isomers by Radical-Neutral Reactions on Ice Grain Mantles**|Gabriela Silva-Vera et.al.|[2407.07081](http://arxiv.org/abs/2407.07081)|null|
+|**2024-07-09**|**Laboratory and Computational Studies of Interstellar Ices**|Herma M. Cuppen et.al.|[2407.06657](http://arxiv.org/abs/2407.06657)|null|
+|**2024-07-08**|**ALMA high-resolution observations unveil planet formation shaping molecular emission in the PDS 70 disk**|L. Rampinelli et.al.|[2407.06272](http://arxiv.org/abs/2407.06272)|null|
 |**2024-07-08**|**Hydrogen sulfide and metal-enriched atmosphere for a Jupiter-mass exoplanet**|Guangwei Fu et.al.|[2407.06163](http://arxiv.org/abs/2407.06163)|null|
 |**2024-07-06**|**Multiple Interacting Photonic Modes in Strongly Coupled Organic Microcavities**|Felipe Herrera et.al.|[2407.04904](http://arxiv.org/abs/2407.04904)|null|
 |**2024-07-05**|**Signatures of supermassive charged gravitinos in liquid scintillator detectors**|Adrianna Kruk et.al.|[2407.04883](http://arxiv.org/abs/2407.04883)|null|
