@@ -64,6 +64,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**High-resolution Elemental Abundance Measurements of Cool JWST Planet Hosts Using AutoSpecFit: An Application to the Sub-Neptune K2-18b's Host M dwarf**|Neda Hejazi et.al.|[2407.07869](http://arxiv.org/abs/2407.07869)|null|
+|**2024-07-10**|**Friction through molecular adsorption at the sliding interface of hydrogels: Theory and experiments**|Lola Ciapa et.al.|[2407.07819](http://arxiv.org/abs/2407.07819)|null|
+|**2024-07-10**|**ArcaNN: automated enhanced sampling generation of training sets for chemically reactive machine learning interatomic potentials**|Rolf David et.al.|[2407.07751](http://arxiv.org/abs/2407.07751)|null|
+|**2024-07-10**|**The V-Lab VR Educational Application Framework**|Vasilis Zafeiropoulos et.al.|[2407.07698](http://arxiv.org/abs/2407.07698)|null|
+|**2024-07-10**|**The nearest neutral gas phase to Supermassive Black Holes. A massive neutral-atom/molecule-rich Broad Line Region in AGNs**|Wing-Fai Thi et.al.|[2407.07574](http://arxiv.org/abs/2407.07574)|null|
+|**2024-07-10**|**Discovery of HCCCH2CCH in TMC-1 with the QUIJOTE line survey**|R. Fuentetaja et.al.|[2407.07466](http://arxiv.org/abs/2407.07466)|null|
+|**2024-07-10**|**Parallel implementation of the Density Matrix Renormalization Group method achieving a quarter petaFLOPS performance on a single DGX-H100 GPU node**|Andor Menczer et.al.|[2407.07411](http://arxiv.org/abs/2407.07411)|null|
+|**2024-07-10**|**Infrared band strengths of dangling OH features in amorphous water at 20 K**|Takeshi Hasegawa et.al.|[2407.07396](http://arxiv.org/abs/2407.07396)|null|
+|**2024-07-10**|**Evidence for auroral influence on Jupiter's nitrogen and oxygen chemistry revealed by ALMA**|Thibault Cavalié et.al.|[2407.07385](http://arxiv.org/abs/2407.07385)|null|
+|**2024-07-10**|**Asymmetric Fluid Flow in Helical Pipes Inspired by Shark Intestines**|Ido Levin et.al.|[2407.07354](http://arxiv.org/abs/2407.07354)|null|
 |**2024-07-09**|**Pathways to Interstellar Amides via Carbamoyl (NH2CO) Isomers by Radical-Neutral Reactions on Ice Grain Mantles**|Gabriela Silva-Vera et.al.|[2407.07081](http://arxiv.org/abs/2407.07081)|null|
 |**2024-07-09**|**Laboratory and Computational Studies of Interstellar Ices**|Herma M. Cuppen et.al.|[2407.06657](http://arxiv.org/abs/2407.06657)|null|
 |**2024-07-08**|**ALMA high-resolution observations unveil planet formation shaping molecular emission in the PDS 70 disk**|L. Rampinelli et.al.|[2407.06272](http://arxiv.org/abs/2407.06272)|null|
