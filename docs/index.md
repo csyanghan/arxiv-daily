@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist**|Zihao Zhou et.al.|[2407.08733](http://arxiv.org/abs/2407.08733)|null|
+|**2024-07-11**|**Skywork-Math: Data Scaling Laws for Mathematical Reasoning in Large Language Models -- The Story Goes On**|Liang Zeng et.al.|[2407.08348](http://arxiv.org/abs/2407.08348)|null|
 |**2024-07-08**|**When is the consistent prediction likely to be a correct prediction?**|Alex Nguyen et.al.|[2407.05778](http://arxiv.org/abs/2407.05778)|null|
 |**2024-07-06**|**LoRA-GA: Low-Rank Adaptation with Gradient Approximation**|Shaowen Wang et.al.|[2407.05000](http://arxiv.org/abs/2407.05000)|**[link](https://github.com/outsider565/lora-ga)**|
 |**2024-07-09**|**DotaMath: Decomposition of Thought with Code Assistance and Self-correction for Mathematical Reasoning**|Chengpeng Li et.al.|[2407.04078](http://arxiv.org/abs/2407.04078)|**[link](https://github.com/chengpengli1003/dotamath)**|
@@ -64,6 +66,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**An "ultimate" coupled cluster method based entirely on $T_2$**|Zachary W. Windom et.al.|[2407.08685](http://arxiv.org/abs/2407.08685)|null|
+|**2024-07-11**|**Selected Configuration Interaction for Resonances**|Yann Damour et.al.|[2407.08576](http://arxiv.org/abs/2407.08576)|null|
+|**2024-07-11**|**Enhancing 3D Planetary Atmosphere Simulations with a Surrogate Radiative Transfer Model**|Tara P. A. Tahseen et.al.|[2407.08556](http://arxiv.org/abs/2407.08556)|null|
 |**2024-07-10**|**High-resolution Elemental Abundance Measurements of Cool JWST Planet Hosts Using AutoSpecFit: An Application to the Sub-Neptune K2-18b's Host M dwarf**|Neda Hejazi et.al.|[2407.07869](http://arxiv.org/abs/2407.07869)|null|
 |**2024-07-10**|**Friction through molecular adsorption at the sliding interface of hydrogels: Theory and experiments**|Lola Ciapa et.al.|[2407.07819](http://arxiv.org/abs/2407.07819)|null|
 |**2024-07-10**|**ArcaNN: automated enhanced sampling generation of training sets for chemically reactive machine learning interatomic potentials**|Rolf David et.al.|[2407.07751](http://arxiv.org/abs/2407.07751)|null|
