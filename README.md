@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Stepwise Verification and Remediation of Student Reasoning Errors with Large Language Model Tutors**|Nico Daheim et.al.|[2407.09136](http://arxiv.org/abs/2407.09136)|**[link](https://github.com/eth-lre/verify-then-generate)**|
 |**2024-07-11**|**Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist**|Zihao Zhou et.al.|[2407.08733](http://arxiv.org/abs/2407.08733)|null|
 |**2024-07-11**|**Skywork-Math: Data Scaling Laws for Mathematical Reasoning in Large Language Models -- The Story Goes On**|Liang Zeng et.al.|[2407.08348](http://arxiv.org/abs/2407.08348)|null|
 |**2024-07-08**|**When is the consistent prediction likely to be a correct prediction?**|Alex Nguyen et.al.|[2407.05778](http://arxiv.org/abs/2407.05778)|null|
@@ -72,6 +73,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**A grid of self-consistent MSG (MARCS-StaticWeather-GGchem) cool stellar, sub-stellar, and exoplanetary model atmospheres**|Uffe G. Jørgensen et.al.|[2407.09397](http://arxiv.org/abs/2407.09397)|null|
+|**2024-07-12**|**Thermodynamics of Giant Molecular Clouds: The Effects of Dust Grain Size**|Nadine H. Soliman et.al.|[2407.09343](http://arxiv.org/abs/2407.09343)|null|
+|**2024-07-12**|**Reference CC3 Excitation Energies for Organic Chromophores: Benchmarking TD-DFT, BSE/ $GW$ and Wave Function Methods**|Iryna Knysh et.al.|[2407.09060](http://arxiv.org/abs/2407.09060)|null|
 |**2024-07-11**|**An "ultimate" coupled cluster method based entirely on $T_2$**|Zachary W. Windom et.al.|[2407.08685](http://arxiv.org/abs/2407.08685)|null|
 |**2024-07-11**|**Selected Configuration Interaction for Resonances**|Yann Damour et.al.|[2407.08576](http://arxiv.org/abs/2407.08576)|null|
 |**2024-07-11**|**Enhancing 3D Planetary Atmosphere Simulations with a Surrogate Radiative Transfer Model**|Tara P. A. Tahseen et.al.|[2407.08556](http://arxiv.org/abs/2407.08556)|null|
