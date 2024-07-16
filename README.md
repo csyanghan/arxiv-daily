@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**Qwen2 Technical Report**|An Yang et.al.|[2407.10671](http://arxiv.org/abs/2407.10671)|null|
 |**2024-07-12**|**Stepwise Verification and Remediation of Student Reasoning Errors with Large Language Model Tutors**|Nico Daheim et.al.|[2407.09136](http://arxiv.org/abs/2407.09136)|**[link](https://github.com/eth-lre/verify-then-generate)**|
 |**2024-07-11**|**Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist**|Zihao Zhou et.al.|[2407.08733](http://arxiv.org/abs/2407.08733)|null|
 |**2024-07-11**|**Skywork-Math: Data Scaling Laws for Mathematical Reasoning in Large Language Models -- The Story Goes On**|Liang Zeng et.al.|[2407.08348](http://arxiv.org/abs/2407.08348)|null|
@@ -73,6 +74,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**Encoded probabilistic imaginary-time evolution on a trapped-ion quantum computer for ground and excited states of spin qubits**|Hirofumi Nishi et.al.|[2407.10555](http://arxiv.org/abs/2407.10555)|null|
+|**2024-07-15**|**Variational Quantum Imaginary Time Evolution for Matrix Product State Ansatz with Tests on Transcorrelated Hamiltonians**|Hao-En Li et.al.|[2407.10523](http://arxiv.org/abs/2407.10523)|null|
+|**2024-07-14**|**Have ASkotch: Fast Methods for Large-scale, Memory-constrained Kernel Ridge Regression**|Pratik Rathore et.al.|[2407.10070](http://arxiv.org/abs/2407.10070)|null|
+|**2024-07-13**|**Practicality of quantum adiabatic algorithm for chemistry applications**|Etienne Granet et.al.|[2407.09993](http://arxiv.org/abs/2407.09993)|null|
+|**2024-07-13**|**Uncertainty Quantification in Reduced-Order Gas-Phase Atmospheric Chemistry Modeling using Ensemble SINDy**|Lin Guo et.al.|[2407.09757](http://arxiv.org/abs/2407.09757)|null|
+|**2024-07-13**|**Formation of S-bearing complex organic molecules in interstellar clouds via ice reactions with C2H2, HS, and atomic H**|Julia C. Santos et.al.|[2407.09730](http://arxiv.org/abs/2407.09730)|null|
+|**2024-07-12**|**Introducing GPU-acceleration into the Python-based Simulations of Chemistry Framework**|Rui Li et.al.|[2407.09700](http://arxiv.org/abs/2407.09700)|null|
 |**2024-07-12**|**A grid of self-consistent MSG (MARCS-StaticWeather-GGchem) cool stellar, sub-stellar, and exoplanetary model atmospheres**|Uffe G. Jørgensen et.al.|[2407.09397](http://arxiv.org/abs/2407.09397)|null|
 |**2024-07-12**|**Thermodynamics of Giant Molecular Clouds: The Effects of Dust Grain Size**|Nadine H. Soliman et.al.|[2407.09343](http://arxiv.org/abs/2407.09343)|null|
 |**2024-07-12**|**Reference CC3 Excitation Energies for Organic Chromophores: Benchmarking TD-DFT, BSE/ $GW$ and Wave Function Methods**|Iryna Knysh et.al.|[2407.09060](http://arxiv.org/abs/2407.09060)|null|
