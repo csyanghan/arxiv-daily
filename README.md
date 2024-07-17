@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.16
+## Updated on 2024.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2024-07-11**|**Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist**|Zihao Zhou et.al.|[2407.08733](http://arxiv.org/abs/2407.08733)|null|
 |**2024-07-11**|**Skywork-Math: Data Scaling Laws for Mathematical Reasoning in Large Language Models -- The Story Goes On**|Liang Zeng et.al.|[2407.08348](http://arxiv.org/abs/2407.08348)|null|
 |**2024-07-08**|**When is the consistent prediction likely to be a correct prediction?**|Alex Nguyen et.al.|[2407.05778](http://arxiv.org/abs/2407.05778)|null|
-|**2024-07-06**|**LoRA-GA: Low-Rank Adaptation with Gradient Approximation**|Shaowen Wang et.al.|[2407.05000](http://arxiv.org/abs/2407.05000)|**[link](https://github.com/outsider565/lora-ga)**|
+|**2024-07-16**|**LoRA-GA: Low-Rank Adaptation with Gradient Approximation**|Shaowen Wang et.al.|[2407.05000](http://arxiv.org/abs/2407.05000)|**[link](https://github.com/outsider565/lora-ga)**|
 |**2024-07-09**|**DotaMath: Decomposition of Thought with Code Assistance and Self-correction for Mathematical Reasoning**|Chengpeng Li et.al.|[2407.04078](http://arxiv.org/abs/2407.04078)|**[link](https://github.com/chengpengli1003/dotamath)**|
 |**2024-07-04**|**Question-Analysis Prompting Improves LLM Performance in Reasoning Tasks**|Dharunish Yugeswardeenoo et.al.|[2407.03624](http://arxiv.org/abs/2407.03624)|null|
 |**2024-07-03**|**AgentInstruct: Toward Generative Teaching with Agentic Flows**|Arindam Mitra et.al.|[2407.03502](http://arxiv.org/abs/2407.03502)|null|
@@ -68,7 +68,7 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20240716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240717>back to top</a>)</p>
 
 ## AI for Science
 
@@ -289,7 +289,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20240716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240717>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.16
+## Updated on 2024.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -19,7 +19,7 @@ layout: default
 |**2024-07-11**|**Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist**|Zihao Zhou et.al.|[2407.08733](http://arxiv.org/abs/2407.08733)|null|
 |**2024-07-11**|**Skywork-Math: Data Scaling Laws for Mathematical Reasoning in Large Language Models -- The Story Goes On**|Liang Zeng et.al.|[2407.08348](http://arxiv.org/abs/2407.08348)|null|
 |**2024-07-08**|**When is the consistent prediction likely to be a correct prediction?**|Alex Nguyen et.al.|[2407.05778](http://arxiv.org/abs/2407.05778)|null|
-|**2024-07-06**|**LoRA-GA: Low-Rank Adaptation with Gradient Approximation**|Shaowen Wang et.al.|[2407.05000](http://arxiv.org/abs/2407.05000)|**[link](https://github.com/outsider565/lora-ga)**|
+|**2024-07-16**|**LoRA-GA: Low-Rank Adaptation with Gradient Approximation**|Shaowen Wang et.al.|[2407.05000](http://arxiv.org/abs/2407.05000)|**[link](https://github.com/outsider565/lora-ga)**|
 |**2024-07-09**|**DotaMath: Decomposition of Thought with Code Assistance and Self-correction for Mathematical Reasoning**|Chengpeng Li et.al.|[2407.04078](http://arxiv.org/abs/2407.04078)|**[link](https://github.com/chengpengli1003/dotamath)**|
 |**2024-07-04**|**Question-Analysis Prompting Improves LLM Performance in Reasoning Tasks**|Dharunish Yugeswardeenoo et.al.|[2407.03624](http://arxiv.org/abs/2407.03624)|null|
 |**2024-07-03**|**AgentInstruct: Toward Generative Teaching with Agentic Flows**|Arindam Mitra et.al.|[2407.03502](http://arxiv.org/abs/2407.03502)|null|
