@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.18
+## Updated on 2024.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,8 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**Weak-to-Strong Reasoning**|Yuqing Yang et.al.|[2407.13647](http://arxiv.org/abs/2407.13647)|null|
+|**2024-07-12**|**Token-Supervised Value Models for Enhancing Mathematical Reasoning Capabilities of Large Language Models**|Jung Hyun Lee et.al.|[2407.12863](http://arxiv.org/abs/2407.12863)|null|
+|**2024-07-04**|**$\texttt{metabench}$ -- A Sparse Benchmark to Measure General Ability in Large Language Models**|Alex Kipnis et.al.|[2407.12844](http://arxiv.org/abs/2407.12844)|null|
 |**2024-07-16**|**Reliable Reasoning Beyond Natural Language**|Nasim Borazjanizadeh et.al.|[2407.11373](http://arxiv.org/abs/2407.11373)|null|
-|**2024-07-16**|**Qwen2 Technical Report**|An Yang et.al.|[2407.10671](http://arxiv.org/abs/2407.10671)|null|
+|**2024-07-18**|**Qwen2 Technical Report**|An Yang et.al.|[2407.10671](http://arxiv.org/abs/2407.10671)|**[link](https://github.com/qwenlm/qwen2)**|
 |**2024-07-12**|**Stepwise Verification and Remediation of Student Reasoning Errors with Large Language Model Tutors**|Nico Daheim et.al.|[2407.09136](http://arxiv.org/abs/2407.09136)|**[link](https://github.com/eth-lre/verify-then-generate)**|
 |**2024-07-11**|**Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist**|Zihao Zhou et.al.|[2407.08733](http://arxiv.org/abs/2407.08733)|null|
 |**2024-07-17**|**Skywork-Math: Data Scaling Laws for Mathematical Reasoning in Large Language Models -- The Story Goes On**|Liang Zeng et.al.|[2407.08348](http://arxiv.org/abs/2407.08348)|null|
@@ -69,12 +72,17 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240719>back to top</a>)</p>
 
 ## AI for Science
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**Electrically Controlled Interfacial Charge Transfer Induced Excitons in MoSe2-WSe2 Lateral Heterostructure**|Baisali Kundu et.al.|[2407.13724](http://arxiv.org/abs/2407.13724)|null|
+|**2024-07-18**|**Strength of 2D Glasses Explored by Machine-Learning Force Fields**|Pengjie Shi et.al.|[2407.13507](http://arxiv.org/abs/2407.13507)|null|
+|**2024-07-18**|**Evidence for Nightside Water Emission Found in Transit of Ultrahot Jupiter WASP-33b**|Yuanheng Yang et.al.|[2407.13388](http://arxiv.org/abs/2407.13388)|null|
+|**2024-07-18**|**Reducing Numerical Precision Requirements in Quantum Chemistry Calculations**|William Dawson et.al.|[2407.13299](http://arxiv.org/abs/2407.13299)|null|
+|**2024-07-18**|**SciCode: A Research Coding Benchmark Curated by Scientists**|Minyang Tian et.al.|[2407.13168](http://arxiv.org/abs/2407.13168)|null|
 |**2024-07-17**|**SHARC-VQE: Simplified Hamiltonian Approach with Refinement and Correction enabled Variational Quantum Eigensolver for Molecular Simulation**|Harshdeep Singh et.al.|[2407.12305](http://arxiv.org/abs/2407.12305)|null|
 |**2024-07-16**|**Walking through Hilbert Space with Quantum Computers**|Tong Jiang et.al.|[2407.11672](http://arxiv.org/abs/2407.11672)|null|
 |**2024-07-15**|**High-Resolution Dayside Spectroscopy of WASP-189b: Detection of Iron during the GHOST/Gemini South System Verification Run**|Emily K. Deibert et.al.|[2407.11281](http://arxiv.org/abs/2407.11281)|null|
@@ -296,7 +304,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240719>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
