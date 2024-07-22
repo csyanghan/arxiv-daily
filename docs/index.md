@@ -14,7 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-18**|**Weak-to-Strong Reasoning**|Yuqing Yang et.al.|[2407.13647](http://arxiv.org/abs/2407.13647)|null|
+|**2024-07-18**|**Learning Goal-Conditioned Representations for Language Reward Models**|Vaskar Nath et.al.|[2407.13887](http://arxiv.org/abs/2407.13887)|**[link](https://github.com/vaskarnathscale/goal-conditioned-rm)**|
+|**2024-07-18**|**Weak-to-Strong Reasoning**|Yuqing Yang et.al.|[2407.13647](http://arxiv.org/abs/2407.13647)|**[link](https://github.com/gair-nlp/weak-to-strong-reasoning)**|
 |**2024-07-12**|**Token-Supervised Value Models for Enhancing Mathematical Reasoning Capabilities of Large Language Models**|Jung Hyun Lee et.al.|[2407.12863](http://arxiv.org/abs/2407.12863)|null|
 |**2024-07-04**|**$\texttt{metabench}$ -- A Sparse Benchmark to Measure General Ability in Large Language Models**|Alex Kipnis et.al.|[2407.12844](http://arxiv.org/abs/2407.12844)|null|
 |**2024-07-16**|**Reliable Reasoning Beyond Natural Language**|Nasim Borazjanizadeh et.al.|[2407.11373](http://arxiv.org/abs/2407.11373)|null|
@@ -72,6 +73,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Observable-Driven Speed-ups in Quantum Simulations**|Wenjun Yu et.al.|[2407.14497](http://arxiv.org/abs/2407.14497)|null|
+|**2024-07-19**|**MINDS. Hydrocarbons detected by JWST/MIRI in the inner disk of Sz28 consistent with a high C/O gas-phase chemistry**|Jayatee Kanwar et.al.|[2407.14362](http://arxiv.org/abs/2407.14362)|null|
+|**2024-07-19**|**The chemistry of star and planet formation with SKA**|C. Codella et.al.|[2407.14217](http://arxiv.org/abs/2407.14217)|null|
+|**2024-07-19**|**Channel-facilitated transport under resetting dynamics**|Suvam Pal et.al.|[2407.14157](http://arxiv.org/abs/2407.14157)|null|
+|**2024-07-19**|**Generative Language Model for Catalyst Discovery**|Dong Hyeon Mok et.al.|[2407.14040](http://arxiv.org/abs/2407.14040)|null|
+|**2024-07-18**|**A Benchmark JWST Near-Infrared Spectrum for the Exoplanet WASP-39b**|A. L. Carter et.al.|[2407.13893](http://arxiv.org/abs/2407.13893)|null|
+|**2024-07-18**|**Optimized Quantum Simulation Algorithms for Scalar Quantum Field Theories**|Andrew Hardy et.al.|[2407.13819](http://arxiv.org/abs/2407.13819)|null|
 |**2024-07-18**|**Electrically Controlled Interfacial Charge Transfer Induced Excitons in MoSe2-WSe2 Lateral Heterostructure**|Baisali Kundu et.al.|[2407.13724](http://arxiv.org/abs/2407.13724)|null|
 |**2024-07-18**|**Strength of 2D Glasses Explored by Machine-Learning Force Fields**|Pengjie Shi et.al.|[2407.13507](http://arxiv.org/abs/2407.13507)|null|
 |**2024-07-18**|**Evidence for Nightside Water Emission Found in Transit of Ultrahot Jupiter WASP-33b**|Yuanheng Yang et.al.|[2407.13388](http://arxiv.org/abs/2407.13388)|null|
