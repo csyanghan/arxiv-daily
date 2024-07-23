@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.22
+## Updated on 2024.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -18,7 +18,7 @@ layout: default
 |**2024-07-18**|**Weak-to-Strong Reasoning**|Yuqing Yang et.al.|[2407.13647](http://arxiv.org/abs/2407.13647)|**[link](https://github.com/gair-nlp/weak-to-strong-reasoning)**|
 |**2024-07-12**|**Token-Supervised Value Models for Enhancing Mathematical Reasoning Capabilities of Large Language Models**|Jung Hyun Lee et.al.|[2407.12863](http://arxiv.org/abs/2407.12863)|null|
 |**2024-07-04**|**$\texttt{metabench}$ -- A Sparse Benchmark to Measure General Ability in Large Language Models**|Alex Kipnis et.al.|[2407.12844](http://arxiv.org/abs/2407.12844)|null|
-|**2024-07-16**|**Reliable Reasoning Beyond Natural Language**|Nasim Borazjanizadeh et.al.|[2407.11373](http://arxiv.org/abs/2407.11373)|null|
+|**2024-07-19**|**Reliable Reasoning Beyond Natural Language**|Nasim Borazjanizadeh et.al.|[2407.11373](http://arxiv.org/abs/2407.11373)|null|
 |**2024-07-18**|**Qwen2 Technical Report**|An Yang et.al.|[2407.10671](http://arxiv.org/abs/2407.10671)|**[link](https://github.com/qwenlm/qwen2)**|
 |**2024-07-12**|**Stepwise Verification and Remediation of Student Reasoning Errors with Large Language Model Tutors**|Nico Daheim et.al.|[2407.09136](http://arxiv.org/abs/2407.09136)|**[link](https://github.com/eth-lre/verify-then-generate)**|
 |**2024-07-11**|**Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist**|Zihao Zhou et.al.|[2407.08733](http://arxiv.org/abs/2407.08733)|null|
