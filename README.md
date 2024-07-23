@@ -79,6 +79,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**Flows, Circulations, and Energy Transport in the Outer and Deep Atmospheres of Synchronous and Non-synchronous Hot Jupiters**|Felix Sainsbury-Martinez et.al.|[2407.15602](http://arxiv.org/abs/2407.15602)|null|
+|**2024-07-21**|**Optimizing ionic conductivity of lithium in Li $_7$PS$_6$ argyrodite via dopant engineering**|Sokseiha Muy et.al.|[2407.15258](http://arxiv.org/abs/2407.15258)|null|
+|**2024-07-21**|**Computational Astrochemistry Journey towards the molecular universe**|D. Campisi et.al.|[2407.15204](http://arxiv.org/abs/2407.15204)|null|
+|**2024-07-21**|**${\it Asparagus}$ : A Toolkit for Autonomous, User-Guided Construction of Machine-Learned Potential Energy Surfaces**|Kai Töpfer et.al.|[2407.15175](http://arxiv.org/abs/2407.15175)|null|
+|**2024-07-21**|**Text-Augmented Multimodal LLMs for Chemical Reaction Condition Recommendation**|Yu Zhang et.al.|[2407.15141](http://arxiv.org/abs/2407.15141)|null|
+|**2024-07-20**|**DFT investigation of novel cubic carbon allotrope, yne-C $_{16}$**|Samir F Matar et.al.|[2407.14777](http://arxiv.org/abs/2407.14777)|null|
+|**2024-07-19**|**Non-adiabatic coupling matrix elements in a magnetic field: geometric gauge dependence and Berry phase**|Tanner Culpitt et.al.|[2407.14607](http://arxiv.org/abs/2407.14607)|null|
+|**2024-07-19**|**Pumping Iron: How turbulent metal diffusion impacts multiphase galactic outflows**|Ulrich P. Steinwandel et.al.|[2407.14599](http://arxiv.org/abs/2407.14599)|null|
+|**2024-07-19**|**Unveiling the Milky Way dust extinction curve in 3D**|Xiangyu Zhang et.al.|[2407.14594](http://arxiv.org/abs/2407.14594)|null|
 |**2024-07-19**|**Observable-Driven Speed-ups in Quantum Simulations**|Wenjun Yu et.al.|[2407.14497](http://arxiv.org/abs/2407.14497)|null|
 |**2024-07-19**|**MINDS. Hydrocarbons detected by JWST/MIRI in the inner disk of Sz28 consistent with a high C/O gas-phase chemistry**|Jayatee Kanwar et.al.|[2407.14362](http://arxiv.org/abs/2407.14362)|null|
 |**2024-07-19**|**The chemistry of star and planet formation with SKA**|C. Codella et.al.|[2407.14217](http://arxiv.org/abs/2407.14217)|null|
