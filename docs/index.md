@@ -73,6 +73,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**Analysis of soot formation in a lab-scale Rich-Quench-Lean combustor using LES with tabulated chemistry**|Leonardo Pachano et.al.|[2407.16340](http://arxiv.org/abs/2407.16340)|null|
+|**2024-07-23**|**Demonstration of a variational quantum eigensolver with a solid-state spin system under ambient conditions**|Xuliang Du et.al.|[2407.16321](http://arxiv.org/abs/2407.16321)|null|
+|**2024-07-22**|**Setting of the Poincaré section for accurately calculating the phase of rhythmic spatiotemporal dynamics**|Takahiro Arai et.al.|[2407.16080](http://arxiv.org/abs/2407.16080)|null|
+|**2024-07-22**|**The 2024 KIDA network for interstellar chemistry**|V. Wakelam et.al.|[2407.15958](http://arxiv.org/abs/2407.15958)|null|
+|**2024-07-22**|**A Tale of Two Molecules: The Underprediction of CO $_2$ and Overprediction of PH$_3$ in Late T and Y Dwarf Atmospheric Models**|Samuel A. Beiler et.al.|[2407.15950](http://arxiv.org/abs/2407.15950)|null|
+|**2024-07-22**|**Exoplanets Across Galactic Stellar Populations with PLATO: Estimating Exoplanet Yields Around FGK Stars for the Thin Disk, Thick Disk and Stellar Halo**|Christopher Boettner et.al.|[2407.15917](http://arxiv.org/abs/2407.15917)|null|
 |**2024-07-22**|**Flows, Circulations, and Energy Transport in the Outer and Deep Atmospheres of Synchronous and Non-synchronous Hot Jupiters**|Felix Sainsbury-Martinez et.al.|[2407.15602](http://arxiv.org/abs/2407.15602)|null|
 |**2024-07-21**|**Optimizing ionic conductivity of lithium in Li $_7$PS$_6$ argyrodite via dopant engineering**|Sokseiha Muy et.al.|[2407.15258](http://arxiv.org/abs/2407.15258)|null|
 |**2024-07-21**|**Computational Astrochemistry Journey towards the molecular universe**|D. Campisi et.al.|[2407.15204](http://arxiv.org/abs/2407.15204)|null|
