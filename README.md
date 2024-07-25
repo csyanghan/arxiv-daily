@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**Boosting Large Language Models with Socratic Method for Conversational Mathematics Teaching**|Yuyang Ding et.al.|[2407.17349](http://arxiv.org/abs/2407.17349)|null|
 |**2024-07-18**|**Learning Goal-Conditioned Representations for Language Reward Models**|Vaskar Nath et.al.|[2407.13887](http://arxiv.org/abs/2407.13887)|**[link](https://github.com/vaskarnathscale/goal-conditioned-rm)**|
 |**2024-07-18**|**Weak-to-Strong Reasoning**|Yuqing Yang et.al.|[2407.13647](http://arxiv.org/abs/2407.13647)|**[link](https://github.com/gair-nlp/weak-to-strong-reasoning)**|
 |**2024-07-12**|**Token-Supervised Value Models for Enhancing Mathematical Reasoning Capabilities of Large Language Models**|Jung Hyun Lee et.al.|[2407.12863](http://arxiv.org/abs/2407.12863)|null|
@@ -79,6 +80,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**Assessing Non-Nested Configurations of Multifidelity Machine Learning for Quantum-Chemical Properties**|Vivin Vinod et.al.|[2407.17087](http://arxiv.org/abs/2407.17087)|null|
+|**2024-07-24**|**Effective core potentials as a pathway to self-interaction error correction: a proof-of-concept study on one-electron systems**|Dale R. Lonsdale et.al.|[2407.17027](http://arxiv.org/abs/2407.17027)|null|
+|**2024-07-24**|**Chemistry-informed Machine Learning Explains Calcium-binding Proteins Fuzzy Shape for Communicating Changes in the Atomic States of Calcium Ions**|Pengzhi Zhang et.al.|[2407.17017](http://arxiv.org/abs/2407.17017)|null|
+|**2024-07-24**|**ScholarChemQA: Unveiling the Power of Language Models in Chemical Research Question Answering**|Xiuying Chen et.al.|[2407.16931](http://arxiv.org/abs/2407.16931)|null|
 |**2024-07-23**|**Analysis of soot formation in a lab-scale Rich-Quench-Lean combustor using LES with tabulated chemistry**|Leonardo Pachano et.al.|[2407.16340](http://arxiv.org/abs/2407.16340)|null|
 |**2024-07-23**|**Demonstration of a variational quantum eigensolver with a solid-state spin system under ambient conditions**|Xuliang Du et.al.|[2407.16321](http://arxiv.org/abs/2407.16321)|null|
 |**2024-07-22**|**Setting of the Poincaré section for accurately calculating the phase of rhythmic spatiotemporal dynamics**|Takahiro Arai et.al.|[2407.16080](http://arxiv.org/abs/2407.16080)|null|
