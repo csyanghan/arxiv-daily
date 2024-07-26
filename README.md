@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**Recursive Introspection: Teaching Language Model Agents How to Self-Improve**|Yuxiao Qu et.al.|[2407.18219](http://arxiv.org/abs/2407.18219)|null|
 |**2024-07-24**|**Boosting Large Language Models with Socratic Method for Conversational Mathematics Teaching**|Yuyang Ding et.al.|[2407.17349](http://arxiv.org/abs/2407.17349)|null|
 |**2024-07-18**|**Learning Goal-Conditioned Representations for Language Reward Models**|Vaskar Nath et.al.|[2407.13887](http://arxiv.org/abs/2407.13887)|**[link](https://github.com/vaskarnathscale/goal-conditioned-rm)**|
 |**2024-07-18**|**Weak-to-Strong Reasoning**|Yuqing Yang et.al.|[2407.13647](http://arxiv.org/abs/2407.13647)|**[link](https://github.com/gair-nlp/weak-to-strong-reasoning)**|
@@ -80,6 +81,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**Direct Optical Probing of the Magnetic Properties of the Layered Antiferromagnet CrPS $_4$**|Tomasz Fąs et.al.|[2407.17912](http://arxiv.org/abs/2407.17912)|null|
+|**2024-07-25**|**Role of NH3 Binding Energy in the Early Evolution of Protostellar Cores**|S. Kakkenpara Suresh et.al.|[2407.17891](http://arxiv.org/abs/2407.17891)|null|
+|**2024-07-25**|**Chirality-tunable non-linear Hall effect**|Nesta Benno Joseph et.al.|[2407.17775](http://arxiv.org/abs/2407.17775)|null|
+|**2024-07-25**|**Computational Investigation on the formation of liquid-fueled oblique detonation waves**|Wenhao Wang et.al.|[2407.17714](http://arxiv.org/abs/2407.17714)|null|
+|**2024-07-25**|**Investigating and Mitigating Barren Plateaus in Variational Quantum Circuits: A Survey**|Jack Cunningham et.al.|[2407.17706](http://arxiv.org/abs/2407.17706)|null|
+|**2024-07-24**|**Solid-State Diffusion: An Introduction**|Jairo Rondón et.al.|[2407.17662](http://arxiv.org/abs/2407.17662)|null|
+|**2024-07-24**|**A defect-chemisty-informed phase-field model of grain growth in oxide electroceramics**|Kai Wang et.al.|[2407.17650](http://arxiv.org/abs/2407.17650)|null|
+|**2024-07-24**|**Suppressed Cosmic Ray Energy Densities in Molecular Clouds From Streaming Instability-Regulated Transport**|Margot Fitz Axen et.al.|[2407.17597](http://arxiv.org/abs/2407.17597)|null|
 |**2024-07-24**|**Assessing Non-Nested Configurations of Multifidelity Machine Learning for Quantum-Chemical Properties**|Vivin Vinod et.al.|[2407.17087](http://arxiv.org/abs/2407.17087)|null|
 |**2024-07-24**|**Effective core potentials as a pathway to self-interaction error correction: a proof-of-concept study on one-electron systems**|Dale R. Lonsdale et.al.|[2407.17027](http://arxiv.org/abs/2407.17027)|null|
 |**2024-07-24**|**Chemistry-informed Machine Learning Explains Calcium-binding Proteins Fuzzy Shape for Communicating Changes in the Atomic States of Calcium Ions**|Pengzhi Zhang et.al.|[2407.17017](http://arxiv.org/abs/2407.17017)|null|
