@@ -18,7 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-25**|**Recursive Introspection: Teaching Language Model Agents How to Self-Improve**|Yuxiao Qu et.al.|[2407.18219](http://arxiv.org/abs/2407.18219)|null|
+|**2024-07-26**|**Recursive Introspection: Teaching Language Model Agents How to Self-Improve**|Yuxiao Qu et.al.|[2407.18219](http://arxiv.org/abs/2407.18219)|null|
 |**2024-07-24**|**Boosting Large Language Models with Socratic Method for Conversational Mathematics Teaching**|Yuyang Ding et.al.|[2407.17349](http://arxiv.org/abs/2407.17349)|null|
 |**2024-07-18**|**Learning Goal-Conditioned Representations for Language Reward Models**|Vaskar Nath et.al.|[2407.13887](http://arxiv.org/abs/2407.13887)|**[link](https://github.com/vaskarnathscale/goal-conditioned-rm)**|
 |**2024-07-18**|**Weak-to-Strong Reasoning**|Yuqing Yang et.al.|[2407.13647](http://arxiv.org/abs/2407.13647)|**[link](https://github.com/gair-nlp/weak-to-strong-reasoning)**|
@@ -81,6 +81,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-26**|**Exploring Quantum Active Learning for Materials Design and Discovery**|Maicon Pierre Lourenço et.al.|[2407.18731](http://arxiv.org/abs/2407.18731)|null|
+|**2024-07-26**|**Structural Reorganizations and Nanodomain Emergence in Lipid Membrane Driven by Ionic Liquids**|J. Gupta et.al.|[2407.18706](http://arxiv.org/abs/2407.18706)|null|
+|**2024-07-26**|**Fast and Reliable Probabilistic Reflectometry Inversion with Prior-Amortized Neural Posterior Estimation**|Vladimir Starostin et.al.|[2407.18648](http://arxiv.org/abs/2407.18648)|null|
 |**2024-07-25**|**Direct Optical Probing of the Magnetic Properties of the Layered Antiferromagnet CrPS $_4$**|Tomasz Fąs et.al.|[2407.17912](http://arxiv.org/abs/2407.17912)|null|
 |**2024-07-25**|**Role of NH3 Binding Energy in the Early Evolution of Protostellar Cores**|S. Kakkenpara Suresh et.al.|[2407.17891](http://arxiv.org/abs/2407.17891)|null|
 |**2024-07-25**|**Chirality-tunable non-linear Hall effect**|Nesta Benno Joseph et.al.|[2407.17775](http://arxiv.org/abs/2407.17775)|null|
