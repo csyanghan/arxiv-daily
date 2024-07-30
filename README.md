@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**Concise Thoughts: Impact of Output Length on LLM Reasoning and Cost**|Sania Nayab et.al.|[2407.19825](http://arxiv.org/abs/2407.19825)|null|
 |**2024-07-26**|**Recursive Introspection: Teaching Language Model Agents How to Self-Improve**|Yuxiao Qu et.al.|[2407.18219](http://arxiv.org/abs/2407.18219)|null|
 |**2024-07-24**|**Boosting Large Language Models with Socratic Method for Conversational Mathematics Teaching**|Yuyang Ding et.al.|[2407.17349](http://arxiv.org/abs/2407.17349)|null|
 |**2024-07-18**|**Learning Goal-Conditioned Representations for Language Reward Models**|Vaskar Nath et.al.|[2407.13887](http://arxiv.org/abs/2407.13887)|**[link](https://github.com/vaskarnathscale/goal-conditioned-rm)**|
@@ -81,6 +82,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**Viscous liquid dynamics modeled as random walks within overlapping hyperspheres**|Mark F. B. Railton et.al.|[2407.19952](http://arxiv.org/abs/2407.19952)|null|
+|**2024-07-27**|**A study of an air-breathing electrodeless plasma thruster discharge**|Jiewei Zhou et.al.|[2407.19322](http://arxiv.org/abs/2407.19322)|null|
+|**2024-07-27**|**A phase-space view of vibrational energies without the Born-Oppenheimer framework**|Xuezhi Bian et.al.|[2407.19313](http://arxiv.org/abs/2407.19313)|null|
+|**2024-07-26**|**Destruction of interstellar methyl cyanide (CH3CN) via collisions with He+ ions**|Luca Mancini et.al.|[2407.19080](http://arxiv.org/abs/2407.19080)|null|
+|**2024-07-26**|**Prospects for rank-reduced CCSD(T) in the context of high-accuracy thermochemistry**|Tingting Zhao et.al.|[2407.19042](http://arxiv.org/abs/2407.19042)|null|
+|**2024-07-26**|**Observations of phosphorus-bearing molecules in the interstellar medium**|Francesco Fontani et.al.|[2407.19006](http://arxiv.org/abs/2407.19006)|null|
 |**2024-07-26**|**Exploring Quantum Active Learning for Materials Design and Discovery**|Maicon Pierre Lourenço et.al.|[2407.18731](http://arxiv.org/abs/2407.18731)|null|
 |**2024-07-26**|**Structural Reorganizations and Nanodomain Emergence in Lipid Membrane Driven by Ionic Liquids**|J. Gupta et.al.|[2407.18706](http://arxiv.org/abs/2407.18706)|null|
 |**2024-07-26**|**Fast and Reliable Probabilistic Reflectometry Inversion with Prior-Amortized Neural Posterior Estimation**|Vladimir Starostin et.al.|[2407.18648](http://arxiv.org/abs/2407.18648)|null|
