@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-29**|**Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process**|Tian Ye et.al.|[2407.20311](http://arxiv.org/abs/2407.20311)|null|
 |**2024-07-29**|**Concise Thoughts: Impact of Output Length on LLM Reasoning and Cost**|Sania Nayab et.al.|[2407.19825](http://arxiv.org/abs/2407.19825)|null|
 |**2024-07-26**|**Recursive Introspection: Teaching Language Model Agents How to Self-Improve**|Yuxiao Qu et.al.|[2407.18219](http://arxiv.org/abs/2407.18219)|null|
 |**2024-07-24**|**Boosting Large Language Models with Socratic Method for Conversational Mathematics Teaching**|Yuyang Ding et.al.|[2407.17349](http://arxiv.org/abs/2407.17349)|null|
@@ -76,6 +77,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**Shortcuts for Adiabatic and Variational Algorithms in Molecular Simulation**|Julián Ferreiro-Vélez et.al.|[2407.20957](http://arxiv.org/abs/2407.20957)|null|
+|**2024-07-30**|**A Tutorial on the Use of Physics-Informed Neural Networks to Compute the Spectrum of Quantum Systems**|Lorenzo Brevi et.al.|[2407.20669](http://arxiv.org/abs/2407.20669)|null|
+|**2024-07-29**|**Investigating the Electron Capture Supernova Candidate AT 2019abn with JWST Spectroscopy**|Sam Rose et.al.|[2407.20430](http://arxiv.org/abs/2407.20430)|null|
+|**2024-07-29**|**Unified Deep Learning Framework for Many-Body Quantum Chemistry via Green's Functions**|Christian Venturella et.al.|[2407.20384](http://arxiv.org/abs/2407.20384)|null|
+|**2024-07-29**|**Dynamical and Atmospheric Characterization of the Substellar Companion HD 33632 Ab from Direct Imaging, Astrometry, and Radial-Velocity Data**|Mona El Morsy et.al.|[2407.20322](http://arxiv.org/abs/2407.20322)|null|
+|**2024-07-28**|**A Bayesian Flow Network Framework for Chemistry Tasks**|Nianze Tao et.al.|[2407.20294](http://arxiv.org/abs/2407.20294)|**[link](https://github.com/Augus1999/bayesian-flow-network-for-chemistry)**|
 |**2024-07-29**|**Viscous liquid dynamics modeled as random walks within overlapping hyperspheres**|Mark F. B. Railton et.al.|[2407.19952](http://arxiv.org/abs/2407.19952)|null|
 |**2024-07-27**|**A study of an air-breathing electrodeless plasma thruster discharge**|Jiewei Zhou et.al.|[2407.19322](http://arxiv.org/abs/2407.19322)|null|
 |**2024-07-27**|**A phase-space view of vibrational energies without the Born-Oppenheimer framework**|Xuezhi Bian et.al.|[2407.19313](http://arxiv.org/abs/2407.19313)|null|
