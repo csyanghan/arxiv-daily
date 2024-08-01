@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**Large Language Monkeys: Scaling Inference Compute with Repeated Sampling**|Bradley Brown et.al.|[2407.21787](http://arxiv.org/abs/2407.21787)|null|
 |**2024-07-29**|**Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process**|Tian Ye et.al.|[2407.20311](http://arxiv.org/abs/2407.20311)|null|
 |**2024-07-29**|**Concise Thoughts: Impact of Output Length on LLM Reasoning and Cost**|Sania Nayab et.al.|[2407.19825](http://arxiv.org/abs/2407.19825)|null|
 |**2024-07-26**|**Recursive Introspection: Teaching Language Model Agents How to Self-Improve**|Yuxiao Qu et.al.|[2407.18219](http://arxiv.org/abs/2407.18219)|null|
@@ -77,6 +78,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**A concise 40 T pulse magnet for condensed matter experiments**|Akihiko Ikeda et.al.|[2407.21736](http://arxiv.org/abs/2407.21736)|null|
+|**2024-07-31**|**A General and Transferable Local Hybrid Functional from First Principles**|Christof Holzer et.al.|[2407.21727](http://arxiv.org/abs/2407.21727)|null|
+|**2024-07-31**|**CEAR: Automatic construction of a knowledge graph of chemical entities and roles from scientific literature**|Stefan Langer et.al.|[2407.21708](http://arxiv.org/abs/2407.21708)|null|
+|**2024-07-31**|**Hyperspectral near infrared imaging using a tunable spectral phasor**|Jan Stegemann et.al.|[2407.21684](http://arxiv.org/abs/2407.21684)|null|
+|**2024-07-31**|**Enhancing the Harrow-Hassidim-Lloyd (HHL) algorithm in systems with large condition numbers**|Peniel Bertrand Tsemo et.al.|[2407.21641](http://arxiv.org/abs/2407.21641)|null|
+|**2024-07-31**|**Exploiting Non-Abelian Point-Group Symmetry to Estimate the Exact Ground-State Correlation Energy of Benzene in a Polarized Split-Valence Triple-Zeta Basis Set**|Jonas Greiner et.al.|[2407.21576](http://arxiv.org/abs/2407.21576)|null|
+|**2024-07-31**|**Detection of Dimethyl Ether in the Central Region of the MWC 480 Protoplanetary Disk**|Yoshihide Yamato et.al.|[2407.21518](http://arxiv.org/abs/2407.21518)|null|
+|**2024-07-30**|**Exciton Fission Enhanced Silicon Solar Cell**|Narumi Nagaya et.al.|[2407.21093](http://arxiv.org/abs/2407.21093)|null|
 |**2024-07-30**|**Shortcuts for Adiabatic and Variational Algorithms in Molecular Simulation**|Julián Ferreiro-Vélez et.al.|[2407.20957](http://arxiv.org/abs/2407.20957)|null|
 |**2024-07-30**|**A Tutorial on the Use of Physics-Informed Neural Networks to Compute the Spectrum of Quantum Systems**|Lorenzo Brevi et.al.|[2407.20669](http://arxiv.org/abs/2407.20669)|null|
 |**2024-07-29**|**Investigating the Electron Capture Supernova Candidate AT 2019abn with JWST Spectroscopy**|Sam Rose et.al.|[2407.20430](http://arxiv.org/abs/2407.20430)|null|
