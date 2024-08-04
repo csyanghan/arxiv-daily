@@ -84,6 +84,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-01**|**Thermal Conductivity Predictions with Foundation Atomistic Models**|Balázs Póta et.al.|[2408.00755](http://arxiv.org/abs/2408.00755)|null|
+|**2024-08-01**|**Quantum Program Testing Through Commuting Pauli Strings on IBM's Quantum Computers**|Asmar Muqeet et.al.|[2408.00501](http://arxiv.org/abs/2408.00501)|null|
+|**2024-08-01**|**Diffracting molecular matter-waves at deep-ultraviolet standing-light waves**|Ksenija Simonović et.al.|[2408.00461](http://arxiv.org/abs/2408.00461)|null|
+|**2024-08-01**|**First-principles calculations of structural and bonding properties of Li-doped tetrahedrite thermoelectrics**|Krzysztof Kapera et.al.|[2408.00404](http://arxiv.org/abs/2408.00404)|null|
+|**2024-08-01**|**Redefining Lexicographical Ordering: Optimizing Pauli String Decompositions for Quantum Compiling**|Qunsheng Huang et.al.|[2408.00354](http://arxiv.org/abs/2408.00354)|null|
+|**2024-08-01**|**Simulation of the continuous-time random walk using subordination schemes**|Danhua Jiang et.al.|[2408.00299](http://arxiv.org/abs/2408.00299)|null|
+|**2024-08-01**|**Invariant Discovery of Features Across Multiple Length Scales: Applications in Microscopy and Autonomous Materials Characterization**|Aditya Raghavan et.al.|[2408.00229](http://arxiv.org/abs/2408.00229)|null|
+|**2024-08-01**|**Extracting doubly-excited state lifetimes in helium directly in the time domain with attosecond noncollinear four-wave-mixing spectroscopy**|Patrick Rupprecht et.al.|[2408.00209](http://arxiv.org/abs/2408.00209)|null|
+|**2024-07-31**|**Chemical abundance gradients of organic molecules within a protostellar disk**|Levi G. Walls et.al.|[2408.00070](http://arxiv.org/abs/2408.00070)|null|
 |**2024-07-31**|**A concise 40 T pulse magnet for condensed matter experiments**|Akihiko Ikeda et.al.|[2407.21736](http://arxiv.org/abs/2407.21736)|null|
 |**2024-07-31**|**A General and Transferable Local Hybrid Functional from First Principles**|Christof Holzer et.al.|[2407.21727](http://arxiv.org/abs/2407.21727)|null|
 |**2024-07-31**|**CEAR: Automatic construction of a knowledge graph of chemical entities and roles from scientific literature**|Stefan Langer et.al.|[2407.21708](http://arxiv.org/abs/2407.21708)|null|
