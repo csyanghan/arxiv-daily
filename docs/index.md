@@ -78,6 +78,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Photoevaporation of protoplanetary discs with PLUTO+PRIZMO I. Lower X-ray-driven mass-loss rates due to enhanced cooling**|Andrew D. Sellek et.al.|[2408.00848](http://arxiv.org/abs/2408.00848)|null|
 |**2024-08-01**|**Thermal Conductivity Predictions with Foundation Atomistic Models**|Balázs Póta et.al.|[2408.00755](http://arxiv.org/abs/2408.00755)|null|
 |**2024-08-01**|**Quantum Program Testing Through Commuting Pauli Strings on IBM's Quantum Computers**|Asmar Muqeet et.al.|[2408.00501](http://arxiv.org/abs/2408.00501)|null|
 |**2024-08-01**|**Diffracting molecular matter-waves at deep-ultraviolet standing-light waves**|Ksenija Simonović et.al.|[2408.00461](http://arxiv.org/abs/2408.00461)|null|
