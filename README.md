@@ -84,6 +84,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**Controlling moving interfaces in solid state batteries**|Salem Mosleh et.al.|[2408.03175](http://arxiv.org/abs/2408.03175)|null|
+|**2024-08-06**|**Quantum Simulations of Chemistry in First Quantization with any Basis Set**|Timothy N. Georges et.al.|[2408.03145](http://arxiv.org/abs/2408.03145)|null|
+|**2024-08-06**|**On Ambient-light-induced intermolecular Coulombic decay in unbound pyridine monomers**|Shaivi Kesari et.al.|[2408.02981](http://arxiv.org/abs/2408.02981)|null|
+|**2024-08-06**|**A framework for incorporating binding energy distribution in gas-ice astrochemical models**|Kenji Furuya et.al.|[2408.02958](http://arxiv.org/abs/2408.02958)|null|
 |**2024-08-05**|**Quantum information theory on sparse wavefunctions and applications for Quantum Chemistry**|Davide Materia et.al.|[2408.02631](http://arxiv.org/abs/2408.02631)|null|
 |**2024-08-05**|**Non-commutative optimization problems with differential constraints**|Mateus Araújo et.al.|[2408.02572](http://arxiv.org/abs/2408.02572)|null|
 |**2024-08-05**|**Learning Atoms from Crystal Structure**|Andrij Vasylenko et.al.|[2408.02292](http://arxiv.org/abs/2408.02292)|null|
