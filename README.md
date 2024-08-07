@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.06
+## Updated on 2024.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -78,7 +78,7 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20240806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
 
 ## AI for Science
 
@@ -90,7 +90,7 @@
 |**2024-08-05**|**Strong Chemical Tagging in FIRE: Intra and Inter-Cluster Chemical Homogeneity in Open Clusters in Milky Way-like Galaxy Simulations**|Binod Bhattarai et.al.|[2408.02228](http://arxiv.org/abs/2408.02228)|null|
 |**2024-08-04**|**Extra Throughput versus Days Lost in load-shifting V2G services: Influence of dominant degradation mechanism**|Hamidreza Movahedi et.al.|[2408.02139](http://arxiv.org/abs/2408.02139)|null|
 |**2024-08-03**|**Dissolution zone model of the oxide structure in additively manufactured dispersion-strengthened alloys**|Wenyuan Hou et.al.|[2408.01845](http://arxiv.org/abs/2408.01845)|null|
-|**2024-08-03**|**Neural Network Enumerator for Atmospheric Chemical ODE**|Zhi-Song Liu et.al.|[2408.01829](http://arxiv.org/abs/2408.01829)|null|
+|**2024-08-06**|**Neural Network Emulator for Atmospheric Chemical ODE**|Zhi-Song Liu et.al.|[2408.01829](http://arxiv.org/abs/2408.01829)|null|
 |**2024-08-03**|**A Survey on Robotic Prosthetics: Neuroprosthetics, Soft Actuators, and Control Strategies**|Kumar J. Jyothish et.al.|[2408.01729](http://arxiv.org/abs/2408.01729)|null|
 |**2024-08-01**|**Design and Construction of a Test-Stand for the Split and Delay Line at the European XFEL**|Hong Xu et.al.|[2408.01472](http://arxiv.org/abs/2408.01472)|null|
 |**2024-08-01**|**Photoevaporation of protoplanetary discs with PLUTO+PRIZMO I. Lower X-ray-driven mass-loss rates due to enhanced cooling**|Andrew D. Sellek et.al.|[2408.00848](http://arxiv.org/abs/2408.00848)|null|
@@ -386,7 +386,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20240806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
