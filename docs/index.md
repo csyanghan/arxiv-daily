@@ -78,6 +78,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**JWST-TST High Contrast: Spectroscopic Characterization of the Benchmark Brown Dwarf HD 19467 B with the NIRSpec Integral Field Spectrograph**|Kielan K. W. Hoch et.al.|[2408.03830](http://arxiv.org/abs/2408.03830)|null|
+|**2024-08-07**|**Advancing spectroscopic understanding of HOCS $^+$ : Laboratory investigations and astronomical implications**|Valerio Lattanzi et.al.|[2408.03798](http://arxiv.org/abs/2408.03798)|null|
+|**2024-08-07**|**Question Rephrasing for Quantifying Uncertainty in Large Language Models: Applications in Molecular Chemistry Tasks**|Zizhang Chen et.al.|[2408.03732](http://arxiv.org/abs/2408.03732)|null|
+|**2024-08-07**|**Enantiomer-Selective Magnetoresistance in Chiral Gold Nanocrystals by Magnetic Control of Surface Potentials**|Fengxia Wu et.al.|[2408.03501](http://arxiv.org/abs/2408.03501)|null|
 |**2024-08-06**|**Controlling moving interfaces in solid state batteries**|Salem Mosleh et.al.|[2408.03175](http://arxiv.org/abs/2408.03175)|null|
 |**2024-08-06**|**Quantum Simulations of Chemistry in First Quantization with any Basis Set**|Timothy N. Georges et.al.|[2408.03145](http://arxiv.org/abs/2408.03145)|null|
 |**2024-08-06**|**On Ambient-light-induced intermolecular Coulombic decay in unbound pyridine monomers**|Shaivi Kesari et.al.|[2408.02981](http://arxiv.org/abs/2408.02981)|null|
