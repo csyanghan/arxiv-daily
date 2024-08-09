@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**Evaluating Language Model Math Reasoning via Grounding in Educational Curricula**|Li Lucy et.al.|[2408.04226](http://arxiv.org/abs/2408.04226)|**[link](https://github.com/allenai/mathfish)**|
 |**2024-07-31**|**Large Language Monkeys: Scaling Inference Compute with Repeated Sampling**|Bradley Brown et.al.|[2407.21787](http://arxiv.org/abs/2407.21787)|null|
 |**2024-07-29**|**Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process**|Tian Ye et.al.|[2407.20311](http://arxiv.org/abs/2407.20311)|null|
 |**2024-07-29**|**Concise Thoughts: Impact of Output Length on LLM Reasoning and Cost**|Sania Nayab et.al.|[2407.19825](http://arxiv.org/abs/2407.19825)|null|
@@ -78,6 +79,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**Modeling the Influence of Solvation on the Electrochemical Double Layer of Salt / Solvent Mixtures**|Constantin Schwetlick et.al.|[2408.04314](http://arxiv.org/abs/2408.04314)|null|
 |**2024-08-07**|**JWST-TST High Contrast: Spectroscopic Characterization of the Benchmark Brown Dwarf HD 19467 B with the NIRSpec Integral Field Spectrograph**|Kielan K. W. Hoch et.al.|[2408.03830](http://arxiv.org/abs/2408.03830)|null|
 |**2024-08-07**|**Advancing spectroscopic understanding of HOCS $^+$ : Laboratory investigations and astronomical implications**|Valerio Lattanzi et.al.|[2408.03798](http://arxiv.org/abs/2408.03798)|null|
 |**2024-08-07**|**Question Rephrasing for Quantifying Uncertainty in Large Language Models: Applications in Molecular Chemistry Tasks**|Zizhang Chen et.al.|[2408.03732](http://arxiv.org/abs/2408.03732)|null|
