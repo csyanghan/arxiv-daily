@@ -79,6 +79,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**Revisiting physical parameters of the benchmark brown dwarf LHS 6343 C through a HST/WFC3 secondary eclipse observation**|William Frost et.al.|[2408.05173](http://arxiv.org/abs/2408.05173)|null|
+|**2024-08-09**|**The Effect of Blue and Infrared Laser Melting Frequency on Oxide Morphology in 304L**|Jonathan S. Paras et.al.|[2408.05144](http://arxiv.org/abs/2408.05144)|null|
+|**2024-08-09**|**Model underestimates of OH reactivity cause overestimate of hydrogen's climate impact**|Laura H. Yang et.al.|[2408.05127](http://arxiv.org/abs/2408.05127)|null|
+|**2024-08-09**|**BoFire: Bayesian Optimization Framework Intended for Real Experiments**|Johannes P. Dürholt et.al.|[2408.05040](http://arxiv.org/abs/2408.05040)|null|
+|**2024-08-09**|**Survey on Computational Applications of Tensor Network Simulations**|Marcos Díez García et.al.|[2408.05011](http://arxiv.org/abs/2408.05011)|null|
+|**2024-08-09**|**Investigating and improving student understanding of the basics of quantum computing**|Peter Hu et.al.|[2408.04859](http://arxiv.org/abs/2408.04859)|null|
 |**2024-08-08**|**Modeling the Influence of Solvation on the Electrochemical Double Layer of Salt / Solvent Mixtures**|Constantin Schwetlick et.al.|[2408.04314](http://arxiv.org/abs/2408.04314)|null|
 |**2024-08-07**|**JWST-TST High Contrast: Spectroscopic Characterization of the Benchmark Brown Dwarf HD 19467 B with the NIRSpec Integral Field Spectrograph**|Kielan K. W. Hoch et.al.|[2408.03830](http://arxiv.org/abs/2408.03830)|null|
 |**2024-08-07**|**Advancing spectroscopic understanding of HOCS $^+$ : Laboratory investigations and astronomical implications**|Valerio Lattanzi et.al.|[2408.03798](http://arxiv.org/abs/2408.03798)|null|
