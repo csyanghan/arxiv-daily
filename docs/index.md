@@ -14,12 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers**|Zhenting Qi et.al.|[2408.06195](http://arxiv.org/abs/2408.06195)|null|
 |**2024-08-09**|**Evaluating Language Model Math Reasoning via Grounding in Educational Curricula**|Li Lucy et.al.|[2408.04226](http://arxiv.org/abs/2408.04226)|**[link](https://github.com/allenai/mathfish)**|
 |**2024-07-31**|**Large Language Monkeys: Scaling Inference Compute with Repeated Sampling**|Bradley Brown et.al.|[2407.21787](http://arxiv.org/abs/2407.21787)|null|
 |**2024-07-29**|**Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process**|Tian Ye et.al.|[2407.20311](http://arxiv.org/abs/2407.20311)|null|
 |**2024-07-29**|**Concise Thoughts: Impact of Output Length on LLM Reasoning and Cost**|Sania Nayab et.al.|[2407.19825](http://arxiv.org/abs/2407.19825)|null|
 |**2024-07-26**|**Recursive Introspection: Teaching Language Model Agents How to Self-Improve**|Yuxiao Qu et.al.|[2407.18219](http://arxiv.org/abs/2407.18219)|null|
-|**2024-07-24**|**Boosting Large Language Models with Socratic Method for Conversational Mathematics Teaching**|Yuyang Ding et.al.|[2407.17349](http://arxiv.org/abs/2407.17349)|null|
+|**2024-07-24**|**Boosting Large Language Models with Socratic Method for Conversational Mathematics Teaching**|Yuyang Ding et.al.|[2407.17349](http://arxiv.org/abs/2407.17349)|**[link](https://github.com/ecnu-icalk/socraticmath)**|
 |**2024-07-18**|**Learning Goal-Conditioned Representations for Language Reward Models**|Vaskar Nath et.al.|[2407.13887](http://arxiv.org/abs/2407.13887)|**[link](https://github.com/vaskarnathscale/goal-conditioned-rm)**|
 |**2024-07-18**|**Weak-to-Strong Reasoning**|Yuqing Yang et.al.|[2407.13647](http://arxiv.org/abs/2407.13647)|**[link](https://github.com/gair-nlp/weak-to-strong-reasoning)**|
 |**2024-07-12**|**Token-Supervised Value Models for Enhancing Mathematical Reasoning Capabilities of Large Language Models**|Jung Hyun Lee et.al.|[2407.12863](http://arxiv.org/abs/2407.12863)|null|
@@ -79,6 +80,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**Discovering High-Entropy Oxides with a Machine-Learning Interatomic Potential**|Jacob T. Sivak et.al.|[2408.06322](http://arxiv.org/abs/2408.06322)|null|
+|**2024-08-12**|**Open-Source Molecular Processing Pipeline for Generating Molecules**|Shreyas V et.al.|[2408.06261](http://arxiv.org/abs/2408.06261)|null|
+|**2024-08-12**|**SOFI: Finding point group symmetries in atomic clusters as finding the set of degenerate solutions in a shape-matching problem**|Miha Gunde et.al.|[2408.06131](http://arxiv.org/abs/2408.06131)|null|
+|**2024-08-12**|**Disentangling the dust and gas contributions of the JWST/MIRI spectrum of Sz28**|T. Kaeufer et.al.|[2408.06077](http://arxiv.org/abs/2408.06077)|null|
+|**2024-08-12**|**Constructing accurate and efficient general-purpose atomistic machine learning model with transferable accuracy for quantum chemistry**|Yicheng Chen et.al.|[2408.05932](http://arxiv.org/abs/2408.05932)|null|
+|**2024-08-11**|**Optimal overlapping tomography**|Kiara Hansenne et.al.|[2408.05730](http://arxiv.org/abs/2408.05730)|null|
+|**2024-08-10**|**Modeling Multi-Step Scientific Processes with Graph Transformer Networks**|Amanda A. Volk et.al.|[2408.05425](http://arxiv.org/abs/2408.05425)|null|
+|**2024-08-09**|**Distributed Quantum Computing for Chemical Applications**|Grier M. Jones et.al.|[2408.05351](http://arxiv.org/abs/2408.05351)|null|
 |**2024-08-09**|**Revisiting physical parameters of the benchmark brown dwarf LHS 6343 C through a HST/WFC3 secondary eclipse observation**|William Frost et.al.|[2408.05173](http://arxiv.org/abs/2408.05173)|null|
 |**2024-08-09**|**The Effect of Blue and Infrared Laser Melting Frequency on Oxide Morphology in 304L**|Jonathan S. Paras et.al.|[2408.05144](http://arxiv.org/abs/2408.05144)|null|
 |**2024-08-09**|**Model underestimates of OH reactivity cause overestimate of hydrogen's climate impact**|Laura H. Yang et.al.|[2408.05127](http://arxiv.org/abs/2408.05127)|null|
