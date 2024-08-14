@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.13
+## Updated on 2024.08.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -80,7 +80,7 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20240813>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240814>back to top</a>)</p>
 
 ## AI for Science
 
@@ -88,7 +88,7 @@
 |---|---|---|---|---|
 |**2024-08-12**|**Discovering High-Entropy Oxides with a Machine-Learning Interatomic Potential**|Jacob T. Sivak et.al.|[2408.06322](http://arxiv.org/abs/2408.06322)|null|
 |**2024-08-12**|**Open-Source Molecular Processing Pipeline for Generating Molecules**|Shreyas V et.al.|[2408.06261](http://arxiv.org/abs/2408.06261)|null|
-|**2024-08-12**|**SOFI: Finding point group symmetries in atomic clusters as finding the set of degenerate solutions in a shape-matching problem**|Miha Gunde et.al.|[2408.06131](http://arxiv.org/abs/2408.06131)|null|
+|**2024-08-13**|**SOFI: Finding point group symmetries in atomic clusters as finding the set of degenerate solutions in a shape-matching problem**|Miha Gunde et.al.|[2408.06131](http://arxiv.org/abs/2408.06131)|null|
 |**2024-08-12**|**Disentangling the dust and gas contributions of the JWST/MIRI spectrum of Sz28**|T. Kaeufer et.al.|[2408.06077](http://arxiv.org/abs/2408.06077)|null|
 |**2024-08-12**|**Constructing accurate and efficient general-purpose atomistic machine learning model with transferable accuracy for quantum chemistry**|Yicheng Chen et.al.|[2408.05932](http://arxiv.org/abs/2408.05932)|null|
 |**2024-08-11**|**Optimal overlapping tomography**|Kiara Hansenne et.al.|[2408.05730](http://arxiv.org/abs/2408.05730)|null|
@@ -411,7 +411,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20240813>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240814>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

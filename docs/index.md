@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.13
+## Updated on 2024.08.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -82,7 +82,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-12**|**Discovering High-Entropy Oxides with a Machine-Learning Interatomic Potential**|Jacob T. Sivak et.al.|[2408.06322](http://arxiv.org/abs/2408.06322)|null|
 |**2024-08-12**|**Open-Source Molecular Processing Pipeline for Generating Molecules**|Shreyas V et.al.|[2408.06261](http://arxiv.org/abs/2408.06261)|null|
-|**2024-08-12**|**SOFI: Finding point group symmetries in atomic clusters as finding the set of degenerate solutions in a shape-matching problem**|Miha Gunde et.al.|[2408.06131](http://arxiv.org/abs/2408.06131)|null|
+|**2024-08-13**|**SOFI: Finding point group symmetries in atomic clusters as finding the set of degenerate solutions in a shape-matching problem**|Miha Gunde et.al.|[2408.06131](http://arxiv.org/abs/2408.06131)|null|
 |**2024-08-12**|**Disentangling the dust and gas contributions of the JWST/MIRI spectrum of Sz28**|T. Kaeufer et.al.|[2408.06077](http://arxiv.org/abs/2408.06077)|null|
 |**2024-08-12**|**Constructing accurate and efficient general-purpose atomistic machine learning model with transferable accuracy for quantum chemistry**|Yicheng Chen et.al.|[2408.05932](http://arxiv.org/abs/2408.05932)|null|
 |**2024-08-11**|**Optimal overlapping tomography**|Kiara Hansenne et.al.|[2408.05730](http://arxiv.org/abs/2408.05730)|null|
