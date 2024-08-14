@@ -86,6 +86,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Geminal theory within the seniority formalism and bi-variational principle**|Stijn De Baerdemacker et.al.|[2408.06842](http://arxiv.org/abs/2408.06842)|null|
+|**2024-08-13**|**Trions Stimulate Electronic Coupling in Colloidal Quantum Dot Molecules**|Jordi Llusar et.al.|[2408.06706](http://arxiv.org/abs/2408.06706)|null|
+|**2024-08-12**|**From Graphs to Qubits: A Critical Review of Quantum Graph Neural Networks**|Andrea Ceschini et.al.|[2408.06524](http://arxiv.org/abs/2408.06524)|null|
 |**2024-08-12**|**Discovering High-Entropy Oxides with a Machine-Learning Interatomic Potential**|Jacob T. Sivak et.al.|[2408.06322](http://arxiv.org/abs/2408.06322)|null|
 |**2024-08-12**|**Open-Source Molecular Processing Pipeline for Generating Molecules**|Shreyas V et.al.|[2408.06261](http://arxiv.org/abs/2408.06261)|null|
 |**2024-08-13**|**SOFI: Finding point group symmetries in atomic clusters as finding the set of degenerate solutions in a shape-matching problem**|Miha Gunde et.al.|[2408.06131](http://arxiv.org/abs/2408.06131)|null|
