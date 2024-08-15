@@ -86,6 +86,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**Towards large eddy simulations of premixed turbulent flames without a combustion model**|Andrei N. Lipatnikov et.al.|[2408.07668](http://arxiv.org/abs/2408.07668)|null|
+|**2024-08-14**|**Neural Quantum States and Peaked Molecular Wave Functions: Curse or Blessing?**|Aleksei Malyshev et.al.|[2408.07625](http://arxiv.org/abs/2408.07625)|null|
+|**2024-08-14**|**Plasmonic Particle Integration into Near-Infrared Photodetectors and Photoactivated Gas Sensors: Towards Sustainable Next-Generation Ubiquitous Sensing**|Hendrik Schlicke et.al.|[2408.07586](http://arxiv.org/abs/2408.07586)|null|
+|**2024-08-14**|**Predictions of the interfacial free energy along the coexistence line from single-state calculations**|Ignacio Sanchez-Burgos et.al.|[2408.07469](http://arxiv.org/abs/2408.07469)|null|
+|**2024-08-14**|**Seeing and Understanding: Bridging Vision with Chemical Knowledge Via ChemVLM**|Junxian Li et.al.|[2408.07246](http://arxiv.org/abs/2408.07246)|null|
 |**2024-08-13**|**Geminal theory within the seniority formalism and bi-variational principle**|Stijn De Baerdemacker et.al.|[2408.06842](http://arxiv.org/abs/2408.06842)|null|
 |**2024-08-13**|**Trions Stimulate Electronic Coupling in Colloidal Quantum Dot Molecules**|Jordi Llusar et.al.|[2408.06706](http://arxiv.org/abs/2408.06706)|null|
 |**2024-08-12**|**From Graphs to Qubits: A Critical Review of Quantum Graph Neural Networks**|Andrea Ceschini et.al.|[2408.06524](http://arxiv.org/abs/2408.06524)|null|
