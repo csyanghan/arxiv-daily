@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-18**|**Threshold Filtering Packing for Supervised Fine-Tuning: Training Related Samples within Packs**|Jiancheng Dong et.al.|[2408.09327](http://arxiv.org/abs/2408.09327)|null|
 |**2024-08-16**|**SelectLLM: Query-Aware Efficient Selection Algorithm for Large Language Models**|Kaushal Kumar Maurya et.al.|[2408.08545](http://arxiv.org/abs/2408.08545)|null|
 |**2024-08-12**|**Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers**|Zhenting Qi et.al.|[2408.06195](http://arxiv.org/abs/2408.06195)|null|
 |**2024-08-09**|**Evaluating Language Model Math Reasoning via Grounding in Educational Curricula**|Li Lucy et.al.|[2408.04226](http://arxiv.org/abs/2408.04226)|**[link](https://github.com/allenai/mathfish)**|
@@ -81,6 +82,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model**|Yuran Xiang et.al.|[2408.09896](http://arxiv.org/abs/2408.09896)|**[link](https://github.com/ran1812/utgdiff)**|
+|**2024-08-18**|**Nodal higher-order topological superconductivity from C6-symmetric Dirac semimetals**|Guan-Hao Feng et.al.|[2408.09541](http://arxiv.org/abs/2408.09541)|null|
+|**2024-08-18**|**Advancements in Molecular Property Prediction: A Survey of Single and Multimodal Approaches**|Tanya Liyaqat et.al.|[2408.09461](http://arxiv.org/abs/2408.09461)|null|
+|**2024-08-18**|**All-Electron Molecular Tunnel Ionization Based on the Weak-Field Asymptotic Theory in the Integral Representation**|Imam S. Wahyutama et.al.|[2408.09372](http://arxiv.org/abs/2408.09372)|null|
+|**2024-08-17**|**Understanding and mitigating noise in molecular quantum linear response for spectroscopic properties on quantum computers**|Karl Michael Ziems et.al.|[2408.09308](http://arxiv.org/abs/2408.09308)|null|
 |**2024-08-15**|**The Dawn of KAN in Image-to-Image (I2I) Translation: Integrating Kolmogorov-Arnold Networks with GANs for Unpaired I2I Translation**|Arpan Mahara et.al.|[2408.08216](http://arxiv.org/abs/2408.08216)|null|
 |**2024-08-15**|**Efficient Composite Infrared Spectroscopy: Combining the Doubly-Harmonic Approximation with Machine Learning Potentials**|Philipp Pracht et.al.|[2408.08174](http://arxiv.org/abs/2408.08174)|null|
 |**2024-08-15**|**Chemical complexity and dust formation around evolved stars**|Marie Van de Sande et.al.|[2408.08153](http://arxiv.org/abs/2408.08153)|null|
