@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.19
+## Updated on 2024.08.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -85,7 +85,7 @@ layout: default
 |**2024-08-15**|**Efficient Composite Infrared Spectroscopy: Combining the Doubly-Harmonic Approximation with Machine Learning Potentials**|Philipp Pracht et.al.|[2408.08174](http://arxiv.org/abs/2408.08174)|null|
 |**2024-08-15**|**Chemical complexity and dust formation around evolved stars**|Marie Van de Sande et.al.|[2408.08153](http://arxiv.org/abs/2408.08153)|null|
 |**2024-08-15**|**Hessian QM9: A quantum chemistry database of molecular Hessians in implicit solvents**|Nicholas J. Williams et.al.|[2408.08006](http://arxiv.org/abs/2408.08006)|null|
-|**2024-08-15**|**Unveiling the Cosmic Chemistry: Revisiting the Mass-Metallicity Relation with JWST/NIRSpec at 4 < z < 10**|Arnab Sarkar et.al.|[2408.07974](http://arxiv.org/abs/2408.07974)|null|
+|**2024-08-16**|**Unveiling the Cosmic Chemistry: Revisiting the Mass-Metallicity Relation with JWST/NIRSpec at 4 < z < 10**|Arnab Sarkar et.al.|[2408.07974](http://arxiv.org/abs/2408.07974)|null|
 |**2024-08-15**|**Efficient simulation of inhomogeneously correlated systems using block interaction product states**|Yifan Cheng et.al.|[2408.07965](http://arxiv.org/abs/2408.07965)|null|
 |**2024-08-14**|**Towards large eddy simulations of premixed turbulent flames without a combustion model**|Andrei N. Lipatnikov et.al.|[2408.07668](http://arxiv.org/abs/2408.07668)|null|
 |**2024-08-14**|**Neural Quantum States and Peaked Molecular Wave Functions: Curse or Blessing?**|Aleksei Malyshev et.al.|[2408.07625](http://arxiv.org/abs/2408.07625)|null|

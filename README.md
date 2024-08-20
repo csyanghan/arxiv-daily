@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.19
+## Updated on 2024.08.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -81,7 +81,7 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
 
 ## AI for Science
 
@@ -91,7 +91,7 @@
 |**2024-08-15**|**Efficient Composite Infrared Spectroscopy: Combining the Doubly-Harmonic Approximation with Machine Learning Potentials**|Philipp Pracht et.al.|[2408.08174](http://arxiv.org/abs/2408.08174)|null|
 |**2024-08-15**|**Chemical complexity and dust formation around evolved stars**|Marie Van de Sande et.al.|[2408.08153](http://arxiv.org/abs/2408.08153)|null|
 |**2024-08-15**|**Hessian QM9: A quantum chemistry database of molecular Hessians in implicit solvents**|Nicholas J. Williams et.al.|[2408.08006](http://arxiv.org/abs/2408.08006)|null|
-|**2024-08-15**|**Unveiling the Cosmic Chemistry: Revisiting the Mass-Metallicity Relation with JWST/NIRSpec at 4 < z < 10**|Arnab Sarkar et.al.|[2408.07974](http://arxiv.org/abs/2408.07974)|null|
+|**2024-08-16**|**Unveiling the Cosmic Chemistry: Revisiting the Mass-Metallicity Relation with JWST/NIRSpec at 4 < z < 10**|Arnab Sarkar et.al.|[2408.07974](http://arxiv.org/abs/2408.07974)|null|
 |**2024-08-15**|**Efficient simulation of inhomogeneously correlated systems using block interaction product states**|Yifan Cheng et.al.|[2408.07965](http://arxiv.org/abs/2408.07965)|null|
 |**2024-08-14**|**Towards large eddy simulations of premixed turbulent flames without a combustion model**|Andrei N. Lipatnikov et.al.|[2408.07668](http://arxiv.org/abs/2408.07668)|null|
 |**2024-08-14**|**Neural Quantum States and Peaked Molecular Wave Functions: Curse or Blessing?**|Aleksei Malyshev et.al.|[2408.07625](http://arxiv.org/abs/2408.07625)|null|
@@ -426,7 +426,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
