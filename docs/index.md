@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**Benchmarking Large Language Models for Math Reasoning Tasks**|Kathrin Seßler et.al.|[2408.10839](http://arxiv.org/abs/2408.10839)|null|
 |**2024-08-18**|**Threshold Filtering Packing for Supervised Fine-Tuning: Training Related Samples within Packs**|Jiancheng Dong et.al.|[2408.09327](http://arxiv.org/abs/2408.09327)|null|
 |**2024-08-16**|**SelectLLM: Query-Aware Efficient Selection Algorithm for Large Language Models**|Kaushal Kumar Maurya et.al.|[2408.08545](http://arxiv.org/abs/2408.08545)|null|
 |**2024-08-12**|**Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers**|Zhenting Qi et.al.|[2408.06195](http://arxiv.org/abs/2408.06195)|null|
@@ -82,6 +83,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**Data-driven prediction of structure of metal-organic frameworks**|Elizaveta Yakovenko et.al.|[2408.10814](http://arxiv.org/abs/2408.10814)|null|
+|**2024-08-20**|**Solving an Industrially Relevant Quantum Chemistry Problem on Quantum Hardware**|Ludwig Nützel et.al.|[2408.10801](http://arxiv.org/abs/2408.10801)|null|
+|**2024-08-19**|**Enhanced strong-field ionization and fragmentation of methanol using non-commensurate fields**|Eladio Prieto Zamudio et.al.|[2408.10423](http://arxiv.org/abs/2408.10423)|null|
+|**2024-08-19**|**BatGPT-Chem: A Foundation Large Model For Retrosynthesis Prediction**|Yifei Yang et.al.|[2408.10285](http://arxiv.org/abs/2408.10285)|null|
 |**2024-08-19**|**Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model**|Yuran Xiang et.al.|[2408.09896](http://arxiv.org/abs/2408.09896)|**[link](https://github.com/ran1812/utgdiff)**|
 |**2024-08-18**|**Nodal higher-order topological superconductivity from C6-symmetric Dirac semimetals**|Guan-Hao Feng et.al.|[2408.09541](http://arxiv.org/abs/2408.09541)|null|
 |**2024-08-18**|**Advancements in Molecular Property Prediction: A Survey of Single and Multimodal Approaches**|Tanya Liyaqat et.al.|[2408.09461](http://arxiv.org/abs/2408.09461)|null|
