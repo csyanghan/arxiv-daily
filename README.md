@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.21
+## Updated on 2024.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -83,7 +83,7 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20240821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240822>back to top</a>)</p>
 
 ## AI for Science
 
@@ -94,7 +94,7 @@
 |**2024-08-19**|**Enhanced strong-field ionization and fragmentation of methanol using non-commensurate fields**|Eladio Prieto Zamudio et.al.|[2408.10423](http://arxiv.org/abs/2408.10423)|null|
 |**2024-08-19**|**BatGPT-Chem: A Foundation Large Model For Retrosynthesis Prediction**|Yifei Yang et.al.|[2408.10285](http://arxiv.org/abs/2408.10285)|null|
 |**2024-08-19**|**Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model**|Yuran Xiang et.al.|[2408.09896](http://arxiv.org/abs/2408.09896)|**[link](https://github.com/ran1812/utgdiff)**|
-|**2024-08-18**|**Nodal higher-order topological superconductivity from C6-symmetric Dirac semimetals**|Guan-Hao Feng et.al.|[2408.09541](http://arxiv.org/abs/2408.09541)|null|
+|**2024-08-21**|**Nodal higher-order topological superconductivity from C6-symmetric Dirac semimetals**|Guan-Hao Feng et.al.|[2408.09541](http://arxiv.org/abs/2408.09541)|null|
 |**2024-08-18**|**Advancements in Molecular Property Prediction: A Survey of Single and Multimodal Approaches**|Tanya Liyaqat et.al.|[2408.09461](http://arxiv.org/abs/2408.09461)|null|
 |**2024-08-18**|**All-Electron Molecular Tunnel Ionization Based on the Weak-Field Asymptotic Theory in the Integral Representation**|Imam S. Wahyutama et.al.|[2408.09372](http://arxiv.org/abs/2408.09372)|null|
 |**2024-08-17**|**Understanding and mitigating noise in molecular quantum linear response for spectroscopic properties on quantum computers**|Karl Michael Ziems et.al.|[2408.09308](http://arxiv.org/abs/2408.09308)|null|
@@ -437,7 +437,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20240821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240822>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

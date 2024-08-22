@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.21
+## Updated on 2024.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -88,7 +88,7 @@ layout: default
 |**2024-08-19**|**Enhanced strong-field ionization and fragmentation of methanol using non-commensurate fields**|Eladio Prieto Zamudio et.al.|[2408.10423](http://arxiv.org/abs/2408.10423)|null|
 |**2024-08-19**|**BatGPT-Chem: A Foundation Large Model For Retrosynthesis Prediction**|Yifei Yang et.al.|[2408.10285](http://arxiv.org/abs/2408.10285)|null|
 |**2024-08-19**|**Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model**|Yuran Xiang et.al.|[2408.09896](http://arxiv.org/abs/2408.09896)|**[link](https://github.com/ran1812/utgdiff)**|
-|**2024-08-18**|**Nodal higher-order topological superconductivity from C6-symmetric Dirac semimetals**|Guan-Hao Feng et.al.|[2408.09541](http://arxiv.org/abs/2408.09541)|null|
+|**2024-08-21**|**Nodal higher-order topological superconductivity from C6-symmetric Dirac semimetals**|Guan-Hao Feng et.al.|[2408.09541](http://arxiv.org/abs/2408.09541)|null|
 |**2024-08-18**|**Advancements in Molecular Property Prediction: A Survey of Single and Multimodal Approaches**|Tanya Liyaqat et.al.|[2408.09461](http://arxiv.org/abs/2408.09461)|null|
 |**2024-08-18**|**All-Electron Molecular Tunnel Ionization Based on the Weak-Field Asymptotic Theory in the Integral Representation**|Imam S. Wahyutama et.al.|[2408.09372](http://arxiv.org/abs/2408.09372)|null|
 |**2024-08-17**|**Understanding and mitigating noise in molecular quantum linear response for spectroscopic properties on quantum computers**|Karl Michael Ziems et.al.|[2408.09308](http://arxiv.org/abs/2408.09308)|null|
