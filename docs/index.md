@@ -83,6 +83,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**Leveraging Chemistry Foundation Models to Facilitate Structure Focused Retrieval Augmented Generation in Multi-Agent Workflows for Catalyst and Materials Design**|Nathaniel H. Park et.al.|[2408.11793](http://arxiv.org/abs/2408.11793)|null|
+|**2024-08-21**|**Local order metrics for many-particle systems across length scales**|Charles Emmett Maher et.al.|[2408.11702](http://arxiv.org/abs/2408.11702)|null|
+|**2024-08-21**|**Bridging experiment and theory of relaxor ferroelectrics at the atomic scale with multislice electron ptychography**|Menglin Zhu et.al.|[2408.11685](http://arxiv.org/abs/2408.11685)|null|
+|**2024-08-21**|**Double tips for in-plane polarized near-field microscopy and spectroscopy**|Patryk Kusch et.al.|[2408.11534](http://arxiv.org/abs/2408.11534)|null|
+|**2024-08-20**|**Calculating the energy profile of an enzymatic reaction on a quantum computer**|Patrick Ettenhuber et.al.|[2408.11091](http://arxiv.org/abs/2408.11091)|null|
 |**2024-08-20**|**Data-driven prediction of structure of metal-organic frameworks**|Elizaveta Yakovenko et.al.|[2408.10814](http://arxiv.org/abs/2408.10814)|null|
 |**2024-08-20**|**Solving an Industrially Relevant Quantum Chemistry Problem on Quantum Hardware**|Ludwig Nützel et.al.|[2408.10801](http://arxiv.org/abs/2408.10801)|null|
 |**2024-08-19**|**Enhanced strong-field ionization and fragmentation of methanol using non-commensurate fields**|Eladio Prieto Zamudio et.al.|[2408.10423](http://arxiv.org/abs/2408.10423)|null|
