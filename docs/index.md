@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Multi-tool Integration Application for Math Reasoning Using Large Language Model**|Zhihua Duan et.al.|[2408.12148](http://arxiv.org/abs/2408.12148)|null|
 |**2024-08-20**|**Benchmarking Large Language Models for Math Reasoning Tasks**|Kathrin Seßler et.al.|[2408.10839](http://arxiv.org/abs/2408.10839)|null|
 |**2024-08-18**|**Threshold Filtering Packing for Supervised Fine-Tuning: Training Related Samples within Packs**|Jiancheng Dong et.al.|[2408.09327](http://arxiv.org/abs/2408.09327)|null|
 |**2024-08-16**|**SelectLLM: Query-Aware Efficient Selection Algorithm for Large Language Models**|Kaushal Kumar Maurya et.al.|[2408.08545](http://arxiv.org/abs/2408.08545)|null|
@@ -83,6 +84,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Self-Organization in Computation & Chemistry: Return to AlChemy**|Cole Mathis et.al.|[2408.12137](http://arxiv.org/abs/2408.12137)|null|
+|**2024-08-22**|**Molecular Quantum Chemical Data Sets and Databases for Machine Learning Potentials**|Arif Ullah et.al.|[2408.12058](http://arxiv.org/abs/2408.12058)|null|
 |**2024-08-21**|**Leveraging Chemistry Foundation Models to Facilitate Structure Focused Retrieval Augmented Generation in Multi-Agent Workflows for Catalyst and Materials Design**|Nathaniel H. Park et.al.|[2408.11793](http://arxiv.org/abs/2408.11793)|null|
 |**2024-08-21**|**Local order metrics for many-particle systems across length scales**|Charles Emmett Maher et.al.|[2408.11702](http://arxiv.org/abs/2408.11702)|null|
 |**2024-08-21**|**Bridging experiment and theory of relaxor ferroelectrics at the atomic scale with multislice electron ptychography**|Menglin Zhu et.al.|[2408.11685](http://arxiv.org/abs/2408.11685)|null|
