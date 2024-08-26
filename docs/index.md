@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.25
+## Updated on 2024.08.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -84,7 +84,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-22**|**Self-Organization in Computation & Chemistry: Return to AlChemy**|Cole Mathis et.al.|[2408.12137](http://arxiv.org/abs/2408.12137)|null|
+|**2024-08-23**|**Self-Organization in Computation & Chemistry: Return to AlChemy**|Cole Mathis et.al.|[2408.12137](http://arxiv.org/abs/2408.12137)|null|
 |**2024-08-22**|**Molecular Quantum Chemical Data Sets and Databases for Machine Learning Potentials**|Arif Ullah et.al.|[2408.12058](http://arxiv.org/abs/2408.12058)|null|
 |**2024-08-21**|**Leveraging Chemistry Foundation Models to Facilitate Structure Focused Retrieval Augmented Generation in Multi-Agent Workflows for Catalyst and Materials Design**|Nathaniel H. Park et.al.|[2408.11793](http://arxiv.org/abs/2408.11793)|null|
 |**2024-08-21**|**Local order metrics for many-particle systems across length scales**|Charles Emmett Maher et.al.|[2408.11702](http://arxiv.org/abs/2408.11702)|null|
