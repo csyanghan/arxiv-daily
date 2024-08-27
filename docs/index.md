@@ -84,6 +84,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Employing Artificial Intelligence to Steer Exascale Workflows with Colmena**|Logan Ward et.al.|[2408.14434](http://arxiv.org/abs/2408.14434)|null|
+|**2024-08-26**|**Prediction rigidities for data-driven chemistry**|Sanggyu Chong et.al.|[2408.14311](http://arxiv.org/abs/2408.14311)|null|
+|**2024-08-26**|**Non-Iterative Disentangled Unitary Coupled-Cluster based on Lie-algebraic structure**|Mohammad Haidar et.al.|[2408.14289](http://arxiv.org/abs/2408.14289)|null|
+|**2024-08-26**|**All-microwave readout, spectroscopy, and dynamic polarization of individual nuclear spins in a crystal**|J. Travesedo et.al.|[2408.14282](http://arxiv.org/abs/2408.14282)|null|
+|**2024-08-24**|**Quantized Embedding Approaches for Collective Strong Coupling -- Connecting ab initio and macroscopic QED to Simple Models in Polaritonics**|Frieder Lindel et.al.|[2408.13570](http://arxiv.org/abs/2408.13570)|null|
+|**2024-08-23**|**Femtosecond Core-Level Charge Transfer**|Simon P. Neville et.al.|[2408.13365](http://arxiv.org/abs/2408.13365)|null|
+|**2024-08-23**|**QuCLEAR: Clifford Extraction and Absorption for Significant Reduction in Quantum Circuit Size**|Ji Liu et.al.|[2408.13316](http://arxiv.org/abs/2408.13316)|null|
 |**2024-08-23**|**Self-Organization in Computation & Chemistry: Return to AlChemy**|Cole Mathis et.al.|[2408.12137](http://arxiv.org/abs/2408.12137)|null|
 |**2024-08-22**|**Molecular Quantum Chemical Data Sets and Databases for Machine Learning Potentials**|Arif Ullah et.al.|[2408.12058](http://arxiv.org/abs/2408.12058)|null|
 |**2024-08-21**|**Leveraging Chemistry Foundation Models to Facilitate Structure Focused Retrieval Augmented Generation in Multi-Agent Workflows for Catalyst and Materials Design**|Nathaniel H. Park et.al.|[2408.11793](http://arxiv.org/abs/2408.11793)|null|
