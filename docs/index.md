@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**Generative Verifiers: Reward Modeling as Next-Token Prediction**|Lunjun Zhang et.al.|[2408.15240](http://arxiv.org/abs/2408.15240)|null|
 |**2024-08-22**|**Multi-tool Integration Application for Math Reasoning Using Large Language Model**|Zhihua Duan et.al.|[2408.12148](http://arxiv.org/abs/2408.12148)|null|
 |**2024-08-20**|**Benchmarking Large Language Models for Math Reasoning Tasks**|Kathrin Seßler et.al.|[2408.10839](http://arxiv.org/abs/2408.10839)|null|
 |**2024-08-18**|**Threshold Filtering Packing for Supervised Fine-Tuning: Training Related Samples within Packs**|Jiancheng Dong et.al.|[2408.09327](http://arxiv.org/abs/2408.09327)|null|
@@ -84,6 +85,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**A Yebes W band Line Survey towards an Unshocked Molecular Cloud of Supernova Remnant 3C391: Evidence of Cosmic-Ray-Induced Chemistry**|Tian-Yu Tu et.al.|[2408.15175](http://arxiv.org/abs/2408.15175)|null|
+|**2024-08-27**|**Force-Guided Bridge Matching for Full-Atom Time-Coarsened Dynamics of Peptides**|Ziyang Yu et.al.|[2408.15126](http://arxiv.org/abs/2408.15126)|**[link](https://github.com/yaledeus/fbm)**|
+|**2024-08-27**|**Understanding kinetic interactions between NOx and C2-C5 alkanes and alkenes: The rate rules and influences of H-atom abstractions by NO2**|Hongqing Wu et.al.|[2408.15023](http://arxiv.org/abs/2408.15023)|null|
+|**2024-08-27**|**Cross-Modal Learning for Chemistry Property Prediction: Large Language Models Meet Graph Machine Learning**|Sakhinana Sagar Srinivas et.al.|[2408.14964](http://arxiv.org/abs/2408.14964)|null|
+|**2024-08-27**|**Controlling few-body reaction pathways using a Feshbach resonance**|Shinsuke Haze et.al.|[2408.14922](http://arxiv.org/abs/2408.14922)|null|
+|**2024-08-27**|**Long-lived entanglement of molecules in magic-wavelength optical tweezers**|Daniel K. Ruttley et.al.|[2408.14904](http://arxiv.org/abs/2408.14904)|null|
+|**2024-08-27**|**Molecular Entanglement Witness by Absorption Spectroscopy in Cavity QED**|Weijun Wu et.al.|[2408.14782](http://arxiv.org/abs/2408.14782)|null|
+|**2024-08-26**|**Circumventing Traps in Analog Quantum Machine Learning Algorithms Through Co-Design**|Rodrigo Araiza Bravo et.al.|[2408.14697](http://arxiv.org/abs/2408.14697)|null|
+|**2024-08-26**|**A recipe for local simulation of strongly-correlated fermionic matter on quantum computers: the 2D Fermi-Hubbard model**|Arash Jafarizadeh et.al.|[2408.14543](http://arxiv.org/abs/2408.14543)|null|
 |**2024-08-26**|**Employing Artificial Intelligence to Steer Exascale Workflows with Colmena**|Logan Ward et.al.|[2408.14434](http://arxiv.org/abs/2408.14434)|null|
 |**2024-08-26**|**Prediction rigidities for data-driven chemistry**|Sanggyu Chong et.al.|[2408.14311](http://arxiv.org/abs/2408.14311)|null|
 |**2024-08-26**|**Non-Iterative Disentangled Unitary Coupled-Cluster based on Lie-algebraic structure**|Mohammad Haidar et.al.|[2408.14289](http://arxiv.org/abs/2408.14289)|null|
