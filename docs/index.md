@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**SIaM: Self-Improving Code-Assisted Mathematical Reasoning of Large Language Models**|Dian Yu et.al.|[2408.15565](http://arxiv.org/abs/2408.15565)|**[link](https://github.com/tencent-ailab/siam)**|
 |**2024-08-27**|**Generative Verifiers: Reward Modeling as Next-Token Prediction**|Lunjun Zhang et.al.|[2408.15240](http://arxiv.org/abs/2408.15240)|null|
 |**2024-08-22**|**Multi-tool Integration Application for Math Reasoning Using Large Language Model**|Zhihua Duan et.al.|[2408.12148](http://arxiv.org/abs/2408.12148)|null|
 |**2024-08-20**|**Benchmarking Large Language Models for Math Reasoning Tasks**|Kathrin Seßler et.al.|[2408.10839](http://arxiv.org/abs/2408.10839)|null|
@@ -85,6 +86,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**Automated Mixture Analysis via Structural Evaluation**|Zachary T. P. Fried et.al.|[2408.15819](http://arxiv.org/abs/2408.15819)|**[link](https://github.com/zfried/AMASE)**|
+|**2024-08-28**|**Towards a Unified Benchmark and Framework for Deep Learning-Based Prediction of Nuclear Magnetic Resonance Chemical Shifts**|Fanjie Xu et.al.|[2408.15681](http://arxiv.org/abs/2408.15681)|null|
+|**2024-08-28**|**Ice Chemistry Modeling of Active Phase Comets: Hale-Bopp**|Eric R. Willis et.al.|[2408.15509](http://arxiv.org/abs/2408.15509)|null|
 |**2024-08-27**|**A Yebes W band Line Survey towards an Unshocked Molecular Cloud of Supernova Remnant 3C391: Evidence of Cosmic-Ray-Induced Chemistry**|Tian-Yu Tu et.al.|[2408.15175](http://arxiv.org/abs/2408.15175)|null|
 |**2024-08-27**|**Force-Guided Bridge Matching for Full-Atom Time-Coarsened Dynamics of Peptides**|Ziyang Yu et.al.|[2408.15126](http://arxiv.org/abs/2408.15126)|**[link](https://github.com/yaledeus/fbm)**|
 |**2024-08-27**|**Understanding kinetic interactions between NOx and C2-C5 alkanes and alkenes: The rate rules and influences of H-atom abstractions by NO2**|Hongqing Wu et.al.|[2408.15023](http://arxiv.org/abs/2408.15023)|null|
