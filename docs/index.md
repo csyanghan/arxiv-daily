@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-29**|**Entropic Distribution Matching in Supervised Fine-tuning of LLMs: Less Overfitting and Better Diversity**|Ziniu Li et.al.|[2408.16673](http://arxiv.org/abs/2408.16673)|null|
+|**2024-08-29**|**Critic-CoT: Boosting the reasoning abilities of large language model via Chain-of-thoughts Critic**|Xin Zheng et.al.|[2408.16326](http://arxiv.org/abs/2408.16326)|null|
 |**2024-08-28**|**SIaM: Self-Improving Code-Assisted Mathematical Reasoning of Large Language Models**|Dian Yu et.al.|[2408.15565](http://arxiv.org/abs/2408.15565)|**[link](https://github.com/tencent-ailab/siam)**|
 |**2024-08-27**|**Generative Verifiers: Reward Modeling as Next-Token Prediction**|Lunjun Zhang et.al.|[2408.15240](http://arxiv.org/abs/2408.15240)|null|
 |**2024-08-22**|**Multi-tool Integration Application for Math Reasoning Using Large Language Model**|Zhihua Duan et.al.|[2408.12148](http://arxiv.org/abs/2408.12148)|null|
@@ -86,6 +88,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-29**|**Hydrogen reaction rate modeling based on convolutional neural network for large eddy simulation**|Quentin Malé et.al.|[2408.16709](http://arxiv.org/abs/2408.16709)|null|
+|**2024-08-29**|**Multi-layer optimisation of hybrid energy storage systems for electric vehicles**|Wouter Andriesse et.al.|[2408.16507](http://arxiv.org/abs/2408.16507)|null|
+|**2024-08-29**|**Prediction of an alternative route to polymeric carbon dioxide: A metastable energetic material**|Reetam Paul et.al.|[2408.16487](http://arxiv.org/abs/2408.16487)|null|
+|**2024-08-29**|**Two-dimensional metalorganic ferromagnets**|Egzona Isufi Neziri et.al.|[2408.16369](http://arxiv.org/abs/2408.16369)|null|
+|**2024-08-29**|**From layered 2D carbon to 3D tetrahedral original allotropes C12 and C18 with physical properties related to diamond: Crystal chemistry and DFT investigations**|Samir F. Matar et.al.|[2408.16341](http://arxiv.org/abs/2408.16341)|null|
+|**2024-08-29**|**Economic Optimal Power Management of Second-Life Battery Energy Storage Systems**|Amir Farakhor et.al.|[2408.16197](http://arxiv.org/abs/2408.16197)|null|
+|**2024-08-28**|**Integrating Quantum Computing Resources into Scientific HPC Ecosystems**|Thomas Beck et.al.|[2408.16159](http://arxiv.org/abs/2408.16159)|null|
 |**2024-08-28**|**Automated Mixture Analysis via Structural Evaluation**|Zachary T. P. Fried et.al.|[2408.15819](http://arxiv.org/abs/2408.15819)|**[link](https://github.com/zfried/AMASE)**|
 |**2024-08-28**|**Towards a Unified Benchmark and Framework for Deep Learning-Based Prediction of Nuclear Magnetic Resonance Chemical Shifts**|Fanjie Xu et.al.|[2408.15681](http://arxiv.org/abs/2408.15681)|null|
 |**2024-08-28**|**Ice Chemistry Modeling of Active Phase Comets: Hale-Bopp**|Eric R. Willis et.al.|[2408.15509](http://arxiv.org/abs/2408.15509)|null|
