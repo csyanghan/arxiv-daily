@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-29**|**Entropic Distribution Matching in Supervised Fine-tuning of LLMs: Less Overfitting and Better Diversity**|Ziniu Li et.al.|[2408.16673](http://arxiv.org/abs/2408.16673)|null|
 |**2024-08-29**|**Critic-CoT: Boosting the reasoning abilities of large language model via Chain-of-thoughts Critic**|Xin Zheng et.al.|[2408.16326](http://arxiv.org/abs/2408.16326)|null|
-|**2024-08-28**|**SIaM: Self-Improving Code-Assisted Mathematical Reasoning of Large Language Models**|Dian Yu et.al.|[2408.15565](http://arxiv.org/abs/2408.15565)|**[link](https://github.com/tencent-ailab/siam)**|
+|**2024-08-28**|**SIaM: Self-Improving Code-Assisted Mathematical Reasoning of Large Language Models**|Dian Yu et.al.|[2408.15565](http://arxiv.org/abs/2408.15565)|null|
 |**2024-08-27**|**Generative Verifiers: Reward Modeling as Next-Token Prediction**|Lunjun Zhang et.al.|[2408.15240](http://arxiv.org/abs/2408.15240)|null|
 |**2024-08-22**|**Multi-tool Integration Application for Math Reasoning Using Large Language Model**|Zhihua Duan et.al.|[2408.12148](http://arxiv.org/abs/2408.12148)|null|
 |**2024-08-20**|**Benchmarking Large Language Models for Math Reasoning Tasks**|Kathrin Seßler et.al.|[2408.10839](http://arxiv.org/abs/2408.10839)|null|
@@ -88,6 +88,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**1.5-Femtosecond Delay in Charge Transfer**|Danylo T. Matselyukh et.al.|[2408.17402](http://arxiv.org/abs/2408.17402)|null|
+|**2024-08-30**|**On the key kinetic interactions between NOx and unsaturated hydrocarbons: H-atom abstraction from C3-C7 alkynes and dienes by NO2**|Zhengyan Guo et.al.|[2408.17277](http://arxiv.org/abs/2408.17277)|null|
+|**2024-08-30**|**Towards Symbolic XAI -- Explanation Through Human Understandable Logical Relationships Between Features**|Thomas Schnake et.al.|[2408.17198](http://arxiv.org/abs/2408.17198)|null|
+|**2024-08-30**|**Exaptation: Academic mentees' career pathway to be independent and impactful**|Yanmeng Xing et.al.|[2408.16992](http://arxiv.org/abs/2408.16992)|null|
+|**2024-08-30**|**Dirac bilinears in condensed matter physics: Relativistic correction for observables and conjugate electromagnetic fields**|Shintaro Hoshino et.al.|[2408.16983](http://arxiv.org/abs/2408.16983)|null|
+|**2024-08-29**|**SOLAX: A Python solver for fermionic quantum systems with neural network support**|Louis Thirion et.al.|[2408.16915](http://arxiv.org/abs/2408.16915)|null|
 |**2024-08-29**|**Hydrogen reaction rate modeling based on convolutional neural network for large eddy simulation**|Quentin Malé et.al.|[2408.16709](http://arxiv.org/abs/2408.16709)|null|
 |**2024-08-29**|**Multi-layer optimisation of hybrid energy storage systems for electric vehicles**|Wouter Andriesse et.al.|[2408.16507](http://arxiv.org/abs/2408.16507)|null|
 |**2024-08-29**|**Prediction of an alternative route to polymeric carbon dioxide: A metastable energetic material**|Reetam Paul et.al.|[2408.16487](http://arxiv.org/abs/2408.16487)|null|
