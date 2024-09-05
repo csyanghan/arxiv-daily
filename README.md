@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**CMM-Math: A Chinese Multimodal Math Dataset To Evaluate and Enhance the Mathematics Reasoning of Large Multimodal Models**|Wentao Liu et.al.|[2409.02834](http://arxiv.org/abs/2409.02834)|null|
+|**2024-09-04**|**Building Math Agents with Multi-Turn Iterative Preference Learning**|Wei Xiong et.al.|[2409.02392](http://arxiv.org/abs/2409.02392)|null|
+|**2024-09-03**|**S $^3$ c-Math: Spontaneous Step-level Self-correction Makes Large Language Models Better Mathematical Reasoners**|Yuchen Yan et.al.|[2409.01524](http://arxiv.org/abs/2409.01524)|null|
+|**2024-08-29**|**Logic Contrastive Reasoning with Lightweight Large Language Model for Math Word Problems**|Ding Kai et.al.|[2409.00131](http://arxiv.org/abs/2409.00131)|null|
 |**2024-08-29**|**Entropic Distribution Matching in Supervised Fine-tuning of LLMs: Less Overfitting and Better Diversity**|Ziniu Li et.al.|[2408.16673](http://arxiv.org/abs/2408.16673)|null|
 |**2024-08-29**|**Critic-CoT: Boosting the reasoning abilities of large language model via Chain-of-thoughts Critic**|Xin Zheng et.al.|[2408.16326](http://arxiv.org/abs/2408.16326)|null|
 |**2024-08-28**|**SIaM: Self-Improving Code-Assisted Mathematical Reasoning of Large Language Models**|Dian Yu et.al.|[2408.15565](http://arxiv.org/abs/2408.15565)|null|
@@ -94,6 +98,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Complete and Efficient Covariants for 3D Point Configurations with Application to Learning Molecular Quantum Properties**|Hartmut Maennel et.al.|[2409.02730](http://arxiv.org/abs/2409.02730)|null|
+|**2024-09-04**|**Astrochemistry on Galactic scales**|L. Colzi et.al.|[2409.02537](http://arxiv.org/abs/2409.02537)|null|
+|**2024-09-03**|**SmileyLlama: Modifying Large Language Models for Directed Chemical Space Exploration**|Joseph M. Cavanagh et.al.|[2409.02231](http://arxiv.org/abs/2409.02231)|null|
+|**2024-09-03**|**Creation of an Fe $_3$ P Schreibersite Density Functional Tight Binding Model for Astrobiological Simulations**|Riccardo Dettori et.al.|[2409.01884](http://arxiv.org/abs/2409.01884)|null|
+|**2024-09-03**|**Correlating grain boundary character and composition in 3-dimensions using 4D-scanning precession electron diffraction and atom probe tomography**|Saurabh M. Das et.al.|[2409.01753](http://arxiv.org/abs/2409.01753)|null|
+|**2024-09-02**|**Swarm Systems as a Platform for Open-Ended Evolutionary Dynamics**|Hiroki Sayama et.al.|[2409.01469](http://arxiv.org/abs/2409.01469)|null|
+|**2024-09-02**|**Dynamic Jahn-Teller effect in the strong spin-orbit coupling regime**|Ivica Zivkovic et.al.|[2409.01436](http://arxiv.org/abs/2409.01436)|null|
+|**2024-09-02**|**The time evolution of the ultraviolet habitable zone**|R. Spinelli et.al.|[2409.01401](http://arxiv.org/abs/2409.01401)|null|
+|**2024-09-02**|**Is the protactinium(V) mono-oxo bond weaker than what we thought?**|Tamara Shaaban et.al.|[2409.01338](http://arxiv.org/abs/2409.01338)|null|
+|**2024-09-02**|**Highly Accurate Real-space Electron Densities with Neural Networks**|Lixue Cheng et.al.|[2409.01306](http://arxiv.org/abs/2409.01306)|null|
 |**2024-08-30**|**1.5-Femtosecond Delay in Charge Transfer**|Danylo T. Matselyukh et.al.|[2408.17402](http://arxiv.org/abs/2408.17402)|null|
 |**2024-08-30**|**On the key kinetic interactions between NOx and unsaturated hydrocarbons: H-atom abstraction from C3-C7 alkynes and dienes by NO2**|Zhengyan Guo et.al.|[2408.17277](http://arxiv.org/abs/2408.17277)|null|
 |**2024-08-30**|**Towards Symbolic XAI -- Explanation Through Human Understandable Logical Relationships Between Features**|Thomas Schnake et.al.|[2408.17198](http://arxiv.org/abs/2408.17198)|null|
