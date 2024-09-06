@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**Strategic Chain-of-Thought: Guiding Accurate Reasoning in LLMs through Strategy Elicitation**|Yu Wang et.al.|[2409.03271](http://arxiv.org/abs/2409.03271)|null|
 |**2024-09-04**|**CMM-Math: A Chinese Multimodal Math Dataset To Evaluate and Enhance the Mathematics Reasoning of Large Multimodal Models**|Wentao Liu et.al.|[2409.02834](http://arxiv.org/abs/2409.02834)|null|
 |**2024-09-04**|**Building Math Agents with Multi-Turn Iterative Preference Learning**|Wei Xiong et.al.|[2409.02392](http://arxiv.org/abs/2409.02392)|null|
 |**2024-09-03**|**S $^3$ c-Math: Spontaneous Step-level Self-correction Makes Large Language Models Better Mathematical Reasoners**|Yuchen Yan et.al.|[2409.01524](http://arxiv.org/abs/2409.01524)|null|
@@ -98,6 +99,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**Hybrid Oscillator-Qubit Quantum Processors: Simulating Fermions, Bosons, and Gauge Fields**|Eleanor Crane et.al.|[2409.03747](http://arxiv.org/abs/2409.03747)|null|
+|**2024-09-05**|**Towards a self-consistent evaluation of gas dwarf scenarios for temperate sub-Neptunes**|Frances E. Rigby et.al.|[2409.03683](http://arxiv.org/abs/2409.03683)|null|
+|**2024-09-04**|**Generative artificial intelligence for computational chemistry: a roadmap to predicting emergent phenomena**|Pratyush Tiwary et.al.|[2409.03118](http://arxiv.org/abs/2409.03118)|null|
 |**2024-09-04**|**Complete and Efficient Covariants for 3D Point Configurations with Application to Learning Molecular Quantum Properties**|Hartmut Maennel et.al.|[2409.02730](http://arxiv.org/abs/2409.02730)|null|
 |**2024-09-04**|**Astrochemistry on Galactic scales**|L. Colzi et.al.|[2409.02537](http://arxiv.org/abs/2409.02537)|null|
 |**2024-09-03**|**SmileyLlama: Modifying Large Language Models for Directed Chemical Space Exploration**|Joseph M. Cavanagh et.al.|[2409.02231](http://arxiv.org/abs/2409.02231)|null|
