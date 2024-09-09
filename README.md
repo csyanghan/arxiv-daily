@@ -99,6 +99,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**A high-order procedure for computing globally optimal Wannier functions in one-dimensional crystalline insulators**|Abinand Gopal et.al.|[2409.04369](http://arxiv.org/abs/2409.04369)|null|
+|**2024-09-06**|**NSF-UKRI Bilateral Workshop: Quantum Information Science in Chemistry**|Gregory D Scholes et.al.|[2409.04264](http://arxiv.org/abs/2409.04264)|null|
+|**2024-09-06**|**The Spatial Distribution of $\rm CH_4$ and $\rm CO_2$ Ice around Protostars IRAS 16253-2429 and IRAS 23385+6053**|Lei Lei et.al.|[2409.04217](http://arxiv.org/abs/2409.04217)|null|
+|**2024-09-06**|**Connectivity matters: Impact of bath modes ordering and geometry in Open Quantum System simulation with Matrix Product States**|Thibaut Lacroix et.al.|[2409.04145](http://arxiv.org/abs/2409.04145)|null|
+|**2024-09-06**|**Experimental Quantum Simulation of Chemical Dynamics**|T. Navickas et.al.|[2409.04044](http://arxiv.org/abs/2409.04044)|null|
+|**2024-09-06**|**Comprehensive reevaluation of acetaldehyde chemistry and the underlying uncertainties**|Xinrui Ren et.al.|[2409.04015](http://arxiv.org/abs/2409.04015)|null|
+|**2024-09-06**|**On the Specialisation of Gaussian Basis Sets for Core-Dependent Properties**|Robbie T. Ireland et.al.|[2409.03994](http://arxiv.org/abs/2409.03994)|null|
+|**2024-09-06**|**Benchmarking Basis Sets for Density Functional Theory Thermochemistry Calculations: Why unpolarised basis sets and the polarised 6-311G family should be avoided**|Samuel J. Pitman et.al.|[2409.03964](http://arxiv.org/abs/2409.03964)|null|
+|**2024-09-05**|**TriPoD: Tri-Population size distributions for Dust evolution. Coagulation in vertically integrated hydrodynamic simulations of protoplanetary disks**|Thomas Pfeil et.al.|[2409.03816](http://arxiv.org/abs/2409.03816)|null|
 |**2024-09-05**|**Hybrid Oscillator-Qubit Quantum Processors: Simulating Fermions, Bosons, and Gauge Fields**|Eleanor Crane et.al.|[2409.03747](http://arxiv.org/abs/2409.03747)|null|
 |**2024-09-05**|**Towards a self-consistent evaluation of gas dwarf scenarios for temperate sub-Neptunes**|Frances E. Rigby et.al.|[2409.03683](http://arxiv.org/abs/2409.03683)|null|
 |**2024-09-04**|**Generative artificial intelligence for computational chemistry: a roadmap to predicting emergent phenomena**|Pratyush Tiwary et.al.|[2409.03118](http://arxiv.org/abs/2409.03118)|null|
