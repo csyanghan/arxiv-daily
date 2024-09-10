@@ -99,6 +99,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**Recognizing molecular chirality via twisted 2D materials**|Lorenzo Cavicchi et.al.|[2409.05839](http://arxiv.org/abs/2409.05839)|null|
+|**2024-09-09**|**End-to-End Quantum Simulation of a Chemical System**|Wim van Dam et.al.|[2409.05835](http://arxiv.org/abs/2409.05835)|null|
+|**2024-09-09**|**Quantum Resources for Pure Thermal Shadows**|Arnav Sharma et.al.|[2409.05777](http://arxiv.org/abs/2409.05777)|null|
+|**2024-09-09**|**Simulating Chemistry with Fermionic Optical Superlattices**|Fotios Gkritsis et.al.|[2409.05663](http://arxiv.org/abs/2409.05663)|null|
+|**2024-09-09**|**Elsevier Arena: Human Evaluation of Chemistry/Biology/Health Foundational Large Language Models**|Camilo Thorne et.al.|[2409.05486](http://arxiv.org/abs/2409.05486)|null|
+|**2024-09-09**|**A semi-Lagrangian method for the direct numerical simulation of crystallization and precipitation at the pore scale**|Sarah Perez et.al.|[2409.05449](http://arxiv.org/abs/2409.05449)|null|
+|**2024-09-09**|**Non-explosivity of endotactic stochastic reaction systems**|Chuang Xu et.al.|[2409.05340](http://arxiv.org/abs/2409.05340)|null|
+|**2024-09-08**|**A Physics-Enforced Neural Network to Predict Polymer Melt Viscosity**|Ayush Jain et.al.|[2409.05240](http://arxiv.org/abs/2409.05240)|null|
+|**2024-09-08**|**Twisted bilayer graphene for enantiomeric sensing of chiral molecules**|Álvaro Moreno et.al.|[2409.05178](http://arxiv.org/abs/2409.05178)|null|
+|**2024-09-06**|**Expressing and Analyzing Quantum Algorithms with Qualtran**|Matthew P. Harrigan et.al.|[2409.04643](http://arxiv.org/abs/2409.04643)|null|
 |**2024-09-06**|**A high-order procedure for computing globally optimal Wannier functions in one-dimensional crystalline insulators**|Abinand Gopal et.al.|[2409.04369](http://arxiv.org/abs/2409.04369)|null|
 |**2024-09-06**|**NSF-UKRI Bilateral Workshop: Quantum Information Science in Chemistry**|Gregory D Scholes et.al.|[2409.04264](http://arxiv.org/abs/2409.04264)|null|
 |**2024-09-06**|**The Spatial Distribution of $\rm CH_4$ and $\rm CO_2$ Ice around Protostars IRAS 16253-2429 and IRAS 23385+6053**|Lei Lei et.al.|[2409.04217](http://arxiv.org/abs/2409.04217)|null|
