@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**STUN: Structured-Then-Unstructured Pruning for Scalable MoE Pruning**|Jaeseong Lee et.al.|[2409.06211](http://arxiv.org/abs/2409.06211)|null|
 |**2024-09-05**|**Strategic Chain-of-Thought: Guiding Accurate Reasoning in LLMs through Strategy Elicitation**|Yu Wang et.al.|[2409.03271](http://arxiv.org/abs/2409.03271)|null|
 |**2024-09-06**|**CMM-Math: A Chinese Multimodal Math Dataset To Evaluate and Enhance the Mathematics Reasoning of Large Multimodal Models**|Wentao Liu et.al.|[2409.02834](http://arxiv.org/abs/2409.02834)|null|
 |**2024-09-04**|**Building Math Agents with Multi-Turn Iterative Preference Learning**|Wei Xiong et.al.|[2409.02392](http://arxiv.org/abs/2409.02392)|null|
@@ -93,6 +94,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**A Journey with THeSeuSS: Automated Python Tool for Modeling IR and Raman Vibrational Spectra of Molecules and Solids**|Ariadni Boziki et.al.|[2409.06597](http://arxiv.org/abs/2409.06597)|null|
+|**2024-09-10**|**Spectral Map for Slow Collective Variables, Markovian Dynamics, and Transition State Ensembles**|Jakub Rydzewski et.al.|[2409.06428](http://arxiv.org/abs/2409.06428)|null|
+|**2024-09-10**|**Can Large Language Models Unlock Novel Scientific Research Ideas?**|Sandeep Kumar et.al.|[2409.06185](http://arxiv.org/abs/2409.06185)|null|
+|**2024-09-10**|**Configuration Interaction Guided Sampling with Interpretable Restricted Boltzmann Machine**|Jorge I. Hernandez-Martinez et.al.|[2409.06146](http://arxiv.org/abs/2409.06146)|null|
+|**2024-09-09**|**A Modular and Extensible CHARMM-Compatible Model for All-Atom Simulation of Polypeptoids**|Alex Berlaga et.al.|[2409.06103](http://arxiv.org/abs/2409.06103)|null|
+|**2024-09-09**|**Regression with Large Language Models for Materials and Molecular Property Prediction**|Ryan Jacobs et.al.|[2409.06080](http://arxiv.org/abs/2409.06080)|null|
 |**2024-09-09**|**Recognizing molecular chirality via twisted 2D materials**|Lorenzo Cavicchi et.al.|[2409.05839](http://arxiv.org/abs/2409.05839)|null|
 |**2024-09-09**|**End-to-End Quantum Simulation of a Chemical System**|Wim van Dam et.al.|[2409.05835](http://arxiv.org/abs/2409.05835)|null|
 |**2024-09-09**|**Quantum Resources for Pure Thermal Shadows**|Arnav Sharma et.al.|[2409.05777](http://arxiv.org/abs/2409.05777)|null|
