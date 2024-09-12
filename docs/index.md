@@ -94,6 +94,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**XUV irradiation of young planetary atmospheres. Results from a joint XMM-Newton and HST observation of HIP67522**|A. Maggio et.al.|[2409.07229](http://arxiv.org/abs/2409.07229)|null|
+|**2024-09-11**|**Dual-Step Optimization for Binary Sequences with High Merit Factors**|Blaž Pšeničnik et.al.|[2409.07222](http://arxiv.org/abs/2409.07222)|null|
+|**2024-09-11**|**Ab initio Calculations for Astrochemistry**|Francesca Tonolo et.al.|[2409.07211](http://arxiv.org/abs/2409.07211)|null|
+|**2024-09-11**|**Applying Multi-Fidelity Bayesian Optimization in Chemistry: Open Challenges and Major Considerations**|Edmund Judge et.al.|[2409.07190](http://arxiv.org/abs/2409.07190)|null|
+|**2024-09-11**|**Phase separation bursting and symmetry breaking inside an evaporating droplet; formation of a flower-like pattern**|Vahid Nasirimarekani et.al.|[2409.07095](http://arxiv.org/abs/2409.07095)|null|
+|**2024-09-10**|**Earth's Mesosphere During Possible Encounters With Massive Interstellar Clouds 2 and 7 Million Years Ago**|Jesse A. Miller et.al.|[2409.06832](http://arxiv.org/abs/2409.06832)|null|
+|**2024-09-10**|**JWST imaging of the closest globular clusters -- IV. Chemistry, luminosity, and mass functions of the lowest-mass members in the NIRISS parallel fields**|M. Libralato et.al.|[2409.06774](http://arxiv.org/abs/2409.06774)|null|
+|**2024-09-10**|**Generating coupled cluster code for modern distributed memory tensor software**|Jan Brandejs et.al.|[2409.06759](http://arxiv.org/abs/2409.06759)|null|
 |**2024-09-10**|**A Journey with THeSeuSS: Automated Python Tool for Modeling IR and Raman Vibrational Spectra of Molecules and Solids**|Ariadni Boziki et.al.|[2409.06597](http://arxiv.org/abs/2409.06597)|null|
 |**2024-09-10**|**Spectral Map for Slow Collective Variables, Markovian Dynamics, and Transition State Ensembles**|Jakub Rydzewski et.al.|[2409.06428](http://arxiv.org/abs/2409.06428)|null|
 |**2024-09-10**|**Can Large Language Models Unlock Novel Scientific Research Ideas?**|Sandeep Kumar et.al.|[2409.06185](http://arxiv.org/abs/2409.06185)|null|
