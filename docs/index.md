@@ -94,6 +94,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Unifying the description of hydrocarbons and hydrogenated carbon materials with a chemically reactive machine learning interatomic potential**|Rina Ibragimova et.al.|[2409.08194](http://arxiv.org/abs/2409.08194)|null|
+|**2024-09-12**|**Low-Energy Magnetic States of Tb Adatom on Graphene**|Monirul Shaikh et.al.|[2409.08079](http://arxiv.org/abs/2409.08079)|null|
+|**2024-09-12**|**Unraveling the Interface Chemistry between HCN and Cosmic Silicates by the Interplay of Infrared Spectroscopy and Quantum Chemical Modeling**|Niccolò Bancone et.al.|[2409.08074](http://arxiv.org/abs/2409.08074)|null|
+|**2024-09-12**|**Multi-granularity Score-based Generative Framework Enables Efficient Inverse Design of Complex Organics**|Zijun Chen et.al.|[2409.07912](http://arxiv.org/abs/2409.07912)|null|
+|**2024-09-12**|**C3-VQA: Cryogenic Counter-based Co-processor for Variational Quantum Algorithms**|Yosuke Ueno et.al.|[2409.07847](http://arxiv.org/abs/2409.07847)|null|
+|**2024-09-11**|**Series Expansion of a Scalable Hermitian Excitonic Renormalization Method**|Marco Bauer et.al.|[2409.07628](http://arxiv.org/abs/2409.07628)|null|
+|**2024-09-11**|**How external photoevaporation changes the inner disc's chemical composition**|Nelson Ndugu et.al.|[2409.07596](http://arxiv.org/abs/2409.07596)|null|
+|**2024-09-11**|**Report of the Kavli-IAU Workshop on Global Coordination, "Probing the Universe from far-infrared to millimeter wavelengths: future facilities and their synergies"**|Science Organizing Committee et.al.|[2409.07570](http://arxiv.org/abs/2409.07570)|null|
+|**2024-09-11**|**A survey of extremely metal-poor gas at cosmic noon: evidence of elevated [O/Fe]**|Louise Welsh et.al.|[2409.07525](http://arxiv.org/abs/2409.07525)|null|
 |**2024-09-11**|**XUV irradiation of young planetary atmospheres. Results from a joint XMM-Newton and HST observation of HIP67522**|A. Maggio et.al.|[2409.07229](http://arxiv.org/abs/2409.07229)|null|
 |**2024-09-11**|**Dual-Step Optimization for Binary Sequences with High Merit Factors**|Blaž Pšeničnik et.al.|[2409.07222](http://arxiv.org/abs/2409.07222)|null|
 |**2024-09-11**|**Ab initio Calculations for Astrochemistry**|Francesca Tonolo et.al.|[2409.07211](http://arxiv.org/abs/2409.07211)|null|
