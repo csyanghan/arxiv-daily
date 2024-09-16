@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**CPL: Critical Planning Step Learning Boosts LLM Generalization in Reasoning Tasks**|Tianlong Wang et.al.|[2409.08642](http://arxiv.org/abs/2409.08642)|null|
 |**2024-09-10**|**STUN: Structured-Then-Unstructured Pruning for Scalable MoE Pruning**|Jaeseong Lee et.al.|[2409.06211](http://arxiv.org/abs/2409.06211)|null|
 |**2024-09-05**|**Strategic Chain-of-Thought: Guiding Accurate Reasoning in LLMs through Strategy Elicitation**|Yu Wang et.al.|[2409.03271](http://arxiv.org/abs/2409.03271)|null|
 |**2024-09-06**|**CMM-Math: A Chinese Multimodal Math Dataset To Evaluate and Enhance the Mathematics Reasoning of Large Multimodal Models**|Wentao Liu et.al.|[2409.02834](http://arxiv.org/abs/2409.02834)|null|
@@ -100,6 +101,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**The connection of polaritonic chemistry with the physics of a spin glass**|Dominik Sidler et.al.|[2409.08986](http://arxiv.org/abs/2409.08986)|null|
+|**2024-09-13**|**Classification of electronic structures and state preparation for quantum computation of reaction chemistry**|Maximilian Mörchen et.al.|[2409.08910](http://arxiv.org/abs/2409.08910)|null|
+|**2024-09-13**|**The ground state energy is not always convex in the number of electrons**|Simone Di Marino et.al.|[2409.08632](http://arxiv.org/abs/2409.08632)|null|
+|**2024-09-12**|**Confinement-induced field-linked states of ultracold polar molecules**|Reuben R. W. Wang et.al.|[2409.08431](http://arxiv.org/abs/2409.08431)|null|
 |**2024-09-12**|**Unifying the description of hydrocarbons and hydrogenated carbon materials with a chemically reactive machine learning interatomic potential**|Rina Ibragimova et.al.|[2409.08194](http://arxiv.org/abs/2409.08194)|null|
 |**2024-09-12**|**Low-Energy Magnetic States of Tb Adatom on Graphene**|Monirul Shaikh et.al.|[2409.08079](http://arxiv.org/abs/2409.08079)|null|
 |**2024-09-12**|**Unraveling the Interface Chemistry between HCN and Cosmic Silicates by the Interplay of Infrared Spectroscopy and Quantum Chemical Modeling**|Niccolò Bancone et.al.|[2409.08074](http://arxiv.org/abs/2409.08074)|null|
