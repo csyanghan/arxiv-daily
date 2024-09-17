@@ -101,6 +101,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**How to do impactful research in artificial intelligence for chemistry and materials science**|Austin Cheng et.al.|[2409.10304](http://arxiv.org/abs/2409.10304)|null|
+|**2024-09-16**|**Advanced perturbation scheme for efficient polarizability computations**|Anoop Ajaya Kumar Nair et.al.|[2409.10184](http://arxiv.org/abs/2409.10184)|null|
+|**2024-09-16**|**First map of D $_2$H$^+$ emission revealing the true centre of a prestellar core: further insights into deuterium chemistry**|L. Pagani et.al.|[2409.10093](http://arxiv.org/abs/2409.10093)|null|
 |**2024-09-13**|**The connection of polaritonic chemistry with the physics of a spin glass**|Dominik Sidler et.al.|[2409.08986](http://arxiv.org/abs/2409.08986)|null|
 |**2024-09-13**|**Classification of electronic structures and state preparation for quantum computation of reaction chemistry**|Maximilian Mörchen et.al.|[2409.08910](http://arxiv.org/abs/2409.08910)|null|
 |**2024-09-13**|**The ground state energy is not always convex in the number of electrons**|Simone Di Marino et.al.|[2409.08632](http://arxiv.org/abs/2409.08632)|null|
