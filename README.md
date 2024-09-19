@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**Qwen2.5-Math Technical Report: Toward Mathematical Expert Model via Self-Improvement**|An Yang et.al.|[2409.12122](http://arxiv.org/abs/2409.12122)|null|
+|**2024-09-17**|**Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent**|Fatemeh Haji et.al.|[2409.11527](http://arxiv.org/abs/2409.11527)|null|
 |**2024-09-17**|**Diversify and Conquer: Diversity-Centric Data Selection with Iterative Refinement**|Simon Yu et.al.|[2409.11378](http://arxiv.org/abs/2409.11378)|null|
 |**2024-09-13**|**CPL: Critical Planning Step Learning Boosts LLM Generalization in Reasoning Tasks**|Tianlong Wang et.al.|[2409.08642](http://arxiv.org/abs/2409.08642)|null|
 |**2024-09-10**|**STUN: Structured-Then-Unstructured Pruning for Scalable MoE Pruning**|Jaeseong Lee et.al.|[2409.06211](http://arxiv.org/abs/2409.06211)|null|
@@ -102,6 +104,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**Modeling water radiolysis with Geant4-DNA: Impact of the temporal structure of the irradiation pulse under oxygen conditions**|Tuan Anh Le et.al.|[2409.11993](http://arxiv.org/abs/2409.11993)|null|
+|**2024-09-18**|**Exascale Quantum Mechanical Simulations: Navigating the Shifting Sands of Hardware and Software**|Ravindra Shinde et.al.|[2409.11881](http://arxiv.org/abs/2409.11881)|null|
+|**2024-09-18**|**Edge-Based Graph Component Pooling**|T. Snelleman et.al.|[2409.11856](http://arxiv.org/abs/2409.11856)|null|
+|**2024-09-18**|**Effect of ion structure on the physicochemical properties and gas absorption of surface active ionic liquids**|Jocasta Ávila et.al.|[2409.11853](http://arxiv.org/abs/2409.11853)|null|
+|**2024-09-18**|**Mutual neutralization of C $_{60}^+$ and C$_{60}^-$ ions: Excitation energies and state-selective rate coefficients**|Michael Gatchell et.al.|[2409.11851](http://arxiv.org/abs/2409.11851)|null|
 |**2024-09-17**|**Machine Learning and Theory Ladenness -- A Phenomenological Account**|Alberto Termine et.al.|[2409.11277](http://arxiv.org/abs/2409.11277)|null|
 |**2024-09-17**|**The Impact of Icy Cometary 'Impacts' on Exoplanetary Atmospheres I: Tidally-Locked Terrestrial Exoplanets**|Felix Sainsbury-Martinez et.al.|[2409.11151](http://arxiv.org/abs/2409.11151)|null|
 |**2024-09-16**|**How to do impactful research in artificial intelligence for chemistry and materials science**|Austin Cheng et.al.|[2409.10304](http://arxiv.org/abs/2409.10304)|null|
