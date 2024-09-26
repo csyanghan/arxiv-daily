@@ -18,6 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**LLaMa-SciQ: An Educational Chatbot for Answering Science MCQ**|Marc-Antoine Allard et.al.|[2409.16779](http://arxiv.org/abs/2409.16779)|null|
+|**2024-09-25**|**PMSS: Pretrained Matrices Skeleton Selection for LLM Fine-tuning**|Qibin Wang et.al.|[2409.16722](http://arxiv.org/abs/2409.16722)|null|
+|**2024-09-20**|**ControlMath: Controllable Data Generation Promotes Math Generalist Models**|Nuo Chen et.al.|[2409.15376](http://arxiv.org/abs/2409.15376)|null|
+|**2024-09-19**|**Bone: Block Affine Transformation as Parameter Efficient Fine-tuning Methods for Large Language Models**|Jiale Kang et.al.|[2409.15371](http://arxiv.org/abs/2409.15371)|**[link](https://github.com/jl-er/bone)**|
+|**2024-09-21**|**Uncovering Latent Chain of Thought Vectors in Language Models**|Jason Zhang et.al.|[2409.14026](http://arxiv.org/abs/2409.14026)|null|
+|**2024-09-20**|**Neural-Symbolic Collaborative Distillation: Advancing Small Language Models for Complex Reasoning Tasks**|Huanxuan Liao et.al.|[2409.13203](http://arxiv.org/abs/2409.13203)|null|
+|**2024-09-19**|**LogicPro: Improving Complex Logical Reasoning via Program-Guided Learning**|Jin Jiang et.al.|[2409.12929](http://arxiv.org/abs/2409.12929)|null|
 |**2024-09-18**|**Qwen2.5-Math Technical Report: Toward Mathematical Expert Model via Self-Improvement**|An Yang et.al.|[2409.12122](http://arxiv.org/abs/2409.12122)|null|
 |**2024-09-17**|**Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent**|Fatemeh Haji et.al.|[2409.11527](http://arxiv.org/abs/2409.11527)|null|
 |**2024-09-17**|**Diversify and Conquer: Diversity-Centric Data Selection with Iterative Refinement**|Simon Yu et.al.|[2409.11378](http://arxiv.org/abs/2409.11378)|**[link](https://github.com/for-ai/iterative-data-selection)**|
@@ -104,6 +111,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**Susceptibility Formulation of Density Matrix Perturbation Theory**|Anders M. N. Niklasson et.al.|[2409.17033](http://arxiv.org/abs/2409.17033)|null|
+|**2024-09-25**|**Size-dependent multiexciton dynamics governs scintillation from perovskite quantum dots**|Andrea Fratelli et.al.|[2409.16994](http://arxiv.org/abs/2409.16994)|null|
+|**2024-09-25**|**Ultracold Interactions between Ions and Polar Molecules**|Leon Karpa et.al.|[2409.16833](http://arxiv.org/abs/2409.16833)|null|
+|**2024-09-24**|**Material Transport in Protoplanetary Discs with Massive Embedded Planets**|Hannah J. Petrovic et.al.|[2409.16245](http://arxiv.org/abs/2409.16245)|null|
+|**2024-09-24**|**Manipulating Photogalvanic Effects in Two-Dimensional Multiferroic Breathing Kagome Materials**|Haonan Wang et.al.|[2409.16130](http://arxiv.org/abs/2409.16130)|null|
+|**2024-09-24**|**TabEBM: A Tabular Data Augmentation Method with Distinct Class-Specific Energy-Based Models**|Andrei Margeloiu et.al.|[2409.16118](http://arxiv.org/abs/2409.16118)|null|
+|**2024-09-24**|**Normalized topological indices discriminate between architectures of branched macromolecules**|Domen Vaupotič et.al.|[2409.16007](http://arxiv.org/abs/2409.16007)|null|
+|**2024-09-24**|**The emergence of galactic thin and thick discs across cosmic history**|Takafumi Tsukui et.al.|[2409.15909](http://arxiv.org/abs/2409.15909)|null|
+|**2024-09-24**|**Quantum Machine Learning in Drug Discovery: Applications in Academia and Pharmaceutical Industries**|Anthony M. Smaldone et.al.|[2409.15645](http://arxiv.org/abs/2409.15645)|null|
+|**2024-09-23**|**Plasmonic Metal Oxide Nanocrystals as Building Blocks for Infrared Metasurfaces**|Woo Je Chang et.al.|[2409.15573](http://arxiv.org/abs/2409.15573)|null|
 |**2024-09-18**|**Modeling water radiolysis with Geant4-DNA: Impact of the temporal structure of the irradiation pulse under oxygen conditions**|Tuan Anh Le et.al.|[2409.11993](http://arxiv.org/abs/2409.11993)|null|
 |**2024-09-18**|**Exascale Quantum Mechanical Simulations: Navigating the Shifting Sands of Hardware and Software**|Ravindra Shinde et.al.|[2409.11881](http://arxiv.org/abs/2409.11881)|null|
 |**2024-09-18**|**Edge-Based Graph Component Pooling**|T. Snelleman et.al.|[2409.11856](http://arxiv.org/abs/2409.11856)|null|
