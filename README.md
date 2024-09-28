@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.27
+## Updated on 2024.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -105,12 +105,14 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240928>back to top</a>)</p>
 
 ## AI for Science
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**The importance of nuclear star clusters for massive black hole growth and nuclear star formation in simulated low-mass galaxies**|Christian Partmann et.al.|[2409.18096](http://arxiv.org/abs/2409.18096)|null|
+|**2024-09-26**|**Transferability of Atom-Based Neural Networks**|Frederik Ø. Kjeldal et.al.|[2409.17575](http://arxiv.org/abs/2409.17575)|null|
 |**2024-09-25**|**Susceptibility Formulation of Density Matrix Perturbation Theory**|Anders M. N. Niklasson et.al.|[2409.17033](http://arxiv.org/abs/2409.17033)|null|
 |**2024-09-25**|**Size-dependent multiexciton dynamics governs scintillation from perovskite quantum dots**|Andrea Fratelli et.al.|[2409.16994](http://arxiv.org/abs/2409.16994)|null|
 |**2024-09-25**|**Ultracold Interactions between Ions and Polar Molecules**|Leon Karpa et.al.|[2409.16833](http://arxiv.org/abs/2409.16833)|null|
@@ -577,7 +579,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240928>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

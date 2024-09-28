@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.27
+## Updated on 2024.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -105,6 +105,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**The importance of nuclear star clusters for massive black hole growth and nuclear star formation in simulated low-mass galaxies**|Christian Partmann et.al.|[2409.18096](http://arxiv.org/abs/2409.18096)|null|
+|**2024-09-26**|**Transferability of Atom-Based Neural Networks**|Frederik Ø. Kjeldal et.al.|[2409.17575](http://arxiv.org/abs/2409.17575)|null|
 |**2024-09-25**|**Susceptibility Formulation of Density Matrix Perturbation Theory**|Anders M. N. Niklasson et.al.|[2409.17033](http://arxiv.org/abs/2409.17033)|null|
 |**2024-09-25**|**Size-dependent multiexciton dynamics governs scintillation from perovskite quantum dots**|Andrea Fratelli et.al.|[2409.16994](http://arxiv.org/abs/2409.16994)|null|
 |**2024-09-25**|**Ultracold Interactions between Ions and Polar Molecules**|Leon Karpa et.al.|[2409.16833](http://arxiv.org/abs/2409.16833)|null|
