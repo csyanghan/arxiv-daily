@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**Instance-adaptive Zero-shot Chain-of-Thought Prompting**|Xiaosong Yuan et.al.|[2409.20441](http://arxiv.org/abs/2409.20441)|null|
 |**2024-09-25**|**LLaMa-SciQ: An Educational Chatbot for Answering Science MCQ**|Marc-Antoine Allard et.al.|[2409.16779](http://arxiv.org/abs/2409.16779)|null|
 |**2024-09-25**|**PMSS: Pretrained Matrices Skeleton Selection for LLM Fine-tuning**|Qibin Wang et.al.|[2409.16722](http://arxiv.org/abs/2409.16722)|null|
 |**2024-09-20**|**ControlMath: Controllable Data Generation Promotes Math Generalist Models**|Nuo Chen et.al.|[2409.15376](http://arxiv.org/abs/2409.15376)|null|
@@ -111,6 +112,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**Generalized convolutional many body distribution functional representations**|Danish Khan et.al.|[2409.20471](http://arxiv.org/abs/2409.20471)|null|
+|**2024-09-30**|**The Dustiest Galactic S Stars: Mid-Infrared Spectra from SOFIA/FORCAST**|Kathleen E. Kraemer et.al.|[2409.20316](http://arxiv.org/abs/2409.20316)|null|
+|**2024-09-30**|**Spin Excitations of High Spin Iron(II) in Metal-Organic Chains on Metal and Superconductor**|Jung-Ching Liu et.al.|[2409.20312](http://arxiv.org/abs/2409.20312)|null|
+|**2024-09-30**|**Investigation of real-fluid effects on NH3 oxidation and blending characteristics at supercritical conditions via high-order Virial equation of state coupled with ab initio intermolecular potentials**|Mingrui Wang et.al.|[2409.20308](http://arxiv.org/abs/2409.20308)|null|
+|**2024-09-28**|**State estimation for parallel-connected batteries via inverse dynamic modeling**|Hannah Lee et.al.|[2409.19189](http://arxiv.org/abs/2409.19189)|null|
+|**2024-09-27**|**Diversity of Parahydrogen-Induced Hyperpolarization Effects in Chemistry**|Andrey N. Pravdivtsev et.al.|[2409.19108](http://arxiv.org/abs/2409.19108)|null|
 |**2024-09-27**|**KALE-LM: Unleash The Power Of AI For Science Via Knowledge And Logic Enhanced Large Model**|Weichen Dai et.al.|[2409.18695](http://arxiv.org/abs/2409.18695)|null|
 |**2024-09-26**|**The importance of nuclear star clusters for massive black hole growth and nuclear star formation in simulated low-mass galaxies**|Christian Partmann et.al.|[2409.18096](http://arxiv.org/abs/2409.18096)|null|
 |**2024-09-26**|**Transferability of Atom-Based Neural Networks**|Frederik Ø. Kjeldal et.al.|[2409.17575](http://arxiv.org/abs/2409.17575)|null|
