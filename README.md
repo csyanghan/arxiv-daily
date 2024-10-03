@@ -18,6 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**LASeR: Learning to Adaptively Select Reward Models with Multi-Armed Bandits**|Duy Nguyen et.al.|[2410.01735](http://arxiv.org/abs/2410.01735)|**[link](https://github.com/duykhuongnguyen/laser-mab)**|
+|**2024-10-02**|**An Exploration of Self-Supervised Mutual Information Alignment for Multi-Task Settings**|Soham Govande et.al.|[2410.01704](http://arxiv.org/abs/2410.01704)|null|
+|**2024-10-02**|**VinePPO: Unlocking RL Potential For LLM Reasoning Through Refined Credit Assignment**|Amirhossein Kazemnejad et.al.|[2410.01679](http://arxiv.org/abs/2410.01679)|**[link](https://github.com/mcgill-nlp/vineppo)**|
+|**2024-10-02**|**OpenMathInstruct-2: Accelerating AI for Math with Massive Open-Source Instruction Data**|Shubham Toshniwal et.al.|[2410.01560](http://arxiv.org/abs/2410.01560)|**[link](https://github.com/kipok/nemo-skills)**|
+|**2024-10-02**|**PersonaMath: Enhancing Math Reasoning through Persona-Driven Data Augmentation**|Jing Luo et.al.|[2410.01504](http://arxiv.org/abs/2410.01504)|null|
+|**2024-10-02**|**Can We Further Elicit Reasoning in LLMs? Critic-Guided Planning with Retrieval-Augmentation for Solving Challenging Tasks**|Xingxuan Li et.al.|[2410.01428](http://arxiv.org/abs/2410.01428)|null|
+|**2024-09-30**|**Scheherazade: Evaluating Chain-of-Thought Math Reasoning in LLMs with Chain-of-Problems**|Stephen Miner et.al.|[2410.00151](http://arxiv.org/abs/2410.00151)|null|
 |**2024-10-01**|**Instance-adaptive Zero-shot Chain-of-Thought Prompting**|Xiaosong Yuan et.al.|[2409.20441](http://arxiv.org/abs/2409.20441)|null|
 |**2024-09-25**|**LLaMa-SciQ: An Educational Chatbot for Answering Science MCQ**|Marc-Antoine Allard et.al.|[2409.16779](http://arxiv.org/abs/2409.16779)|null|
 |**2024-09-25**|**PMSS: Pretrained Matrices Skeleton Selection for LLM Fine-tuning**|Qibin Wang et.al.|[2409.16722](http://arxiv.org/abs/2409.16722)|null|
@@ -112,6 +119,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**Singlet Geminal Wavefunctions**|Paul A. Johnson et.al.|[2410.01761](http://arxiv.org/abs/2410.01761)|null|
+|**2024-10-02**|**Effects of eco-driving on energy consumption and battery degradation for electric vehicles at signalized intersections**|Yongqiang Wang et.al.|[2410.01685](http://arxiv.org/abs/2410.01685)|null|
+|**2024-10-02**|**JWST Observations of Young protoStars (JOYS). Overview of gaseous molecular emission and absorption in low-mass protostars**|M. L. van Gelder et.al.|[2410.01636](http://arxiv.org/abs/2410.01636)|null|
+|**2024-10-02**|**The Chemistry of Spinel Ferrite Nanoparticle Nucleation, Crystallization, and Growth**|Henrik L. Andersen et.al.|[2410.01527](http://arxiv.org/abs/2410.01527)|null|
+|**2024-10-02**|**Discrete Diffusion Schrödinger Bridge Matching for Graph Transformation**|Jun Hyeong Kim et.al.|[2410.01500](http://arxiv.org/abs/2410.01500)|null|
+|**2024-10-02**|**Disconnection Rules are Complete for Chemical Reactions**|Ella Gale et.al.|[2410.01421](http://arxiv.org/abs/2410.01421)|null|
+|**2024-10-02**|**Volatile composition of the HD 169142 disk and its embedded planet**|Luke Keyte et.al.|[2410.01418](http://arxiv.org/abs/2410.01418)|null|
+|**2024-10-02**|**Proposed importance of HOCO chemistry: Inefficient formation of CO $_2$ from CO and OH reactions on ice dust**|Atsuki Ishibashi et.al.|[2410.01373](http://arxiv.org/abs/2410.01373)|null|
+|**2024-10-02**|**Self-replicating fuels via autocatalytic molecular bond fission**|Peter Agbo et.al.|[2410.01282](http://arxiv.org/abs/2410.01282)|null|
+|**2024-10-01**|**Experimental demonstration of Robust Amplitude Estimation on near-term quantum devices for chemistry applications**|Alexander Kunitsa et.al.|[2410.00686](http://arxiv.org/abs/2410.00686)|null|
 |**2024-09-30**|**Generalized convolutional many body distribution functional representations**|Danish Khan et.al.|[2409.20471](http://arxiv.org/abs/2409.20471)|null|
 |**2024-09-30**|**The Dustiest Galactic S Stars: Mid-Infrared Spectra from SOFIA/FORCAST**|Kathleen E. Kraemer et.al.|[2409.20316](http://arxiv.org/abs/2409.20316)|null|
 |**2024-09-30**|**Spin Excitations of High Spin Iron(II) in Metal-Organic Chains on Metal and Superconductor**|Jung-Ching Liu et.al.|[2409.20312](http://arxiv.org/abs/2409.20312)|null|
