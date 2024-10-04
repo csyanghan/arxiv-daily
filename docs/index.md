@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**Adaptive Inference-Time Compute: LLMs Can Predict if They Can Do Better, Even Mid-Generation**|Rohin Manvi et.al.|[2410.02725](http://arxiv.org/abs/2410.02725)|null|
+|**2024-10-03**|**CodePMP: Scalable Preference Model Pretraining for Large Language Model Reasoning**|Huimu Yu et.al.|[2410.02229](http://arxiv.org/abs/2410.02229)|null|
 |**2024-10-02**|**LASeR: Learning to Adaptively Select Reward Models with Multi-Armed Bandits**|Duy Nguyen et.al.|[2410.01735](http://arxiv.org/abs/2410.01735)|**[link](https://github.com/duykhuongnguyen/laser-mab)**|
 |**2024-10-02**|**An Exploration of Self-Supervised Mutual Information Alignment for Multi-Task Settings**|Soham Govande et.al.|[2410.01704](http://arxiv.org/abs/2410.01704)|null|
 |**2024-10-02**|**VinePPO: Unlocking RL Potential For LLM Reasoning Through Refined Credit Assignment**|Amirhossein Kazemnejad et.al.|[2410.01679](http://arxiv.org/abs/2410.01679)|**[link](https://github.com/mcgill-nlp/vineppo)**|
@@ -113,6 +115,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**A Photonic Parameter-shift Rule: Enabling Gradient Computation for Photonic Quantum Computers**|Axel Pappalardo et.al.|[2410.02726](http://arxiv.org/abs/2410.02726)|null|
+|**2024-10-03**|**Leaning Sideways: VHS 1256-1257 b is a Super-Jupiter with a Uranus-like Obliquity**|Michael Poon et.al.|[2410.02672](http://arxiv.org/abs/2410.02672)|null|
+|**2024-10-03**|**Effects of grain temperature distribution on organic protostellar envelope chemistry**|Juris Kalvans et.al.|[2410.02346](http://arxiv.org/abs/2410.02346)|null|
+|**2024-10-02**|**Estimates of loss function concentration in noisy parametrized quantum circuits**|Giulio Crognaletti et.al.|[2410.01893](http://arxiv.org/abs/2410.01893)|null|
 |**2024-10-02**|**Singlet Geminal Wavefunctions**|Paul A. Johnson et.al.|[2410.01761](http://arxiv.org/abs/2410.01761)|null|
 |**2024-10-02**|**Effects of eco-driving on energy consumption and battery degradation for electric vehicles at signalized intersections**|Yongqiang Wang et.al.|[2410.01685](http://arxiv.org/abs/2410.01685)|null|
 |**2024-10-02**|**JWST Observations of Young protoStars (JOYS). Overview of gaseous molecular emission and absorption in low-mass protostars**|M. L. van Gelder et.al.|[2410.01636](http://arxiv.org/abs/2410.01636)|null|
