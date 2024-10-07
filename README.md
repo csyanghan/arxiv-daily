@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-04**|**Deliberate Reasoning for LLMs as Structure-aware Planning with Accurate World Model**|Siheng Xiong et.al.|[2410.03136](http://arxiv.org/abs/2410.03136)|null|
+|**2024-10-03**|**Unlocking Structured Thinking in Language Models with Cognitive prompting**|Oliver Kramer et.al.|[2410.02953](http://arxiv.org/abs/2410.02953)|null|
+|**2024-10-03**|**The Role of Deductive and Inductive Reasoning in Large Language Models**|Chengkun Cai et.al.|[2410.02892](http://arxiv.org/abs/2410.02892)|null|
 |**2024-10-03**|**Adaptive Inference-Time Compute: LLMs Can Predict if They Can Do Better, Even Mid-Generation**|Rohin Manvi et.al.|[2410.02725](http://arxiv.org/abs/2410.02725)|null|
 |**2024-10-03**|**CodePMP: Scalable Preference Model Pretraining for Large Language Model Reasoning**|Huimu Yu et.al.|[2410.02229](http://arxiv.org/abs/2410.02229)|null|
 |**2024-10-02**|**LASeR: Learning to Adaptively Select Reward Models with Multi-Armed Bandits**|Duy Nguyen et.al.|[2410.01735](http://arxiv.org/abs/2410.01735)|**[link](https://github.com/duykhuongnguyen/laser-mab)**|
@@ -121,6 +124,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-04**|**Characterization of monosubstituted benzene ices**|Elettra L. Piacentino et.al.|[2410.03574](http://arxiv.org/abs/2410.03574)|null|
+|**2024-10-04**|**Machine learning potentials for redox chemistry in solution**|Emir Kocer et.al.|[2410.03299](http://arxiv.org/abs/2410.03299)|null|
+|**2024-10-03**|**SymmetricDiffusers: Learning Discrete Diffusion on Finite Symmetric Groups**|Yongxing Zhang et.al.|[2410.02942](http://arxiv.org/abs/2410.02942)|**[link](https://github.com/nickzhang53/symmetricdiffusers)**|
+|**2024-10-03**|**Beyond CCSD(T) accuracy at lower scaling with auxiliary field quantum Monte Carlo**|Ankit Mahajan et.al.|[2410.02885](http://arxiv.org/abs/2410.02885)|null|
+|**2024-10-03**|**PHANGS-ML: the universal relation between PAH band and optical line ratios across nearby star-forming galaxies**|Dalya Baron et.al.|[2410.02864](http://arxiv.org/abs/2410.02864)|null|
 |**2024-10-03**|**A Photonic Parameter-shift Rule: Enabling Gradient Computation for Photonic Quantum Computers**|Axel Pappalardo et.al.|[2410.02726](http://arxiv.org/abs/2410.02726)|null|
 |**2024-10-03**|**Leaning Sideways: VHS 1256-1257 b is a Super-Jupiter with a Uranus-like Obliquity**|Michael Poon et.al.|[2410.02672](http://arxiv.org/abs/2410.02672)|null|
 |**2024-10-03**|**Effects of grain temperature distribution on organic protostellar envelope chemistry**|Juris Kalvans et.al.|[2410.02346](http://arxiv.org/abs/2410.02346)|null|
