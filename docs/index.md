@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.06
+## Updated on 2024.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -22,7 +22,7 @@ layout: default
 |**2024-10-02**|**OpenMathInstruct-2: Accelerating AI for Math with Massive Open-Source Instruction Data**|Shubham Toshniwal et.al.|[2410.01560](http://arxiv.org/abs/2410.01560)|**[link](https://github.com/kipok/nemo-skills)**|
 |**2024-10-02**|**PersonaMath: Enhancing Math Reasoning through Persona-Driven Data Augmentation**|Jing Luo et.al.|[2410.01504](http://arxiv.org/abs/2410.01504)|null|
 |**2024-10-02**|**Can We Further Elicit Reasoning in LLMs? Critic-Guided Planning with Retrieval-Augmentation for Solving Challenging Tasks**|Xingxuan Li et.al.|[2410.01428](http://arxiv.org/abs/2410.01428)|null|
-|**2024-09-30**|**Scheherazade: Evaluating Chain-of-Thought Math Reasoning in LLMs with Chain-of-Problems**|Stephen Miner et.al.|[2410.00151](http://arxiv.org/abs/2410.00151)|null|
+|**2024-10-04**|**Scheherazade: Evaluating Chain-of-Thought Math Reasoning in LLMs with Chain-of-Problems**|Stephen Miner et.al.|[2410.00151](http://arxiv.org/abs/2410.00151)|null|
 |**2024-10-01**|**Instance-adaptive Zero-shot Chain-of-Thought Prompting**|Xiaosong Yuan et.al.|[2409.20441](http://arxiv.org/abs/2409.20441)|null|
 |**2024-09-25**|**LLaMa-SciQ: An Educational Chatbot for Answering Science MCQ**|Marc-Antoine Allard et.al.|[2409.16779](http://arxiv.org/abs/2409.16779)|null|
 |**2024-09-25**|**PMSS: Pretrained Matrices Skeleton Selection for LLM Fine-tuning**|Qibin Wang et.al.|[2409.16722](http://arxiv.org/abs/2409.16722)|null|
