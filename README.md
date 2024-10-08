@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-07**|**GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models**|Iman Mirzadeh et.al.|[2410.05229](http://arxiv.org/abs/2410.05229)|null|
+|**2024-10-07**|**Intriguing Properties of Large Language and Vision Models**|Young-Jun Lee et.al.|[2410.04751](http://arxiv.org/abs/2410.04751)|null|
+|**2024-10-05**|**BloomWise: Enhancing Problem-Solving capabilities of Large Language Models using Bloom's-Taxonomy-Inspired Prompts**|Maria-Eleni Zoumpoulidi et.al.|[2410.04094](http://arxiv.org/abs/2410.04094)|null|
+|**2024-10-04**|**LLM-TOPLA: Efficient LLM Ensemble by Maximising Diversity**|Selim Furkan Tekin et.al.|[2410.03953](http://arxiv.org/abs/2410.03953)|**[link](https://github.com/git-disl/llm-topla)**|
 |**2024-10-04**|**Deliberate Reasoning for LLMs as Structure-aware Planning with Accurate World Model**|Siheng Xiong et.al.|[2410.03136](http://arxiv.org/abs/2410.03136)|null|
 |**2024-10-03**|**Unlocking Structured Thinking in Language Models with Cognitive prompting**|Oliver Kramer et.al.|[2410.02953](http://arxiv.org/abs/2410.02953)|null|
 |**2024-10-03**|**The Role of Deductive and Inductive Reasoning in Large Language Models**|Chengkun Cai et.al.|[2410.02892](http://arxiv.org/abs/2410.02892)|null|
@@ -124,6 +128,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-07**|**The interplay between topography and contact line pinning mechanisms on flat and superhydrophobic surfaces**|Mahya Meyari et.al.|[2410.04914](http://arxiv.org/abs/2410.04914)|null|
+|**2024-10-07**|**Two dimensional covalent moire superlattice from fluorinating twisted bilayer graphene**|Depeng Ji et.al.|[2410.04877](http://arxiv.org/abs/2410.04877)|null|
+|**2024-10-07**|**Resolvent-based quantum phase estimation: Towards estimation of parametrized eigenvalues**|Abhijeet Alase et.al.|[2410.04837](http://arxiv.org/abs/2410.04837)|null|
+|**2024-10-07**|**A Clifford Algebraic Approach to E(n)-Equivariant High-order Graph Neural Networks**|Hoang-Viet Tran et.al.|[2410.04692](http://arxiv.org/abs/2410.04692)|null|
+|**2024-10-07**|**Knowledge Graph Based Agent for Complex, Knowledge-Intensive QA in Medicine**|Xiaorui Su et.al.|[2410.04660](http://arxiv.org/abs/2410.04660)|null|
+|**2024-10-06**|**Azimuthal Anisotropy Scaling for Identified Mesons and Baryons: Insights into Medium Transport Properties, Equation of State and Hadronic Re-scattering**|Roy A. Lacey et.al.|[2410.04329](http://arxiv.org/abs/2410.04329)|null|
+|**2024-10-06**|**Cascade of phase transitions and large magnetic anisotropy in a triangle-kagome-triangle trilayer antiferromagnet**|Chao Liu et.al.|[2410.04321](http://arxiv.org/abs/2410.04321)|null|
+|**2024-10-05**|**Gas phase Elemental abundances in Molecular cloudS (GEMS). X. Observational effects of turbulence on the chemistry of molecular clouds**|L. Beitia-Antero et.al.|[2410.04226](http://arxiv.org/abs/2410.04226)|null|
+|**2024-10-04**|**On the Convergence of CROP-Anderson Acceleration Method**|Ning Wan et.al.|[2410.03970](http://arxiv.org/abs/2410.03970)|null|
+|**2024-10-04**|**Embrace rejection: Kernel matrix approximation by accelerated randomly pivoted Cholesky**|Ethan N. Epperly et.al.|[2410.03969](http://arxiv.org/abs/2410.03969)|null|
 |**2024-10-04**|**Characterization of monosubstituted benzene ices**|Elettra L. Piacentino et.al.|[2410.03574](http://arxiv.org/abs/2410.03574)|null|
 |**2024-10-04**|**Machine learning potentials for redox chemistry in solution**|Emir Kocer et.al.|[2410.03299](http://arxiv.org/abs/2410.03299)|null|
 |**2024-10-03**|**SymmetricDiffusers: Learning Discrete Diffusion on Finite Symmetric Groups**|Yongxing Zhang et.al.|[2410.02942](http://arxiv.org/abs/2410.02942)|**[link](https://github.com/nickzhang53/symmetricdiffusers)**|
