@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.07
+## Updated on 2024.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -22,7 +22,7 @@ layout: default
 |**2024-10-02**|**LASeR: Learning to Adaptively Select Reward Models with Multi-Armed Bandits**|Duy Nguyen et.al.|[2410.01735](http://arxiv.org/abs/2410.01735)|**[link](https://github.com/duykhuongnguyen/laser-mab)**|
 |**2024-10-02**|**An Exploration of Self-Supervised Mutual Information Alignment for Multi-Task Settings**|Soham Govande et.al.|[2410.01704](http://arxiv.org/abs/2410.01704)|null|
 |**2024-10-02**|**VinePPO: Unlocking RL Potential For LLM Reasoning Through Refined Credit Assignment**|Amirhossein Kazemnejad et.al.|[2410.01679](http://arxiv.org/abs/2410.01679)|**[link](https://github.com/mcgill-nlp/vineppo)**|
-|**2024-10-02**|**OpenMathInstruct-2: Accelerating AI for Math with Massive Open-Source Instruction Data**|Shubham Toshniwal et.al.|[2410.01560](http://arxiv.org/abs/2410.01560)|**[link](https://github.com/kipok/nemo-skills)**|
+|**2024-10-05**|**OpenMathInstruct-2: Accelerating AI for Math with Massive Open-Source Instruction Data**|Shubham Toshniwal et.al.|[2410.01560](http://arxiv.org/abs/2410.01560)|**[link](https://github.com/kipok/nemo-skills)**|
 |**2024-10-02**|**PersonaMath: Enhancing Math Reasoning through Persona-Driven Data Augmentation**|Jing Luo et.al.|[2410.01504](http://arxiv.org/abs/2410.01504)|null|
 |**2024-10-02**|**Can We Further Elicit Reasoning in LLMs? Critic-Guided Planning with Retrieval-Augmentation for Solving Challenging Tasks**|Xingxuan Li et.al.|[2410.01428](http://arxiv.org/abs/2410.01428)|null|
 |**2024-10-04**|**Scheherazade: Evaluating Chain-of-Thought Math Reasoning in LLMs with Chain-of-Problems**|Stephen Miner et.al.|[2410.00151](http://arxiv.org/abs/2410.00151)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.07
+## Updated on 2024.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2024-10-02**|**LASeR: Learning to Adaptively Select Reward Models with Multi-Armed Bandits**|Duy Nguyen et.al.|[2410.01735](http://arxiv.org/abs/2410.01735)|**[link](https://github.com/duykhuongnguyen/laser-mab)**|
 |**2024-10-02**|**An Exploration of Self-Supervised Mutual Information Alignment for Multi-Task Settings**|Soham Govande et.al.|[2410.01704](http://arxiv.org/abs/2410.01704)|null|
 |**2024-10-02**|**VinePPO: Unlocking RL Potential For LLM Reasoning Through Refined Credit Assignment**|Amirhossein Kazemnejad et.al.|[2410.01679](http://arxiv.org/abs/2410.01679)|**[link](https://github.com/mcgill-nlp/vineppo)**|
-|**2024-10-02**|**OpenMathInstruct-2: Accelerating AI for Math with Massive Open-Source Instruction Data**|Shubham Toshniwal et.al.|[2410.01560](http://arxiv.org/abs/2410.01560)|**[link](https://github.com/kipok/nemo-skills)**|
+|**2024-10-05**|**OpenMathInstruct-2: Accelerating AI for Math with Massive Open-Source Instruction Data**|Shubham Toshniwal et.al.|[2410.01560](http://arxiv.org/abs/2410.01560)|**[link](https://github.com/kipok/nemo-skills)**|
 |**2024-10-02**|**PersonaMath: Enhancing Math Reasoning through Persona-Driven Data Augmentation**|Jing Luo et.al.|[2410.01504](http://arxiv.org/abs/2410.01504)|null|
 |**2024-10-02**|**Can We Further Elicit Reasoning in LLMs? Critic-Guided Planning with Retrieval-Augmentation for Solving Challenging Tasks**|Xingxuan Li et.al.|[2410.01428](http://arxiv.org/abs/2410.01428)|null|
 |**2024-10-04**|**Scheherazade: Evaluating Chain-of-Thought Math Reasoning in LLMs with Chain-of-Problems**|Stephen Miner et.al.|[2410.00151](http://arxiv.org/abs/2410.00151)|null|
@@ -118,7 +118,7 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241008>back to top</a>)</p>
 
 ## AI for Science
 
@@ -618,7 +618,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241008>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
