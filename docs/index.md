@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**Subtle Errors Matter: Preference Learning via Error-injected Self-editing**|Kaishuai Xu et.al.|[2410.06638](http://arxiv.org/abs/2410.06638)|null|
+|**2024-10-08**|**Fine-grained Hallucination Detection and Mitigation in Language Model Mathematical Reasoning**|Ruosen Li et.al.|[2410.06304](http://arxiv.org/abs/2410.06304)|null|
+|**2024-10-08**|**Coevolving with the Other You: Fine-Tuning LLM with Sequential Cooperative Multi-Agent Reinforcement Learning**|Hao Ma et.al.|[2410.06101](http://arxiv.org/abs/2410.06101)|null|
+|**2024-10-05**|**Improving LLM Reasoning through Scaling Inference Computation with Collaborative Verification**|Zhenwen Liang et.al.|[2410.05318](http://arxiv.org/abs/2410.05318)|null|
 |**2024-10-07**|**GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models**|Iman Mirzadeh et.al.|[2410.05229](http://arxiv.org/abs/2410.05229)|null|
 |**2024-10-07**|**Intriguing Properties of Large Language and Vision Models**|Young-Jun Lee et.al.|[2410.04751](http://arxiv.org/abs/2410.04751)|null|
 |**2024-10-05**|**BloomWise: Enhancing Problem-Solving capabilities of Large Language Models using Bloom's-Taxonomy-Inspired Prompts**|Maria-Eleni Zoumpoulidi et.al.|[2410.04094](http://arxiv.org/abs/2410.04094)|null|
@@ -122,6 +126,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**Chemical composition of planetary hosts: C, N, and $α$ -element abundances**|A. Sharma et.al.|[2410.07100](http://arxiv.org/abs/2410.07100)|null|
+|**2024-10-09**|**MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses**|Zonglin Yang et.al.|[2410.07076](http://arxiv.org/abs/2410.07076)|**[link](https://github.com/ZonglinY/MOOSE-Chem)**|
+|**2024-10-09**|**Moving-mesh non-ideal magnetohydrodynamical simulations of the collapse of cloud cores to protostars**|Alexander C. Mayer et.al.|[2410.07016](http://arxiv.org/abs/2410.07016)|null|
+|**2024-10-09**|**DLGNet: Hyperedge Classification through Directed Line Graphs for Chemical Reactions**|Stefano Fiorini et.al.|[2410.06969](http://arxiv.org/abs/2410.06969)|null|
+|**2024-10-09**|**A comparative high-resolution spectroscopic analysis of in situ and accreted globular clusters**|E. Ceccarelli et.al.|[2410.06702](http://arxiv.org/abs/2410.06702)|null|
+|**2024-10-09**|**Chemistry-Inspired Diffusion with Non-Differentiable Guidance**|Yuchen Shen et.al.|[2410.06502](http://arxiv.org/abs/2410.06502)|null|
+|**2024-10-08**|**Validation of the Scientific Literature via Chemputation Augmented by Large Language Models**|Sebastian Pagel et.al.|[2410.06384](http://arxiv.org/abs/2410.06384)|null|
+|**2024-10-08**|**Formation of Lattice Vacancies and their Effects on Lithium-ion Transport in LiBO2 Crystals: Comparative Ab Initio Studies**|Carson Ziemke et.al.|[2410.06284](http://arxiv.org/abs/2410.06284)|null|
+|**2024-10-08**|**Balancing chemical equations: form the perspective of Hilbert basis**|Zeying Zhang et.al.|[2410.06023](http://arxiv.org/abs/2410.06023)|null|
+|**2024-10-08**|**Chain-of-Thoughts for Molecular Understanding**|Yunhui Jang et.al.|[2410.05610](http://arxiv.org/abs/2410.05610)|null|
 |**2024-10-07**|**The interplay between topography and contact line pinning mechanisms on flat and superhydrophobic surfaces**|Mahya Meyari et.al.|[2410.04914](http://arxiv.org/abs/2410.04914)|null|
 |**2024-10-07**|**Two dimensional covalent moire superlattice from fluorinating twisted bilayer graphene**|Depeng Ji et.al.|[2410.04877](http://arxiv.org/abs/2410.04877)|null|
 |**2024-10-07**|**Resolvent-based quantum phase estimation: Towards estimation of parametrized eigenvalues**|Abhijeet Alase et.al.|[2410.04837](http://arxiv.org/abs/2410.04837)|null|
