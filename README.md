@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.10
+## Updated on 2024.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code**|Zimu Lu et.al.|[2410.08196](http://arxiv.org/abs/2410.08196)|**[link](https://github.com/mathllm/mathcoder2)**|
+|**2024-10-10**|**Omni-MATH: A Universal Olympiad Level Mathematic Benchmark For Large Language Models**|Bofei Gao et.al.|[2410.07985](http://arxiv.org/abs/2410.07985)|null|
+|**2024-10-10**|**Dialectical Behavior Therapy Approach to LLM Prompting**|Oxana Vitman et.al.|[2410.07768](http://arxiv.org/abs/2410.07768)|null|
 |**2024-10-09**|**Subtle Errors Matter: Preference Learning via Error-injected Self-editing**|Kaishuai Xu et.al.|[2410.06638](http://arxiv.org/abs/2410.06638)|null|
 |**2024-10-08**|**Fine-grained Hallucination Detection and Mitigation in Language Model Mathematical Reasoning**|Ruosen Li et.al.|[2410.06304](http://arxiv.org/abs/2410.06304)|null|
 |**2024-10-08**|**Coevolving with the Other You: Fine-Tuning LLM with Sequential Cooperative Multi-Agent Reinforcement Learning**|Hao Ma et.al.|[2410.06101](http://arxiv.org/abs/2410.06101)|null|
@@ -126,12 +129,18 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
 
 ## AI for Science
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**The mystery of water in the atmosphere of $τ$ Boötis b continues: insights from revisiting archival CRIRES observations**|Vatsal Panwar et.al.|[2410.08178](http://arxiv.org/abs/2410.08178)|null|
+|**2024-10-10**|**BOWIE-ALIGN: JWST reveals hints of planetesimal accretion and complex sulphur chemistry in the atmosphere of the misaligned hot Jupiter WASP-15b**|James Kirk et.al.|[2410.08116](http://arxiv.org/abs/2410.08116)|null|
+|**2024-10-10**|**Chapter 10031. Surfaces and Interiors**|Lena Noack et.al.|[2410.08055](http://arxiv.org/abs/2410.08055)|null|
+|**2024-10-10**|**Harmonic Oscillator based Particle Swarm Optimization**|Yury Chernyak et.al.|[2410.08043](http://arxiv.org/abs/2410.08043)|null|
+|**2024-10-10**|**Self-Consistent Determination of Single-Impurity Anderson Model Using Hybrid Quantum-Classical Approach on a Spin Quantum Simulator**|Xinfang Nie et.al.|[2410.07808](http://arxiv.org/abs/2410.07808)|null|
+|**2024-10-10**|**Ice origins of OCS and chemistry of CS2-bearing ice mantles**|Rafael Martin-Domenech et.al.|[2410.07736](http://arxiv.org/abs/2410.07736)|null|
 |**2024-10-09**|**Chemical composition of planetary hosts: C, N, and $α$ -element abundances**|A. Sharma et.al.|[2410.07100](http://arxiv.org/abs/2410.07100)|null|
 |**2024-10-09**|**MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses**|Zonglin Yang et.al.|[2410.07076](http://arxiv.org/abs/2410.07076)|**[link](https://github.com/ZonglinY/MOOSE-Chem)**|
 |**2024-10-09**|**Moving-mesh non-ideal magnetohydrodynamical simulations of the collapse of cloud cores to protostars**|Alexander C. Mayer et.al.|[2410.07016](http://arxiv.org/abs/2410.07016)|null|
@@ -646,7 +655,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
