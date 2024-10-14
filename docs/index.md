@@ -14,8 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Towards Cross-Lingual LLM Evaluation for European Languages**|Klaudia Thellmann et.al.|[2410.08928](http://arxiv.org/abs/2410.08928)|null|
 |**2024-10-10**|**MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code**|Zimu Lu et.al.|[2410.08196](http://arxiv.org/abs/2410.08196)|**[link](https://github.com/mathllm/mathcoder2)**|
-|**2024-10-11**|**Omni-MATH: A Universal Olympiad Level Mathematic Benchmark For Large Language Models**|Bofei Gao et.al.|[2410.07985](http://arxiv.org/abs/2410.07985)|null|
+|**2024-10-11**|**Omni-MATH: A Universal Olympiad Level Mathematic Benchmark For Large Language Models**|Bofei Gao et.al.|[2410.07985](http://arxiv.org/abs/2410.07985)|**[link](https://github.com/kbsdjames/omni-math)**|
 |**2024-10-10**|**Dialectical Behavior Therapy Approach to LLM Prompting**|Oxana Vitman et.al.|[2410.07768](http://arxiv.org/abs/2410.07768)|null|
 |**2024-10-09**|**Subtle Errors Matter: Preference Learning via Error-injected Self-editing**|Kaishuai Xu et.al.|[2410.06638](http://arxiv.org/abs/2410.06638)|null|
 |**2024-10-08**|**Fine-grained Hallucination Detection and Mitigation in Language Model Mathematical Reasoning**|Ruosen Li et.al.|[2410.06304](http://arxiv.org/abs/2410.06304)|null|
@@ -129,6 +130,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents**|Xiangyu Yin et.al.|[2410.09034](http://arxiv.org/abs/2410.09034)|null|
+|**2024-10-11**|**Can the electron density be interpreted information-theoretically? A critical analysis using quantum information theory**|Guillaume Acke et.al.|[2410.08929](http://arxiv.org/abs/2410.08929)|null|
+|**2024-10-11**|**A unified quantum framework for electrons and ions: The self-consistent harmonic approximation on a neural network curved manifold**|Lorenzo Monacelli et.al.|[2410.08882](http://arxiv.org/abs/2410.08882)|null|
+|**2024-10-11**|**The velocity jump Langevin process and its splitting scheme: long time convergence and numerical accuracy**|Nicolaï Gouraud et.al.|[2410.08846](http://arxiv.org/abs/2410.08846)|null|
+|**2024-10-11**|**Evidence for Abiotic Dimethyl Sulfide in Cometary Matter**|Nora Hänni et.al.|[2410.08724](http://arxiv.org/abs/2410.08724)|null|
+|**2024-10-10**|**Extendibility of fermionic states and rigorous ground state approximations of interacting fermionic systems**|Christian Krumnow et.al.|[2410.08322](http://arxiv.org/abs/2410.08322)|null|
 |**2024-10-10**|**The mystery of water in the atmosphere of $τ$ Boötis b continues: insights from revisiting archival CRIRES observations**|Vatsal Panwar et.al.|[2410.08178](http://arxiv.org/abs/2410.08178)|null|
 |**2024-10-10**|**BOWIE-ALIGN: JWST reveals hints of planetesimal accretion and complex sulphur chemistry in the atmosphere of the misaligned hot Jupiter WASP-15b**|James Kirk et.al.|[2410.08116](http://arxiv.org/abs/2410.08116)|null|
 |**2024-10-10**|**Chapter 10031. Surfaces and Interiors**|Lena Noack et.al.|[2410.08055](http://arxiv.org/abs/2410.08055)|null|
