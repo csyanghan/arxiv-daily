@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.13
+## Updated on 2024.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-10**|**MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code**|Zimu Lu et.al.|[2410.08196](http://arxiv.org/abs/2410.08196)|**[link](https://github.com/mathllm/mathcoder2)**|
-|**2024-10-10**|**Omni-MATH: A Universal Olympiad Level Mathematic Benchmark For Large Language Models**|Bofei Gao et.al.|[2410.07985](http://arxiv.org/abs/2410.07985)|null|
+|**2024-10-11**|**Omni-MATH: A Universal Olympiad Level Mathematic Benchmark For Large Language Models**|Bofei Gao et.al.|[2410.07985](http://arxiv.org/abs/2410.07985)|null|
 |**2024-10-10**|**Dialectical Behavior Therapy Approach to LLM Prompting**|Oxana Vitman et.al.|[2410.07768](http://arxiv.org/abs/2410.07768)|null|
 |**2024-10-09**|**Subtle Errors Matter: Preference Learning via Error-injected Self-editing**|Kaishuai Xu et.al.|[2410.06638](http://arxiv.org/abs/2410.06638)|null|
 |**2024-10-08**|**Fine-grained Hallucination Detection and Mitigation in Language Model Mathematical Reasoning**|Ruosen Li et.al.|[2410.06304](http://arxiv.org/abs/2410.06304)|null|
