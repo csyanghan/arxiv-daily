@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**How to Leverage Demonstration Data in Alignment for Large Language Model? A Self-Imitation Learning Perspective**|Teng Xiao et.al.|[2410.10093](http://arxiv.org/abs/2410.10093)|**[link](https://github.com/tengxiao1/gsil)**|
+|**2024-10-12**|**COrAL: Order-Agnostic Language Modeling for Efficient Iterative Refinement**|Yuxi Xie et.al.|[2410.09675](http://arxiv.org/abs/2410.09675)|**[link](https://github.com/yuxixie/coral)**|
+|**2024-10-11**|**Enhancing Multi-Step Reasoning Abilities of Language Models through Direct Q-Function Optimization**|Guanlin Liu et.al.|[2410.09302](http://arxiv.org/abs/2410.09302)|null|
+|**2024-10-11**|**Nudging: Inference-time Alignment via Model Collaboration**|Yu Fei et.al.|[2410.09300](http://arxiv.org/abs/2410.09300)|null|
 |**2024-10-11**|**Towards Cross-Lingual LLM Evaluation for European Languages**|Klaudia Thellmann et.al.|[2410.08928](http://arxiv.org/abs/2410.08928)|null|
 |**2024-10-10**|**MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code**|Zimu Lu et.al.|[2410.08196](http://arxiv.org/abs/2410.08196)|**[link](https://github.com/mathllm/mathcoder2)**|
 |**2024-10-11**|**Omni-MATH: A Universal Olympiad Level Mathematic Benchmark For Large Language Models**|Bofei Gao et.al.|[2410.07985](http://arxiv.org/abs/2410.07985)|**[link](https://github.com/kbsdjames/omni-math)**|
@@ -136,6 +140,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**Tethered Particle Motion Technique in Crowded Media: Compaction of DNA by Globular Macromolecules**|Marc Joyeux et.al.|[2410.10231](http://arxiv.org/abs/2410.10231)|null|
+|**2024-10-14**|**Gaseous Scissor-mediated Electrochemical Exfoliation of Halogenated MXenes and its Boosting in Wear-Resisting Tribovoltaic Devices**|Qi Fan et.al.|[2410.10214](http://arxiv.org/abs/2410.10214)|null|
+|**2024-10-14**|**Swift: High-Performance Sparse Tensor Contraction for Scientific Applications**|Andrew Ensinger et.al.|[2410.10094](http://arxiv.org/abs/2410.10094)|null|
+|**2024-10-13**|**A data-driven sparse learning approach to reduce chemical reaction mechanisms**|Shen Fang et.al.|[2410.09901](http://arxiv.org/abs/2410.09901)|null|
+|**2024-10-12**|**A pedagogical tour of the Fourier transform with applications to NMR and IR spectroscopy**|Anthony J. Dominic III et.al.|[2410.09619](http://arxiv.org/abs/2410.09619)|null|
+|**2024-10-12**|**Behaviour Preserving Extensions of Univariate and Bivariate Functions**|David Levin et.al.|[2410.09423](http://arxiv.org/abs/2410.09423)|null|
+|**2024-10-11**|**Sensitivity Analysis of Aromatic Chemistry to Gas-Phase Kinetics in a Dark Molecular Cloud Model**|Alex N. Byrne et.al.|[2410.09212](http://arxiv.org/abs/2410.09212)|null|
+|**2024-10-11**|**From {\tt Ferminet} to PINN. Connections between neural network-based algorithms for high-dimensional Schrödinger Hamiltonian**|Mashhood Khan et.al.|[2410.09177](http://arxiv.org/abs/2410.09177)|null|
+|**2024-10-11**|**Selective synthesis and crystal chemistry of candidate rare earth Kitaev materials: honeycomb and hyperhoneycomb Na $_2$PrO$_3$**|Ryutaro Okuma et.al.|[2410.09171](http://arxiv.org/abs/2410.09171)|null|
 |**2024-10-11**|**PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents**|Xiangyu Yin et.al.|[2410.09034](http://arxiv.org/abs/2410.09034)|null|
 |**2024-10-11**|**Can the electron density be interpreted information-theoretically? A critical analysis using quantum information theory**|Guillaume Acke et.al.|[2410.08929](http://arxiv.org/abs/2410.08929)|null|
 |**2024-10-11**|**A unified quantum framework for electrons and ions: The self-consistent harmonic approximation on a neural network curved manifold**|Lorenzo Monacelli et.al.|[2410.08882](http://arxiv.org/abs/2410.08882)|null|
