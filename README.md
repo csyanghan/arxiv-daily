@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**One Language, Many Gaps: Evaluating Dialect Fairness and Robustness of Large Language Models in Reasoning Tasks**|Fangru Lin et.al.|[2410.11005](http://arxiv.org/abs/2410.11005)|null|
 |**2024-10-14**|**How to Leverage Demonstration Data in Alignment for Large Language Model? A Self-Imitation Learning Perspective**|Teng Xiao et.al.|[2410.10093](http://arxiv.org/abs/2410.10093)|**[link](https://github.com/tengxiao1/gsil)**|
 |**2024-10-12**|**COrAL: Order-Agnostic Language Modeling for Efficient Iterative Refinement**|Yuxi Xie et.al.|[2410.09675](http://arxiv.org/abs/2410.09675)|**[link](https://github.com/yuxixie/coral)**|
 |**2024-10-11**|**Enhancing Multi-Step Reasoning Abilities of Language Models through Direct Q-Function Optimization**|Guanlin Liu et.al.|[2410.09302](http://arxiv.org/abs/2410.09302)|null|
@@ -140,6 +141,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**It Takes Two to Tango: Directly Optimizing for Constrained Synthesizability in Generative Molecular Design**|Jeff Guo et.al.|[2410.11527](http://arxiv.org/abs/2410.11527)|null|
+|**2024-10-15**|**Spatially Selective Acoustic Pressure Reporting Using Antibubbles**|Nicolas Moreno Gomez et.al.|[2410.11477](http://arxiv.org/abs/2410.11477)|null|
+|**2024-10-15**|**Comprehensive linear stability analysis for intrinsic instabilities in premixed ammonia/hydrogen/air flames**|Terence Lehmann et.al.|[2410.11466](http://arxiv.org/abs/2410.11466)|null|
+|**2024-10-15**|**Investigating Data Hierarchies in Multifidelity Machine Learning for Excitation Energies**|Vivin Vinod et.al.|[2410.11392](http://arxiv.org/abs/2410.11392)|null|
+|**2024-10-15**|**Benchmarking Data Efficiency in $Δ$ -ML and Multifidelity Models for Quantum Chemistry**|Vivin Vinod et.al.|[2410.11391](http://arxiv.org/abs/2410.11391)|null|
+|**2024-10-15**|**Hexagonal boron nitride crystal growth in the Li3BN2-BN system**|Camille Maestre et.al.|[2410.11334](http://arxiv.org/abs/2410.11334)|null|
+|**2024-10-15**|**Towards chemical accuracy for chemi- and physisorption with an efficient density functional**|Manish Kothakonda et.al.|[2410.11248](http://arxiv.org/abs/2410.11248)|null|
+|**2024-10-14**|**Sulfur in the Giant Planets, their Moons, and Extrasolar Gas Giant Planets**|Katharina Lodders et.al.|[2410.11138](http://arxiv.org/abs/2410.11138)|null|
+|**2024-10-14**|**Do stars still form in molecular gas within CO-dark dwarf galaxies?**|David J. Whitworth et.al.|[2410.10983](http://arxiv.org/abs/2410.10983)|null|
+|**2024-10-14**|**Disequilibrium Chemistry, Diabatic Thermal Structure, and Clouds in the Atmosphere of COCONUTS-2b**|Zhoujian Zhang et.al.|[2410.10939](http://arxiv.org/abs/2410.10939)|null|
 |**2024-10-14**|**Tethered Particle Motion Technique in Crowded Media: Compaction of DNA by Globular Macromolecules**|Marc Joyeux et.al.|[2410.10231](http://arxiv.org/abs/2410.10231)|null|
 |**2024-10-14**|**Gaseous Scissor-mediated Electrochemical Exfoliation of Halogenated MXenes and its Boosting in Wear-Resisting Tribovoltaic Devices**|Qi Fan et.al.|[2410.10214](http://arxiv.org/abs/2410.10214)|null|
 |**2024-10-14**|**Swift: High-Performance Sparse Tensor Contraction for Scientific Applications**|Andrew Ensinger et.al.|[2410.10094](http://arxiv.org/abs/2410.10094)|null|
