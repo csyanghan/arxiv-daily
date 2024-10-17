@@ -14,7 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-14**|**One Language, Many Gaps: Evaluating Dialect Fairness and Robustness of Large Language Models in Reasoning Tasks**|Fangru Lin et.al.|[2410.11005](http://arxiv.org/abs/2410.11005)|null|
+|**2024-10-16**|**Not All Votes Count! Programs as Verifiers Improve Self-Consistency of Language Models for Math Reasoning**|Vernon Y. H. Toh et.al.|[2410.12608](http://arxiv.org/abs/2410.12608)|null|
+|**2024-10-14**|**One Language, Many Gaps: Evaluating Dialect Fairness and Robustness of Large Language Models in Reasoning Tasks**|Fangru Lin et.al.|[2410.11005](http://arxiv.org/abs/2410.11005)|**[link](https://github.com/fangru-lin/redial_dialect_robustness_fairness)**|
 |**2024-10-14**|**How to Leverage Demonstration Data in Alignment for Large Language Model? A Self-Imitation Learning Perspective**|Teng Xiao et.al.|[2410.10093](http://arxiv.org/abs/2410.10093)|**[link](https://github.com/tengxiao1/gsil)**|
 |**2024-10-12**|**COrAL: Order-Agnostic Language Modeling for Efficient Iterative Refinement**|Yuxi Xie et.al.|[2410.09675](http://arxiv.org/abs/2410.09675)|**[link](https://github.com/yuxixie/coral)**|
 |**2024-10-11**|**Enhancing Multi-Step Reasoning Abilities of Language Models through Direct Q-Function Optimization**|Guanlin Liu et.al.|[2410.09302](http://arxiv.org/abs/2410.09302)|null|
@@ -135,11 +136,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-15**|**It Takes Two to Tango: Directly Optimizing for Constrained Synthesizability in Generative Molecular Design**|Jeff Guo et.al.|[2410.11527](http://arxiv.org/abs/2410.11527)|null|
+|**2024-10-16**|**Signature of Vertical Mixing in Hydrogen-dominated Exoplanet Atmospheres**|Vikas Soni et.al.|[2410.12737](http://arxiv.org/abs/2410.12737)|null|
+|**2024-10-16**|**Quantum Embedding of Non-local Quantum Many-body Interactions in Prototypal Anti-tumor Vaccine Metalloprotein on Near Term Quantum Computing Hardware**|Elena Chachkarova et.al.|[2410.12733](http://arxiv.org/abs/2410.12733)|null|
+|**2024-10-16**|**Structure of the water/magnetite interface from sum frequency generation experiments and neural network based molecular dynamics simulations**|Salvatore Romano et.al.|[2410.12717](http://arxiv.org/abs/2410.12717)|null|
+|**2024-10-16**|**Towards Arbitrary QUBO Optimization: Analysis of Classical and Quantum-Activated Feedforward Neural Networks**|Chia-Tso Lai et.al.|[2410.12636](http://arxiv.org/abs/2410.12636)|null|
+|**2024-10-15**|**It Takes Two to Tango: Directly Optimizing for Constrained Synthesizability in Generative Molecular Design**|Jeff Guo et.al.|[2410.11527](http://arxiv.org/abs/2410.11527)|**[link](https://github.com/schwallergroup/saturn)**|
 |**2024-10-15**|**Spatially Selective Acoustic Pressure Reporting Using Antibubbles**|Nicolas Moreno Gomez et.al.|[2410.11477](http://arxiv.org/abs/2410.11477)|null|
 |**2024-10-15**|**Comprehensive linear stability analysis for intrinsic instabilities in premixed ammonia/hydrogen/air flames**|Terence Lehmann et.al.|[2410.11466](http://arxiv.org/abs/2410.11466)|null|
-|**2024-10-15**|**Investigating Data Hierarchies in Multifidelity Machine Learning for Excitation Energies**|Vivin Vinod et.al.|[2410.11392](http://arxiv.org/abs/2410.11392)|null|
-|**2024-10-15**|**Benchmarking Data Efficiency in $Δ$ -ML and Multifidelity Models for Quantum Chemistry**|Vivin Vinod et.al.|[2410.11391](http://arxiv.org/abs/2410.11391)|null|
+|**2024-10-15**|**Investigating Data Hierarchies in Multifidelity Machine Learning for Excitation Energies**|Vivin Vinod et.al.|[2410.11392](http://arxiv.org/abs/2410.11392)|**[link](https://github.com/SM4DA/MFML_DataHierarchy)**|
+|**2024-10-15**|**Benchmarking Data Efficiency in $Δ$ -ML and Multifidelity Models for Quantum Chemistry**|Vivin Vinod et.al.|[2410.11391](http://arxiv.org/abs/2410.11391)|**[link](https://github.com/SM4DA/MFDeltaML)**|
 |**2024-10-15**|**Hexagonal boron nitride crystal growth in the Li3BN2-BN system**|Camille Maestre et.al.|[2410.11334](http://arxiv.org/abs/2410.11334)|null|
 |**2024-10-15**|**Towards chemical accuracy for chemi- and physisorption with an efficient density functional**|Manish Kothakonda et.al.|[2410.11248](http://arxiv.org/abs/2410.11248)|null|
 |**2024-10-14**|**Sulfur in the Giant Planets, their Moons, and Extrasolar Gas Giant Planets**|Katharina Lodders et.al.|[2410.11138](http://arxiv.org/abs/2410.11138)|null|
