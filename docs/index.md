@@ -14,13 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**SBI-RAG: Enhancing Math Word Problem Solving for Students through Schema-Based Instruction and Retrieval-Augmented Generation**|Prakhar Dixit et.al.|[2410.13293](http://arxiv.org/abs/2410.13293)|null|
+|**2024-10-15**|**MIND: Math Informed syNthetic Dialogues for Pretraining LLMs**|Syeda Nahida Akter et.al.|[2410.12881](http://arxiv.org/abs/2410.12881)|null|
 |**2024-10-16**|**Not All Votes Count! Programs as Verifiers Improve Self-Consistency of Language Models for Math Reasoning**|Vernon Y. H. Toh et.al.|[2410.12608](http://arxiv.org/abs/2410.12608)|null|
 |**2024-10-14**|**One Language, Many Gaps: Evaluating Dialect Fairness and Robustness of Large Language Models in Reasoning Tasks**|Fangru Lin et.al.|[2410.11005](http://arxiv.org/abs/2410.11005)|**[link](https://github.com/fangru-lin/redial_dialect_robustness_fairness)**|
 |**2024-10-14**|**How to Leverage Demonstration Data in Alignment for Large Language Model? A Self-Imitation Learning Perspective**|Teng Xiao et.al.|[2410.10093](http://arxiv.org/abs/2410.10093)|**[link](https://github.com/tengxiao1/gsil)**|
 |**2024-10-12**|**COrAL: Order-Agnostic Language Modeling for Efficient Iterative Refinement**|Yuxi Xie et.al.|[2410.09675](http://arxiv.org/abs/2410.09675)|**[link](https://github.com/yuxixie/coral)**|
 |**2024-10-11**|**Enhancing Multi-Step Reasoning Abilities of Language Models through Direct Q-Function Optimization**|Guanlin Liu et.al.|[2410.09302](http://arxiv.org/abs/2410.09302)|null|
 |**2024-10-15**|**Nudging: Inference-time Alignment via Model Collaboration**|Yu Fei et.al.|[2410.09300](http://arxiv.org/abs/2410.09300)|null|
-|**2024-10-11**|**Towards Cross-Lingual LLM Evaluation for European Languages**|Klaudia Thellmann et.al.|[2410.08928](http://arxiv.org/abs/2410.08928)|null|
+|**2024-10-17**|**Towards Multilingual LLM Evaluation for European Languages**|Klaudia Thellmann et.al.|[2410.08928](http://arxiv.org/abs/2410.08928)|null|
 |**2024-10-10**|**MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code**|Zimu Lu et.al.|[2410.08196](http://arxiv.org/abs/2410.08196)|**[link](https://github.com/mathllm/mathcoder2)**|
 |**2024-10-11**|**Omni-MATH: A Universal Olympiad Level Mathematic Benchmark For Large Language Models**|Bofei Gao et.al.|[2410.07985](http://arxiv.org/abs/2410.07985)|**[link](https://github.com/kbsdjames/omni-math)**|
 |**2024-10-10**|**Dialectical Behavior Therapy Approach to LLM Prompting**|Oxana Vitman et.al.|[2410.07768](http://arxiv.org/abs/2410.07768)|null|
@@ -136,6 +138,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**Analyzing Atomic Interactions in Molecules as Learned by Neural Networks**|Malte Esders et.al.|[2410.13833](http://arxiv.org/abs/2410.13833)|null|
+|**2024-10-17**|**Graphendofullerene: a novel molecular two-dimensional ferromagnet**|Diego López-Alcalá et.al.|[2410.13550](http://arxiv.org/abs/2410.13550)|null|
+|**2024-10-17**|**Suppressed paramagnetism in amorphous Ta $_2$O$_{5-x}$ oxides and its link to superconducting qubit performance**|P. Graham Pritchard et.al.|[2410.13160](http://arxiv.org/abs/2410.13160)|null|
+|**2024-10-16**|**Many-Body Basis Set Amelioration Method for Incremental Full Configuration Interaction**|Jeffrey P Hatch et.al.|[2410.13001](http://arxiv.org/abs/2410.13001)|null|
+|**2024-10-16**|**Stochastic Operator Learning for Chemistry in Non-Equilibrium Flows**|Mridula Kuppa et.al.|[2410.12925](http://arxiv.org/abs/2410.12925)|null|
 |**2024-10-16**|**Signature of Vertical Mixing in Hydrogen-dominated Exoplanet Atmospheres**|Vikas Soni et.al.|[2410.12737](http://arxiv.org/abs/2410.12737)|null|
 |**2024-10-16**|**Quantum Embedding of Non-local Quantum Many-body Interactions in Prototypal Anti-tumor Vaccine Metalloprotein on Near Term Quantum Computing Hardware**|Elena Chachkarova et.al.|[2410.12733](http://arxiv.org/abs/2410.12733)|null|
 |**2024-10-16**|**Structure of the water/magnetite interface from sum frequency generation experiments and neural network based molecular dynamics simulations**|Salvatore Romano et.al.|[2410.12717](http://arxiv.org/abs/2410.12717)|null|
