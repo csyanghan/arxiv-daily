@@ -138,6 +138,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**Efficient charge-preserving excited state preparation with variational quantum algorithms**|Zohim Chandani et.al.|[2410.14357](http://arxiv.org/abs/2410.14357)|null|
+|**2024-10-18**|**Atomic and molecular gas as traced by [C II] emission**|Benedetta Casavecchia et.al.|[2410.14284](http://arxiv.org/abs/2410.14284)|null|
 |**2024-10-17**|**Analyzing Atomic Interactions in Molecules as Learned by Neural Networks**|Malte Esders et.al.|[2410.13833](http://arxiv.org/abs/2410.13833)|null|
 |**2024-10-17**|**Graphendofullerene: a novel molecular two-dimensional ferromagnet**|Diego López-Alcalá et.al.|[2410.13550](http://arxiv.org/abs/2410.13550)|null|
 |**2024-10-17**|**Suppressed paramagnetism in amorphous Ta $_2$O$_{5-x}$ oxides and its link to superconducting qubit performance**|P. Graham Pritchard et.al.|[2410.13160](http://arxiv.org/abs/2410.13160)|null|
