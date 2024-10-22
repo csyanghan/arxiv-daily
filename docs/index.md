@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**SMART: Self-learning Meta-strategy Agent for Reasoning Tasks**|Rongxing Liu et.al.|[2410.16128](http://arxiv.org/abs/2410.16128)|**[link](https://github.com/kumar-shridhar/smart)**|
+|**2024-10-18**|**TreeBoN: Enhancing Inference-Time Alignment with Speculative Tree-Search and Best-of-N Sampling**|Jiahao Qiu et.al.|[2410.16033](http://arxiv.org/abs/2410.16033)|null|
+|**2024-10-19**|**On Designing Effective RL Reward at Training Time for LLM Reasoning**|Jiaxuan Gao et.al.|[2410.15115](http://arxiv.org/abs/2410.15115)|null|
 |**2024-10-17**|**SBI-RAG: Enhancing Math Word Problem Solving for Students through Schema-Based Instruction and Retrieval-Augmented Generation**|Prakhar Dixit et.al.|[2410.13293](http://arxiv.org/abs/2410.13293)|null|
 |**2024-10-15**|**MIND: Math Informed syNthetic Dialogues for Pretraining LLMs**|Syeda Nahida Akter et.al.|[2410.12881](http://arxiv.org/abs/2410.12881)|null|
 |**2024-10-16**|**Not All Votes Count! Programs as Verifiers Improve Self-Consistency of Language Models for Math Reasoning**|Vernon Y. H. Toh et.al.|[2410.12608](http://arxiv.org/abs/2410.12608)|null|
@@ -138,6 +141,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**Integer linear programming for unsupervised training set selection in molecular machine learning**|Matthieu Haeberle et.al.|[2410.16122](http://arxiv.org/abs/2410.16122)|null|
+|**2024-10-21**|**Projective Quantum Eigensolver with Generalized Operators**|Dibyendu Mondal et.al.|[2410.16111](http://arxiv.org/abs/2410.16111)|null|
+|**2024-10-21**|**SMILES-Prompting: A Novel Approach to LLM Jailbreak Attacks in Chemical Synthesis**|Aidan Wong et.al.|[2410.15641](http://arxiv.org/abs/2410.15641)|null|
+|**2024-10-19**|**Generalizable Prediction Model of Molten Salt Mixture Density with Chemistry-Informed Transfer Learning**|Julian Barra et.al.|[2410.15120](http://arxiv.org/abs/2410.15120)|null|
+|**2024-10-18**|**Effects of Ligand vs. Linker on Phase Behavior and Mechanical Properties of Nanoparticle Gels**|Qizan Chen et.al.|[2410.14854](http://arxiv.org/abs/2410.14854)|null|
+|**2024-10-18**|**State Selective Preparation and Nondestructive Detection of Trapped ${\rm O}_2^+$**|Ambesh Pratik Singh et.al.|[2410.14832](http://arxiv.org/abs/2410.14832)|null|
 |**2024-10-18**|**Efficient charge-preserving excited state preparation with variational quantum algorithms**|Zohim Chandani et.al.|[2410.14357](http://arxiv.org/abs/2410.14357)|null|
 |**2024-10-18**|**Atomic and molecular gas as traced by [C II] emission**|Benedetta Casavecchia et.al.|[2410.14284](http://arxiv.org/abs/2410.14284)|null|
 |**2024-10-17**|**Analyzing Atomic Interactions in Molecules as Learned by Neural Networks**|Malte Esders et.al.|[2410.13833](http://arxiv.org/abs/2410.13833)|null|
