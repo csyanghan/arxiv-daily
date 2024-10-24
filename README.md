@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**MiLoRA: Efficient Mixture of Low-Rank Adaptation for Large Language Models Fine-tuning**|Jingfan Zhang et.al.|[2410.18035](http://arxiv.org/abs/2410.18035)|null|
 |**2024-10-22**|**Math Neurosurgery: Isolating Language Models' Math Reasoning Abilities Using Only Forward Passes**|Bryan R. Christ et.al.|[2410.16930](http://arxiv.org/abs/2410.16930)|**[link](https://github.com/bryanchrist/mathneuro)**|
 |**2024-10-22**|**Optimizing Chain-of-Thought Reasoning: Tackling Arranging Bottleneck via Plan Augmentation**|Yuli Qiu et.al.|[2410.16812](http://arxiv.org/abs/2410.16812)|null|
 |**2024-10-23**|**No more hard prompts: SoftSRV prompting for synthetic data generation**|Giulia DeSalvo et.al.|[2410.16534](http://arxiv.org/abs/2410.16534)|null|
@@ -150,6 +151,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**Eigenvalue crossings in equivariant families of matrices**|Jonathan Rawlinson et.al.|[2410.18068](http://arxiv.org/abs/2410.18068)|null|
+|**2024-10-23**|**JWST/NIRSpec Reveals the Nested Morphology of Disk Winds from Young Stars**|Ilaria Pascucci et.al.|[2410.18033](http://arxiv.org/abs/2410.18033)|null|
+|**2024-10-23**|**Guide for Defense (G4D): Dynamic Guidance for Robust and Balanced Defense in Large Language Models**|He Cao et.al.|[2410.17922](http://arxiv.org/abs/2410.17922)|null|
+|**2024-10-23**|**regAL: Python Package for Active Learning of Regression Problems**|Elizaveta Surzhikova et.al.|[2410.17917](http://arxiv.org/abs/2410.17917)|null|
+|**2024-10-23**|**Relaxed Equivariance via Multitask Learning**|Ahmed A. Elhag et.al.|[2410.17878](http://arxiv.org/abs/2410.17878)|null|
+|**2024-10-23**|**A Fluorescent Ratiometric Potassium Sensor Based on IPG4-Silica Microparticles for Selective Detection and Fluorescence Imaging of Potassium Cations**|Francesco Colella et.al.|[2410.17795](http://arxiv.org/abs/2410.17795)|null|
+|**2024-10-23**|**Under the magnifying glass: A combined 3D model applied to cloudy warm Saturn type exoplanets around M-dwarfs**|Sven Kiefer et.al.|[2410.17716](http://arxiv.org/abs/2410.17716)|null|
+|**2024-10-22**|**Multi-modal Machine Learning Analysis of X-ray Absorption Near-Edge Spectra and Pair Distribution Functions: Performance and Interpretability towards Experimental Design**|Tanaporn Na Narong et.al.|[2410.17467](http://arxiv.org/abs/2410.17467)|null|
+|**2024-10-22**|**Chemical Abundances in the Leiptr Stellar Stream: A Disrupted Ultra-faint Dwarf Galaxy?**|Kaia R. Atzberger et.al.|[2410.17312](http://arxiv.org/abs/2410.17312)|null|
 |**2024-10-22**|**Effects of Planetary Parameters on Disequilibrium Chemistry in Irradiated Planetary Atmospheres: From Gas Giants to Sub-Neptunes**|Sagnick Mukherjee et.al.|[2410.17169](http://arxiv.org/abs/2410.17169)|null|
 |**2024-10-22**|**Governing equation discovery of a complex system from snapshots**|Qunxi Zhu et.al.|[2410.16694](http://arxiv.org/abs/2410.16694)|null|
 |**2024-10-21**|**Integer linear programming for unsupervised training set selection in molecular machine learning**|Matthieu Haeberle et.al.|[2410.16122](http://arxiv.org/abs/2410.16122)|null|
