@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |---|---|---|---|---|
 |**2024-10-22**|**Math Neurosurgery: Isolating Language Models' Math Reasoning Abilities Using Only Forward Passes**|Bryan R. Christ et.al.|[2410.16930](http://arxiv.org/abs/2410.16930)|**[link](https://github.com/bryanchrist/mathneuro)**|
 |**2024-10-22**|**Optimizing Chain-of-Thought Reasoning: Tackling Arranging Bottleneck via Plan Augmentation**|Yuli Qiu et.al.|[2410.16812](http://arxiv.org/abs/2410.16812)|null|
-|**2024-10-21**|**No more hard prompts: SoftSRV prompting for synthetic data generation**|Giulia DeSalvo et.al.|[2410.16534](http://arxiv.org/abs/2410.16534)|null|
+|**2024-10-23**|**No more hard prompts: SoftSRV prompting for synthetic data generation**|Giulia DeSalvo et.al.|[2410.16534](http://arxiv.org/abs/2410.16534)|null|
 |**2024-10-21**|**SMART: Self-learning Meta-strategy Agent for Reasoning Tasks**|Rongxing Liu et.al.|[2410.16128](http://arxiv.org/abs/2410.16128)|**[link](https://github.com/kumar-shridhar/smart)**|
 |**2024-10-18**|**TreeBoN: Enhancing Inference-Time Alignment with Speculative Tree-Search and Best-of-N Sampling**|Jiahao Qiu et.al.|[2410.16033](http://arxiv.org/abs/2410.16033)|null|
 |**2024-10-19**|**On Designing Effective RL Reward at Training Time for LLM Reasoning**|Jiaxuan Gao et.al.|[2410.15115](http://arxiv.org/abs/2410.15115)|null|
@@ -144,7 +144,7 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## AI for Science
 
@@ -154,7 +154,7 @@
 |**2024-10-22**|**Governing equation discovery of a complex system from snapshots**|Qunxi Zhu et.al.|[2410.16694](http://arxiv.org/abs/2410.16694)|null|
 |**2024-10-21**|**Integer linear programming for unsupervised training set selection in molecular machine learning**|Matthieu Haeberle et.al.|[2410.16122](http://arxiv.org/abs/2410.16122)|null|
 |**2024-10-21**|**Projective Quantum Eigensolver with Generalized Operators**|Dibyendu Mondal et.al.|[2410.16111](http://arxiv.org/abs/2410.16111)|null|
-|**2024-10-21**|**SMILES-Prompting: A Novel Approach to LLM Jailbreak Attacks in Chemical Synthesis**|Aidan Wong et.al.|[2410.15641](http://arxiv.org/abs/2410.15641)|null|
+|**2024-10-21**|**SMILES-Prompting: A Novel Approach to LLM Jailbreak Attacks in Chemical Synthesis**|Aidan Wong et.al.|[2410.15641](http://arxiv.org/abs/2410.15641)|**[link](https://github.com/IDEA-XL/ChemSafety)**|
 |**2024-10-19**|**Generalizable Prediction Model of Molten Salt Mixture Density with Chemistry-Informed Transfer Learning**|Julian Barra et.al.|[2410.15120](http://arxiv.org/abs/2410.15120)|null|
 |**2024-10-18**|**Effects of Ligand vs. Linker on Phase Behavior and Mechanical Properties of Nanoparticle Gels**|Qizan Chen et.al.|[2410.14854](http://arxiv.org/abs/2410.14854)|null|
 |**2024-10-18**|**State Selective Preparation and Nondestructive Detection of Trapped ${\rm O}_2^+$**|Ambesh Pratik Singh et.al.|[2410.14832](http://arxiv.org/abs/2410.14832)|null|
@@ -714,7 +714,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
