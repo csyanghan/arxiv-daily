@@ -145,9 +145,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-24**|**Building a Planet Atmosphere: Fundamental Physics and Chemistry**|Emily Rauscher et.al.|[2410.18943](http://arxiv.org/abs/2410.18943)|null|
+|**2024-10-24**|**Phaseless auxiliary-field quantum Monte Carlo method for cavity-QED matter systems**|Lukas Weber et.al.|[2410.18838](http://arxiv.org/abs/2410.18838)|null|
+|**2024-10-23**|**JWST/MIRI detection of a carbon-rich chemistry in a solar nebula analog**|Maria Jose Colmenares et.al.|[2410.18187](http://arxiv.org/abs/2410.18187)|null|
 |**2024-10-23**|**Eigenvalue crossings in equivariant families of matrices**|Jonathan Rawlinson et.al.|[2410.18068](http://arxiv.org/abs/2410.18068)|null|
 |**2024-10-23**|**JWST/NIRSpec Reveals the Nested Morphology of Disk Winds from Young Stars**|Ilaria Pascucci et.al.|[2410.18033](http://arxiv.org/abs/2410.18033)|null|
-|**2024-10-23**|**Guide for Defense (G4D): Dynamic Guidance for Robust and Balanced Defense in Large Language Models**|He Cao et.al.|[2410.17922](http://arxiv.org/abs/2410.17922)|null|
+|**2024-10-23**|**Guide for Defense (G4D): Dynamic Guidance for Robust and Balanced Defense in Large Language Models**|He Cao et.al.|[2410.17922](http://arxiv.org/abs/2410.17922)|**[link](https://github.com/idea-xl/g4d)**|
 |**2024-10-23**|**regAL: Python Package for Active Learning of Regression Problems**|Elizaveta Surzhikova et.al.|[2410.17917](http://arxiv.org/abs/2410.17917)|null|
 |**2024-10-23**|**Relaxed Equivariance via Multitask Learning**|Ahmed A. Elhag et.al.|[2410.17878](http://arxiv.org/abs/2410.17878)|null|
 |**2024-10-23**|**A Fluorescent Ratiometric Potassium Sensor Based on IPG4-Silica Microparticles for Selective Detection and Fluorescence Imaging of Potassium Cations**|Francesco Colella et.al.|[2410.17795](http://arxiv.org/abs/2410.17795)|null|
