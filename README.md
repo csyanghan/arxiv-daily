@@ -18,13 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**ReasonAgain: Using Extractable Symbolic Programs to Evaluate Mathematical Reasoning**|Xiaodong Yu et.al.|[2410.19056](http://arxiv.org/abs/2410.19056)|null|
 |**2024-10-23**|**MiLoRA: Efficient Mixture of Low-Rank Adaptation for Large Language Models Fine-tuning**|Jingfan Zhang et.al.|[2410.18035](http://arxiv.org/abs/2410.18035)|null|
 |**2024-10-22**|**Math Neurosurgery: Isolating Language Models' Math Reasoning Abilities Using Only Forward Passes**|Bryan R. Christ et.al.|[2410.16930](http://arxiv.org/abs/2410.16930)|**[link](https://github.com/bryanchrist/mathneuro)**|
 |**2024-10-22**|**Optimizing Chain-of-Thought Reasoning: Tackling Arranging Bottleneck via Plan Augmentation**|Yuli Qiu et.al.|[2410.16812](http://arxiv.org/abs/2410.16812)|null|
 |**2024-10-23**|**No more hard prompts: SoftSRV prompting for synthetic data generation**|Giulia DeSalvo et.al.|[2410.16534](http://arxiv.org/abs/2410.16534)|null|
 |**2024-10-21**|**SMART: Self-learning Meta-strategy Agent for Reasoning Tasks**|Rongxing Liu et.al.|[2410.16128](http://arxiv.org/abs/2410.16128)|**[link](https://github.com/kumar-shridhar/smart)**|
 |**2024-10-18**|**TreeBoN: Enhancing Inference-Time Alignment with Speculative Tree-Search and Best-of-N Sampling**|Jiahao Qiu et.al.|[2410.16033](http://arxiv.org/abs/2410.16033)|null|
-|**2024-10-19**|**On Designing Effective RL Reward at Training Time for LLM Reasoning**|Jiaxuan Gao et.al.|[2410.15115](http://arxiv.org/abs/2410.15115)|null|
+|**2024-10-25**|**On Designing Effective RL Reward at Training Time for LLM Reasoning**|Jiaxuan Gao et.al.|[2410.15115](http://arxiv.org/abs/2410.15115)|null|
 |**2024-10-17**|**SBI-RAG: Enhancing Math Word Problem Solving for Students through Schema-Based Instruction and Retrieval-Augmented Generation**|Prakhar Dixit et.al.|[2410.13293](http://arxiv.org/abs/2410.13293)|null|
 |**2024-10-15**|**MIND: Math Informed syNthetic Dialogues for Pretraining LLMs**|Syeda Nahida Akter et.al.|[2410.12881](http://arxiv.org/abs/2410.12881)|null|
 |**2024-10-16**|**Not All Votes Count! Programs as Verifiers Improve Self-Consistency of Language Models for Math Reasoning**|Vernon Y. H. Toh et.al.|[2410.12608](http://arxiv.org/abs/2410.12608)|null|
@@ -151,6 +152,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**An Open Quantum Chemistry Property Database of 120 Kilo Molecules with 20 Million Conformers**|Weiqi Liu et.al.|[2410.19316](http://arxiv.org/abs/2410.19316)|null|
+|**2024-10-25**|**Can Stories Help LLMs Reason? Curating Information Space Through Narrative**|Vahid Sadiri Javadi et.al.|[2410.19221](http://arxiv.org/abs/2410.19221)|null|
+|**2024-10-24**|**A Data-driven Framework to Accelerate the Discovery of Hybrid Cathode Materials for Metal-based Batteries**|Ahmed H. Biby et.al.|[2410.19204](http://arxiv.org/abs/2410.19204)|null|
+|**2024-10-24**|**The advent of fully variational quantum eigensolvers using a hybrid multiresolution approach**|Fabian Langkabel et.al.|[2410.19116](http://arxiv.org/abs/2410.19116)|null|
+|**2024-10-24**|**Earth-like exoplanets in spin-orbit resonances: climate dynamics, 3D atmospheric chemistry, and observational signatures**|Marrick Braam et.al.|[2410.19108](http://arxiv.org/abs/2410.19108)|null|
+|**2024-10-24**|**The impact of cosmic ray heating on the cooling of the low-metallicity interstellar medium**|Vittoria Brugaletta et.al.|[2410.19087](http://arxiv.org/abs/2410.19087)|null|
 |**2024-10-24**|**Building a Planet Atmosphere: Fundamental Physics and Chemistry**|Emily Rauscher et.al.|[2410.18943](http://arxiv.org/abs/2410.18943)|null|
 |**2024-10-24**|**Phaseless auxiliary-field quantum Monte Carlo method for cavity-QED matter systems**|Lukas Weber et.al.|[2410.18838](http://arxiv.org/abs/2410.18838)|null|
 |**2024-10-23**|**JWST/MIRI detection of a carbon-rich chemistry in a solar nebula analog**|Maria Jose Colmenares et.al.|[2410.18187](http://arxiv.org/abs/2410.18187)|null|
