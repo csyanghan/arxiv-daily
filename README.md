@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**EoRA: Training-free Compensation for Compressed LLM with Eigenspace Low-Rank Approximation**|Shih-Yang Liu et.al.|[2410.21271](http://arxiv.org/abs/2410.21271)|null|
+|**2024-10-27**|**LoRA Done RITE: Robust Invariant Transformation Equilibration for LoRA Optimization**|Jui-Nan Yen et.al.|[2410.20625](http://arxiv.org/abs/2410.20625)|null|
+|**2024-10-27**|**Rethinking Data Synthesis: A Teacher Model Training Recipe with Interpretation**|Yifang Chen et.al.|[2410.20362](http://arxiv.org/abs/2410.20362)|null|
 |**2024-10-24**|**ReasonAgain: Using Extractable Symbolic Programs to Evaluate Mathematical Reasoning**|Xiaodong Yu et.al.|[2410.19056](http://arxiv.org/abs/2410.19056)|null|
 |**2024-10-23**|**MiLoRA: Efficient Mixture of Low-Rank Adaptation for Large Language Models Fine-tuning**|Jingfan Zhang et.al.|[2410.18035](http://arxiv.org/abs/2410.18035)|null|
 |**2024-10-22**|**Math Neurosurgery: Isolating Language Models' Math Reasoning Abilities Using Only Forward Passes**|Bryan R. Christ et.al.|[2410.16930](http://arxiv.org/abs/2410.16930)|**[link](https://github.com/bryanchrist/mathneuro)**|
@@ -152,6 +155,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**Analyzing the Abundance Discrepancy Problem in HII Regions with Photoionization Modeling**|Ahmad Nemer et.al.|[2410.20819](http://arxiv.org/abs/2410.20819)|null|
+|**2024-10-27**|**The Polar Stratosphere of Jupiter**|Vincent Hue et.al.|[2410.20413](http://arxiv.org/abs/2410.20413)|null|
+|**2024-10-25**|**Molecular Fingerprints of Ice Surfaces in Sum Frequency Generation Spectra: a First Principles Machine Learning Study**|Margaret L. Berrens et.al.|[2410.19980](http://arxiv.org/abs/2410.19980)|null|
+|**2024-10-25**|**Stellar Loci. VIII. Photometric Metallicities for 100 Million Stars Based on Synthetic Gaia Colors**|Bowen Huang et.al.|[2410.19895](http://arxiv.org/abs/2410.19895)|null|
 |**2024-10-25**|**An Open Quantum Chemistry Property Database of 120 Kilo Molecules with 20 Million Conformers**|Weiqi Liu et.al.|[2410.19316](http://arxiv.org/abs/2410.19316)|null|
 |**2024-10-25**|**Can Stories Help LLMs Reason? Curating Information Space Through Narrative**|Vahid Sadiri Javadi et.al.|[2410.19221](http://arxiv.org/abs/2410.19221)|null|
 |**2024-10-24**|**A Data-driven Framework to Accelerate the Discovery of Hybrid Cathode Materials for Metal-based Batteries**|Ahmed H. Biby et.al.|[2410.19204](http://arxiv.org/abs/2410.19204)|null|
