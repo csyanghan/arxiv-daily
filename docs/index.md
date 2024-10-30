@@ -149,6 +149,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-29**|**Fast and Scalable GPU-Accelerated Quantum Chemistry for Periodic Systems with Gaussian Orbitals: Implementation and Hybrid Density Functional Theory Calculations**|Yuanheng Wang et.al.|[2410.22278](http://arxiv.org/abs/2410.22278)|null|
+|**2024-10-29**|**Changes in excimer properties under collective strong coupling**|Matteo Castagnola et.al.|[2410.22043](http://arxiv.org/abs/2410.22043)|null|
+|**2024-10-29**|**Organic compounds in metallic hydrogen**|Jakkapat Seeyangnok et.al.|[2410.21772](http://arxiv.org/abs/2410.21772)|null|
+|**2024-10-29**|**Scaling Law of Quantum Confinement in Single-Walled Carbon Nanotubes**|Benjamin Eller et.al.|[2410.21672](http://arxiv.org/abs/2410.21672)|null|
+|**2024-10-28**|**A Foundation Model for Chemical Design and Property Prediction**|Feiyang Cai et.al.|[2410.21422](http://arxiv.org/abs/2410.21422)|null|
+|**2024-10-28**|**easyCHEM: A Python package for calculating chemical equilibrium abundances in exoplanet atmospheres**|Elise Lei et.al.|[2410.21364](http://arxiv.org/abs/2410.21364)|null|
 |**2024-10-28**|**Analyzing the Abundance Discrepancy Problem in HII Regions with Photoionization Modeling**|Ahmad Nemer et.al.|[2410.20819](http://arxiv.org/abs/2410.20819)|null|
 |**2024-10-27**|**The Polar Stratosphere of Jupiter**|Vincent Hue et.al.|[2410.20413](http://arxiv.org/abs/2410.20413)|null|
 |**2024-10-25**|**Molecular Fingerprints of Ice Surfaces in Sum Frequency Generation Spectra: a First Principles Machine Learning Study**|Margaret L. Berrens et.al.|[2410.19980](http://arxiv.org/abs/2410.19980)|null|
