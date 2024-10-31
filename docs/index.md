@@ -149,6 +149,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-30**|**Protoplanetary disk chemistry and structure**|Merel L. R. van 't Hoff et.al.|[2410.23235](http://arxiv.org/abs/2410.23235)|null|
+|**2024-10-30**|**Shedding a Light on the Kinetics of the Carboxysulfitic Scenario**|S. B. White et.al.|[2410.23151](http://arxiv.org/abs/2410.23151)|null|
+|**2024-10-30**|**Evidence for a Sharp CO Snowline Transition in a Protoplanetary Disk and Implications for Millimeter-wave Observations of CO Isotopologues**|Chunhua Qi et.al.|[2410.23036](http://arxiv.org/abs/2410.23036)|null|
+|**2024-10-30**|**Generalized many-body perturbation theory for the electron correlation energy**|Yuqi Wang et.al.|[2410.22990](http://arxiv.org/abs/2410.22990)|null|
+|**2024-10-30**|**Coupled-cluster theory for the ground state and for excitations**|Andreas Grüneis et.al.|[2410.22798](http://arxiv.org/abs/2410.22798)|null|
+|**2024-10-30**|**Azimuthal Anisotropy Scaling Functions for Identified Particle and Anti-Particle Species across Beam Energies: Insights into Baryon Junction Effects**|Roy A. Lacey et.al.|[2410.22688](http://arxiv.org/abs/2410.22688)|null|
+|**2024-10-30**|**Phase transformation and water adsorption behavior of ALD deposited and annealed Ru and RuO2 films**|S. S. Nalawade et.al.|[2410.22666](http://arxiv.org/abs/2410.22666)|null|
+|**2024-10-29**|**How black hole activity may influence exoplanetary evolution in our Galaxy**|W. Ishibashi et.al.|[2410.22428](http://arxiv.org/abs/2410.22428)|null|
+|**2024-10-29**|**Retrievals on NIRCam transmission and emission spectra of HD 189733b with PLATON 6, a GPU code for the JWST era**|Michael Zhang et.al.|[2410.22398](http://arxiv.org/abs/2410.22398)|null|
 |**2024-10-29**|**Fast and Scalable GPU-Accelerated Quantum Chemistry for Periodic Systems with Gaussian Orbitals: Implementation and Hybrid Density Functional Theory Calculations**|Yuanheng Wang et.al.|[2410.22278](http://arxiv.org/abs/2410.22278)|null|
 |**2024-10-29**|**Changes in excimer properties under collective strong coupling**|Matteo Castagnola et.al.|[2410.22043](http://arxiv.org/abs/2410.22043)|null|
 |**2024-10-29**|**Organic compounds in metallic hydrogen**|Jakkapat Seeyangnok et.al.|[2410.21772](http://arxiv.org/abs/2410.21772)|null|
