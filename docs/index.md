@@ -149,6 +149,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-31**|**Bridging Geometric States via Geometric Diffusion Bridge**|Shengjie Luo et.al.|[2410.24220](http://arxiv.org/abs/2410.24220)|null|
+|**2024-10-31**|**The time-dependent bivariational principle: Theoretical foundation for real-time propagation methods of coupled-cluster type**|Simen Kvaal et.al.|[2410.24192](http://arxiv.org/abs/2410.24192)|null|
+|**2024-10-31**|**Magnetic proximity effect in biphenylene monolayer from first-principles**|Diego López-Alcalá et.al.|[2410.24025](http://arxiv.org/abs/2410.24025)|null|
+|**2024-10-31**|**Time evolving matrix product operator (TEMPO) method in a non-diagonal basis set based on derivative of the path integral expression**|Shuocang Zhang et.al.|[2410.23877](http://arxiv.org/abs/2410.23877)|null|
+|**2024-10-31**|**Mitigating Errors in Analog Quantum Simulation by Hamiltonian Reshaping or Hamiltonian Rescaling**|Rui-Cheng Guo et.al.|[2410.23719](http://arxiv.org/abs/2410.23719)|null|
+|**2024-10-31**|**Zwitterionic Polymer Coatings with Compositional Gradient for Stable and Substrate-Independent Biofouling Deterrence via All-Dry Synthesis**|Pengyu Chen et.al.|[2410.23552](http://arxiv.org/abs/2410.23552)|null|
+|**2024-10-30**|**The SOFIA Massive (SOMA) Star Formation Q-band Follow-up. I. -Carbon-Chain Chemistry of Intermediate-Mass Protostars-**|Kotomi Taniguchi et.al.|[2410.23392](http://arxiv.org/abs/2410.23392)|null|
+|**2024-10-30**|**Setting the stage: Building and maintaining a habitable world and the early conditions that could favor life's beginnings on Earth and beyond**|Christopher K Jones et.al.|[2410.23344](http://arxiv.org/abs/2410.23344)|null|
 |**2024-10-30**|**Protoplanetary disk chemistry and structure**|Merel L. R. van 't Hoff et.al.|[2410.23235](http://arxiv.org/abs/2410.23235)|null|
 |**2024-10-30**|**Shedding a Light on the Kinetics of the Carboxysulfitic Scenario**|S. B. White et.al.|[2410.23151](http://arxiv.org/abs/2410.23151)|null|
 |**2024-10-30**|**Evidence for a Sharp CO Snowline Transition in a Protoplanetary Disk and Implications for Millimeter-wave Observations of CO Isotopologues**|Chunhua Qi et.al.|[2410.23036](http://arxiv.org/abs/2410.23036)|null|
