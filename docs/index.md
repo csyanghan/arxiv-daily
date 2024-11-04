@@ -155,7 +155,7 @@ layout: default
 |**2024-10-31**|**Time evolving matrix product operator (TEMPO) method in a non-diagonal basis set based on derivative of the path integral expression**|Shuocang Zhang et.al.|[2410.23877](http://arxiv.org/abs/2410.23877)|null|
 |**2024-10-31**|**Mitigating Errors in Analog Quantum Simulation by Hamiltonian Reshaping or Hamiltonian Rescaling**|Rui-Cheng Guo et.al.|[2410.23719](http://arxiv.org/abs/2410.23719)|null|
 |**2024-10-31**|**Zwitterionic Polymer Coatings with Compositional Gradient for Stable and Substrate-Independent Biofouling Deterrence via All-Dry Synthesis**|Pengyu Chen et.al.|[2410.23552](http://arxiv.org/abs/2410.23552)|null|
-|**2024-10-30**|**The SOFIA Massive (SOMA) Star Formation Q-band Follow-up. I. -Carbon-Chain Chemistry of Intermediate-Mass Protostars-**|Kotomi Taniguchi et.al.|[2410.23392](http://arxiv.org/abs/2410.23392)|null|
+|**2024-11-01**|**The SOFIA Massive (SOMA) Star Formation Q-band follow-up I. Carbon-chain chemistry of intermediate-mass protostars**|Kotomi Taniguchi et.al.|[2410.23392](http://arxiv.org/abs/2410.23392)|null|
 |**2024-10-30**|**Setting the stage: Building and maintaining a habitable world and the early conditions that could favor life's beginnings on Earth and beyond**|Christopher K Jones et.al.|[2410.23344](http://arxiv.org/abs/2410.23344)|null|
 |**2024-10-30**|**Protoplanetary disk chemistry and structure**|Merel L. R. van 't Hoff et.al.|[2410.23235](http://arxiv.org/abs/2410.23235)|null|
 |**2024-10-30**|**Shedding a Light on the Kinetics of the Carboxysulfitic Scenario**|S. B. White et.al.|[2410.23151](http://arxiv.org/abs/2410.23151)|null|
