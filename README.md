@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-02**|**Dictionary Insertion Prompting for Multilingual Reasoning on Multilingual Large Language Models**|Hongyuan Lu et.al.|[2411.01141](http://arxiv.org/abs/2411.01141)|null|
+|**2024-10-23**|**Adaptive Dense Reward: Understanding the Gap Between Action and Reward Space in Alignment**|Yanshi Li et.al.|[2411.00809](http://arxiv.org/abs/2411.00809)|null|
 |**2024-10-28**|**EoRA: Training-free Compensation for Compressed LLM with Eigenspace Low-Rank Approximation**|Shih-Yang Liu et.al.|[2410.21271](http://arxiv.org/abs/2410.21271)|null|
 |**2024-10-27**|**LoRA Done RITE: Robust Invariant Transformation Equilibration for LoRA Optimization**|Jui-Nan Yen et.al.|[2410.20625](http://arxiv.org/abs/2410.20625)|null|
 |**2024-10-27**|**Rethinking Data Synthesis: A Teacher Model Training Recipe with Interpretation**|Yifang Chen et.al.|[2410.20362](http://arxiv.org/abs/2410.20362)|null|
@@ -155,6 +157,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**Multidimensional coherent spectroscopy of correlated lattice systems**|Jiyu Chen et.al.|[2411.02389](http://arxiv.org/abs/2411.02389)|null|
+|**2024-11-04**|**Resource-optimized fault-tolerant simulation of the Fermi-Hubbard model and high-temperature superconductor models**|Angus Kan et.al.|[2411.02160](http://arxiv.org/abs/2411.02160)|null|
+|**2024-11-04**|**On the Quantum Theory of Molecules: Rigour, Idealization, and Uncertainty**|Nick Huggett et.al.|[2411.01942](http://arxiv.org/abs/2411.01942)|null|
+|**2024-11-04**|**$\textit{Ab initio}$ correlated calculations without finite basis-set error: Numerically precise all-electron RPA correlation energies for diatomic molecules**|Hao Peng et.al.|[2411.01941](http://arxiv.org/abs/2411.01941)|null|
+|**2024-11-04**|**Atomic-scale 3D structural dynamics and functional degradation of Pt alloy nanocatalysts**|Chaehwa Jeong et.al.|[2411.01727](http://arxiv.org/abs/2411.01727)|null|
+|**2024-11-03**|**Graph Fourier Neural ODEs: Bridging Spatial and Temporal Multiscales in Molecular Dynamics**|Fang Sun et.al.|[2411.01600](http://arxiv.org/abs/2411.01600)|null|
+|**2024-11-03**|**The Role of Interfaces and Charge for Chemical Reactivity in Microdroplets**|R. Allen LaCour et.al.|[2411.01587](http://arxiv.org/abs/2411.01587)|null|
+|**2024-11-03**|**Pre-trained Molecular Language Models with Random Functional Group Masking**|Tianhao Peng et.al.|[2411.01401](http://arxiv.org/abs/2411.01401)|null|
+|**2024-11-02**|**Efficient moment tensor machine-learning interatomic potential for accurate description of defects in Ni-Al Alloys**|Jiantao Wang et.al.|[2411.01282](http://arxiv.org/abs/2411.01282)|null|
+|**2024-11-01**|**A Wideband Chemical Survey of Massive Star-forming Regions at Subarcsecond Resolution with the Submillimeter Array**|Charles J. Law et.al.|[2411.00941](http://arxiv.org/abs/2411.00941)|null|
 |**2024-10-31**|**Bridging Geometric States via Geometric Diffusion Bridge**|Shengjie Luo et.al.|[2410.24220](http://arxiv.org/abs/2410.24220)|null|
 |**2024-10-31**|**The time-dependent bivariational principle: Theoretical foundation for real-time propagation methods of coupled-cluster type**|Simen Kvaal et.al.|[2410.24192](http://arxiv.org/abs/2410.24192)|null|
 |**2024-10-31**|**Magnetic proximity effect in biphenylene monolayer from first-principles**|Diego López-Alcalá et.al.|[2410.24025](http://arxiv.org/abs/2410.24025)|null|
