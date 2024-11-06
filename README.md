@@ -157,6 +157,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**Dynamic switching of ferrocene and plasmonic interactions in Au/self-assembled monolayer/single Ag nanocube molecular junctions**|Mariem Ben Youssef et.al.|[2411.02927](http://arxiv.org/abs/2411.02927)|null|
+|**2024-11-05**|**Approximate controllability of impulsive semilinear evolution equations in Hilbert spaces**|Javad A. Asadzade et.al.|[2411.02766](http://arxiv.org/abs/2411.02766)|null|
+|**2024-11-03**|**A Coverage-Guided Testing Framework for Quantum Neural Networks**|Minqi Shao et.al.|[2411.02450](http://arxiv.org/abs/2411.02450)|null|
 |**2024-11-04**|**Multidimensional coherent spectroscopy of correlated lattice systems**|Jiyu Chen et.al.|[2411.02389](http://arxiv.org/abs/2411.02389)|null|
 |**2024-11-04**|**Resource-optimized fault-tolerant simulation of the Fermi-Hubbard model and high-temperature superconductor models**|Angus Kan et.al.|[2411.02160](http://arxiv.org/abs/2411.02160)|null|
 |**2024-11-04**|**On the Quantum Theory of Molecules: Rigour, Idealization, and Uncertainty**|Nick Huggett et.al.|[2411.01942](http://arxiv.org/abs/2411.01942)|null|
