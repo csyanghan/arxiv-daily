@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**Self-Consistency Preference Optimization**|Archiki Prasad et.al.|[2411.04109](http://arxiv.org/abs/2411.04109)|null|
 |**2024-11-02**|**Dictionary Insertion Prompting for Multilingual Reasoning on Multilingual Large Language Models**|Hongyuan Lu et.al.|[2411.01141](http://arxiv.org/abs/2411.01141)|null|
 |**2024-10-23**|**Adaptive Dense Reward: Understanding the Gap Between Action and Reward Space in Alignment**|Yanshi Li et.al.|[2411.00809](http://arxiv.org/abs/2411.00809)|null|
 |**2024-10-28**|**EoRA: Training-free Compensation for Compressed LLM with Eigenspace Low-Rank Approximation**|Shih-Yang Liu et.al.|[2410.21271](http://arxiv.org/abs/2410.21271)|null|
@@ -151,6 +152,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**Retentive Neural Quantum States: Efficient Ansätze for Ab Initio Quantum Chemistry**|Oliver Knitter et.al.|[2411.03900](http://arxiv.org/abs/2411.03900)|null|
+|**2024-11-06**|**Self-consistent Quantum Linear Response with a Polarizable Embedding environment**|Peter Reinholdt et.al.|[2411.03852](http://arxiv.org/abs/2411.03852)|null|
+|**2024-11-06**|**A Predictive First-Principles Framework of Chiral Charge Density Waves**|Sen Shao et.al.|[2411.03664](http://arxiv.org/abs/2411.03664)|null|
+|**2024-11-05**|**Redshifting the Study of Cold Brown Dwarfs and Exoplanets: the Mid-Infrared Wavelength Region as an Indicator of Surface Gravity and Mass**|S. K. Leggett et.al.|[2411.03549](http://arxiv.org/abs/2411.03549)|null|
+|**2024-11-05**|**Exploring the Benefits of Domain-Pretraining of Generative Large Language Models for Chemistry**|Anurag Acharya et.al.|[2411.03542](http://arxiv.org/abs/2411.03542)|null|
+|**2024-11-05**|**Analysis of thermodiffusive instabilities in hydrogen premixed flames using a tabulated flamelet model**|Emiliano Manuel Fortes Soplanes et.al.|[2411.03526](http://arxiv.org/abs/2411.03526)|null|
 |**2024-11-05**|**Dynamic switching of ferrocene and plasmonic interactions in Au/self-assembled monolayer/single Ag nanocube molecular junctions**|Mariem Ben Youssef et.al.|[2411.02927](http://arxiv.org/abs/2411.02927)|null|
 |**2024-11-05**|**Approximate controllability of impulsive semilinear evolution equations in Hilbert spaces**|Javad A. Asadzade et.al.|[2411.02766](http://arxiv.org/abs/2411.02766)|null|
 |**2024-11-03**|**A Coverage-Guided Testing Framework for Quantum Neural Networks**|Minqi Shao et.al.|[2411.02450](http://arxiv.org/abs/2411.02450)|null|
