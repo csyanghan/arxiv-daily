@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**Kwai-STaR: Transform LLMs into State-Transition Reasoners**|Xingyu Lu et.al.|[2411.04799](http://arxiv.org/abs/2411.04799)|null|
+|**2024-11-07**|**Meta-Reasoning Improves Tool Use in Large Language Models**|Lisa Alazraki et.al.|[2411.04535](http://arxiv.org/abs/2411.04535)|**[link](https://github.com/lisaalaz/tecton)**|
+|**2024-11-06**|**Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding**|Haolin Chen et.al.|[2411.04282](http://arxiv.org/abs/2411.04282)|null|
 |**2024-11-06**|**Self-Consistency Preference Optimization**|Archiki Prasad et.al.|[2411.04109](http://arxiv.org/abs/2411.04109)|null|
 |**2024-11-02**|**Dictionary Insertion Prompting for Multilingual Reasoning on Multilingual Large Language Models**|Hongyuan Lu et.al.|[2411.01141](http://arxiv.org/abs/2411.01141)|null|
 |**2024-10-23**|**Adaptive Dense Reward: Understanding the Gap Between Action and Reward Space in Alignment**|Yanshi Li et.al.|[2411.00809](http://arxiv.org/abs/2411.00809)|null|
@@ -158,6 +161,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**Quantum-Centric Study of Methylene Singlet and Triplet States**|Ieva Liepuoniute et.al.|[2411.04827](http://arxiv.org/abs/2411.04827)|null|
+|**2024-11-07**|**Diabatic states of charge transfer with constrained charge equilibration**|Sohang Kundu et.al.|[2411.04807](http://arxiv.org/abs/2411.04807)|null|
+|**2024-11-07**|**A new pathway to SO $_2$ : Revealing the NUV driven sulfur chemistry in hot gas giants**|Wiebe de Gruijter et.al.|[2411.04781](http://arxiv.org/abs/2411.04781)|null|
+|**2024-11-07**|**Exploring Hierarchical Molecular Graph Representation in Multimodal LLMs**|Chengxin Hu et.al.|[2411.04708](http://arxiv.org/abs/2411.04708)|null|
+|**2024-11-07**|**Automated Image Color Mapping for a Historic Photographic Collection**|Taylor Arnold et.al.|[2411.04659](http://arxiv.org/abs/2411.04659)|null|
+|**2024-11-07**|**Hydrodynamic instabilities of propagating interfaces under Darcy's law**|Joel Daou et.al.|[2411.04627](http://arxiv.org/abs/2411.04627)|null|
+|**2024-11-07**|**Unveiling VVV/WISE Mira variables on the far side of the Galactic disk: Distances, kinematics and a new extinction law**|Rogelio Albarracín et.al.|[2411.04623](http://arxiv.org/abs/2411.04623)|null|
+|**2024-11-07**|**The Role of Metallicity in the Chemical Evolution of Star-Forming Regions**|Takashi Shimonishi et.al.|[2411.04451](http://arxiv.org/abs/2411.04451)|null|
+|**2024-11-06**|**Bio-xLSTM: Generative modeling, representation and in-context learning of biological and chemical sequences**|Niklas Schmidinger et.al.|[2411.04165](http://arxiv.org/abs/2411.04165)|**[link](https://github.com/ml-jku/chem-xlstm)**|
 |**2024-11-06**|**Retentive Neural Quantum States: Efficient Ansätze for Ab Initio Quantum Chemistry**|Oliver Knitter et.al.|[2411.03900](http://arxiv.org/abs/2411.03900)|null|
 |**2024-11-06**|**Self-consistent Quantum Linear Response with a Polarizable Embedding environment**|Peter Reinholdt et.al.|[2411.03852](http://arxiv.org/abs/2411.03852)|null|
 |**2024-11-06**|**A Predictive First-Principles Framework of Chiral Charge Density Waves**|Sen Shao et.al.|[2411.03664](http://arxiv.org/abs/2411.03664)|null|
