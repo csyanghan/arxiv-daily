@@ -18,10 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**Reasoning Robustness of LLMs to Adversarial Typographical Errors**|Esther Gan et.al.|[2411.05345](http://arxiv.org/abs/2411.05345)|null|
 |**2024-11-07**|**Kwai-STaR: Transform LLMs into State-Transition Reasoners**|Xingyu Lu et.al.|[2411.04799](http://arxiv.org/abs/2411.04799)|null|
 |**2024-11-07**|**Meta-Reasoning Improves Tool Use in Large Language Models**|Lisa Alazraki et.al.|[2411.04535](http://arxiv.org/abs/2411.04535)|**[link](https://github.com/lisaalaz/tecton)**|
 |**2024-11-06**|**Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding**|Haolin Chen et.al.|[2411.04282](http://arxiv.org/abs/2411.04282)|**[link](https://github.com/salesforceairesearch/latro)**|
-|**2024-11-06**|**Self-Consistency Preference Optimization**|Archiki Prasad et.al.|[2411.04109](http://arxiv.org/abs/2411.04109)|null|
+|**2024-11-07**|**Self-Consistency Preference Optimization**|Archiki Prasad et.al.|[2411.04109](http://arxiv.org/abs/2411.04109)|null|
 |**2024-11-02**|**Dictionary Insertion Prompting for Multilingual Reasoning on Multilingual Large Language Models**|Hongyuan Lu et.al.|[2411.01141](http://arxiv.org/abs/2411.01141)|null|
 |**2024-10-23**|**Adaptive Dense Reward: Understanding the Gap Between Action and Reward Space in Alignment**|Yanshi Li et.al.|[2411.00809](http://arxiv.org/abs/2411.00809)|null|
 |**2024-10-28**|**EoRA: Training-free Compensation for Compressed LLM with Eigenspace Low-Rank Approximation**|Shih-Yang Liu et.al.|[2410.21271](http://arxiv.org/abs/2410.21271)|null|
@@ -161,6 +162,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**First Identification and Chemical Modeling of New Thiol ( $-$ SH) Bearing Molecule in the Interstellar Medium: Dithioformic Acid**|Arijit Manna et.al.|[2411.05749](http://arxiv.org/abs/2411.05749)|null|
+|**2024-11-08**|**Evolution of Chemistry in the envelope of HOt CorinoS (ECHOS) II. The puzzling chemistry of isomers as revealed by the HNCS/HSCN ratio**|G. Esplugues et.al.|[2411.05517](http://arxiv.org/abs/2411.05517)|null|
+|**2024-11-07**|**Unification of Finite Symmetries in Simulation of Many-body Systems on Quantum Computers**|Victor M. Bastidas et.al.|[2411.05058](http://arxiv.org/abs/2411.05058)|null|
 |**2024-11-07**|**Quantum-Centric Study of Methylene Singlet and Triplet States**|Ieva Liepuoniute et.al.|[2411.04827](http://arxiv.org/abs/2411.04827)|null|
 |**2024-11-07**|**Diabatic states of charge transfer with constrained charge equilibration**|Sohang Kundu et.al.|[2411.04807](http://arxiv.org/abs/2411.04807)|null|
 |**2024-11-07**|**A new pathway to SO $_2$ : Revealing the NUV driven sulfur chemistry in hot gas giants**|Wiebe de Gruijter et.al.|[2411.04781](http://arxiv.org/abs/2411.04781)|null|
