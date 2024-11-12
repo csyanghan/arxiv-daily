@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**UTMath: Math Evaluation with Unit Test via Reasoning-to-Coding Thoughts**|Bo Yang et.al.|[2411.07240](http://arxiv.org/abs/2411.07240)|null|
+|**2024-11-09**|**Quasi-random Multi-Sample Inference for Large Language Models**|Aditya Parashar et.al.|[2411.06251](http://arxiv.org/abs/2411.06251)|null|
 |**2024-11-08**|**Reasoning Robustness of LLMs to Adversarial Typographical Errors**|Esther Gan et.al.|[2411.05345](http://arxiv.org/abs/2411.05345)|null|
 |**2024-11-07**|**Kwai-STaR: Transform LLMs into State-Transition Reasoners**|Xingyu Lu et.al.|[2411.04799](http://arxiv.org/abs/2411.04799)|null|
 |**2024-11-07**|**Meta-Reasoning Improves Tool Use in Large Language Models**|Lisa Alazraki et.al.|[2411.04535](http://arxiv.org/abs/2411.04535)|**[link](https://github.com/lisaalaz/tecton)**|
@@ -156,6 +158,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**Tooling or Not Tooling? The Impact of Tools on Language Agents for Chemistry Problem Solving**|Botao Yu et.al.|[2411.07228](http://arxiv.org/abs/2411.07228)|null|
+|**2024-11-09**|**Terahertz-permittivity of Carbon Nitrides: Revealing humidity-enhanced dielectric properties on the picosecond timescales relevant for charge carrier photogeneration**|Reehab Jahangir et.al.|[2411.06226](http://arxiv.org/abs/2411.06226)|null|
+|**2024-11-09**|**Accurate sticking coefficient calculation for carbonaceous dust growth through accretion and desorption in astrophysical environments**|Duncan Bossion et.al.|[2411.06125](http://arxiv.org/abs/2411.06125)|null|
 |**2024-11-08**|**First Identification and Chemical Modeling of New Thiol ( $-$ SH) Bearing Molecule in the Interstellar Medium: Dithioformic Acid**|Arijit Manna et.al.|[2411.05749](http://arxiv.org/abs/2411.05749)|null|
 |**2024-11-08**|**Evolution of Chemistry in the envelope of HOt CorinoS (ECHOS) II. The puzzling chemistry of isomers as revealed by the HNCS/HSCN ratio**|G. Esplugues et.al.|[2411.05517](http://arxiv.org/abs/2411.05517)|null|
 |**2024-11-07**|**Unification of Finite Symmetries in Simulation of Many-body Systems on Quantum Computers**|Victor M. Bastidas et.al.|[2411.05058](http://arxiv.org/abs/2411.05058)|null|
