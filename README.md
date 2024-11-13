@@ -18,10 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**What Do Learning Dynamics Reveal About Generalization in LLM Reasoning?**|Katie Kang et.al.|[2411.07681](http://arxiv.org/abs/2411.07681)|**[link](https://github.com/katiekang1998/reasoning_generalization)**|
 |**2024-11-11**|**UTMath: Math Evaluation with Unit Test via Reasoning-to-Coding Thoughts**|Bo Yang et.al.|[2411.07240](http://arxiv.org/abs/2411.07240)|null|
 |**2024-11-09**|**Quasi-random Multi-Sample Inference for Large Language Models**|Aditya Parashar et.al.|[2411.06251](http://arxiv.org/abs/2411.06251)|null|
 |**2024-11-08**|**Reasoning Robustness of LLMs to Adversarial Typographical Errors**|Esther Gan et.al.|[2411.05345](http://arxiv.org/abs/2411.05345)|null|
-|**2024-11-07**|**Kwai-STaR: Transform LLMs into State-Transition Reasoners**|Xingyu Lu et.al.|[2411.04799](http://arxiv.org/abs/2411.04799)|null|
+|**2024-11-12**|**Kwai-STaR: Transform LLMs into State-Transition Reasoners**|Xingyu Lu et.al.|[2411.04799](http://arxiv.org/abs/2411.04799)|null|
 |**2024-11-07**|**Meta-Reasoning Improves Tool Use in Large Language Models**|Lisa Alazraki et.al.|[2411.04535](http://arxiv.org/abs/2411.04535)|**[link](https://github.com/lisaalaz/tecton)**|
 |**2024-11-06**|**Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding**|Haolin Chen et.al.|[2411.04282](http://arxiv.org/abs/2411.04282)|**[link](https://github.com/salesforceairesearch/latro)**|
 |**2024-11-07**|**Self-Consistency Preference Optimization**|Archiki Prasad et.al.|[2411.04109](http://arxiv.org/abs/2411.04109)|null|
@@ -164,6 +165,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Transparent and Electrically Switchable Thin Film Tactile Actuators Based on Molecular Orientation**|Abigail Nolin et.al.|[2411.07968](http://arxiv.org/abs/2411.07968)|null|
+|**2024-11-12**|**Modified Landauer principle according to Tsallis entropy**|L. Herrera et.al.|[2411.07897](http://arxiv.org/abs/2411.07897)|null|
+|**2024-11-12**|**Detectability of Polycyclic Aromatic Hydrocarbons in the Atmosphere of WASP-6 b with JWST NIRSpec PRISM**|Fabian Grübel et.al.|[2411.07861](http://arxiv.org/abs/2411.07861)|null|
+|**2024-11-12**|**Trapped-ion quantum simulation of the Fermi-Hubbard model as a lattice gauge theory using hardware-aware native gates**|Dhruv Srinivasan et.al.|[2411.07778](http://arxiv.org/abs/2411.07778)|null|
+|**2024-11-12**|**Stochastic resonance in vibrational polariton chemistry**|Yaling Ke et.al.|[2411.07616](http://arxiv.org/abs/2411.07616)|null|
+|**2024-11-11**|**Chemical Fingerprints of M Dwarfs: High-Resolution Spectroscopy on 31 M Dwarfs with SPIRou**|Farbod Jahandar et.al.|[2411.07377](http://arxiv.org/abs/2411.07377)|null|
+|**2024-11-11**|**Efficient Implementation of the Random Phase Approximation with Domain-based Local Pair Natural Orbitals**|Yu Hsuan Liang et.al.|[2411.07352](http://arxiv.org/abs/2411.07352)|null|
+|**2024-11-11**|**Density Matrix Renormalization Group Approach Based on the Coupled-Cluster Downfolded Hamiltonians**|Nicholas Bauman et.al.|[2411.07325](http://arxiv.org/abs/2411.07325)|null|
+|**2024-11-11**|**The Impact of Star Formation and Feedback Recipes on the Stellar Mass and Interstellar Medium of High-Redshift Galaxies**|Harley Katz et.al.|[2411.07282](http://arxiv.org/abs/2411.07282)|null|
 |**2024-11-11**|**Tooling or Not Tooling? The Impact of Tools on Language Agents for Chemistry Problem Solving**|Botao Yu et.al.|[2411.07228](http://arxiv.org/abs/2411.07228)|null|
 |**2024-11-09**|**Terahertz-permittivity of Carbon Nitrides: Revealing humidity-enhanced dielectric properties on the picosecond timescales relevant for charge carrier photogeneration**|Reehab Jahangir et.al.|[2411.06226](http://arxiv.org/abs/2411.06226)|null|
 |**2024-11-09**|**Accurate sticking coefficient calculation for carbonaceous dust growth through accretion and desorption in astrophysical environments**|Duncan Bossion et.al.|[2411.06125](http://arxiv.org/abs/2411.06125)|null|
