@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**Adaptive Decoding via Latent Preference Optimization**|Shehzaad Dhuliawala et.al.|[2411.09661](http://arxiv.org/abs/2411.09661)|null|
 |**2024-11-13**|**Dynamic Subset Tuning: Expanding the Operational Range of Parameter-Efficient Training for Large Language Models**|Felix Stahlberg et.al.|[2411.08610](http://arxiv.org/abs/2411.08610)|null|
 |**2024-11-12**|**What Do Learning Dynamics Reveal About Generalization in LLM Reasoning?**|Katie Kang et.al.|[2411.07681](http://arxiv.org/abs/2411.07681)|**[link](https://github.com/katiekang1998/reasoning_generalization)**|
 |**2024-11-11**|**UTMath: Math Evaluation with Unit Test via Reasoning-to-Coding Thoughts**|Bo Yang et.al.|[2411.07240](http://arxiv.org/abs/2411.07240)|null|
@@ -166,6 +167,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**Probability of constructing prediction model for observable of a dynamical process via time series**|Xiao-Song Yang et.al.|[2411.09230](http://arxiv.org/abs/2411.09230)|null|
+|**2024-11-14**|**On the H-atom abstractions from C1-C4 alcohols, aldehydes, and ethers by NO2: ab initio and comprehensive kinetic modeling**|Hongqing Wu^ et.al.|[2411.09207](http://arxiv.org/abs/2411.09207)|null|
+|**2024-11-14**|**Probing the QCD Critical End Point with Finite-Size Scaling of Net-Baryon Cumulant Ratios**|Roy A. Lacey et.al.|[2411.09139](http://arxiv.org/abs/2411.09139)|null|
+|**2024-11-13**|**Fermion-qubit fault-tolerant quantum computing**|Alexander Schuckert et.al.|[2411.08955](http://arxiv.org/abs/2411.08955)|null|
+|**2024-11-13**|**Two-dimensional Topological Quantum Chemistry and Catalog of Topological Materials**|Urko Petralanda et.al.|[2411.08950](http://arxiv.org/abs/2411.08950)|null|
 |**2024-11-13**|**Polymetis:Large Language Modeling for Multiple Material Domains**|Chao Huang et.al.|[2411.08728](http://arxiv.org/abs/2411.08728)|null|
 |**2024-11-13**|**LES-FGM modelling of non-premixed auto-igniting turbulent hydrogen flames including preferential diffusion**|Alessandro Ballatore et.al.|[2411.08505](http://arxiv.org/abs/2411.08505)|null|
 |**2024-11-12**|**Molecular Distributions and Abundances in the Binary-Shaped Outflow of V Hya**|Mark A. Siebert et.al.|[2411.08120](http://arxiv.org/abs/2411.08120)|null|
