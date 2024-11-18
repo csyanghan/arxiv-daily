@@ -167,6 +167,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Experimental generation of extreme electron beams for advanced accelerator applications**|Claudio Emma et.al.|[2411.10413](http://arxiv.org/abs/2411.10413)|null|
+|**2024-11-15**|**How to Build a Quantum Supercomputer: Scaling Challenges and Opportunities**|Masoud Mohseni et.al.|[2411.10406](http://arxiv.org/abs/2411.10406)|null|
+|**2024-11-15**|**Energy-GNoME: A Living Database of Selected Materials for Energy Applications**|Paolo De Angelis et.al.|[2411.10125](http://arxiv.org/abs/2411.10125)|null|
+|**2024-11-14**|**The [C II] line emission as an ISM probe in the MARIGOLD galaxies**|Prachi Khatri et.al.|[2411.09755](http://arxiv.org/abs/2411.09755)|null|
+|**2024-11-14**|**2D Theoretically Twistable Material Database**|Yi Jiang et.al.|[2411.09741](http://arxiv.org/abs/2411.09741)|null|
 |**2024-11-14**|**Probability of constructing prediction model for observable of a dynamical process via time series**|Xiao-Song Yang et.al.|[2411.09230](http://arxiv.org/abs/2411.09230)|null|
 |**2024-11-14**|**On the H-atom abstractions from C1-C4 alcohols, aldehydes, and ethers by NO2: ab initio and comprehensive kinetic modeling**|Hongqing Wu^ et.al.|[2411.09207](http://arxiv.org/abs/2411.09207)|null|
 |**2024-11-14**|**Probing the QCD Critical End Point with Finite-Size Scaling of Net-Baryon Cumulant Ratios**|Roy A. Lacey et.al.|[2411.09139](http://arxiv.org/abs/2411.09139)|null|
