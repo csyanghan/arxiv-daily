@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-14**|**Adaptive Decoding via Latent Preference Optimization**|Shehzaad Dhuliawala et.al.|[2411.09661](http://arxiv.org/abs/2411.09661)|null|
 |**2024-11-13**|**Dynamic Subset Tuning: Expanding the Operational Range of Parameter-Efficient Training for Large Language Models**|Felix Stahlberg et.al.|[2411.08610](http://arxiv.org/abs/2411.08610)|null|
-|**2024-11-12**|**What Do Learning Dynamics Reveal About Generalization in LLM Reasoning?**|Katie Kang et.al.|[2411.07681](http://arxiv.org/abs/2411.07681)|**[link](https://github.com/katiekang1998/reasoning_generalization)**|
+|**2024-11-18**|**What Do Learning Dynamics Reveal About Generalization in LLM Reasoning?**|Katie Kang et.al.|[2411.07681](http://arxiv.org/abs/2411.07681)|**[link](https://github.com/katiekang1998/reasoning_generalization)**|
 |**2024-11-11**|**UTMath: Math Evaluation with Unit Test via Reasoning-to-Coding Thoughts**|Bo Yang et.al.|[2411.07240](http://arxiv.org/abs/2411.07240)|**[link](https://github.com/utmathgroup/utmath)**|
 |**2024-11-09**|**Quasi-random Multi-Sample Inference for Large Language Models**|Aditya Parashar et.al.|[2411.06251](http://arxiv.org/abs/2411.06251)|null|
 |**2024-11-08**|**Reasoning Robustness of LLMs to Adversarial Typographical Errors**|Esther Gan et.al.|[2411.05345](http://arxiv.org/abs/2411.05345)|null|
@@ -161,6 +161,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**Effects of Metallicity on Graphite, TiC, and SiC Condensation in Carbon Stars**|Gabrielle Adams et.al.|[2411.11832](http://arxiv.org/abs/2411.11832)|null|
+|**2024-11-18**|**AQUILA: A Laboratory Facility for the Irradiation of Astrochemical Ice Analogues by keV Ions**|R. Rácz et.al.|[2411.11765](http://arxiv.org/abs/2411.11765)|null|
+|**2024-11-18**|**The plausibility of origins scenarios requiring two impactors**|Richard J Anslow et.al.|[2411.11578](http://arxiv.org/abs/2411.11578)|null|
+|**2024-11-18**|**High-temperature dust formation in carbon-rich astrophysical environments**|Guy Libourel et.al.|[2411.11529](http://arxiv.org/abs/2411.11529)|null|
+|**2024-11-17**|**MolParser: End-to-end Visual Recognition of Molecule Structures in the Wild**|Xi Fang et.al.|[2411.11098](http://arxiv.org/abs/2411.11098)|null|
+|**2024-11-17**|**Depth-resolved measurement of solvation entropy, interfacial transport and charge-transfer kinetics of practical lithium-ion batteries**|Divya Chalise et.al.|[2411.10920](http://arxiv.org/abs/2411.10920)|null|
+|**2024-11-16**|**Stability frontiers in the AM $_6$X$_6$ kagome metals; The LnNb$_6$Sn$_6$ (Ln:Ce-Lu,Y) family and density-wave transition in LuNb$_6$Sn$_6$**|Brenden R. Ortiz et.al.|[2411.10635](http://arxiv.org/abs/2411.10635)|null|
+|**2024-11-15**|**Tenure and Research Trajectories**|Giorgio Tripodi et.al.|[2411.10575](http://arxiv.org/abs/2411.10575)|null|
+|**2024-11-15**|**BioNeMo Framework: a modular, high-performance library for AI model development in drug discovery**|Peter St. John et.al.|[2411.10548](http://arxiv.org/abs/2411.10548)|null|
 |**2024-11-15**|**Experimental generation of extreme electron beams for advanced accelerator applications**|Claudio Emma et.al.|[2411.10413](http://arxiv.org/abs/2411.10413)|null|
 |**2024-11-15**|**How to Build a Quantum Supercomputer: Scaling Challenges and Opportunities**|Masoud Mohseni et.al.|[2411.10406](http://arxiv.org/abs/2411.10406)|null|
 |**2024-11-15**|**Energy-GNoME: A Living Database of Selected Materials for Energy Applications**|Paolo De Angelis et.al.|[2411.10125](http://arxiv.org/abs/2411.10125)|null|
