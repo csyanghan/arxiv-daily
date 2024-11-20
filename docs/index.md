@@ -161,6 +161,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**A polarizable CASSCF/MM approach using the interface between OpenMMPol library and CFour**|Tommaso Nottoli et.al.|[2411.12489](http://arxiv.org/abs/2411.12489)|null|
+|**2024-11-19**|**Chemical Evolution during Molecular Cloud Formation Triggered by an Interstellar Shock Wave: Dependence on Shock Parameters and Comparison with Molecular Absorption Lines**|Yuto Komichi et.al.|[2411.12394](http://arxiv.org/abs/2411.12394)|null|
+|**2024-11-19**|**Action-Attentive Deep Reinforcement Learning for Autonomous Alignment of Beamlines**|Siyu Wang et.al.|[2411.12183](http://arxiv.org/abs/2411.12183)|null|
+|**2024-11-18**|**Hydrodynamic Stokes flow induced by a chemically active patch imprinted on a planar wall**|Mihail N. Popescu et.al.|[2411.12107](http://arxiv.org/abs/2411.12107)|null|
+|**2024-11-18**|**Cartesian Atomic Moment Machine Learning Interatomic Potentials**|Mingjian Wen et.al.|[2411.12096](http://arxiv.org/abs/2411.12096)|null|
+|**2024-11-18**|**Clouds and Hazes in the Atmospheres of Triton and Pluto**|Peter Gao et.al.|[2411.12031](http://arxiv.org/abs/2411.12031)|null|
+|**2024-11-18**|**Electron Irradiation of Crystalline Nitrous Oxide Ice at Low Temperatures: Applications to Outer Solar System Planetary Science**|Duncan V. Mifsud et.al.|[2411.11936](http://arxiv.org/abs/2411.11936)|null|
 |**2024-11-18**|**Effects of Metallicity on Graphite, TiC, and SiC Condensation in Carbon Stars**|Gabrielle Adams et.al.|[2411.11832](http://arxiv.org/abs/2411.11832)|null|
 |**2024-11-18**|**AQUILA: A Laboratory Facility for the Irradiation of Astrochemical Ice Analogues by keV Ions**|R. Rácz et.al.|[2411.11765](http://arxiv.org/abs/2411.11765)|null|
 |**2024-11-18**|**The plausibility of origins scenarios requiring two impactors**|Richard J Anslow et.al.|[2411.11578](http://arxiv.org/abs/2411.11578)|null|
