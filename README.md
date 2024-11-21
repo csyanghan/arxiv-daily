@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**Patience Is The Key to Large Language Model Reasoning**|Yijiong Yu et.al.|[2411.13082](http://arxiv.org/abs/2411.13082)|null|
 |**2024-11-14**|**Adaptive Decoding via Latent Preference Optimization**|Shehzaad Dhuliawala et.al.|[2411.09661](http://arxiv.org/abs/2411.09661)|null|
 |**2024-11-13**|**Dynamic Subset Tuning: Expanding the Operational Range of Parameter-Efficient Training for Large Language Models**|Felix Stahlberg et.al.|[2411.08610](http://arxiv.org/abs/2411.08610)|null|
 |**2024-11-18**|**What Do Learning Dynamics Reveal About Generalization in LLM Reasoning?**|Katie Kang et.al.|[2411.07681](http://arxiv.org/abs/2411.07681)|**[link](https://github.com/katiekang1998/reasoning_generalization)**|
@@ -167,6 +168,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**Elucidating chirality transfer in liquid crystals of viruses**|Eric Grelet et.al.|[2411.13445](http://arxiv.org/abs/2411.13445)|null|
+|**2024-11-20**|**Measurement of interstellar extinction for classical T Tauri stars using far-UV H2 line fluxes**|B. Fuhrmeister et.al.|[2411.13247](http://arxiv.org/abs/2411.13247)|null|
+|**2024-11-20**|**Computational and Experimental Exploration of Protein Fitness Landscapes: Navigating Smooth and Rugged Terrains**|Mahakaran Sandhu et.al.|[2411.12957](http://arxiv.org/abs/2411.12957)|null|
+|**2024-11-19**|**Modelling carbon chain and complex organic molecules in the DR21(OH) clump**|P. Freeman et.al.|[2411.12916](http://arxiv.org/abs/2411.12916)|null|
 |**2024-11-19**|**A polarizable CASSCF/MM approach using the interface between OpenMMPol library and CFour**|Tommaso Nottoli et.al.|[2411.12489](http://arxiv.org/abs/2411.12489)|null|
 |**2024-11-19**|**Chemical Evolution during Molecular Cloud Formation Triggered by an Interstellar Shock Wave: Dependence on Shock Parameters and Comparison with Molecular Absorption Lines**|Yuto Komichi et.al.|[2411.12394](http://arxiv.org/abs/2411.12394)|null|
 |**2024-11-19**|**Action-Attentive Deep Reinforcement Learning for Autonomous Alignment of Beamlines**|Siyu Wang et.al.|[2411.12183](http://arxiv.org/abs/2411.12183)|**[link](https://github.com/sygogo/alignment_beamlines_rl)**|
