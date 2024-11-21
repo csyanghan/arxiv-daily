@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.20
+## Updated on 2024.11.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -163,7 +163,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-19**|**A polarizable CASSCF/MM approach using the interface between OpenMMPol library and CFour**|Tommaso Nottoli et.al.|[2411.12489](http://arxiv.org/abs/2411.12489)|null|
 |**2024-11-19**|**Chemical Evolution during Molecular Cloud Formation Triggered by an Interstellar Shock Wave: Dependence on Shock Parameters and Comparison with Molecular Absorption Lines**|Yuto Komichi et.al.|[2411.12394](http://arxiv.org/abs/2411.12394)|null|
-|**2024-11-19**|**Action-Attentive Deep Reinforcement Learning for Autonomous Alignment of Beamlines**|Siyu Wang et.al.|[2411.12183](http://arxiv.org/abs/2411.12183)|null|
+|**2024-11-19**|**Action-Attentive Deep Reinforcement Learning for Autonomous Alignment of Beamlines**|Siyu Wang et.al.|[2411.12183](http://arxiv.org/abs/2411.12183)|**[link](https://github.com/sygogo/alignment_beamlines_rl)**|
 |**2024-11-18**|**Hydrodynamic Stokes flow induced by a chemically active patch imprinted on a planar wall**|Mihail N. Popescu et.al.|[2411.12107](http://arxiv.org/abs/2411.12107)|null|
 |**2024-11-18**|**Cartesian Atomic Moment Machine Learning Interatomic Potentials**|Mingjian Wen et.al.|[2411.12096](http://arxiv.org/abs/2411.12096)|null|
 |**2024-11-18**|**Clouds and Hazes in the Atmospheres of Triton and Pluto**|Peter Gao et.al.|[2411.12031](http://arxiv.org/abs/2411.12031)|null|
