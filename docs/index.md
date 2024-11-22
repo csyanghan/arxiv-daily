@@ -162,6 +162,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**Umbrella Reinforcement Learning -- computationally efficient tool for hard non-linear problems**|Egor E. Nuzhin et.al.|[2411.14117](http://arxiv.org/abs/2411.14117)|null|
+|**2024-11-21**|**A Hybrid Qubit Encoding: Splitting Fock Space into Fermionic and Bosonic Subspaces**|Francisco Javier Del Arco Santos et.al.|[2411.14096](http://arxiv.org/abs/2411.14096)|null|
+|**2024-11-21**|**THz optical response of Ba(Fe $_{1-x}$Ni$_x$)$_2$As$_2$ films analyzed within the three-band Eliashberg s$_\pm$ -wave model**|Yurii A. Aleshchenko et.al.|[2411.14011](http://arxiv.org/abs/2411.14011)|null|
+|**2024-11-21**|**A Phase-Space Electronic Hamiltonian for Molecules in a Static Magnetic Field II: Quantum Chemistry Calculations with Gauge Invariant Atomic Orbitals**|Mansi Bhati et.al.|[2411.13879](http://arxiv.org/abs/2411.13879)|null|
+|**2024-11-21**|**SemiKong: Curating, Training, and Evaluating A Semiconductor Industry-Specific Large Language Model**|Christopher Nguyen et.al.|[2411.13802](http://arxiv.org/abs/2411.13802)|**[link](https://github.com/aitomatic/semikong)**|
 |**2024-11-20**|**Elucidating chirality transfer in liquid crystals of viruses**|Eric Grelet et.al.|[2411.13445](http://arxiv.org/abs/2411.13445)|null|
 |**2024-11-20**|**Measurement of interstellar extinction for classical T Tauri stars using far-UV H2 line fluxes**|B. Fuhrmeister et.al.|[2411.13247](http://arxiv.org/abs/2411.13247)|null|
 |**2024-11-20**|**Computational and Experimental Exploration of Protein Fitness Landscapes: Navigating Smooth and Rugged Terrains**|Mahakaran Sandhu et.al.|[2411.12957](http://arxiv.org/abs/2411.12957)|null|
