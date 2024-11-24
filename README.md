@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.23
+## Updated on 2024.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -162,7 +162,7 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20241123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241124>back to top</a>)</p>
 
 ## AI for Science
 
@@ -173,7 +173,7 @@
 |**2024-11-21**|**THz optical response of Ba(Fe $_{1-x}$Ni$_x$)$_2$As$_2$ films analyzed within the three-band Eliashberg s$_\pm$ -wave model**|Yurii A. Aleshchenko et.al.|[2411.14011](http://arxiv.org/abs/2411.14011)|null|
 |**2024-11-21**|**A Phase-Space Electronic Hamiltonian for Molecules in a Static Magnetic Field II: Quantum Chemistry Calculations with Gauge Invariant Atomic Orbitals**|Mansi Bhati et.al.|[2411.13879](http://arxiv.org/abs/2411.13879)|null|
 |**2024-11-21**|**SemiKong: Curating, Training, and Evaluating A Semiconductor Industry-Specific Large Language Model**|Christopher Nguyen et.al.|[2411.13802](http://arxiv.org/abs/2411.13802)|**[link](https://github.com/aitomatic/semikong)**|
-|**2024-11-20**|**Elucidating chirality transfer in liquid crystals of viruses**|Eric Grelet et.al.|[2411.13445](http://arxiv.org/abs/2411.13445)|null|
+|**2024-11-20**|**Elucidating chirality transfer in liquid crystals of viruses**|Eric Grelet et.al.|[2411.13445](http://arxiv.org/abs/2411.13445)|**[link](https://github.com/mtortora/chiraldft)**|
 |**2024-11-20**|**Measurement of interstellar extinction for classical T Tauri stars using far-UV H2 line fluxes**|B. Fuhrmeister et.al.|[2411.13247](http://arxiv.org/abs/2411.13247)|null|
 |**2024-11-20**|**Computational and Experimental Exploration of Protein Fitness Landscapes: Navigating Smooth and Rugged Terrains**|Mahakaran Sandhu et.al.|[2411.12957](http://arxiv.org/abs/2411.12957)|null|
 |**2024-11-19**|**Modelling carbon chain and complex organic molecules in the DR21(OH) clump**|P. Freeman et.al.|[2411.12916](http://arxiv.org/abs/2411.12916)|null|
@@ -858,7 +858,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20241123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241124>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
