@@ -23,7 +23,7 @@ layout: default
 |**2024-11-08**|**Reasoning Robustness of LLMs to Adversarial Typographical Errors**|Esther Gan et.al.|[2411.05345](http://arxiv.org/abs/2411.05345)|null|
 |**2024-11-12**|**Kwai-STaR: Transform LLMs into State-Transition Reasoners**|Xingyu Lu et.al.|[2411.04799](http://arxiv.org/abs/2411.04799)|null|
 |**2024-11-07**|**Meta-Reasoning Improves Tool Use in Large Language Models**|Lisa Alazraki et.al.|[2411.04535](http://arxiv.org/abs/2411.04535)|**[link](https://github.com/lisaalaz/tecton)**|
-|**2024-11-06**|**Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding**|Haolin Chen et.al.|[2411.04282](http://arxiv.org/abs/2411.04282)|**[link](https://github.com/salesforceairesearch/latro)**|
+|**2024-11-21**|**Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding**|Haolin Chen et.al.|[2411.04282](http://arxiv.org/abs/2411.04282)|**[link](https://github.com/salesforceairesearch/latro)**|
 |**2024-11-07**|**Self-Consistency Preference Optimization**|Archiki Prasad et.al.|[2411.04109](http://arxiv.org/abs/2411.04109)|null|
 |**2024-11-02**|**Dictionary Insertion Prompting for Multilingual Reasoning on Multilingual Large Language Models**|Hongyuan Lu et.al.|[2411.01141](http://arxiv.org/abs/2411.01141)|null|
 |**2024-10-23**|**Adaptive Dense Reward: Understanding the Gap Between Action and Reward Space in Alignment**|Yanshi Li et.al.|[2411.00809](http://arxiv.org/abs/2411.00809)|null|
@@ -162,11 +162,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Does Open Access Foster Interdisciplinary Citation? Decomposing Open Access Citation Advantage**|Kai Nishikawa et.al.|[2411.14653](http://arxiv.org/abs/2411.14653)|null|
+|**2024-11-22**|**Benchmarking Multimodal Models for Ukrainian Language Understanding Across Academic and Cultural Domains**|Yurii Paniv et.al.|[2411.14647](http://arxiv.org/abs/2411.14647)|null|
+|**2024-11-22**|**Ionization chemistry in the inner disc: a combined treatment of ionic and thermionic emission and arbitrary grain size distributions**|Morgan Williams et.al.|[2411.14640](http://arxiv.org/abs/2411.14640)|null|
+|**2024-11-21**|**Protosolar D-to-H abundance and one part-per-billion PH $_{3}$ in the coldest brown dwarf**|Melanie J. Rowland et.al.|[2411.14541](http://arxiv.org/abs/2411.14541)|null|
 |**2024-11-21**|**Umbrella Reinforcement Learning -- computationally efficient tool for hard non-linear problems**|Egor E. Nuzhin et.al.|[2411.14117](http://arxiv.org/abs/2411.14117)|null|
-|**2024-11-21**|**A Hybrid Qubit Encoding: Splitting Fock Space into Fermionic and Bosonic Subspaces**|Francisco Javier Del Arco Santos et.al.|[2411.14096](http://arxiv.org/abs/2411.14096)|null|
+|**2024-11-21**|**A Hybrid Qubit Encoding: Splitting Fock Space into Fermionic and Bosonic Subspaces**|Francisco Javier Del Arco Santos et.al.|[2411.14096](http://arxiv.org/abs/2411.14096)|**[link](https://github.com/JdelArco98/Quantum_Chemistry_Hybrid_Base)**|
 |**2024-11-21**|**THz optical response of Ba(Fe $_{1-x}$Ni$_x$)$_2$As$_2$ films analyzed within the three-band Eliashberg s$_\pm$ -wave model**|Yurii A. Aleshchenko et.al.|[2411.14011](http://arxiv.org/abs/2411.14011)|null|
-|**2024-11-21**|**A Phase-Space Electronic Hamiltonian for Molecules in a Static Magnetic Field II: Quantum Chemistry Calculations with Gauge Invariant Atomic Orbitals**|Mansi Bhati et.al.|[2411.13879](http://arxiv.org/abs/2411.13879)|null|
-|**2024-11-21**|**SemiKong: Curating, Training, and Evaluating A Semiconductor Industry-Specific Large Language Model**|Christopher Nguyen et.al.|[2411.13802](http://arxiv.org/abs/2411.13802)|**[link](https://github.com/aitomatic/semikong)**|
+|**2024-11-22**|**A Phase-Space Electronic Hamiltonian for Molecules in a Static Magnetic Field II: Quantum Chemistry Calculations with Gauge Invariant Atomic Orbitals**|Mansi Bhati et.al.|[2411.13879](http://arxiv.org/abs/2411.13879)|null|
+|**2024-11-22**|**SemiKong: Curating, Training, and Evaluating A Semiconductor Industry-Specific Large Language Model**|Christopher Nguyen et.al.|[2411.13802](http://arxiv.org/abs/2411.13802)|**[link](https://github.com/aitomatic/semikong)**|
 |**2024-11-20**|**Elucidating chirality transfer in liquid crystals of viruses**|Eric Grelet et.al.|[2411.13445](http://arxiv.org/abs/2411.13445)|**[link](https://github.com/mtortora/chiraldft)**|
 |**2024-11-20**|**Measurement of interstellar extinction for classical T Tauri stars using far-UV H2 line fluxes**|B. Fuhrmeister et.al.|[2411.13247](http://arxiv.org/abs/2411.13247)|null|
 |**2024-11-20**|**Computational and Experimental Exploration of Protein Fitness Landscapes: Navigating Smooth and Rugged Terrains**|Mahakaran Sandhu et.al.|[2411.12957](http://arxiv.org/abs/2411.12957)|null|
