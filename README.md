@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Preference Optimization for Reasoning with Pseudo Feedback**|Fangkai Jiao et.al.|[2411.16345](http://arxiv.org/abs/2411.16345)|null|
+|**2024-11-25**|**Unraveling Arithmetic in Large Language Models: The Role of Algebraic Structures**|Fu-Chieh Chang et.al.|[2411.16260](http://arxiv.org/abs/2411.16260)|null|
+|**2024-11-25**|**Predicting Emergent Capabilities by Finetuning**|Charlie Snell et.al.|[2411.16035](http://arxiv.org/abs/2411.16035)|null|
 |**2024-11-20**|**Patience Is The Key to Large Language Model Reasoning**|Yijiong Yu et.al.|[2411.13082](http://arxiv.org/abs/2411.13082)|null|
 |**2024-11-14**|**Adaptive Decoding via Latent Preference Optimization**|Shehzaad Dhuliawala et.al.|[2411.09661](http://arxiv.org/abs/2411.09661)|null|
 |**2024-11-13**|**Dynamic Subset Tuning: Expanding the Operational Range of Parameter-Efficient Training for Large Language Models**|Felix Stahlberg et.al.|[2411.08610](http://arxiv.org/abs/2411.08610)|null|
@@ -168,10 +171,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**The JWST Weather Report from the Isolated Exoplanet Analog SIMP 0136+0933: Pressure-Dependent Variability Driven by Multiple Mechanisms**|Allison M. McCarthy et.al.|[2411.16577](http://arxiv.org/abs/2411.16577)|null|
+|**2024-11-25**|**ToMSGKpoint: A user-friendly package for computing symmetry transformation properties of electronic eigenstates of nonmagnetic and magnetic crystalline materials**|Liangliang Huang et.al.|[2411.16190](http://arxiv.org/abs/2411.16190)|null|
+|**2024-11-24**|**Finding Thermodynamically Favorable Pathways in Reaction Networks using Flows in Hypergraphs and Mixed Integer Linear Programming**|Adittya Pal et.al.|[2411.15900](http://arxiv.org/abs/2411.15900)|null|
+|**2024-11-23**|**Beryllium: The smoking gun of a rejuvenated star**|Anne Rathsam et.al.|[2411.15650](http://arxiv.org/abs/2411.15650)|null|
 |**2024-11-22**|**Does Open Access Foster Interdisciplinary Citation? Decomposing Open Access Citation Advantage**|Kai Nishikawa et.al.|[2411.14653](http://arxiv.org/abs/2411.14653)|null|
 |**2024-11-22**|**Benchmarking Multimodal Models for Ukrainian Language Understanding Across Academic and Cultural Domains**|Yurii Paniv et.al.|[2411.14647](http://arxiv.org/abs/2411.14647)|null|
 |**2024-11-22**|**Ionization chemistry in the inner disc: a combined treatment of ionic and thermionic emission and arbitrary grain size distributions**|Morgan Williams et.al.|[2411.14640](http://arxiv.org/abs/2411.14640)|null|
-|**2024-11-21**|**Protosolar D-to-H abundance and one part-per-billion PH $_{3}$ in the coldest brown dwarf**|Melanie J. Rowland et.al.|[2411.14541](http://arxiv.org/abs/2411.14541)|null|
+|**2024-11-25**|**Protosolar D-to-H abundance and one part-per-billion PH $_{3}$ in the coldest brown dwarf**|Melanie J. Rowland et.al.|[2411.14541](http://arxiv.org/abs/2411.14541)|null|
 |**2024-11-21**|**Umbrella Reinforcement Learning -- computationally efficient tool for hard non-linear problems**|Egor E. Nuzhin et.al.|[2411.14117](http://arxiv.org/abs/2411.14117)|null|
 |**2024-11-21**|**A Hybrid Qubit Encoding: Splitting Fock Space into Fermionic and Bosonic Subspaces**|Francisco Javier Del Arco Santos et.al.|[2411.14096](http://arxiv.org/abs/2411.14096)|**[link](https://github.com/JdelArco98/Quantum_Chemistry_Hybrid_Base)**|
 |**2024-11-21**|**THz optical response of Ba(Fe $_{1-x}$Ni$_x$)$_2$As$_2$ films analyzed within the three-band Eliashberg s$_\pm$ -wave model**|Yurii A. Aleshchenko et.al.|[2411.14011](http://arxiv.org/abs/2411.14011)|null|
