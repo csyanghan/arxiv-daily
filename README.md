@@ -21,7 +21,7 @@
 |**2024-11-25**|**Preference Optimization for Reasoning with Pseudo Feedback**|Fangkai Jiao et.al.|[2411.16345](http://arxiv.org/abs/2411.16345)|null|
 |**2024-11-25**|**Unraveling Arithmetic in Large Language Models: The Role of Algebraic Structures**|Fu-Chieh Chang et.al.|[2411.16260](http://arxiv.org/abs/2411.16260)|null|
 |**2024-11-25**|**Predicting Emergent Capabilities by Finetuning**|Charlie Snell et.al.|[2411.16035](http://arxiv.org/abs/2411.16035)|null|
-|**2024-11-20**|**Patience Is The Key to Large Language Model Reasoning**|Yijiong Yu et.al.|[2411.13082](http://arxiv.org/abs/2411.13082)|null|
+|**2024-11-26**|**Patience Is The Key to Large Language Model Reasoning**|Yijiong Yu et.al.|[2411.13082](http://arxiv.org/abs/2411.13082)|null|
 |**2024-11-14**|**Adaptive Decoding via Latent Preference Optimization**|Shehzaad Dhuliawala et.al.|[2411.09661](http://arxiv.org/abs/2411.09661)|null|
 |**2024-11-13**|**Dynamic Subset Tuning: Expanding the Operational Range of Parameter-Efficient Training for Large Language Models**|Felix Stahlberg et.al.|[2411.08610](http://arxiv.org/abs/2411.08610)|null|
 |**2024-11-18**|**What Do Learning Dynamics Reveal About Generalization in LLM Reasoning?**|Katie Kang et.al.|[2411.07681](http://arxiv.org/abs/2411.07681)|**[link](https://github.com/katiekang1998/reasoning_generalization)**|
@@ -171,6 +171,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**Broadband coherent XUV light from $e^-/e^+$ microbunching in an intense laser pulse**|Michael J. Quin et.al.|[2411.17631](http://arxiv.org/abs/2411.17631)|null|
+|**2024-11-26**|**Gas dynamics around a Jupiter mass planet: II. Chemical evolution of circumplanetary material**|Alex J. Cridland et.al.|[2411.17408](http://arxiv.org/abs/2411.17408)|null|
+|**2024-11-26**|**Unveiling New Mechanical Couplings in 3D Lattices: Axial-Bending and the Role of Symmetry Breaking**|Dijia Zhong et.al.|[2411.17142](http://arxiv.org/abs/2411.17142)|null|
+|**2024-11-26**|**The deuterium fractionation of NH $_3$ in massive star-forming regions**|Yuqiang Li et.al.|[2411.17121](http://arxiv.org/abs/2411.17121)|null|
+|**2024-11-25**|**Probing the limitations of multimodal language models for chemistry and materials research**|Nawaf Alampara et.al.|[2411.16955](http://arxiv.org/abs/2411.16955)|**[link](https://github.com/lamalab-org/mac-bench)**|
+|**2024-11-23**|**Federated Learning in Chemical Engineering: A Tutorial on a Framework for Privacy-Preserving Collaboration Across Distributed Data Sources**|Siddhant Dutta et.al.|[2411.16737](http://arxiv.org/abs/2411.16737)|null|
 |**2024-11-25**|**The JWST Weather Report from the Isolated Exoplanet Analog SIMP 0136+0933: Pressure-Dependent Variability Driven by Multiple Mechanisms**|Allison M. McCarthy et.al.|[2411.16577](http://arxiv.org/abs/2411.16577)|null|
 |**2024-11-25**|**ToMSGKpoint: A user-friendly package for computing symmetry transformation properties of electronic eigenstates of nonmagnetic and magnetic crystalline materials**|Liangliang Huang et.al.|[2411.16190](http://arxiv.org/abs/2411.16190)|null|
 |**2024-11-24**|**Finding Thermodynamically Favorable Pathways in Reaction Networks using Flows in Hypergraphs and Mixed Integer Linear Programming**|Adittya Pal et.al.|[2411.15900](http://arxiv.org/abs/2411.15900)|null|
