@@ -165,10 +165,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**Predicting HCN, HCO $^+$ , multi-transition CO, and dust emission of star-forming galaxies -- Extension to luminous infrared galaxies and the role of cosmic ray ionization**|B. Vollmer et.al.|[2411.18420](http://arxiv.org/abs/2411.18420)|null|
+|**2024-11-27**|**SPARC-X-API: Versatile Python Interface for Real-space Density Functional Theory Calculations**|Tian Tian et.al.|[2411.18024](http://arxiv.org/abs/2411.18024)|null|
+|**2024-11-27**|**PyMatterSim: a Python Data Analysis Library for Computer Simulations of Materials Science, Physics, Chemistry, and Beyond**|Y. -C. Hu et.al.|[2411.17970](http://arxiv.org/abs/2411.17970)|null|
+|**2024-11-27**|**A Size-Dependent Ideal Solution Model for Liquid-Solid Phase Equilibria Prediction in Aqueous Organic Solutions**|Spencer P. Alliston et.al.|[2411.17968](http://arxiv.org/abs/2411.17968)|null|
+|**2024-11-26**|**Cosmic Ray Ionization of Low-Excitation Lines in Active Galactic Nuclei and Starburst Galaxies**|E. Koutsoumpou et.al.|[2411.17811](http://arxiv.org/abs/2411.17811)|null|
 |**2024-11-26**|**Broadband coherent XUV light from $e^-/e^+$ microbunching in an intense laser pulse**|Michael J. Quin et.al.|[2411.17631](http://arxiv.org/abs/2411.17631)|null|
 |**2024-11-26**|**Gas dynamics around a Jupiter mass planet: II. Chemical evolution of circumplanetary material**|Alex J. Cridland et.al.|[2411.17408](http://arxiv.org/abs/2411.17408)|null|
 |**2024-11-26**|**Unveiling New Mechanical Couplings in 3D Lattices: Axial-Bending and the Role of Symmetry Breaking**|Dijia Zhong et.al.|[2411.17142](http://arxiv.org/abs/2411.17142)|null|
-|**2024-11-26**|**The deuterium fractionation of NH $_3$ in massive star-forming regions**|Yuqiang Li et.al.|[2411.17121](http://arxiv.org/abs/2411.17121)|null|
+|**2024-11-27**|**The deuterium fractionation of NH $_3$ in massive star-forming regions**|Yuqiang Li et.al.|[2411.17121](http://arxiv.org/abs/2411.17121)|null|
 |**2024-11-25**|**Probing the limitations of multimodal language models for chemistry and materials research**|Nawaf Alampara et.al.|[2411.16955](http://arxiv.org/abs/2411.16955)|**[link](https://github.com/lamalab-org/mac-bench)**|
 |**2024-11-23**|**Federated Learning in Chemical Engineering: A Tutorial on a Framework for Privacy-Preserving Collaboration Across Distributed Data Sources**|Siddhant Dutta et.al.|[2411.16737](http://arxiv.org/abs/2411.16737)|null|
 |**2024-11-25**|**The JWST Weather Report from the Isolated Exoplanet Analog SIMP 0136+0933: Pressure-Dependent Variability Driven by Multiple Mechanisms**|Allison M. McCarthy et.al.|[2411.16577](http://arxiv.org/abs/2411.16577)|null|
