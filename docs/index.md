@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**Critical Tokens Matter: Token-Level Contrastive Estimation Enhence LLM's Reasoning Capability**|Zicheng Lin et.al.|[2411.19943](http://arxiv.org/abs/2411.19943)|null|
 |**2024-11-25**|**Preference Optimization for Reasoning with Pseudo Feedback**|Fangkai Jiao et.al.|[2411.16345](http://arxiv.org/abs/2411.16345)|null|
 |**2024-11-25**|**Unraveling Arithmetic in Large Language Models: The Role of Algebraic Structures**|Fu-Chieh Chang et.al.|[2411.16260](http://arxiv.org/abs/2411.16260)|null|
 |**2024-11-25**|**Predicting Emergent Capabilities by Finetuning**|Charlie Snell et.al.|[2411.16035](http://arxiv.org/abs/2411.16035)|null|
@@ -165,6 +166,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**Open source Differentiable ODE Solving Infrastructure**|Rakshit Kr. Singh et.al.|[2411.19882](http://arxiv.org/abs/2411.19882)|null|
+|**2024-11-29**|**The 2024 Motile Active Matter Roadmap**|Gerhard Gompper et.al.|[2411.19783](http://arxiv.org/abs/2411.19783)|null|
+|**2024-11-29**|**Riemannian Denoising Score Matching for Molecular Structure Optimization with Accurate Energy**|Jeheon Woo et.al.|[2411.19769](http://arxiv.org/abs/2411.19769)|null|
+|**2024-11-29**|**Retrieving wind properties from the ultra-hot dayside of WASP-189b with CRIRES $^+$**|F. Lesjak et.al.|[2411.19662](http://arxiv.org/abs/2411.19662)|null|
+|**2024-11-29**|**OpenQDC: Open Quantum Data Commons**|Cristian Gabellini et.al.|[2411.19629](http://arxiv.org/abs/2411.19629)|null|
+|**2024-11-29**|**Are Stellar Embryos in Perseus Radio-Synchrotron Emitters? Statistical data analysis with Herschel and LOFAR paving the way for the SKA**|Andrea Bracco et.al.|[2411.19573](http://arxiv.org/abs/2411.19573)|null|
+|**2024-11-28**|**Potential for life to exist and be detected on Earth-like planets orbiting white dwarfs**|Caldon T. Whyte et.al.|[2411.18934](http://arxiv.org/abs/2411.18934)|null|
 |**2024-11-27**|**Predicting HCN, HCO $^+$ , multi-transition CO, and dust emission of star-forming galaxies -- Extension to luminous infrared galaxies and the role of cosmic ray ionization**|B. Vollmer et.al.|[2411.18420](http://arxiv.org/abs/2411.18420)|null|
 |**2024-11-27**|**SPARC-X-API: Versatile Python Interface for Real-space Density Functional Theory Calculations**|Tian Tian et.al.|[2411.18024](http://arxiv.org/abs/2411.18024)|null|
 |**2024-11-27**|**PyMatterSim: a Python Data Analysis Library for Computer Simulations of Materials Science, Physics, Chemistry, and Beyond**|Y. -C. Hu et.al.|[2411.17970](http://arxiv.org/abs/2411.17970)|null|
