@@ -18,7 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-29**|**Critical Tokens Matter: Token-Level Contrastive Estimation Enhence LLM's Reasoning Capability**|Zicheng Lin et.al.|[2411.19943](http://arxiv.org/abs/2411.19943)|null|
+|**2024-12-02**|**Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability**|Zicheng Lin et.al.|[2411.19943](http://arxiv.org/abs/2411.19943)|null|
 |**2024-11-25**|**Preference Optimization for Reasoning with Pseudo Feedback**|Fangkai Jiao et.al.|[2411.16345](http://arxiv.org/abs/2411.16345)|null|
 |**2024-11-25**|**Unraveling Arithmetic in Large Language Models: The Role of Algebraic Structures**|Fu-Chieh Chang et.al.|[2411.16260](http://arxiv.org/abs/2411.16260)|null|
 |**2024-11-25**|**Predicting Emergent Capabilities by Finetuning**|Charlie Snell et.al.|[2411.16035](http://arxiv.org/abs/2411.16035)|null|
