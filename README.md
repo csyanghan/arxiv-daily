@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-02**|**MALT: Improving Reasoning with Multi-Agent LLM Training**|Sumeet Ramesh Motwani et.al.|[2412.01928](http://arxiv.org/abs/2412.01928)|null|
+|**2024-11-27**|**Mixture of Cache-Conditional Experts for Efficient Mobile Device Inference**|Andrii Skliar et.al.|[2412.00099](http://arxiv.org/abs/2412.00099)|null|
 |**2024-12-02**|**Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability**|Zicheng Lin et.al.|[2411.19943](http://arxiv.org/abs/2411.19943)|null|
 |**2024-11-25**|**Preference Optimization for Reasoning with Pseudo Feedback**|Fangkai Jiao et.al.|[2411.16345](http://arxiv.org/abs/2411.16345)|null|
 |**2024-11-25**|**Unraveling Arithmetic in Large Language Models: The Role of Algebraic Structures**|Fu-Chieh Chang et.al.|[2411.16260](http://arxiv.org/abs/2411.16260)|null|
@@ -172,6 +174,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Ultrafast Superradiant Scintillation from Weakly Confined CsPbBr3 Nanocrystals**|Matteo L. Zaffalon et.al.|[2412.02516](http://arxiv.org/abs/2412.02516)|null|
+|**2024-12-02**|**CO2-rich protoplanetary discs as a probe of dust radial drift & trapping**|Andrew D. Sellek et.al.|[2412.01895](http://arxiv.org/abs/2412.01895)|null|
+|**2024-12-02**|**A dry Venusian interior constrained by atmospheric chemistry**|Tereza Constantinou et.al.|[2412.01879](http://arxiv.org/abs/2412.01879)|null|
+|**2024-12-02**|**The Milky Way Bulge**|Manuela Zoccali et.al.|[2412.01607](http://arxiv.org/abs/2412.01607)|null|
+|**2024-12-02**|**Hydrogen Utilization as a Plasma Source for Magnetohydrodynamic Direct Power Extraction (MHD-DPE)**|Osama A. Marzouk et.al.|[2412.01534](http://arxiv.org/abs/2412.01534)|null|
+|**2024-12-02**|**Performance of the LABDOS01 spectrometer in dosimetric measurements**|Silvia Vernetto et.al.|[2412.01515](http://arxiv.org/abs/2412.01515)|null|
+|**2024-12-02**|**Kinetic Study of the Reactions of Ground State Atomic Carbon and Oxygen with Nitrogen Dioxide over the 50-296 K Temperature Range**|Kevin M. Hickson et.al.|[2412.01479](http://arxiv.org/abs/2412.01479)|null|
+|**2024-12-03**|**Time Resolved Absorption of Six Chemical Species With MAROON-X Points to Strong Drag in the Ultra Hot Jupiter TOI-1518 b**|A. Simonnin et.al.|[2412.01472](http://arxiv.org/abs/2412.01472)|null|
+|**2024-12-02**|**Quadruply Bonded Mo $_2$ Molecules: An Emitter-Resonator Integrated Quantum System in Free Space**|Miao Meng et.al.|[2412.01453](http://arxiv.org/abs/2412.01453)|null|
+|**2024-12-02**|**Quantization of Visible Light by a Ni $_2$ Molecular Optical Resonator**|Miao Meng et.al.|[2412.01444](http://arxiv.org/abs/2412.01444)|null|
 |**2024-11-29**|**Open source Differentiable ODE Solving Infrastructure**|Rakshit Kr. Singh et.al.|[2411.19882](http://arxiv.org/abs/2411.19882)|null|
 |**2024-11-29**|**The 2024 Motile Active Matter Roadmap**|Gerhard Gompper et.al.|[2411.19783](http://arxiv.org/abs/2411.19783)|null|
 |**2024-11-29**|**Riemannian Denoising Score Matching for Molecular Structure Optimization with Accurate Energy**|Jeheon Woo et.al.|[2411.19769](http://arxiv.org/abs/2411.19769)|null|
