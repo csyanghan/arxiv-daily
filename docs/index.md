@@ -14,13 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 |**2024-12-02**|**MALT: Improving Reasoning with Multi-Agent LLM Training**|Sumeet Ramesh Motwani et.al.|[2412.01928](http://arxiv.org/abs/2412.01928)|null|
 |**2024-11-27**|**Mixture of Cache-Conditional Experts for Efficient Mobile Device Inference**|Andrii Skliar et.al.|[2412.00099](http://arxiv.org/abs/2412.00099)|null|
 |**2024-12-02**|**Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability**|Zicheng Lin et.al.|[2411.19943](http://arxiv.org/abs/2411.19943)|null|
 |**2024-11-25**|**Preference Optimization for Reasoning with Pseudo Feedback**|Fangkai Jiao et.al.|[2411.16345](http://arxiv.org/abs/2411.16345)|null|
 |**2024-11-25**|**Unraveling Arithmetic in Large Language Models: The Role of Algebraic Structures**|Fu-Chieh Chang et.al.|[2411.16260](http://arxiv.org/abs/2411.16260)|null|
 |**2024-11-25**|**Predicting Emergent Capabilities by Finetuning**|Charlie Snell et.al.|[2411.16035](http://arxiv.org/abs/2411.16035)|null|
-|**2024-11-26**|**Patience Is The Key to Large Language Model Reasoning**|Yijiong Yu et.al.|[2411.13082](http://arxiv.org/abs/2411.13082)|null|
+|**2024-12-04**|**Patience Is The Key to Large Language Model Reasoning**|Yijiong Yu et.al.|[2411.13082](http://arxiv.org/abs/2411.13082)|null|
 |**2024-11-14**|**Adaptive Decoding via Latent Preference Optimization**|Shehzaad Dhuliawala et.al.|[2411.09661](http://arxiv.org/abs/2411.09661)|null|
 |**2024-11-13**|**Dynamic Subset Tuning: Expanding the Operational Range of Parameter-Efficient Training for Large Language Models**|Felix Stahlberg et.al.|[2411.08610](http://arxiv.org/abs/2411.08610)|null|
 |**2024-11-18**|**What Do Learning Dynamics Reveal About Generalization in LLM Reasoning?**|Katie Kang et.al.|[2411.07681](http://arxiv.org/abs/2411.07681)|**[link](https://github.com/katiekang1998/reasoning_generalization)**|
@@ -168,6 +169,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Improving Perturbation Theory with the Sum-of-Squares: Third Order**|M. B. Hastings et.al.|[2412.03564](http://arxiv.org/abs/2412.03564)|null|
+|**2024-12-04**|**Non-stoichiometric and Subnano-heterogeneous Ln-incorporated UO2: its defect chemistry and thermal oxidation**|Juejing Liu et.al.|[2412.03501](http://arxiv.org/abs/2412.03501)|null|
+|**2024-12-04**|**Spin polarization driven by molecular vibrations leads to enantioselectivity in chiral molecules**|Shinji Miwa et.al.|[2412.03082](http://arxiv.org/abs/2412.03082)|null|
 |**2024-12-03**|**Ultrafast Superradiant Scintillation from Weakly Confined CsPbBr3 Nanocrystals**|Matteo L. Zaffalon et.al.|[2412.02516](http://arxiv.org/abs/2412.02516)|null|
 |**2024-12-02**|**CO2-rich protoplanetary discs as a probe of dust radial drift & trapping**|Andrew D. Sellek et.al.|[2412.01895](http://arxiv.org/abs/2412.01895)|null|
 |**2024-12-02**|**A dry Venusian interior constrained by atmospheric chemistry**|Tereza Constantinou et.al.|[2412.01879](http://arxiv.org/abs/2412.01879)|null|
