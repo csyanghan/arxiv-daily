@@ -19,7 +19,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-12-05**|**Evolutionary Pre-Prompt Optimization for Mathematical Reasoning**|Mathurin Videau et.al.|[2412.04291](http://arxiv.org/abs/2412.04291)|null|
-|**2024-12-04**|**How to Correctly do Semantic Backpropagation on Language-based Agentic Systems**|Wenyi Wang et.al.|[2412.03624](http://arxiv.org/abs/2412.03624)|null|
+|**2024-12-04**|**How to Correctly do Semantic Backpropagation on Language-based Agentic Systems**|Wenyi Wang et.al.|[2412.03624](http://arxiv.org/abs/2412.03624)|**[link](https://github.com/hishamalyahya/semantic_backprop)**|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 |**2024-12-02**|**MALT: Improving Reasoning with Multi-Agent LLM Training**|Sumeet Ramesh Motwani et.al.|[2412.01928](http://arxiv.org/abs/2412.01928)|null|
 |**2024-11-27**|**Mixture of Cache-Conditional Experts for Efficient Mobile Device Inference**|Andrii Skliar et.al.|[2412.00099](http://arxiv.org/abs/2412.00099)|null|
@@ -177,7 +177,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-05**|**Method-independent cusps for atomic orbitals in quantum Monte Carlo**|Trine Kay Quady et.al.|[2412.04399](http://arxiv.org/abs/2412.04399)|null|
+|**2024-12-05**|**Method-independent cusps for atomic orbitals in quantum Monte Carlo**|Trine Kay Quady et.al.|[2412.04399](http://arxiv.org/abs/2412.04399)|**[link](https://github.com/eneuscamman/cgaows)**|
 |**2024-12-05**|**Asynchronous Batch Bayesian Optimization with Pipelining Evaluations for Experimental Resource $\unicode{x2013}$ constrained Conditions**|Yujin Taguchi et.al.|[2412.04392](http://arxiv.org/abs/2412.04392)|null|
 |**2024-12-05**|**The GAPS programme at TNG XLVI. A homogeneous search for Na i and its possible variability in ten gas giant exoplanets**|D. Sicilia et.al.|[2412.04330](http://arxiv.org/abs/2412.04330)|null|
 |**2024-12-05**|**Streamer discharge simulations in humid air: uncertainty in input data and sensitivity analysis**|Baohong Guo et.al.|[2412.03861](http://arxiv.org/abs/2412.03861)|null|
