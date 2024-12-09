@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Neuro-Symbolic Data Generation for Math Reasoning**|Zenan Li et.al.|[2412.04857](http://arxiv.org/abs/2412.04857)|null|
 |**2024-12-05**|**Evolutionary Pre-Prompt Optimization for Mathematical Reasoning**|Mathurin Videau et.al.|[2412.04291](http://arxiv.org/abs/2412.04291)|null|
 |**2024-12-04**|**How to Correctly do Semantic Backpropagation on Language-based Agentic Systems**|Wenyi Wang et.al.|[2412.03624](http://arxiv.org/abs/2412.03624)|**[link](https://github.com/hishamalyahya/semantic_backprop)**|
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
@@ -177,9 +178,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Fast Laplace transforms on quantum computers**|Julien Zylberman et.al.|[2412.05173](http://arxiv.org/abs/2412.05173)|null|
+|**2024-12-06**|**Predicting the Curie temperature in substitutionally disordered alloys using a first-principles based model**|Marian Arale Brännvall et.al.|[2412.04920](http://arxiv.org/abs/2412.04920)|null|
 |**2024-12-05**|**Method-independent cusps for atomic orbitals in quantum Monte Carlo**|Trine Kay Quady et.al.|[2412.04399](http://arxiv.org/abs/2412.04399)|**[link](https://github.com/eneuscamman/cgaows)**|
 |**2024-12-05**|**Asynchronous Batch Bayesian Optimization with Pipelining Evaluations for Experimental Resource $\unicode{x2013}$ constrained Conditions**|Yujin Taguchi et.al.|[2412.04392](http://arxiv.org/abs/2412.04392)|null|
-|**2024-12-05**|**The GAPS programme at TNG XLVI. A homogeneous search for Na i and its possible variability in ten gas giant exoplanets**|D. Sicilia et.al.|[2412.04330](http://arxiv.org/abs/2412.04330)|null|
+|**2024-12-06**|**The GAPS programme at TNG LXVI. A homogeneous search for Na i and its possible variability in ten gas giant exoplanets**|D. Sicilia et.al.|[2412.04330](http://arxiv.org/abs/2412.04330)|null|
 |**2024-12-05**|**Streamer discharge simulations in humid air: uncertainty in input data and sensitivity analysis**|Baohong Guo et.al.|[2412.03861](http://arxiv.org/abs/2412.03861)|null|
 |**2024-12-05**|**A large language model-type architecture for high-dimensional molecular potential energy surfaces**|Xiao Zhu et.al.|[2412.03831](http://arxiv.org/abs/2412.03831)|null|
 |**2024-12-04**|**Improving Perturbation Theory with the Sum-of-Squares: Third Order**|M. B. Hastings et.al.|[2412.03564](http://arxiv.org/abs/2412.03564)|null|
