@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**ProcessBench: Identifying Process Errors in Mathematical Reasoning**|Chujie Zheng et.al.|[2412.06559](http://arxiv.org/abs/2412.06559)|null|
 |**2024-12-06**|**Neuro-Symbolic Data Generation for Math Reasoning**|Zenan Li et.al.|[2412.04857](http://arxiv.org/abs/2412.04857)|null|
 |**2024-12-05**|**Evolutionary Pre-Prompt Optimization for Mathematical Reasoning**|Mathurin Videau et.al.|[2412.04291](http://arxiv.org/abs/2412.04291)|null|
 |**2024-12-04**|**How to Correctly do Semantic Backpropagation on Language-based Agentic Systems**|Wenyi Wang et.al.|[2412.03624](http://arxiv.org/abs/2412.03624)|**[link](https://github.com/hishamalyahya/semantic_backprop)**|
@@ -172,6 +173,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**High-throughput computational screening of small, eco-friendly, molecular crystals for sustainable piezoelectric materials**|Shubham Vishnoi et.al.|[2412.06449](http://arxiv.org/abs/2412.06449)|null|
+|**2024-12-09**|**Modeling Complex Organic Molecules Formation in Cold Cores: Multi-phase Models with Non-thermal Mechanisms**|Yang Lu et.al.|[2412.06397](http://arxiv.org/abs/2412.06397)|null|
+|**2024-12-09**|**Improving stabilizer approximation with quantum strategy**|Fen Zuo et.al.|[2412.06320](http://arxiv.org/abs/2412.06320)|null|
+|**2024-12-08**|**High-pressure synthesis of K_{4}N_{6} compound entirely composed of aromatic hexazine [N_{6}]^{4-} anion**|Jie Zhang et.al.|[2412.05851](http://arxiv.org/abs/2412.05851)|null|
+|**2024-12-07**|**The First JWST View of a 30-Myr-old Protoplanetary Disk Reveals a Late-stage Carbon-rich Phase**|Feng Long et.al.|[2412.05535](http://arxiv.org/abs/2412.05535)|null|
+|**2024-12-06**|**QCD Chemistry: Remarks on Diquarks**|M. Shifman et.al.|[2412.05440](http://arxiv.org/abs/2412.05440)|null|
 |**2024-12-06**|**Fast Laplace transforms on quantum computers**|Julien Zylberman et.al.|[2412.05173](http://arxiv.org/abs/2412.05173)|null|
 |**2024-12-06**|**Predicting the Curie temperature in substitutionally disordered alloys using a first-principles based model**|Marian Arale Brännvall et.al.|[2412.04920](http://arxiv.org/abs/2412.04920)|null|
 |**2024-12-05**|**Method-independent cusps for atomic orbitals in quantum Monte Carlo**|Trine Kay Quady et.al.|[2412.04399](http://arxiv.org/abs/2412.04399)|**[link](https://github.com/eneuscamman/cgaows)**|
