@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**Learning to Reason via Self-Iterative Process Feedback for Small Language Models**|Kaiyuan Chen et.al.|[2412.08393](http://arxiv.org/abs/2412.08393)|null|
+|**2024-12-11**|**SmolTulu: Higher Learning Rate to Batch Size Ratios Can Lead to Better Reasoning in SLMs**|Sultan Alrashed et.al.|[2412.08347](http://arxiv.org/abs/2412.08347)|null|
 |**2024-12-10**|**ProcessBench: Identifying Process Errors in Mathematical Reasoning**|Chujie Zheng et.al.|[2412.06559](http://arxiv.org/abs/2412.06559)|null|
 |**2024-12-06**|**Neuro-Symbolic Data Generation for Math Reasoning**|Zenan Li et.al.|[2412.04857](http://arxiv.org/abs/2412.04857)|null|
 |**2024-12-05**|**Evolutionary Pre-Prompt Optimization for Mathematical Reasoning**|Mathurin Videau et.al.|[2412.04291](http://arxiv.org/abs/2412.04291)|null|
@@ -173,6 +175,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**Euclidean Fast Attention: Machine Learning Global Atomic Representations at Linear Cost**|J. Thorben Frank et.al.|[2412.08541](http://arxiv.org/abs/2412.08541)|null|
+|**2024-12-11**|**Observational studies on S-bearing molecules in massive star forming regions**|R. Luo et.al.|[2412.08390](http://arxiv.org/abs/2412.08390)|null|
+|**2024-12-10**|**Quantum Computing in Corrosion Modeling: Bridging Research and Industry**|Juan Manuel Aguiar Hualde et.al.|[2412.07933](http://arxiv.org/abs/2412.07933)|null|
+|**2024-12-10**|**Probing the gas that builds planets: Results from the JWST MINDS program**|E. F. van Dishoeck et.al.|[2412.07853](http://arxiv.org/abs/2412.07853)|null|
 |**2024-12-10**|**equilibrium-c: A Lightweight Modern Equilibrium Chemistry Calculator for Hypersonic Flow Applications**|Nicholas N. Gibbons et.al.|[2412.07166](http://arxiv.org/abs/2412.07166)|null|
 |**2024-12-09**|**Thermodynamic consistency and fluctuations in mesoscopic stochastic simulations of reactive gas mixtures**|Matteo Polimeno et.al.|[2412.07048](http://arxiv.org/abs/2412.07048)|null|
 |**2024-12-10**|**High-throughput computational screening of small, eco-friendly, molecular crystals for sustainable piezoelectric materials**|Shubham Vishnoi et.al.|[2412.06449](http://arxiv.org/abs/2412.06449)|null|
