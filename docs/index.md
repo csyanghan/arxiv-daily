@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**Lexico: Extreme KV Cache Compression via Sparse Coding over Universal Dictionaries**|Junhyuck Kim et.al.|[2412.08890](http://arxiv.org/abs/2412.08890)|null|
+|**2024-12-12**|**A Graph-Based Synthetic Data Pipeline for Scaling High-Quality Reasoning Instructions**|Jiankang Wang et.al.|[2412.08864](http://arxiv.org/abs/2412.08864)|null|
+|**2024-12-11**|**HARP: A challenging human-annotated math reasoning benchmark**|Albert S. Yue et.al.|[2412.08819](http://arxiv.org/abs/2412.08819)|**[link](https://github.com/aadityasingh/harp)**|
 |**2024-12-11**|**Learning to Reason via Self-Iterative Process Feedback for Small Language Models**|Kaiyuan Chen et.al.|[2412.08393](http://arxiv.org/abs/2412.08393)|null|
 |**2024-12-11**|**SmolTulu: Higher Learning Rate to Batch Size Ratios Can Lead to Better Reasoning in SLMs**|Sultan Alrashed et.al.|[2412.08347](http://arxiv.org/abs/2412.08347)|null|
 |**2024-12-10**|**ProcessBench: Identifying Process Errors in Mathematical Reasoning**|Chujie Zheng et.al.|[2412.06559](http://arxiv.org/abs/2412.06559)|null|
@@ -175,6 +178,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**Characterizing maximally many-body entangled fermionic states by using $M$ -body density matrix**|Irakli Giorgadze et.al.|[2412.09576](http://arxiv.org/abs/2412.09576)|null|
+|**2024-12-12**|**Impact of Lipid Structural Variations on Bilayer Properties: A Coarse-Grained Molecular Dynamics Study**|Sonam Phuntsho et.al.|[2412.09312](http://arxiv.org/abs/2412.09312)|null|
+|**2024-12-12**|**Influence of Functional Group on the Self Assembly of Diamondoids: A Molecular Dynamics Study**|Sonam Phuntsho et.al.|[2412.09294](http://arxiv.org/abs/2412.09294)|null|
+|**2024-12-12**|**$(ε, δ)$ -Differentially Private Partial Least Squares Regression**|Ramin Nikzad-Langerodi et.al.|[2412.09164](http://arxiv.org/abs/2412.09164)|null|
+|**2024-12-12**|**Molecular chemistry induced by J-shock toward supernova remnant W51C**|Tian-Yu Tu et.al.|[2412.09092](http://arxiv.org/abs/2412.09092)|null|
 |**2024-12-11**|**Euclidean Fast Attention: Machine Learning Global Atomic Representations at Linear Cost**|J. Thorben Frank et.al.|[2412.08541](http://arxiv.org/abs/2412.08541)|null|
 |**2024-12-11**|**Observational studies on S-bearing molecules in massive star forming regions**|R. Luo et.al.|[2412.08390](http://arxiv.org/abs/2412.08390)|null|
 |**2024-12-10**|**Quantum Computing in Corrosion Modeling: Bridging Research and Industry**|Juan Manuel Aguiar Hualde et.al.|[2412.07933](http://arxiv.org/abs/2412.07933)|null|
