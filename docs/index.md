@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|null|
+|**2024-12-15**|**Entropy-Regularized Process Reward Model**|Hanning Zhang et.al.|[2412.11006](http://arxiv.org/abs/2412.11006)|null|
 |**2024-12-12**|**GReaTer: Gradients over Reasoning Makes Smaller Language Models Strong Prompt Optimizers**|Sarkar Snigdha Sarathi Das et.al.|[2412.09722](http://arxiv.org/abs/2412.09722)|null|
 |**2024-12-12**|**Lexico: Extreme KV Cache Compression via Sparse Coding over Universal Dictionaries**|Junhyuck Kim et.al.|[2412.08890](http://arxiv.org/abs/2412.08890)|null|
 |**2024-12-12**|**A Graph-Based Synthetic Data Pipeline for Scaling High-Quality Reasoning Instructions**|Jiankang Wang et.al.|[2412.08864](http://arxiv.org/abs/2412.08864)|null|
@@ -179,6 +181,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**Convective shutdown in the atmospheres of lava worlds**|Harrison Nicholls et.al.|[2412.11987](http://arxiv.org/abs/2412.11987)|null|
+|**2024-12-16**|**A Route Toward the On-Surface Synthesis of Organic Ferromagnetic Quantum Spin Chains**|Fabian Paschke et.al.|[2412.11884](http://arxiv.org/abs/2412.11884)|null|
+|**2024-12-16**|**The dark side of the forces: assessing non-conservative force models for atomistic machine learning**|Filippo Bigi et.al.|[2412.11569](http://arxiv.org/abs/2412.11569)|null|
+|**2024-12-16**|**Electrostatic forces from reactive molecular orbitals driving chemical reactions**|Takao Tsuneda et.al.|[2412.11361](http://arxiv.org/abs/2412.11361)|null|
+|**2024-12-14**|**Graph Attention Hamiltonian Neural Networks: A Lattice System Analysis Model Based on Structural Learning**|Ru Geng et.al.|[2412.10821](http://arxiv.org/abs/2412.10821)|null|
+|**2024-12-13**|**A Compact X-Ray Laser with Ion Source and Crystal Cavity**|Shuang Li et.al.|[2412.10613](http://arxiv.org/abs/2412.10613)|null|
 |**2024-12-13**|**Magnetic and electronic properties of 1D hybrid nanoobjects composed of alternating polycyclic hydrocarbon regions and double carbon chains**|Irina V. Lebedeva et.al.|[2412.10015](http://arxiv.org/abs/2412.10015)|null|
 |**2024-12-13**|**Automated Collection of Evaluation Dataset for Semantic Search in Low-Resource Domain Language**|Anastasia Zhukova et.al.|[2412.10008](http://arxiv.org/abs/2412.10008)|null|
 |**2024-12-12**|**Characterizing maximally many-body entangled fermionic states by using $M$ -body density matrix**|Irakli Giorgadze et.al.|[2412.09576](http://arxiv.org/abs/2412.09576)|null|
