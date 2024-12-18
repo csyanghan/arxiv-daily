@@ -14,9 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Falcon: Faster and Parallel Inference of Large Language Models through Enhanced Semi-Autoregressive Drafting and Custom-Designed Decoding Tree**|Xiangxiang Gao et.al.|[2412.12639](http://arxiv.org/abs/2412.12639)|null|
 |**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|
-|**2024-12-15**|**Entropy-Regularized Process Reward Model**|Hanning Zhang et.al.|[2412.11006](http://arxiv.org/abs/2412.11006)|null|
-|**2024-12-12**|**GReaTer: Gradients over Reasoning Makes Smaller Language Models Strong Prompt Optimizers**|Sarkar Snigdha Sarathi Das et.al.|[2412.09722](http://arxiv.org/abs/2412.09722)|null|
+|**2024-12-15**|**Entropy-Regularized Process Reward Model**|Hanning Zhang et.al.|[2412.11006](http://arxiv.org/abs/2412.11006)|**[link](https://github.com/hanningzhang/er-prm)**|
+|**2024-12-12**|**GReaTer: Gradients over Reasoning Makes Smaller Language Models Strong Prompt Optimizers**|Sarkar Snigdha Sarathi Das et.al.|[2412.09722](http://arxiv.org/abs/2412.09722)|**[link](https://github.com/psunlpgroup/greater)**|
 |**2024-12-12**|**Lexico: Extreme KV Cache Compression via Sparse Coding over Universal Dictionaries**|Junhyuck Kim et.al.|[2412.08890](http://arxiv.org/abs/2412.08890)|null|
 |**2024-12-12**|**A Graph-Based Synthetic Data Pipeline for Scaling High-Quality Reasoning Instructions**|Jiankang Wang et.al.|[2412.08864](http://arxiv.org/abs/2412.08864)|null|
 |**2024-12-11**|**HARP: A challenging human-annotated math reasoning benchmark**|Albert S. Yue et.al.|[2412.08819](http://arxiv.org/abs/2412.08819)|**[link](https://github.com/aadityasingh/harp)**|
@@ -181,7 +182,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-16**|**Convective shutdown in the atmospheres of lava worlds**|Harrison Nicholls et.al.|[2412.11987](http://arxiv.org/abs/2412.11987)|null|
+|**2024-12-17**|**Taming Multi-Domain, -Fidelity Data: Towards Foundation Models for Atomistic Scale Simulations**|Tomoya Shiota et.al.|[2412.13088](http://arxiv.org/abs/2412.13088)|null|
+|**2024-12-17**|**The Galactic Disk North-south Asymmetry in Metallicity May Be A New Tracer for the Disk Warp**|Weixiang Sun et.al.|[2412.12876](http://arxiv.org/abs/2412.12876)|null|
+|**2024-12-17**|**Structural Cellular Hash Chemistry**|Hiroki Sayama et.al.|[2412.12790](http://arxiv.org/abs/2412.12790)|null|
+|**2024-12-17**|**MINDS. JWST-MIRI reveals a peculiar CO $_2$ -rich chemistry in the drift-dominated disk CX Tau**|Marissa Vlasblom et.al.|[2412.12715](http://arxiv.org/abs/2412.12715)|null|
+|**2024-12-17**|**Wolf-Rayet Colliding Wind Binaries**|Ryan M. T. White et.al.|[2412.12534](http://arxiv.org/abs/2412.12534)|null|
+|**2024-12-16**|**Polynomially efficient quantum enabled variational Monte Carlo for training neural-network quantum states for physico-chemical applications**|Manas Sajjan et.al.|[2412.12398](http://arxiv.org/abs/2412.12398)|null|
+|**2024-12-16**|**Capacitive-Tuned SIW Evanescent-Mode Cavity for Resonant Microwave Plasma Jet**|Kazi Sadman Kabir et.al.|[2412.12332](http://arxiv.org/abs/2412.12332)|null|
+|**2024-12-16**|**Convective shutdown in the atmospheres of lava worlds**|Harrison Nicholls et.al.|[2412.11987](http://arxiv.org/abs/2412.11987)|**[link](https://github.com/formingworlds/proteus)**|
 |**2024-12-16**|**A Route Toward the On-Surface Synthesis of Organic Ferromagnetic Quantum Spin Chains**|Fabian Paschke et.al.|[2412.11884](http://arxiv.org/abs/2412.11884)|null|
 |**2024-12-16**|**The dark side of the forces: assessing non-conservative force models for atomistic machine learning**|Filippo Bigi et.al.|[2412.11569](http://arxiv.org/abs/2412.11569)|null|
 |**2024-12-16**|**Electrostatic forces from reactive molecular orbitals driving chemical reactions**|Takao Tsuneda et.al.|[2412.11361](http://arxiv.org/abs/2412.11361)|null|
