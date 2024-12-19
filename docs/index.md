@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-17**|**Falcon: Faster and Parallel Inference of Large Language Models through Enhanced Semi-Autoregressive Drafting and Custom-Designed Decoding Tree**|Xiangxiang Gao et.al.|[2412.12639](http://arxiv.org/abs/2412.12639)|null|
-|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|
+|**2024-12-17**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|
 |**2024-12-15**|**Entropy-Regularized Process Reward Model**|Hanning Zhang et.al.|[2412.11006](http://arxiv.org/abs/2412.11006)|**[link](https://github.com/hanningzhang/er-prm)**|
 |**2024-12-12**|**GReaTer: Gradients over Reasoning Makes Smaller Language Models Strong Prompt Optimizers**|Sarkar Snigdha Sarathi Das et.al.|[2412.09722](http://arxiv.org/abs/2412.09722)|**[link](https://github.com/psunlpgroup/greater)**|
 |**2024-12-12**|**Lexico: Extreme KV Cache Compression via Sparse Coding over Universal Dictionaries**|Junhyuck Kim et.al.|[2412.08890](http://arxiv.org/abs/2412.08890)|null|
@@ -182,6 +182,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Recent developments and research needs in turbulence modeling of hypersonic flows**|Pratikkumar Raje et.al.|[2412.13985](http://arxiv.org/abs/2412.13985)|null|
+|**2024-12-18**|**Quantum-selected configuration interaction with time-evolved state**|Mathias Mikkelsen et.al.|[2412.13839](http://arxiv.org/abs/2412.13839)|null|
+|**2024-12-18**|**Open-Source Protein Language Models for Function Prediction and Protein Design**|Shivasankaran Vanaja Pandi et.al.|[2412.13519](http://arxiv.org/abs/2412.13519)|null|
+|**2024-12-17**|**Gaussian process model kernels for noisy optimization in variational quantum algorithms**|Luca Arceci et.al.|[2412.13271](http://arxiv.org/abs/2412.13271)|null|
 |**2024-12-17**|**Taming Multi-Domain, -Fidelity Data: Towards Foundation Models for Atomistic Scale Simulations**|Tomoya Shiota et.al.|[2412.13088](http://arxiv.org/abs/2412.13088)|null|
 |**2024-12-17**|**The Galactic Disk North-south Asymmetry in Metallicity May Be A New Tracer for the Disk Warp**|Weixiang Sun et.al.|[2412.12876](http://arxiv.org/abs/2412.12876)|null|
 |**2024-12-17**|**Structural Cellular Hash Chemistry**|Hiroki Sayama et.al.|[2412.12790](http://arxiv.org/abs/2412.12790)|null|
