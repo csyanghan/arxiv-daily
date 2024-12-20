@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**AceMath: Advancing Frontier Math Reasoning with Post-Training and Reward Modeling**|Zihan Liu et.al.|[2412.15084](http://arxiv.org/abs/2412.15084)|null|
 |**2024-12-17**|**Falcon: Faster and Parallel Inference of Large Language Models through Enhanced Semi-Autoregressive Drafting and Custom-Designed Decoding Tree**|Xiangxiang Gao et.al.|[2412.12639](http://arxiv.org/abs/2412.12639)|null|
 |**2024-12-17**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|
 |**2024-12-15**|**Entropy-Regularized Process Reward Model**|Hanning Zhang et.al.|[2412.11006](http://arxiv.org/abs/2412.11006)|**[link](https://github.com/hanningzhang/er-prm)**|
@@ -182,13 +183,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**Observation of liquid-solid transition of nanoconfined water at ambient temperature**|Wentian Zheng et.al.|[2412.15001](http://arxiv.org/abs/2412.15001)|null|
+|**2024-12-19**|**Quantum expectation value estimation by doubling the number of qubits**|Hiroshi Yano et.al.|[2412.14466](http://arxiv.org/abs/2412.14466)|null|
+|**2024-12-18**|**Gaussian-convolution-invariant shell approximation to spherically-symmetric functions**|Alexandre G. Urzhumtsev et.al.|[2412.14350](http://arxiv.org/abs/2412.14350)|null|
 |**2024-12-18**|**Recent developments and research needs in turbulence modeling of hypersonic flows**|Pratikkumar Raje et.al.|[2412.13985](http://arxiv.org/abs/2412.13985)|null|
 |**2024-12-18**|**Quantum-selected configuration interaction with time-evolved state**|Mathias Mikkelsen et.al.|[2412.13839](http://arxiv.org/abs/2412.13839)|null|
 |**2024-12-18**|**Open-Source Protein Language Models for Function Prediction and Protein Design**|Shivasankaran Vanaja Pandi et.al.|[2412.13519](http://arxiv.org/abs/2412.13519)|null|
 |**2024-12-17**|**Gaussian process model kernels for noisy optimization in variational quantum algorithms**|Luca Arceci et.al.|[2412.13271](http://arxiv.org/abs/2412.13271)|null|
 |**2024-12-17**|**Taming Multi-Domain, -Fidelity Data: Towards Foundation Models for Atomistic Scale Simulations**|Tomoya Shiota et.al.|[2412.13088](http://arxiv.org/abs/2412.13088)|null|
 |**2024-12-17**|**The Galactic Disk North-south Asymmetry in Metallicity May Be A New Tracer for the Disk Warp**|Weixiang Sun et.al.|[2412.12876](http://arxiv.org/abs/2412.12876)|null|
-|**2024-12-17**|**Structural Cellular Hash Chemistry**|Hiroki Sayama et.al.|[2412.12790](http://arxiv.org/abs/2412.12790)|null|
+|**2024-12-17**|**Structural Cellular Hash Chemistry**|Hiroki Sayama et.al.|[2412.12790](http://arxiv.org/abs/2412.12790)|**[link](https://github.com/hsayama/Structural-Cellular-Hash-Chemistry)**|
 |**2024-12-17**|**MINDS. JWST-MIRI reveals a peculiar CO $_2$ -rich chemistry in the drift-dominated disk CX Tau**|Marissa Vlasblom et.al.|[2412.12715](http://arxiv.org/abs/2412.12715)|null|
 |**2024-12-17**|**Wolf-Rayet Colliding Wind Binaries**|Ryan M. T. White et.al.|[2412.12534](http://arxiv.org/abs/2412.12534)|null|
 |**2024-12-16**|**Polynomially efficient quantum enabled variational Monte Carlo for training neural-network quantum states for physico-chemical applications**|Manas Sajjan et.al.|[2412.12398](http://arxiv.org/abs/2412.12398)|null|
