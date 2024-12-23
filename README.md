@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|null|
+|**2024-12-12**|**Dipper: Diversity in Prompts for Producing Large Language Model Ensembles in Reasoning tasks**|Gregory Kang Ruey Lau et.al.|[2412.15238](http://arxiv.org/abs/2412.15238)|null|
 |**2024-12-19**|**AceMath: Advancing Frontier Math Reasoning with Post-Training and Reward Modeling**|Zihan Liu et.al.|[2412.15084](http://arxiv.org/abs/2412.15084)|null|
 |**2024-12-17**|**Falcon: Faster and Parallel Inference of Large Language Models through Enhanced Semi-Autoregressive Drafting and Custom-Designed Decoding Tree**|Xiangxiang Gao et.al.|[2412.12639](http://arxiv.org/abs/2412.12639)|null|
 |**2024-12-17**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|
@@ -189,6 +191,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Efficient Hamiltonian Simulation: A Utility Scale Perspective for Covalent Inhibitor Reactivity Prediction**|Marek Kowalik et.al.|[2412.15804](http://arxiv.org/abs/2412.15804)|null|
+|**2024-12-19**|**Unveiling the Cosmic Chemistry II: "direct" $T_e$--based metallicity of galaxies at 3 $< z <$ 10 with JWST/NIRSpec**|Priyanka Chakraborty et.al.|[2412.15435](http://arxiv.org/abs/2412.15435)|null|
+|**2024-12-19**|**Selective tracking of charge carrier dynamics in CuInS2 quantum dots**|Andrés Burgos-Caminal et.al.|[2412.15418](http://arxiv.org/abs/2412.15418)|null|
 |**2024-12-19**|**Observation of liquid-solid transition of nanoconfined water at ambient temperature**|Wentian Zheng et.al.|[2412.15001](http://arxiv.org/abs/2412.15001)|null|
 |**2024-12-19**|**Quantum expectation value estimation by doubling the number of qubits**|Hiroshi Yano et.al.|[2412.14466](http://arxiv.org/abs/2412.14466)|null|
 |**2024-12-18**|**Gaussian-convolution-invariant shell approximation to spherically-symmetric functions**|Alexandre G. Urzhumtsev et.al.|[2412.14350](http://arxiv.org/abs/2412.14350)|null|
