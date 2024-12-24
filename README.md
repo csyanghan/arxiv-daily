@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**Towards Intrinsic Self-Correction Enhancement in Monte Carlo Tree Search Boosted Reasoning via Iterative Preference Learning**|Huchen Jiang et.al.|[2412.17397](http://arxiv.org/abs/2412.17397)|null|
+|**2024-12-22**|**System-2 Mathematical Reasoning via Enriched Instruction Tuning**|Huanqia Cai et.al.|[2412.16964](http://arxiv.org/abs/2412.16964)|null|
+|**2024-12-22**|**Ask-Before-Detection: Identifying and Mitigating Conformity Bias in LLM-Powered Error Detector for Math Word Problem Solutions**|Hang Li et.al.|[2412.16838](http://arxiv.org/abs/2412.16838)|null|
+|**2024-12-20**|**Inference Scaling vs Reasoning: An Empirical Analysis of Compute-Optimal LLM Problem-Solving**|Marwan AbdElhameed et.al.|[2412.16260](http://arxiv.org/abs/2412.16260)|null|
 |**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|null|
 |**2024-12-12**|**Dipper: Diversity in Prompts for Producing Large Language Model Ensembles in Reasoning tasks**|Gregory Kang Ruey Lau et.al.|[2412.15238](http://arxiv.org/abs/2412.15238)|null|
 |**2024-12-19**|**AceMath: Advancing Frontier Math Reasoning with Post-Training and Reward Modeling**|Zihan Liu et.al.|[2412.15084](http://arxiv.org/abs/2412.15084)|null|
@@ -191,6 +195,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**Quantum Simulation for Dynamical Transition Rates in Open Quantum Systems**|Robson Christie et.al.|[2412.17229](http://arxiv.org/abs/2412.17229)|null|
+|**2024-12-23**|**An accurate and efficient framework for predictive insights into ionic surface chemistry**|Benjamin X. Shi et.al.|[2412.17204](http://arxiv.org/abs/2412.17204)|null|
+|**2024-12-22**|**Topological Semimetal KAlGe with Novel Electronic Instability**|Toshiya Ikenobe et.al.|[2412.17194](http://arxiv.org/abs/2412.17194)|null|
+|**2024-12-21**|**An automated framework for exploring and learning potential-energy surfaces**|Yuanbin Liu et.al.|[2412.16736](http://arxiv.org/abs/2412.16736)|null|
+|**2024-12-21**|**ActPC-Chem: Discrete Active Predictive Coding for Goal-Guided Algorithmic Chemistry as a Potential Cognitive Kernel for Hyperon & PRIMUS-Based AGI**|Ben Goertzel et.al.|[2412.16547](http://arxiv.org/abs/2412.16547)|null|
+|**2024-12-21**|**Coevolution of Dwarf Galaxies and Their Circumgalactic Medium Across Cosmic Time**|Pei-Cheng Tung et.al.|[2412.16440](http://arxiv.org/abs/2412.16440)|null|
 |**2024-12-20**|**Efficient Hamiltonian Simulation: A Utility Scale Perspective for Covalent Inhibitor Reactivity Prediction**|Marek Kowalik et.al.|[2412.15804](http://arxiv.org/abs/2412.15804)|null|
 |**2024-12-19**|**Unveiling the Cosmic Chemistry II: "direct" $T_e$--based metallicity of galaxies at 3 $< z <$ 10 with JWST/NIRSpec**|Priyanka Chakraborty et.al.|[2412.15435](http://arxiv.org/abs/2412.15435)|null|
 |**2024-12-19**|**Selective tracking of charge carrier dynamics in CuInS2 quantum dots**|Andrés Burgos-Caminal et.al.|[2412.15418](http://arxiv.org/abs/2412.15418)|null|
