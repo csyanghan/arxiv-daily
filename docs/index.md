@@ -14,11 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Enhancing Knowledge Distillation for LLMs with Response-Priming Prompting**|Vijay Goyal et.al.|[2412.17846](http://arxiv.org/abs/2412.17846)|null|
 |**2024-12-23**|**Towards Intrinsic Self-Correction Enhancement in Monte Carlo Tree Search Boosted Reasoning via Iterative Preference Learning**|Huchen Jiang et.al.|[2412.17397](http://arxiv.org/abs/2412.17397)|null|
-|**2024-12-22**|**System-2 Mathematical Reasoning via Enriched Instruction Tuning**|Huanqia Cai et.al.|[2412.16964](http://arxiv.org/abs/2412.16964)|null|
+|**2024-12-24**|**System-2 Mathematical Reasoning via Enriched Instruction Tuning**|Huanqia Cai et.al.|[2412.16964](http://arxiv.org/abs/2412.16964)|null|
 |**2024-12-22**|**Ask-Before-Detection: Identifying and Mitigating Conformity Bias in LLM-Powered Error Detector for Math Word Problem Solutions**|Hang Li et.al.|[2412.16838](http://arxiv.org/abs/2412.16838)|null|
-|**2024-12-20**|**Inference Scaling vs Reasoning: An Empirical Analysis of Compute-Optimal LLM Problem-Solving**|Marwan AbdElhameed et.al.|[2412.16260](http://arxiv.org/abs/2412.16260)|null|
-|**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|null|
+|**2024-12-20**|**Inference Scaling vs Reasoning: An Empirical Analysis of Compute-Optimal LLM Problem-Solving**|Marwan AbdElhameed et.al.|[2412.16260](http://arxiv.org/abs/2412.16260)|**[link](https://github.com/marwanwalid2/reasoning-vs-inferncescaling)**|
+|**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|**[link](https://github.com/jwhj/oreo)**|
 |**2024-12-12**|**Dipper: Diversity in Prompts for Producing Large Language Model Ensembles in Reasoning tasks**|Gregory Kang Ruey Lau et.al.|[2412.15238](http://arxiv.org/abs/2412.15238)|null|
 |**2024-12-19**|**AceMath: Advancing Frontier Math Reasoning with Post-Training and Reward Modeling**|Zihan Liu et.al.|[2412.15084](http://arxiv.org/abs/2412.15084)|null|
 |**2024-12-17**|**Falcon: Faster and Parallel Inference of Large Language Models through Enhanced Semi-Autoregressive Drafting and Custom-Designed Decoding Tree**|Xiangxiang Gao et.al.|[2412.12639](http://arxiv.org/abs/2412.12639)|null|
@@ -189,8 +190,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**Advancing Surface Chemistry with Large-Scale Ab-Initio Quantum Many-Body Simulations**|Zigeng Huang et.al.|[2412.18553](http://arxiv.org/abs/2412.18553)|null|
+|**2024-12-24**|**Relativistic Dynamics and Electron Transport in Isolated Chiral Molecules**|Sushant Kumar Behera et.al.|[2412.18413](http://arxiv.org/abs/2412.18413)|null|
+|**2024-12-24**|**Learning Generalized Residual Exchange-Correlation-Uncertain Functional for Density Functional Theory**|Sizhuo Jin et.al.|[2412.18350](http://arxiv.org/abs/2412.18350)|null|
+|**2024-12-24**|**Free the Design Space of Equivariant Graph Neural Networks: High-Rank Irreducible Cartesian Tensor Decomposition and Bases of Equivariant Spaces**|Shihao Shao et.al.|[2412.18263](http://arxiv.org/abs/2412.18263)|null|
+|**2024-12-23**|**Approximating Ground States of Quantum Hamiltonians with Snapshot-QAOA**|Reuben Tate et.al.|[2412.17990](http://arxiv.org/abs/2412.17990)|null|
+|**2024-12-23**|**Topological junction states in graphene nanoribbons: A route to topological chemistry**|Hazem Abdelsalam et.al.|[2412.17949](http://arxiv.org/abs/2412.17949)|null|
 |**2024-12-23**|**Quantum Simulation for Dynamical Transition Rates in Open Quantum Systems**|Robson Christie et.al.|[2412.17229](http://arxiv.org/abs/2412.17229)|null|
-|**2024-12-23**|**An accurate and efficient framework for predictive insights into ionic surface chemistry**|Benjamin X. Shi et.al.|[2412.17204](http://arxiv.org/abs/2412.17204)|null|
+|**2024-12-23**|**An accurate and efficient framework for predictive insights into ionic surface chemistry**|Benjamin X. Shi et.al.|[2412.17204](http://arxiv.org/abs/2412.17204)|**[link](https://github.com/benshi97/data_autoskzcam)**|
 |**2024-12-22**|**Topological Semimetal KAlGe with Novel Electronic Instability**|Toshiya Ikenobe et.al.|[2412.17194](http://arxiv.org/abs/2412.17194)|null|
 |**2024-12-21**|**An automated framework for exploring and learning potential-energy surfaces**|Yuanbin Liu et.al.|[2412.16736](http://arxiv.org/abs/2412.16736)|null|
 |**2024-12-21**|**ActPC-Chem: Discrete Active Predictive Coding for Goal-Guided Algorithmic Chemistry as a Potential Cognitive Kernel for Hyperon & PRIMUS-Based AGI**|Ben Goertzel et.al.|[2412.16547](http://arxiv.org/abs/2412.16547)|null|
