@@ -18,7 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-18**|**Enhancing Knowledge Distillation for LLMs with Response-Priming Prompting**|Vijay Goyal et.al.|[2412.17846](http://arxiv.org/abs/2412.17846)|null|
+|**2024-12-18**|**Enhancing Knowledge Distillation for LLMs with Response-Priming Prompting**|Vijay Goyal et.al.|[2412.17846](http://arxiv.org/abs/2412.17846)|**[link](https://github.com/alonso130r/knowledge-distillation)**|
 |**2024-12-23**|**Towards Intrinsic Self-Correction Enhancement in Monte Carlo Tree Search Boosted Reasoning via Iterative Preference Learning**|Huchen Jiang et.al.|[2412.17397](http://arxiv.org/abs/2412.17397)|null|
 |**2024-12-24**|**System-2 Mathematical Reasoning via Enriched Instruction Tuning**|Huanqia Cai et.al.|[2412.16964](http://arxiv.org/abs/2412.16964)|null|
 |**2024-12-22**|**Ask-Before-Detection: Identifying and Mitigating Conformity Bias in LLM-Powered Error Detector for Math Word Problem Solutions**|Hang Li et.al.|[2412.16838](http://arxiv.org/abs/2412.16838)|null|
@@ -205,7 +205,7 @@
 |**2024-12-23**|**Quantum Simulation for Dynamical Transition Rates in Open Quantum Systems**|Robson Christie et.al.|[2412.17229](http://arxiv.org/abs/2412.17229)|null|
 |**2024-12-23**|**An accurate and efficient framework for predictive insights into ionic surface chemistry**|Benjamin X. Shi et.al.|[2412.17204](http://arxiv.org/abs/2412.17204)|**[link](https://github.com/benshi97/data_autoskzcam)**|
 |**2024-12-22**|**Topological Semimetal KAlGe with Novel Electronic Instability**|Toshiya Ikenobe et.al.|[2412.17194](http://arxiv.org/abs/2412.17194)|null|
-|**2024-12-21**|**An automated framework for exploring and learning potential-energy surfaces**|Yuanbin Liu et.al.|[2412.16736](http://arxiv.org/abs/2412.16736)|null|
+|**2024-12-21**|**An automated framework for exploring and learning potential-energy surfaces**|Yuanbin Liu et.al.|[2412.16736](http://arxiv.org/abs/2412.16736)|**[link](https://github.com/autoatml/autoplex)**|
 |**2024-12-21**|**ActPC-Chem: Discrete Active Predictive Coding for Goal-Guided Algorithmic Chemistry as a Potential Cognitive Kernel for Hyperon & PRIMUS-Based AGI**|Ben Goertzel et.al.|[2412.16547](http://arxiv.org/abs/2412.16547)|null|
 |**2024-12-21**|**Coevolution of Dwarf Galaxies and Their Circumgalactic Medium Across Cosmic Time**|Pei-Cheng Tung et.al.|[2412.16440](http://arxiv.org/abs/2412.16440)|null|
 |**2024-12-20**|**Efficient Hamiltonian Simulation: A Utility Scale Perspective for Covalent Inhibitor Reactivity Prediction**|Marek Kowalik et.al.|[2412.15804](http://arxiv.org/abs/2412.15804)|null|
