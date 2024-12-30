@@ -18,15 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-26**|**Dynamic Skill Adaptation for Large Language Models**|Jiaao Chen et.al.|[2412.19361](http://arxiv.org/abs/2412.19361)|null|
 |**2024-12-18**|**Enhancing Knowledge Distillation for LLMs with Response-Priming Prompting**|Vijay Goyal et.al.|[2412.17846](http://arxiv.org/abs/2412.17846)|**[link](https://github.com/alonso130r/knowledge-distillation)**|
 |**2024-12-23**|**Towards Intrinsic Self-Correction Enhancement in Monte Carlo Tree Search Boosted Reasoning via Iterative Preference Learning**|Huchen Jiang et.al.|[2412.17397](http://arxiv.org/abs/2412.17397)|null|
 |**2024-12-24**|**System-2 Mathematical Reasoning via Enriched Instruction Tuning**|Huanqia Cai et.al.|[2412.16964](http://arxiv.org/abs/2412.16964)|null|
 |**2024-12-22**|**Ask-Before-Detection: Identifying and Mitigating Conformity Bias in LLM-Powered Error Detector for Math Word Problem Solutions**|Hang Li et.al.|[2412.16838](http://arxiv.org/abs/2412.16838)|null|
 |**2024-12-20**|**Inference Scaling vs Reasoning: An Empirical Analysis of Compute-Optimal LLM Problem-Solving**|Marwan AbdElhameed et.al.|[2412.16260](http://arxiv.org/abs/2412.16260)|**[link](https://github.com/marwanwalid2/reasoning-vs-inferncescaling)**|
-|**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|**[link](https://github.com/jwhj/oreo)**|
+|**2024-12-25**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|**[link](https://github.com/jwhj/oreo)**|
 |**2024-12-12**|**Dipper: Diversity in Prompts for Producing Large Language Model Ensembles in Reasoning tasks**|Gregory Kang Ruey Lau et.al.|[2412.15238](http://arxiv.org/abs/2412.15238)|null|
 |**2024-12-19**|**AceMath: Advancing Frontier Math Reasoning with Post-Training and Reward Modeling**|Zihan Liu et.al.|[2412.15084](http://arxiv.org/abs/2412.15084)|null|
-|**2024-12-17**|**Falcon: Faster and Parallel Inference of Large Language Models through Enhanced Semi-Autoregressive Drafting and Custom-Designed Decoding Tree**|Xiangxiang Gao et.al.|[2412.12639](http://arxiv.org/abs/2412.12639)|null|
+|**2024-12-26**|**Falcon: Faster and Parallel Inference of Large Language Models through Enhanced Semi-Autoregressive Drafting and Custom-Designed Decoding Tree**|Xiangxiang Gao et.al.|[2412.12639](http://arxiv.org/abs/2412.12639)|null|
 |**2024-12-17**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|
 |**2024-12-15**|**Entropy-Regularized Process Reward Model**|Hanning Zhang et.al.|[2412.11006](http://arxiv.org/abs/2412.11006)|**[link](https://github.com/hanningzhang/er-prm)**|
 |**2024-12-12**|**GReaTer: Gradients over Reasoning Makes Smaller Language Models Strong Prompt Optimizers**|Sarkar Snigdha Sarathi Das et.al.|[2412.09722](http://arxiv.org/abs/2412.09722)|**[link](https://github.com/psunlpgroup/greater)**|
@@ -196,6 +197,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**Transmon qutrit-based simulation of spin-1 AKLT systems**|Keerthi Kumaran et.al.|[2412.19786](http://arxiv.org/abs/2412.19786)|null|
+|**2024-12-25**|**Derandomized shallow shadows: Efficient Pauli learning with bounded-depth circuits**|Katherine Van Kirk et.al.|[2412.18973](http://arxiv.org/abs/2412.18973)|null|
 |**2024-12-24**|**Advancing Surface Chemistry with Large-Scale Ab-Initio Quantum Many-Body Simulations**|Zigeng Huang et.al.|[2412.18553](http://arxiv.org/abs/2412.18553)|null|
 |**2024-12-24**|**Relativistic Dynamics and Electron Transport in Isolated Chiral Molecules**|Sushant Kumar Behera et.al.|[2412.18413](http://arxiv.org/abs/2412.18413)|null|
 |**2024-12-24**|**Learning Generalized Residual Exchange-Correlation-Uncertain Functional for Density Functional Theory**|Sizhuo Jin et.al.|[2412.18350](http://arxiv.org/abs/2412.18350)|null|
