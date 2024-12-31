@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-30**|**Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs**|Xingyu Chen et.al.|[2412.21187](http://arxiv.org/abs/2412.21187)|null|
+|**2024-12-29**|**Natural Language Fine-Tuning**|Jia Liu et.al.|[2412.20382](http://arxiv.org/abs/2412.20382)|**[link](https://github.com/julia-liuj/nlft)**|
+|**2024-12-29**|**LLM2: Let Large Language Models Harness System 2 Reasoning**|Cheng Yang et.al.|[2412.20372](http://arxiv.org/abs/2412.20372)|null|
 |**2024-12-26**|**Dynamic Skill Adaptation for Large Language Models**|Jiaao Chen et.al.|[2412.19361](http://arxiv.org/abs/2412.19361)|null|
 |**2024-12-18**|**Enhancing Knowledge Distillation for LLMs with Response-Priming Prompting**|Vijay Goyal et.al.|[2412.17846](http://arxiv.org/abs/2412.17846)|**[link](https://github.com/alonso130r/knowledge-distillation)**|
 |**2024-12-23**|**Towards Intrinsic Self-Correction Enhancement in Monte Carlo Tree Search Boosted Reasoning via Iterative Preference Learning**|Huchen Jiang et.al.|[2412.17397](http://arxiv.org/abs/2412.17397)|null|
@@ -191,6 +194,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-30**|**Submillimeter-wave spectroscopy of the CH $_3$ O radical**|Jean-Thibaut Spaniol et.al.|[2412.20990](http://arxiv.org/abs/2412.20990)|null|
+|**2024-12-30**|**Navigating Chemical-Linguistic Sharing Space with Heterogeneous Molecular Encoding**|Liuzhenghao Lv et.al.|[2412.20888](http://arxiv.org/abs/2412.20888)|null|
+|**2024-12-30**|**Rotational excitation cross sections for chloronium based on a new 5D interaction potential with molecular hydrogen**|Sándor Demes et.al.|[2412.20808](http://arxiv.org/abs/2412.20808)|null|
+|**2024-12-28**|**From Generalist to Specialist: A Survey of Large Language Models for Chemistry**|Yang Han et.al.|[2412.19994](http://arxiv.org/abs/2412.19994)|null|
+|**2024-12-27**|**Pattern Finding in mm-Wave Spectra of Massive Young Stellar Objects**|Yenifer Angarita et.al.|[2412.19934](http://arxiv.org/abs/2412.19934)|null|
 |**2024-12-27**|**Transmon qutrit-based simulation of spin-1 AKLT systems**|Keerthi Kumaran et.al.|[2412.19786](http://arxiv.org/abs/2412.19786)|null|
 |**2024-12-25**|**Derandomized shallow shadows: Efficient Pauli learning with bounded-depth circuits**|Katherine Van Kirk et.al.|[2412.18973](http://arxiv.org/abs/2412.18973)|null|
 |**2024-12-24**|**Advancing Surface Chemistry with Large-Scale Ab-Initio Quantum Many-Body Simulations**|Zigeng Huang et.al.|[2412.18553](http://arxiv.org/abs/2412.18553)|null|
