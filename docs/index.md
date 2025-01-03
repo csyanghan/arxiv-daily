@@ -201,7 +201,7 @@ layout: default
 |**2024-12-27**|**Pattern Finding in mm-Wave Spectra of Massive Young Stellar Objects**|Yenifer Angarita et.al.|[2412.19934](http://arxiv.org/abs/2412.19934)|null|
 |**2024-12-27**|**Transmon qutrit-based simulation of spin-1 AKLT systems**|Keerthi Kumaran et.al.|[2412.19786](http://arxiv.org/abs/2412.19786)|null|
 |**2024-12-25**|**Derandomized shallow shadows: Efficient Pauli learning with bounded-depth circuits**|Katherine Van Kirk et.al.|[2412.18973](http://arxiv.org/abs/2412.18973)|null|
-|**2024-12-24**|**Advancing Surface Chemistry with Large-Scale Ab-Initio Quantum Many-Body Simulations**|Zigeng Huang et.al.|[2412.18553](http://arxiv.org/abs/2412.18553)|null|
+|**2025-01-02**|**Advancing Surface Chemistry with Large-Scale Ab-Initio Quantum Many-Body Simulations**|Zigeng Huang et.al.|[2412.18553](http://arxiv.org/abs/2412.18553)|null|
 |**2024-12-24**|**Relativistic Dynamics and Electron Transport in Isolated Chiral Molecules**|Sushant Kumar Behera et.al.|[2412.18413](http://arxiv.org/abs/2412.18413)|null|
 |**2024-12-24**|**Learning Generalized Residual Exchange-Correlation-Uncertain Functional for Density Functional Theory**|Sizhuo Jin et.al.|[2412.18350](http://arxiv.org/abs/2412.18350)|null|
 |**2024-12-24**|**Free the Design Space of Equivariant Graph Neural Networks: High-Rank Irreducible Cartesian Tensor Decomposition and Bases of Equivariant Spaces**|Shihao Shao et.al.|[2412.18263](http://arxiv.org/abs/2412.18263)|null|
