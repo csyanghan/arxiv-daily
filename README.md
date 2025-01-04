@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.03
+## Updated on 2025.01.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -194,14 +194,14 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20250103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250104>back to top</a>)</p>
 
 ## AI for Science
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-12-30**|**Submillimeter-wave spectroscopy of the CH $_3$ O radical**|Jean-Thibaut Spaniol et.al.|[2412.20990](http://arxiv.org/abs/2412.20990)|null|
-|**2024-12-30**|**Navigating Chemical-Linguistic Sharing Space with Heterogeneous Molecular Encoding**|Liuzhenghao Lv et.al.|[2412.20888](http://arxiv.org/abs/2412.20888)|null|
+|**2024-12-30**|**Navigating Chemical-Linguistic Sharing Space with Heterogeneous Molecular Encoding**|Liuzhenghao Lv et.al.|[2412.20888](http://arxiv.org/abs/2412.20888)|**[link](https://github.com/Lyu6PosHao/HME)**|
 |**2024-12-30**|**Rotational excitation cross sections for chloronium based on a new 5D interaction potential with molecular hydrogen**|Sándor Demes et.al.|[2412.20808](http://arxiv.org/abs/2412.20808)|null|
 |**2024-12-28**|**From Generalist to Specialist: A Survey of Large Language Models for Chemistry**|Yang Han et.al.|[2412.19994](http://arxiv.org/abs/2412.19994)|**[link](https://github.com/opendfm/llm4chemistry)**|
 |**2024-12-27**|**Pattern Finding in mm-Wave Spectra of Massive Young Stellar Objects**|Yenifer Angarita et.al.|[2412.19934](http://arxiv.org/abs/2412.19934)|null|
@@ -997,7 +997,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20250103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250104>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

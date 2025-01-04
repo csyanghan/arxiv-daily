@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.03
+## Updated on 2025.01.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -195,7 +195,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-30**|**Submillimeter-wave spectroscopy of the CH $_3$ O radical**|Jean-Thibaut Spaniol et.al.|[2412.20990](http://arxiv.org/abs/2412.20990)|null|
-|**2024-12-30**|**Navigating Chemical-Linguistic Sharing Space with Heterogeneous Molecular Encoding**|Liuzhenghao Lv et.al.|[2412.20888](http://arxiv.org/abs/2412.20888)|null|
+|**2024-12-30**|**Navigating Chemical-Linguistic Sharing Space with Heterogeneous Molecular Encoding**|Liuzhenghao Lv et.al.|[2412.20888](http://arxiv.org/abs/2412.20888)|**[link](https://github.com/Lyu6PosHao/HME)**|
 |**2024-12-30**|**Rotational excitation cross sections for chloronium based on a new 5D interaction potential with molecular hydrogen**|Sándor Demes et.al.|[2412.20808](http://arxiv.org/abs/2412.20808)|null|
 |**2024-12-28**|**From Generalist to Specialist: A Survey of Large Language Models for Chemistry**|Yang Han et.al.|[2412.19994](http://arxiv.org/abs/2412.19994)|**[link](https://github.com/opendfm/llm4chemistry)**|
 |**2024-12-27**|**Pattern Finding in mm-Wave Spectra of Massive Young Stellar Objects**|Yenifer Angarita et.al.|[2412.19934](http://arxiv.org/abs/2412.19934)|null|
