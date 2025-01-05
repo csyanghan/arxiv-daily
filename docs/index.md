@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-01**|**DIVE: Diversified Iterative Self-Improvement**|Yiwei Qin et.al.|[2501.00747](http://arxiv.org/abs/2501.00747)|null|
 |**2024-12-30**|**Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs**|Xingyu Chen et.al.|[2412.21187](http://arxiv.org/abs/2412.21187)|null|
 |**2024-12-29**|**Natural Language Fine-Tuning**|Jia Liu et.al.|[2412.20382](http://arxiv.org/abs/2412.20382)|**[link](https://github.com/julia-liuj/nlft)**|
 |**2024-12-29**|**LLM2: Let Large Language Models Harness System 2 Reasoning**|Cheng Yang et.al.|[2412.20372](http://arxiv.org/abs/2412.20372)|**[link](https://github.com/yc1999/LLM2)**|
@@ -194,6 +195,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**Integrative Learning of Intensity Fluctuations of Quantum Dots under Excitation via a Tailored Mixture Hidden Markov Model**|Xin Yang et.al.|[2501.01292](http://arxiv.org/abs/2501.01292)|null|
+|**2025-01-02**|**Bridging the Early Science Gap with Artificial Intelligence: Evaluating Large Language Models as Tools for Early Childhood Science Education**|Annika Bush et.al.|[2501.01192](http://arxiv.org/abs/2501.01192)|null|
+|**2024-12-31**|**Detection of H2O and CO2 in the Atmosphere of the Hot Super-Neptune WASP-166b with JWST**|Andrew W. Mayo et.al.|[2501.00609](http://arxiv.org/abs/2501.00609)|null|
+|**2024-12-31**|**Efficient training of machine learning potentials for metallic glasses: CuZrAl validation**|Antoni Wadowski et.al.|[2501.00589](http://arxiv.org/abs/2501.00589)|null|
+|**2024-12-31**|**Angular differential and elemental fragmentation cross sections of a $400\,\text{MeV/nucleon}$ $^{16}\text{O}$ beam on a graphite target with the FOOT experiment**|FOOT Collaboration et.al.|[2501.00553](http://arxiv.org/abs/2501.00553)|null|
+|**2024-12-31**|**Unraveling the switching dynamics in a quantum double-well potential**|Qile Su et.al.|[2501.00209](http://arxiv.org/abs/2501.00209)|null|
+|**2024-12-30**|**Deep learning optimal molecular scintillators for dark matter direct detection**|Cameron Cook et.al.|[2501.00091](http://arxiv.org/abs/2501.00091)|null|
 |**2024-12-30**|**Submillimeter-wave spectroscopy of the CH $_3$ O radical**|Jean-Thibaut Spaniol et.al.|[2412.20990](http://arxiv.org/abs/2412.20990)|null|
 |**2024-12-30**|**Navigating Chemical-Linguistic Sharing Space with Heterogeneous Molecular Encoding**|Liuzhenghao Lv et.al.|[2412.20888](http://arxiv.org/abs/2412.20888)|**[link](https://github.com/Lyu6PosHao/HME)**|
 |**2024-12-30**|**Rotational excitation cross sections for chloronium based on a new 5D interaction potential with molecular hydrogen**|Sándor Demes et.al.|[2412.20808](http://arxiv.org/abs/2412.20808)|null|
