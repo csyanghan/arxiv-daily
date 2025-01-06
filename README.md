@@ -201,6 +201,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**ASKCOS: an open source software suite for synthesis planning**|Zhengkai Tu et.al.|[2501.01835](http://arxiv.org/abs/2501.01835)|null|
+|**2025-01-03**|**Chemistry in the Galactic Center**|Izaskun Jimenez-Serra et.al.|[2501.01782](http://arxiv.org/abs/2501.01782)|null|
+|**2025-01-03**|**An asynchronous discontinuous Galerkin method for combustion simulations**|Aswin Kumar Arumugam et.al.|[2501.01747](http://arxiv.org/abs/2501.01747)|null|
+|**2025-01-03**|**Noise-Mitigated Variational Quantum Eigensolver with Pre-training and Zero-Noise Extrapolation**|Wanqi Sun et.al.|[2501.01646](http://arxiv.org/abs/2501.01646)|null|
+|**2025-01-02**|**Constructing and explaining machine learning models for chemistry: example of the exploration and design of boron-based Lewis acids**|Juliette Fenogli et.al.|[2501.01576](http://arxiv.org/abs/2501.01576)|null|
+|**2025-01-02**|**Review Article: Integral Role of Physics in Advancing Pharmacy Education and Research**|İzzet Sakallı et.al.|[2501.01527](http://arxiv.org/abs/2501.01527)|null|
 |**2025-01-02**|**Integrative Learning of Intensity Fluctuations of Quantum Dots under Excitation via a Tailored Mixture Hidden Markov Model**|Xin Yang et.al.|[2501.01292](http://arxiv.org/abs/2501.01292)|null|
 |**2025-01-02**|**Bridging the Early Science Gap with Artificial Intelligence: Evaluating Large Language Models as Tools for Early Childhood Science Education**|Annika Bush et.al.|[2501.01192](http://arxiv.org/abs/2501.01192)|null|
 |**2024-12-31**|**Detection of H2O and CO2 in the Atmosphere of the Hot Super-Neptune WASP-166b with JWST**|Andrew W. Mayo et.al.|[2501.00609](http://arxiv.org/abs/2501.00609)|null|
