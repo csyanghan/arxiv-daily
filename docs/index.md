@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**InfiFusion: A Unified Framework for Enhanced Cross-Model Reasoning via LLM Fusion**|Zhaoyi Yan et.al.|[2501.02795](http://arxiv.org/abs/2501.02795)|null|
+|**2025-01-03**|**Recursive Decomposition of Logical Thoughts: Framework for Superior Reasoning and Knowledge Propagation in Large Language Models**|Kaleem Ullah Qasim et.al.|[2501.02026](http://arxiv.org/abs/2501.02026)|null|
 |**2025-01-01**|**DIVE: Diversified Iterative Self-Improvement**|Yiwei Qin et.al.|[2501.00747](http://arxiv.org/abs/2501.00747)|**[link](https://github.com/qinyiwei/dive)**|
 |**2024-12-30**|**Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs**|Xingyu Chen et.al.|[2412.21187](http://arxiv.org/abs/2412.21187)|null|
 |**2024-12-29**|**Natural Language Fine-Tuning**|Jia Liu et.al.|[2412.20382](http://arxiv.org/abs/2412.20382)|**[link](https://github.com/julia-liuj/nlft)**|
@@ -195,6 +197,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**Electrostatic instability of non-spherical dust in sub-stellar clouds**|Craig R. Stark et.al.|[2501.03063](http://arxiv.org/abs/2501.03063)|null|
+|**2025-01-06**|**Production of linear alkanes via the solid-state hydrogenation of interstellar polyynes**|G. Fedoseev et.al.|[2501.03031](http://arxiv.org/abs/2501.03031)|null|
+|**2025-01-06**|**$2$ -Restricted Optimal Pebbling Number of Some Graphs**|Juma Gul Dehqan et.al.|[2501.03004](http://arxiv.org/abs/2501.03004)|null|
+|**2025-01-06**|**Combining laser cooling and Zeeman deceleration for precision spectroscopy in supersonic beams**|Gloria Clausen et.al.|[2501.02999](http://arxiv.org/abs/2501.02999)|null|
+|**2025-01-06**|**High-temperature measurements of acetylene VUV absorption cross sections and application to warm exoplanet atmospheres**|Benjamin Fleury et.al.|[2501.02864](http://arxiv.org/abs/2501.02864)|null|
+|**2025-01-05**|**Diagrammatic Monte Carlo for finite systems at zero temperature**|Stefano Brolli et.al.|[2501.02646](http://arxiv.org/abs/2501.02646)|null|
+|**2025-01-04**|**Observations and Theoretical Calculations of 11-Year Cyclic Variations in Lower-Stratospheric Ozone Depletion and Cooling**|Qing-Bin Lu et.al.|[2501.02384](http://arxiv.org/abs/2501.02384)|null|
+|**2025-01-04**|**The Solar Ultraviolet Imaging Telescope on board Aditya-L1**|Durgesh Tripathi et.al.|[2501.02274](http://arxiv.org/abs/2501.02274)|null|
+|**2025-01-04**|**A Toffoli Gate Decomposition via Echoed Cross-Resonance Gates**|M. AbuGhanem et.al.|[2501.02222](http://arxiv.org/abs/2501.02222)|null|
+|**2025-01-03**|**Statistical trends in JWST transiting exoplanet atmospheres**|Guangwei Fu et.al.|[2501.02081](http://arxiv.org/abs/2501.02081)|null|
 |**2025-01-03**|**ASKCOS: an open source software suite for synthesis planning**|Zhengkai Tu et.al.|[2501.01835](http://arxiv.org/abs/2501.01835)|null|
 |**2025-01-03**|**Chemistry in the Galactic Center**|Izaskun Jimenez-Serra et.al.|[2501.01782](http://arxiv.org/abs/2501.01782)|null|
 |**2025-01-03**|**An asynchronous discontinuous Galerkin method for combustion simulations**|Aswin Kumar Arumugam et.al.|[2501.01747](http://arxiv.org/abs/2501.01747)|null|
