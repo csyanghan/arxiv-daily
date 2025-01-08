@@ -197,6 +197,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**Single-molecule Scale Magnetic Resonance Spectroscopy using Nitrogen-Vacancy Centers in Diamond**|Jiangfeng Du et.al.|[2501.03620](http://arxiv.org/abs/2501.03620)|null|
+|**2025-01-07**|**Text to Band Gap: Pre-trained Language Models as Encoders for Semiconductor Band Gap Prediction**|Ying-Ting Yeh et.al.|[2501.03456](http://arxiv.org/abs/2501.03456)|null|
 |**2025-01-06**|**Electrostatic instability of non-spherical dust in sub-stellar clouds**|Craig R. Stark et.al.|[2501.03063](http://arxiv.org/abs/2501.03063)|null|
 |**2025-01-06**|**Production of linear alkanes via the solid-state hydrogenation of interstellar polyynes**|G. Fedoseev et.al.|[2501.03031](http://arxiv.org/abs/2501.03031)|null|
 |**2025-01-06**|**$2$ -Restricted Optimal Pebbling Number of Some Graphs**|Juma Gul Dehqan et.al.|[2501.03004](http://arxiv.org/abs/2501.03004)|null|
