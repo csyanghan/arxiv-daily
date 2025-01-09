@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking**|Xinyu Guan et.al.|[2501.04519](http://arxiv.org/abs/2501.04519)|null|
 |**2025-01-06**|**InfiFusion: A Unified Framework for Enhanced Cross-Model Reasoning via LLM Fusion**|Zhaoyi Yan et.al.|[2501.02795](http://arxiv.org/abs/2501.02795)|null|
 |**2025-01-03**|**Recursive Decomposition of Logical Thoughts: Framework for Superior Reasoning and Knowledge Propagation in Large Language Models**|Kaleem Ullah Qasim et.al.|[2501.02026](http://arxiv.org/abs/2501.02026)|null|
 |**2025-01-01**|**DIVE: Diversified Iterative Self-Improvement**|Yiwei Qin et.al.|[2501.00747](http://arxiv.org/abs/2501.00747)|**[link](https://github.com/qinyiwei/dive)**|
@@ -197,6 +198,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**Roadmap on Atomic-scale Semiconductor Devices**|Steven R. Schofield et.al.|[2501.04535](http://arxiv.org/abs/2501.04535)|null|
+|**2025-01-08**|**The Cygnus Allscale Survey of Chemistry and Dynamical Environments: CASCADE. IV. Unveiling the hidden structures in DR18**|W. -J. Kim et.al.|[2501.04518](http://arxiv.org/abs/2501.04518)|null|
+|**2025-01-08**|**JWST photometry and astrometry of 47 Tucanae. Discontinuity in the stellar sequence at the star/brown dwarf transition**|M. Scalco et.al.|[2501.04446](http://arxiv.org/abs/2501.04446)|null|
+|**2025-01-08**|**Machine Learning and statistical classification of CRISPR-Cas12a diagnostic assays**|Nathan Khosla et.al.|[2501.04413](http://arxiv.org/abs/2501.04413)|null|
+|**2025-01-08**|**Cross Section Measurements of Large Angle Fragments Production in the Interaction of Carbon Ion Beams with Thin Targets**|The FOOT Collaboration et.al.|[2501.04392](http://arxiv.org/abs/2501.04392)|null|
+|**2025-01-08**|**Quantum Machine Learning of Molecular Energies with Hybrid Quantum-Neural Wavefunction**|Weitang Li et.al.|[2501.04264](http://arxiv.org/abs/2501.04264)|null|
 |**2025-01-07**|**Single-molecule Scale Magnetic Resonance Spectroscopy using Nitrogen-Vacancy Centers in Diamond**|Jiangfeng Du et.al.|[2501.03620](http://arxiv.org/abs/2501.03620)|null|
 |**2025-01-07**|**Text to Band Gap: Pre-trained Language Models as Encoders for Semiconductor Band Gap Prediction**|Ying-Ting Yeh et.al.|[2501.03456](http://arxiv.org/abs/2501.03456)|null|
 |**2025-01-06**|**Electrostatic instability of non-spherical dust in sub-stellar clouds**|Craig R. Stark et.al.|[2501.03063](http://arxiv.org/abs/2501.03063)|null|
