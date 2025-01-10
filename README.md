@@ -19,7 +19,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-08**|**rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking**|Xinyu Guan et.al.|[2501.04519](http://arxiv.org/abs/2501.04519)|null|
-|**2025-01-06**|**InfiFusion: A Unified Framework for Enhanced Cross-Model Reasoning via LLM Fusion**|Zhaoyi Yan et.al.|[2501.02795](http://arxiv.org/abs/2501.02795)|null|
+|**2025-01-09**|**InfiFusion: A Unified Framework for Enhanced Cross-Model Reasoning via LLM Fusion**|Zhaoyi Yan et.al.|[2501.02795](http://arxiv.org/abs/2501.02795)|null|
 |**2025-01-03**|**Recursive Decomposition of Logical Thoughts: Framework for Superior Reasoning and Knowledge Propagation in Large Language Models**|Kaleem Ullah Qasim et.al.|[2501.02026](http://arxiv.org/abs/2501.02026)|null|
 |**2025-01-01**|**DIVE: Diversified Iterative Self-Improvement**|Yiwei Qin et.al.|[2501.00747](http://arxiv.org/abs/2501.00747)|**[link](https://github.com/qinyiwei/dive)**|
 |**2024-12-30**|**Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs**|Xingyu Chen et.al.|[2412.21187](http://arxiv.org/abs/2412.21187)|null|
@@ -204,6 +204,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal ReAsoning Benchmark**|Yunzhuo Hao et.al.|[2501.05444](http://arxiv.org/abs/2501.05444)|null|
+|**2025-01-09**|**Providing Machine Learning Potentials with High Quality Uncertainty Estimates**|Zeynep Sumer et.al.|[2501.05250](http://arxiv.org/abs/2501.05250)|null|
+|**2025-01-09**|**Impact of photoevaporative winds in chemical models of externally irradiated protoplanetary disks**|Luke Keyte et.al.|[2501.05172](http://arxiv.org/abs/2501.05172)|null|
+|**2025-01-09**|**Detection of thioacetaldehyde (CH3CHS) in TMC-1: sulfur-oxygen differentiation along the hydrogenation sequence**|M. Agundez et.al.|[2501.05125](http://arxiv.org/abs/2501.05125)|null|
+|**2025-01-08**|**ActPC-Geom: Towards Scalable Online Neural-Symbolic Learning via Accelerating Active Predictive Coding with Information Geometry & Diverse Cognitive Mechanisms**|Ben Goertzel et.al.|[2501.04832](http://arxiv.org/abs/2501.04832)|null|
 |**2025-01-08**|**Roadmap on Atomic-scale Semiconductor Devices**|Steven R. Schofield et.al.|[2501.04535](http://arxiv.org/abs/2501.04535)|null|
 |**2025-01-08**|**The Cygnus Allscale Survey of Chemistry and Dynamical Environments: CASCADE. IV. Unveiling the hidden structures in DR18**|W. -J. Kim et.al.|[2501.04518](http://arxiv.org/abs/2501.04518)|null|
 |**2025-01-08**|**JWST photometry and astrometry of 47 Tucanae. Discontinuity in the stellar sequence at the star/brown dwarf transition**|M. Scalco et.al.|[2501.04446](http://arxiv.org/abs/2501.04446)|null|
