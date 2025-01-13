@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**Semantic Exploration with Adaptive Gating for Efficient Problem Solving with Language Models**|Sungjae Lee et.al.|[2501.05752](http://arxiv.org/abs/2501.05752)|null|
 |**2025-01-08**|**rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking**|Xinyu Guan et.al.|[2501.04519](http://arxiv.org/abs/2501.04519)|null|
 |**2025-01-09**|**InfiFusion: A Unified Framework for Enhanced Cross-Model Reasoning via LLM Fusion**|Zhaoyi Yan et.al.|[2501.02795](http://arxiv.org/abs/2501.02795)|null|
 |**2025-01-03**|**Recursive Decomposition of Logical Thoughts: Framework for Superior Reasoning and Knowledge Propagation in Large Language Models**|Kaleem Ullah Qasim et.al.|[2501.02026](http://arxiv.org/abs/2501.02026)|null|
@@ -204,6 +205,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**Faster quantum chemistry simulations on a quantum computer with improved tensor factorization and active volume compilation**|Athena Caesura et.al.|[2501.06165](http://arxiv.org/abs/2501.06165)|null|
+|**2025-01-10**|**Efficient Transition State Searches by Freezing String Method with Graph Neural Network Potentials**|Jonah Marks et.al.|[2501.06159](http://arxiv.org/abs/2501.06159)|null|
+|**2025-01-10**|**Modeling the Impact of Moderate External UV Irradiation on Disk Chemistry**|Rachel E. Gross et.al.|[2501.06156](http://arxiv.org/abs/2501.06156)|null|
+|**2025-01-10**|**Overcoming the surface paradox: Buried perovskite quantum dots in wide-bandgap perovskite thin films**|Hao Zhang et.al.|[2501.06061](http://arxiv.org/abs/2501.06061)|null|
+|**2025-01-10**|**ZF-UDS-7329: a Relic Galaxy in the Early Universe**|Eduardo A. Hartmann et.al.|[2501.06050](http://arxiv.org/abs/2501.06050)|null|
+|**2025-01-10**|**Quantum Speedup for Nonreversible Markov Chains**|Baptiste Claudon et.al.|[2501.05868](http://arxiv.org/abs/2501.05868)|null|
+|**2025-01-10**|**Automating Care by Self-maintainability for Full Laboratory Automation**|Koji Ochiai et.al.|[2501.05789](http://arxiv.org/abs/2501.05789)|null|
+|**2025-01-09**|**A reduced-temperature process for preparing atomically clean Si(100) and SiGe(100) surfaces with vapor HF**|Luis Fabián Peña et.al.|[2501.05620](http://arxiv.org/abs/2501.05620)|null|
+|**2025-01-09**|**Chemistry in a cryogenic buffer gas cell**|Qi Sun et.al.|[2501.05613](http://arxiv.org/abs/2501.05613)|null|
 |**2025-01-09**|**Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal ReAsoning Benchmark**|Yunzhuo Hao et.al.|[2501.05444](http://arxiv.org/abs/2501.05444)|null|
 |**2025-01-09**|**Providing Machine Learning Potentials with High Quality Uncertainty Estimates**|Zeynep Sumer et.al.|[2501.05250](http://arxiv.org/abs/2501.05250)|null|
 |**2025-01-09**|**Impact of photoevaporative winds in chemical models of externally irradiated protoplanetary disks**|Luke Keyte et.al.|[2501.05172](http://arxiv.org/abs/2501.05172)|null|
