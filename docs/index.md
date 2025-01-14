@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-11**|**DiscQuant: A Quantization Method for Neural Networks Inspired by Discrepancy Theory**|Jerry Chee et.al.|[2501.06417](http://arxiv.org/abs/2501.06417)|**[link](https://github.com/jerry-chee/discquant)**|
 |**2025-01-10**|**Semantic Exploration with Adaptive Gating for Efficient Problem Solving with Language Models**|Sungjae Lee et.al.|[2501.05752](http://arxiv.org/abs/2501.05752)|null|
 |**2025-01-08**|**rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking**|Xinyu Guan et.al.|[2501.04519](http://arxiv.org/abs/2501.04519)|null|
 |**2025-01-09**|**InfiFusion: A Unified Framework for Enhanced Cross-Model Reasoning via LLM Fusion**|Zhaoyi Yan et.al.|[2501.02795](http://arxiv.org/abs/2501.02795)|null|
@@ -199,7 +200,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-10**|**Faster quantum chemistry simulations on a quantum computer with improved tensor factorization and active volume compilation**|Athena Caesura et.al.|[2501.06165](http://arxiv.org/abs/2501.06165)|null|
+|**2025-01-13**|**Exposing a Fatal Flaw in Sample-based Quantum Diagonalization Methods**|Peter Reinholdt et.al.|[2501.07231](http://arxiv.org/abs/2501.07231)|null|
+|**2025-01-13**|**Tensor decomposition technique for qubit encoding of maximal-fidelity Lorentzian orbitals in real-space quantum chemistry**|Taichi Kosugi et.al.|[2501.07211](http://arxiv.org/abs/2501.07211)|null|
+|**2025-01-13**|**D3MES: Diffusion Transformer with multihead equivariant self-attention for 3D molecule generation**|Zhejun Zhang et.al.|[2501.07077](http://arxiv.org/abs/2501.07077)|**[link](https://github.com/physilearn/d3mes)**|
+|**2025-01-11**|**Challenging reaction prediction models to generalize to novel chemistry**|John Bradshaw et.al.|[2501.06669](http://arxiv.org/abs/2501.06669)|**[link](https://github.com/john-bradshaw/rxn-splits)**|
+|**2025-01-10**|**Quantification of Nuclear Coordinate Activation on Polaritonic Potential Energy Surfaces**|Shahzad Alam et.al.|[2501.06364](http://arxiv.org/abs/2501.06364)|null|
+|**2025-01-10**|**The Missing Link of Sulfur Chemistry in TMC-1: The Detection of c-C3H2S from the GOTHAM Survey**|Anthony J. Remijan et.al.|[2501.06343](http://arxiv.org/abs/2501.06343)|null|
+|**2025-01-13**|**Faster quantum chemistry simulations on a quantum computer with improved tensor factorization and active volume compilation**|Athena Caesura et.al.|[2501.06165](http://arxiv.org/abs/2501.06165)|null|
 |**2025-01-10**|**Efficient Transition State Searches by Freezing String Method with Graph Neural Network Potentials**|Jonah Marks et.al.|[2501.06159](http://arxiv.org/abs/2501.06159)|null|
 |**2025-01-10**|**Modeling the Impact of Moderate External UV Irradiation on Disk Chemistry**|Rachel E. Gross et.al.|[2501.06156](http://arxiv.org/abs/2501.06156)|null|
 |**2025-01-10**|**Overcoming the surface paradox: Buried perovskite quantum dots in wide-bandgap perovskite thin films**|Hao Zhang et.al.|[2501.06061](http://arxiv.org/abs/2501.06061)|null|
