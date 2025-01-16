@@ -201,6 +201,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians**|Ishan Amin et.al.|[2501.09009](http://arxiv.org/abs/2501.09009)|null|
+|**2025-01-15**|**Multi-Length-Scale Dopants Analysis of an Image Sensor via FIB-SIMS and APT**|Bavley Guerguis et.al.|[2501.08980](http://arxiv.org/abs/2501.08980)|null|
+|**2025-01-15**|**Eigenstate thermalization to non-Gibbs states in strongly-interacting chaotic lattice gases**|Vladimir A. Yurovsky et.al.|[2501.08967](http://arxiv.org/abs/2501.08967)|null|
+|**2025-01-15**|**Leveraging Large Language Models as Knowledge-Driven Agents for Reliable Retrosynthesis Planning**|Qinyu Ma et.al.|[2501.08897](http://arxiv.org/abs/2501.08897)|null|
+|**2025-01-15**|**On the abiotic origin of dimethyl sulfide: discovery of DMS in the Interstellar Medium**|Miguel Sanz-Novo et.al.|[2501.08892](http://arxiv.org/abs/2501.08892)|null|
+|**2025-01-15**|**An investigation of the relationship between morphology and chemistry of the D-type spherules from the recovery expedition of the CNEOS 2014-01-08 bolide: Implications for origins**|Eugenia Hyung et.al.|[2501.08890](http://arxiv.org/abs/2501.08890)|null|
+|**2025-01-15**|**Automated Quantum Chemistry Code Generation with the p $^\dagger$ q Package**|Marcus D. Liebenthal et.al.|[2501.08882](http://arxiv.org/abs/2501.08882)|null|
+|**2025-01-15**|**Heat semigroup representation of Laplacian**|Evgueni Dinvay et.al.|[2501.08820](http://arxiv.org/abs/2501.08820)|null|
 |**2025-01-13**|**Exposing a Fatal Flaw in Sample-based Quantum Diagonalization Methods**|Peter Reinholdt et.al.|[2501.07231](http://arxiv.org/abs/2501.07231)|null|
 |**2025-01-13**|**Tensor decomposition technique for qubit encoding of maximal-fidelity Lorentzian orbitals in real-space quantum chemistry**|Taichi Kosugi et.al.|[2501.07211](http://arxiv.org/abs/2501.07211)|null|
 |**2025-01-13**|**D3MES: Diffusion Transformer with multihead equivariant self-attention for 3D molecule generation**|Zhejun Zhang et.al.|[2501.07077](http://arxiv.org/abs/2501.07077)|**[link](https://github.com/physilearn/d3mes)**|
