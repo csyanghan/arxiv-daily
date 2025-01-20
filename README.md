@@ -207,6 +207,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**Fault-tolerant quantum simulation of generalized Hubbard models**|Andreas Juul Bay-Smidt et.al.|[2501.10314](http://arxiv.org/abs/2501.10314)|null|
 |**2025-01-16**|**Sample-based Krylov Quantum Diagonalization**|Jeffery Yu et.al.|[2501.09702](http://arxiv.org/abs/2501.09702)|null|
 |**2025-01-16**|**Adaptive-depth randomized measurement for fermionic observables**|Kaiming Bian et.al.|[2501.09574](http://arxiv.org/abs/2501.09574)|null|
 |**2025-01-16**|**Comprehensive Survey of QML: From Data Analysis to Algorithmic Advancements**|Sahil Tomar et.al.|[2501.09528](http://arxiv.org/abs/2501.09528)|null|
