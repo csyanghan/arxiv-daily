@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.20
+## Updated on 2025.01.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -202,14 +202,14 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-17**|**Fault-tolerant quantum simulation of generalized Hubbard models**|Andreas Juul Bay-Smidt et.al.|[2501.10314](http://arxiv.org/abs/2501.10314)|null|
-|**2025-01-16**|**Sample-based Krylov Quantum Diagonalization**|Jeffery Yu et.al.|[2501.09702](http://arxiv.org/abs/2501.09702)|null|
+|**2025-01-16**|**Sample-based Krylov Quantum Diagonalization**|Jeffery Yu et.al.|[2501.09702](http://arxiv.org/abs/2501.09702)|**[link](https://github.com/qiskit/qiskit-addon-sqd)**|
 |**2025-01-16**|**Adaptive-depth randomized measurement for fermionic observables**|Kaiming Bian et.al.|[2501.09574](http://arxiv.org/abs/2501.09574)|null|
 |**2025-01-16**|**Comprehensive Survey of QML: From Data Analysis to Algorithmic Advancements**|Sahil Tomar et.al.|[2501.09528](http://arxiv.org/abs/2501.09528)|null|
 |**2025-01-16**|**Discovery of anomalous nuclear effect on electron transfer between atoms**|Sota Kimura et.al.|[2501.09364](http://arxiv.org/abs/2501.09364)|null|
 |**2025-01-15**|**Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians**|Ishan Amin et.al.|[2501.09009](http://arxiv.org/abs/2501.09009)|null|
 |**2025-01-15**|**Multi-Length-Scale Dopants Analysis of an Image Sensor via FIB-SIMS and APT**|Bavley Guerguis et.al.|[2501.08980](http://arxiv.org/abs/2501.08980)|null|
 |**2025-01-15**|**Eigenstate thermalization to non-Gibbs states in strongly-interacting chaotic lattice gases**|Vladimir A. Yurovsky et.al.|[2501.08967](http://arxiv.org/abs/2501.08967)|null|
-|**2025-01-15**|**Leveraging Large Language Models as Knowledge-Driven Agents for Reliable Retrosynthesis Planning**|Qinyu Ma et.al.|[2501.08897](http://arxiv.org/abs/2501.08897)|null|
+|**2025-01-15**|**Leveraging Large Language Models as Knowledge-Driven Agents for Reliable Retrosynthesis Planning**|Qinyu Ma et.al.|[2501.08897](http://arxiv.org/abs/2501.08897)|**[link](https://github.com/qinyuma316/retrosynthesisagent)**|
 |**2025-01-15**|**On the abiotic origin of dimethyl sulfide: discovery of DMS in the Interstellar Medium**|Miguel Sanz-Novo et.al.|[2501.08892](http://arxiv.org/abs/2501.08892)|null|
 |**2025-01-15**|**An investigation of the relationship between morphology and chemistry of the D-type spherules from the recovery expedition of the CNEOS 2014-01-08 bolide: Implications for origins**|Eugenia Hyung et.al.|[2501.08890](http://arxiv.org/abs/2501.08890)|null|
 |**2025-01-15**|**Automated Quantum Chemistry Code Generation with the p $^\dagger$ q Package**|Marcus D. Liebenthal et.al.|[2501.08882](http://arxiv.org/abs/2501.08882)|null|
