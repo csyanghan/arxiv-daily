@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**Is your LLM trapped in a Mental Set? Investigative study on how mental sets affect the reasoning capabilities of LLMs**|Saiful Haq et.al.|[2501.11833](http://arxiv.org/abs/2501.11833)|null|
+|**2025-01-20**|**Advancing Language Model Reasoning through Reinforcement Learning and Inference Scaling**|Zhenyu Hou et.al.|[2501.11651](http://arxiv.org/abs/2501.11651)|**[link](https://github.com/thudm/t1)**|
+|**2025-01-18**|**DNA 1.0 Technical Report**|Jungyup Lee et.al.|[2501.10648](http://arxiv.org/abs/2501.10648)|null|
 |**2025-01-14**|**ArithmAttack: Evaluating Robustness of LLMs to Noisy Context in Math Problem Solving**|Zain Ul Abedin et.al.|[2501.08203](http://arxiv.org/abs/2501.08203)|null|
 |**2025-01-11**|**DiscQuant: A Quantization Method for Neural Networks Inspired by Discrepancy Theory**|Jerry Chee et.al.|[2501.06417](http://arxiv.org/abs/2501.06417)|**[link](https://github.com/jerry-chee/discquant)**|
 |**2025-01-10**|**Semantic Exploration with Adaptive Gating for Efficient Problem Solving with Language Models**|Sungjae Lee et.al.|[2501.05752](http://arxiv.org/abs/2501.05752)|null|
@@ -201,6 +204,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**On the practical applicability of modern DFT functionals for chemical computations. Case study of DM21 applicability for geometry optimization**|Kirill Kulaev et.al.|[2501.12149](http://arxiv.org/abs/2501.12149)|null|
+|**2025-01-21**|**Quantum-enhanced neural networks for quantum many-body simulations**|Zongkang Zhang et.al.|[2501.12130](http://arxiv.org/abs/2501.12130)|null|
+|**2025-01-21**|**Advanced Spectroscopic Analyses on a:C-H Materials: Revisiting the EELS Characterization and its Coupling with multi-wavelength Raman Spectroscopy**|L. Lajaunie et.al.|[2501.11973](http://arxiv.org/abs/2501.11973)|null|
+|**2025-01-21**|**A Survey on Memory-Efficient Large-Scale Model Training in AI for Science**|Kaiyuan Tian et.al.|[2501.11847](http://arxiv.org/abs/2501.11847)|null|
+|**2025-01-20**|**Mapping the Configuration Space of Half-Heusler Compounds via Subspace Identification for Thermoelectric Materials Discovery**|Angela Pak et.al.|[2501.11644](http://arxiv.org/abs/2501.11644)|null|
+|**2025-01-20**|**Navigating the Complexities of Multiple Redox State Interactions in Aqueous Systems**|Shishir Mundra et.al.|[2501.11536](http://arxiv.org/abs/2501.11536)|null|
+|**2025-01-20**|**Band representations in Strongly Correlated Settings: The Kitaev Honeycomb Model**|Axel Fünfhaus et.al.|[2501.11396](http://arxiv.org/abs/2501.11396)|null|
+|**2025-01-18**|**Microtubules: dynamics, soliton waves, some roles in the cell**|Slobodan Zdravković et.al.|[2501.10614](http://arxiv.org/abs/2501.10614)|null|
+|**2025-01-17**|**ACCEPT: Diagnostic Forecasting of Battery Degradation Through Contrastive Learning**|James Sadler et.al.|[2501.10492](http://arxiv.org/abs/2501.10492)|null|
 |**2025-01-17**|**Fault-tolerant quantum simulation of generalized Hubbard models**|Andreas Juul Bay-Smidt et.al.|[2501.10314](http://arxiv.org/abs/2501.10314)|null|
 |**2025-01-16**|**Sample-based Krylov Quantum Diagonalization**|Jeffery Yu et.al.|[2501.09702](http://arxiv.org/abs/2501.09702)|**[link](https://github.com/qiskit/qiskit-addon-sqd)**|
 |**2025-01-16**|**Adaptive-depth randomized measurement for fermionic observables**|Kaiming Bian et.al.|[2501.09574](http://arxiv.org/abs/2501.09574)|null|
