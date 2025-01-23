@@ -210,6 +210,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**OLS4: A new Ontology Lookup Service for a growing interdisciplinary knowledge ecosystem**|James McLaughlin et.al.|[2501.13034](http://arxiv.org/abs/2501.13034)|null|
+|**2025-01-22**|**Is fixed-node diffusion quantum Monte Carlo reproducible?**|Flaviano Della Pia et.al.|[2501.12950](http://arxiv.org/abs/2501.12950)|null|
+|**2025-01-22**|**Reconstructing Pristine Molecular Orbitals from Scanning Tunneling Microscopy Images via Artificial Intelligence Approaches**|Yu Zhu et.al.|[2501.12657](http://arxiv.org/abs/2501.12657)|null|
 |**2025-01-21**|**On the practical applicability of modern DFT functionals for chemical computations. Case study of DM21 applicability for geometry optimization**|Kirill Kulaev et.al.|[2501.12149](http://arxiv.org/abs/2501.12149)|null|
 |**2025-01-21**|**Quantum-enhanced neural networks for quantum many-body simulations**|Zongkang Zhang et.al.|[2501.12130](http://arxiv.org/abs/2501.12130)|null|
 |**2025-01-21**|**Advanced Spectroscopic Analyses on a:C-H Materials: Revisiting the EELS Characterization and its Coupling with multi-wavelength Raman Spectroscopy**|L. Lajaunie et.al.|[2501.11973](http://arxiv.org/abs/2501.11973)|null|
