@@ -210,6 +210,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-23**|**Femtoliter Batch Reactors for Nanofluidic Scattering Spectroscopy Analysis of Catalytic Reactions on Single Nanoparticles**|Björn Altenburger et.al.|[2501.13658](http://arxiv.org/abs/2501.13658)|null|
+|**2025-01-23**|**Native Three-Body Interactions in a Superconducting Lattice Gauge Quantum Simulator**|J. H. Busnaina et.al.|[2501.13383](http://arxiv.org/abs/2501.13383)|null|
+|**2025-01-23**|**Non-unitary Variational Quantum Eigensolver with the Localized Active Space Method and Cost Mitigation**|Qiaohong Wang et.al.|[2501.13371](http://arxiv.org/abs/2501.13371)|null|
+|**2025-01-23**|**Stabilizing Single-Atom Catalysts on Metastable Phases of Transition Metal Dichalcogenides**|Lina Wang et.al.|[2501.13327](http://arxiv.org/abs/2501.13327)|null|
 |**2025-01-22**|**OLS4: A new Ontology Lookup Service for a growing interdisciplinary knowledge ecosystem**|James McLaughlin et.al.|[2501.13034](http://arxiv.org/abs/2501.13034)|null|
 |**2025-01-22**|**Is fixed-node diffusion quantum Monte Carlo reproducible?**|Flaviano Della Pia et.al.|[2501.12950](http://arxiv.org/abs/2501.12950)|null|
 |**2025-01-22**|**Reconstructing Pristine Molecular Orbitals from Scanning Tunneling Microscopy Images via Artificial Intelligence Approaches**|Yu Zhu et.al.|[2501.12657](http://arxiv.org/abs/2501.12657)|null|
