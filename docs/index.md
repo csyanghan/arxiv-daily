@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Leveraging Online Olympiad-Level Math Problems for LLMs Training and Contamination-Resistant Evaluation**|Sadegh Mahdavi et.al.|[2501.14275](http://arxiv.org/abs/2501.14275)|**[link](https://github.com/dsl-lab/aops)**|
+|**2025-01-23**|**Advancing Math Reasoning in Language Models: The Impact of Problem-Solving Data, Data Synthesis Methods, and Training Stages**|Zui Chen et.al.|[2501.14002](http://arxiv.org/abs/2501.14002)|null|
 |**2025-01-21**|**Is your LLM trapped in a Mental Set? Investigative study on how mental sets affect the reasoning capabilities of LLMs**|Saiful Haq et.al.|[2501.11833](http://arxiv.org/abs/2501.11833)|null|
 |**2025-01-20**|**Advancing Language Model Reasoning through Reinforcement Learning and Inference Scaling**|Zhenyu Hou et.al.|[2501.11651](http://arxiv.org/abs/2501.11651)|**[link](https://github.com/thudm/t1)**|
 |**2025-01-18**|**DNA 1.0 Technical Report**|Jungyup Lee et.al.|[2501.10648](http://arxiv.org/abs/2501.10648)|null|
@@ -204,6 +206,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Molecular inventory of a young eruptive star's environment -- Case study of the classical FU Orionis star V1057 Cyg**|Zs. M. Szabó et.al.|[2501.14553](http://arxiv.org/abs/2501.14553)|null|
+|**2025-01-24**|**The wide binary frequency of metal-poor stars**|N. Lodieu et.al.|[2501.14462](http://arxiv.org/abs/2501.14462)|null|
+|**2025-01-24**|**Earth, a planetary PCR machine to create life, or the brief history of a tRNA**|Juan Jimenez et.al.|[2501.14436](http://arxiv.org/abs/2501.14436)|null|
+|**2025-01-23**|**Topological Influence of Sextets on Graphene Oxide Nanostructure**|Musiri M Balakrishnarajan et.al.|[2501.14141](http://arxiv.org/abs/2501.14141)|null|
+|**2025-01-23**|**An Efficient Sparse Kernel Generator for O(3)-Equivariant Deep Networks**|Vivek Bharadwaj et.al.|[2501.13986](http://arxiv.org/abs/2501.13986)|**[link](https://github.com/vbharadwaj-bk/OpenEquivariance)**|
 |**2025-01-23**|**Femtoliter Batch Reactors for Nanofluidic Scattering Spectroscopy Analysis of Catalytic Reactions on Single Nanoparticles**|Björn Altenburger et.al.|[2501.13658](http://arxiv.org/abs/2501.13658)|null|
 |**2025-01-23**|**Native Three-Body Interactions in a Superconducting Lattice Gauge Quantum Simulator**|J. H. Busnaina et.al.|[2501.13383](http://arxiv.org/abs/2501.13383)|null|
 |**2025-01-23**|**Non-unitary Variational Quantum Eigensolver with the Localized Active Space Method and Cost Mitigation**|Qiaohong Wang et.al.|[2501.13371](http://arxiv.org/abs/2501.13371)|null|
