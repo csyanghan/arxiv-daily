@@ -206,6 +206,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Transition Metal-Driven Variations in Structure, Magnetism, and Photocatalysis of Monoclinic M3Se4 (M = Fe, Co, Ni) Nanoparticles**|Monika Ghalawat et.al.|[2501.16242](http://arxiv.org/abs/2501.16242)|null|
+|**2025-01-27**|**Laboratory rotational spectroscopy leads to the first interstellar detection of singly deuterated methyl mercaptan (CH $_{2}$ DSH)**|Hayley A. Bunn et.al.|[2501.15944](http://arxiv.org/abs/2501.15944)|null|
+|**2025-01-26**|**From Entanglement to Bonds: Chemical Bonding Concepts from Quantum Information Theory**|Lexin Ding et.al.|[2501.15699](http://arxiv.org/abs/2501.15699)|null|
+|**2025-01-26**|**HardML: A Benchmark For Evaluating Data Science And Machine Learning knowledge and reasoning in AI**|Tidor-Vlad Pricope et.al.|[2501.15627](http://arxiv.org/abs/2501.15627)|null|
+|**2025-01-24**|**Quantum Measurement for Quantum Chemistry on a Quantum Computer**|Smik Patel et.al.|[2501.14968](http://arxiv.org/abs/2501.14968)|null|
+|**2025-01-24**|**A Data-Driven M Dwarf Model and Detailed Abundances for $\sim$ 17,000 M Dwarfs in SDSS-V**|Aida Behmard et.al.|[2501.14955](http://arxiv.org/abs/2501.14955)|null|
+|**2025-01-24**|**Iterative Proximal-Minimization for Computing Saddle Points with Fixed Index**|Shuting Gu et.al.|[2501.14840](http://arxiv.org/abs/2501.14840)|null|
 |**2025-01-24**|**Molecular inventory of a young eruptive star's environment -- Case study of the classical FU Orionis star V1057 Cyg**|Zs. M. Szabó et.al.|[2501.14553](http://arxiv.org/abs/2501.14553)|null|
 |**2025-01-24**|**The wide binary frequency of metal-poor stars**|N. Lodieu et.al.|[2501.14462](http://arxiv.org/abs/2501.14462)|null|
 |**2025-01-24**|**Earth, a planetary PCR machine to create life, or the brief history of a tRNA**|Juan Jimenez et.al.|[2501.14436](http://arxiv.org/abs/2501.14436)|null|
