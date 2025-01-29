@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-25**|**RotateKV: Accurate and Robust 2-Bit KV Cache Quantization for LLMs via Outlier-Aware Adaptive Rotations**|Zunhai Su et.al.|[2501.16383](http://arxiv.org/abs/2501.16383)|null|
 |**2025-01-24**|**Leveraging Online Olympiad-Level Math Problems for LLMs Training and Contamination-Resistant Evaluation**|Sadegh Mahdavi et.al.|[2501.14275](http://arxiv.org/abs/2501.14275)|**[link](https://github.com/dsl-lab/aops)**|
 |**2025-01-23**|**Advancing Math Reasoning in Language Models: The Impact of Problem-Solving Data, Data Synthesis Methods, and Training Stages**|Zui Chen et.al.|[2501.14002](http://arxiv.org/abs/2501.14002)|null|
 |**2025-01-21**|**Is your LLM trapped in a Mental Set? Investigative study on how mental sets affect the reasoning capabilities of LLMs**|Saiful Haq et.al.|[2501.11833](http://arxiv.org/abs/2501.11833)|null|
@@ -206,6 +207,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**Nanoparticle simulations of logarithmic creep and microprestress relaxation in concrete and other disordered solids**|Enrico Masoero et.al.|[2501.17102](http://arxiv.org/abs/2501.17102)|null|
+|**2025-01-27**|**Hybrid Hadronization -- A Study of In-Medium Hadronization of Jets**|A. Sengupta et.al.|[2501.16482](http://arxiv.org/abs/2501.16482)|null|
+|**2025-01-27**|**Taming quantum systems: A tutorial for using shortcuts-to-adiabaticity, quantum optimal control, and reinforcement learning**|Callum W. Duncan et.al.|[2501.16436](http://arxiv.org/abs/2501.16436)|null|
 |**2025-01-27**|**Transition Metal-Driven Variations in Structure, Magnetism, and Photocatalysis of Monoclinic M3Se4 (M = Fe, Co, Ni) Nanoparticles**|Monika Ghalawat et.al.|[2501.16242](http://arxiv.org/abs/2501.16242)|null|
 |**2025-01-27**|**Laboratory rotational spectroscopy leads to the first interstellar detection of singly deuterated methyl mercaptan (CH $_{2}$ DSH)**|Hayley A. Bunn et.al.|[2501.15944](http://arxiv.org/abs/2501.15944)|null|
 |**2025-01-26**|**From Entanglement to Bonds: Chemical Bonding Concepts from Quantum Information Theory**|Lexin Ding et.al.|[2501.15699](http://arxiv.org/abs/2501.15699)|null|
