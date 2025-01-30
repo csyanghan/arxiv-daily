@@ -207,6 +207,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**Hydroxylamine in Astrophysical Ices: IR Spectra and Cosmic Ray-Induced Radiolytic Chemistry**|Belén Maté et.al.|[2501.17587](http://arxiv.org/abs/2501.17587)|null|
+|**2025-01-28**|**Multi-Physics Simulations via Coupled Fourier Neural Operator**|Shibo Li et.al.|[2501.17296](http://arxiv.org/abs/2501.17296)|null|
 |**2025-01-28**|**Nanoparticle simulations of logarithmic creep and microprestress relaxation in concrete and other disordered solids**|Enrico Masoero et.al.|[2501.17102](http://arxiv.org/abs/2501.17102)|null|
 |**2025-01-27**|**Hybrid Hadronization -- A Study of In-Medium Hadronization of Jets**|A. Sengupta et.al.|[2501.16482](http://arxiv.org/abs/2501.16482)|null|
 |**2025-01-27**|**Taming quantum systems: A tutorial for using shortcuts-to-adiabaticity, quantum optimal control, and reinforcement learning**|Callum W. Duncan et.al.|[2501.16436](http://arxiv.org/abs/2501.16436)|null|
