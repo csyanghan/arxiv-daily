@@ -215,7 +215,7 @@
 |---|---|---|---|---|
 |**2025-01-30**|**Probing topological matter and fermion dynamics on a neutral-atom quantum computer**|Simon J. Evered et.al.|[2501.18554](http://arxiv.org/abs/2501.18554)|null|
 |**2025-01-30**|**Optimal-Reference Excited State Methods: Static Correlation at Polynomial Cost with Single-Reference Coupled-Cluster Approaches**|Sylvia J. Bintrim et.al.|[2501.18135](http://arxiv.org/abs/2501.18135)|null|
-|**2025-01-29**|**Collect, Commit, Expand: Efficient CPQR-Based Column Selection for Extremely Wide Matrices**|Robin Armstrong et.al.|[2501.18035](http://arxiv.org/abs/2501.18035)|null|
+|**2025-01-29**|**Collect, Commit, Expand: Efficient CPQR-Based Column Selection for Extremely Wide Matrices**|Robin Armstrong et.al.|[2501.18035](http://arxiv.org/abs/2501.18035)|**[link](https://github.com/robin-armstrong/cceqr.jl)**|
 |**2025-01-29**|**NEATH IV: an early onset of complex organic chemistry in molecular clouds**|F. D. Priestley et.al.|[2501.17955](http://arxiv.org/abs/2501.17955)|null|
 |**2025-01-29**|**Tracing the Inner Edge of the Habitable Zone with Sulfur Chemistry**|Sean Jordan et.al.|[2501.17948](http://arxiv.org/abs/2501.17948)|null|
 |**2025-01-29**|**Hydroxylamine in Astrophysical Ices: IR Spectra and Cosmic Ray-Induced Radiolytic Chemistry**|Belén Maté et.al.|[2501.17587](http://arxiv.org/abs/2501.17587)|null|
