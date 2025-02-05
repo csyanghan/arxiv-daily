@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**Premise-Augmented Reasoning Chains Improve Error Identification in Math reasoning with LLMs**|Sagnik Mukherjee et.al.|[2502.02362](http://arxiv.org/abs/2502.02362)|null|
+|**2025-02-03**|**BARE: Combining Base and Instruction-Tuned Language Models for Better Synthetic Data Generation**|Alan Zhu et.al.|[2502.01697](http://arxiv.org/abs/2502.01697)|null|
+|**2025-02-03**|**Self-supervised Analogical Learning using Language Models**|Ben Zhou et.al.|[2502.00996](http://arxiv.org/abs/2502.00996)|null|
+|**2025-02-03**|**PDE-Controller: LLMs for Autoformalization and Reasoning of PDEs**|Mauricio Soroco et.al.|[2502.00963](http://arxiv.org/abs/2502.00963)|null|
+|**2025-02-01**|**ChunkKV: Semantic-Preserving KV Cache Compression for Efficient Long-Context LLM Inference**|Xiang Liu et.al.|[2502.00299](http://arxiv.org/abs/2502.00299)|null|
+|**2025-02-01**|**Scaling Flaws of Verifier-Guided Search in Mathematical Reasoning**|Fei Yu et.al.|[2502.00271](http://arxiv.org/abs/2502.00271)|null|
 |**2025-01-31**|**Pheromone-based Learning of Optimal Reasoning Paths**|Anirudh Chari et.al.|[2501.19278](http://arxiv.org/abs/2501.19278)|null|
 |**2025-01-31**|**Spend Wisely: Maximizing Post-Training Gains in Iterative Synthetic Data Boostrapping**|Pu Yang et.al.|[2501.18962](http://arxiv.org/abs/2501.18962)|null|
 |**2025-02-02**|**RotateKV: Accurate and Robust 2-Bit KV Cache Quantization for LLMs via Outlier-Aware Adaptive Rotations**|Zunhai Su et.al.|[2501.16383](http://arxiv.org/abs/2501.16383)|**[link](https://github.com/ZunhaiSu/RotateKV)**|
@@ -215,6 +221,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**Suppressing Mechanical Property Variability in Recycled Plastics via Bio-inspired Design**|Dimitrios Georgiou et.al.|[2502.02359](http://arxiv.org/abs/2502.02359)|null|
+|**2025-02-03**|**Creation, stabilization, and study at ambient pressure of pressure-induced superconductivity in Bi $_{0.5}$Sb$_{1.5}$Te$_3$**|Liangzi Deng et.al.|[2502.01881](http://arxiv.org/abs/2502.01881)|null|
+|**2025-02-03**|**Tracking the Chemical Evolution of Hydrocarbons Through Carbon Grain Supply in Protoplanetary Disks**|Eshan Raul et.al.|[2502.01765](http://arxiv.org/abs/2502.01765)|null|
+|**2025-02-03**|**Reducing the sampling complexity of energy estimation in quantum many-body systems using empirical variance information**|Alexander Gresch et.al.|[2502.01730](http://arxiv.org/abs/2502.01730)|null|
+|**2025-02-03**|**From pre-transit to post-eclipse: investigating the impact of 3D temperature, chemistry, and dynamics on high-resolution emission spectra of the ultra-hot Jupiter WASP-76b**|Joost P. Wardenier et.al.|[2502.01606](http://arxiv.org/abs/2502.01606)|null|
+|**2025-02-03**|**Grain Boundary Segregation and Embrittlement of Aluminum Binary Alloys from First Principles**|Nutth Tuchinda et.al.|[2502.01579](http://arxiv.org/abs/2502.01579)|null|
+|**2025-02-03**|**Docking-Aware Attention: Dynamic Protein Representations through Molecular Context Integration**|Amitay Sicherman et.al.|[2502.01461](http://arxiv.org/abs/2502.01461)|null|
+|**2025-02-03**|**Interfacial chemistry meets magnetism: comparison of $Co/Fe_3O_4$ and $Co/α-Fe_2O_3$ epitaxial heterostructures**|Ewa Madej et.al.|[2502.01388](http://arxiv.org/abs/2502.01388)|null|
+|**2025-02-03**|**Molecular Odor Prediction with Harmonic Modulated Feature Mapping and Chemically-Informed Loss**|HongXin Xie et.al.|[2502.01296](http://arxiv.org/abs/2502.01296)|null|
+|**2025-02-03**|**Efficient and Scalable Density Functional Theory Hamiltonian Prediction through Adaptive Sparsity**|Erpai Luo et.al.|[2502.01171](http://arxiv.org/abs/2502.01171)|null|
 |**2025-01-31**|**Benchmark of the Full and Reduced Effective Resistance Kernel for Molecular Classification**|Adam Wesołowski et.al.|[2501.19352](http://arxiv.org/abs/2501.19352)|null|
 |**2025-02-03**|**E2Former: A Linear-time Efficient and Equivariant Transformer for Scalable Molecular Modeling**|Yunyang Li et.al.|[2501.19216](http://arxiv.org/abs/2501.19216)|null|
 |**2025-01-31**|**The quantum nature of ubiquitous vibrational features revealed for ethylene glycol**|Apurba Nandi et.al.|[2501.18833](http://arxiv.org/abs/2501.18833)|null|
