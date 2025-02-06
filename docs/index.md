@@ -14,8 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-05**|**Upweighting Easy Samples in Fine-Tuning Mitigates Forgetting**|Sunny Sanyal et.al.|[2502.02797](http://arxiv.org/abs/2502.02797)|null|
 |**2025-02-04**|**Premise-Augmented Reasoning Chains Improve Error Identification in Math reasoning with LLMs**|Sagnik Mukherjee et.al.|[2502.02362](http://arxiv.org/abs/2502.02362)|null|
-|**2025-02-03**|**BARE: Combining Base and Instruction-Tuned Language Models for Better Synthetic Data Generation**|Alan Zhu et.al.|[2502.01697](http://arxiv.org/abs/2502.01697)|null|
+|**2025-02-05**|**BARE: Combining Base and Instruction-Tuned Language Models for Better Synthetic Data Generation**|Alan Zhu et.al.|[2502.01697](http://arxiv.org/abs/2502.01697)|null|
 |**2025-02-03**|**Self-supervised Analogical Learning using Language Models**|Ben Zhou et.al.|[2502.00996](http://arxiv.org/abs/2502.00996)|null|
 |**2025-02-03**|**PDE-Controller: LLMs for Autoformalization and Reasoning of PDEs**|Mauricio Soroco et.al.|[2502.00963](http://arxiv.org/abs/2502.00963)|null|
 |**2025-02-01**|**ChunkKV: Semantic-Preserving KV Cache Compression for Efficient Long-Context LLM Inference**|Xiang Liu et.al.|[2502.00299](http://arxiv.org/abs/2502.00299)|null|
@@ -215,6 +216,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-05**|**A comprehensive study of the gas-phase formation network of HC $_5$ N: theory, experiments, observations and models**|Lisa Giani et.al.|[2502.03046](http://arxiv.org/abs/2502.03046)|null|
+|**2025-02-05**|**Achieving Operational Universality through a Turing Complete Chemputer**|Daniel Gahler et.al.|[2502.02872](http://arxiv.org/abs/2502.02872)|null|
+|**2025-02-05**|**Position: Multimodal Large Language Models Can Significantly Advance Scientific Reasoning**|Yibo Yan et.al.|[2502.02871](http://arxiv.org/abs/2502.02871)|null|
 |**2025-02-04**|**Suppressing Mechanical Property Variability in Recycled Plastics via Bio-inspired Design**|Dimitrios Georgiou et.al.|[2502.02359](http://arxiv.org/abs/2502.02359)|null|
 |**2025-02-03**|**Creation, stabilization, and study at ambient pressure of pressure-induced superconductivity in Bi $_{0.5}$Sb$_{1.5}$Te$_3$**|Liangzi Deng et.al.|[2502.01881](http://arxiv.org/abs/2502.01881)|null|
 |**2025-02-03**|**Tracking the Chemical Evolution of Hydrocarbons Through Carbon Grain Supply in Protoplanetary Disks**|Eshan Raul et.al.|[2502.01765](http://arxiv.org/abs/2502.01765)|null|
