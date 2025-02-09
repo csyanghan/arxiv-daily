@@ -22,7 +22,7 @@ layout: default
 |**2025-02-01**|**ChunkKV: Semantic-Preserving KV Cache Compression for Efficient Long-Context LLM Inference**|Xiang Liu et.al.|[2502.00299](http://arxiv.org/abs/2502.00299)|null|
 |**2025-02-01**|**Scaling Flaws of Verifier-Guided Search in Mathematical Reasoning**|Fei Yu et.al.|[2502.00271](http://arxiv.org/abs/2502.00271)|null|
 |**2025-01-31**|**Pheromone-based Learning of Optimal Reasoning Paths**|Anirudh Chari et.al.|[2501.19278](http://arxiv.org/abs/2501.19278)|null|
-|**2025-01-31**|**Spend Wisely: Maximizing Post-Training Gains in Iterative Synthetic Data Boostrapping**|Pu Yang et.al.|[2501.18962](http://arxiv.org/abs/2501.18962)|null|
+|**2025-01-31**|**Spend Wisely: Maximizing Post-Training Gains in Iterative Synthetic Data Boostrapping**|Pu Yang et.al.|[2501.18962](http://arxiv.org/abs/2501.18962)|**[link](https://github.com/zylipku/IterativeImaging)**|
 |**2025-02-02**|**RotateKV: Accurate and Robust 2-Bit KV Cache Quantization for LLMs via Outlier-Aware Adaptive Rotations**|Zunhai Su et.al.|[2501.16383](http://arxiv.org/abs/2501.16383)|**[link](https://github.com/ZunhaiSu/RotateKV)**|
 |**2025-01-24**|**Leveraging Online Olympiad-Level Math Problems for LLMs Training and Contamination-Resistant Evaluation**|Sadegh Mahdavi et.al.|[2501.14275](http://arxiv.org/abs/2501.14275)|**[link](https://github.com/dsl-lab/aops)**|
 |**2025-01-23**|**Advancing Math Reasoning in Language Models: The Impact of Problem-Solving Data, Data Synthesis Methods, and Training Stages**|Zui Chen et.al.|[2501.14002](http://arxiv.org/abs/2501.14002)|null|
