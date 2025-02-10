@@ -222,6 +222,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Emission from multiple molecular isotopologues in a high-inclination protoplanetary disk**|Colette Salyk et.al.|[2502.05061](http://arxiv.org/abs/2502.05061)|null|
+|**2025-02-07**|**The GAPS Programme at TNG LXVII. Detection of water and preliminary characterisation of the atmospheres of the two hot Jupiters KELT-8 b and KELT-23 Ab**|M. Basilicata et.al.|[2502.05056](http://arxiv.org/abs/2502.05056)|null|
+|**2025-02-07**|**Modelling the impact of circumbinary disk accretion on post-AGB binary evolution and surface chemistry**|Kayla Martin et.al.|[2502.04660](http://arxiv.org/abs/2502.04660)|null|
+|**2025-02-06**|**Towards Accurate Mixed Quantum Classical Simulations of Vibrational Polaritonic Chemistry**|Muhammad R. Hasyim et.al.|[2502.04570](http://arxiv.org/abs/2502.04570)|null|
+|**2025-02-06**|**Spatiotemporal dynamics of nanosecond pulsed discharge in the form of a fast ionization wave: self-consistent two-dimensional modeling and comparison with experiments under negative and positive polarity**|Konstantinos Kourtzanidis et.al.|[2502.04453](http://arxiv.org/abs/2502.04453)|null|
 |**2025-02-06**|**Retro-Rank-In: A Ranking-Based Approach for Inorganic Materials Synthesis Planning**|Thorben Prein et.al.|[2502.04289](http://arxiv.org/abs/2502.04289)|null|
 |**2025-02-06**|**The Young Ages of 70 μm-dark Clumps Inferred from Carbon Chain Chemistry**|Kadin Worthen et.al.|[2502.04283](http://arxiv.org/abs/2502.04283)|null|
 |**2025-02-06**|**Quantum Circuit Design using a Progressive Widening Monte Carlo Tree Search**|Vincenzo Lipardi et.al.|[2502.03962](http://arxiv.org/abs/2502.03962)|**[link](https://github.com/VincenzoLipardi/MCTS-QAS)**|
