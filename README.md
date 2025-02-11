@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates**|Ling Yang et.al.|[2502.06772](http://arxiv.org/abs/2502.06772)|null|
+|**2025-02-10**|**MATH-Perturb: Benchmarking LLMs' Math Reasoning Abilities against Hard Perturbations**|Kaixuan Huang et.al.|[2502.06453](http://arxiv.org/abs/2502.06453)|null|
+|**2025-02-09**|**Self-Training Large Language Models for Tool-Use Without Demonstrations**|Ne Luo et.al.|[2502.05867](http://arxiv.org/abs/2502.05867)|null|
+|**2025-02-09**|**PIPA: Preference Alignment as Prior-Informed Statistical Estimation**|Junbo Li et.al.|[2502.05773](http://arxiv.org/abs/2502.05773)|null|
+|**2025-02-08**|**ARIES: Stimulating Self-Refinement of Large Language Models by Iterative Preference Optimization**|Yongcheng Zeng et.al.|[2502.05605](http://arxiv.org/abs/2502.05605)|null|
 |**2025-02-05**|**Upweighting Easy Samples in Fine-Tuning Mitigates Forgetting**|Sunny Sanyal et.al.|[2502.02797](http://arxiv.org/abs/2502.02797)|null|
 |**2025-02-06**|**Premise-Augmented Reasoning Chains Improve Error Identification in Math reasoning with LLMs**|Sagnik Mukherjee et.al.|[2502.02362](http://arxiv.org/abs/2502.02362)|null|
 |**2025-02-05**|**BARE: Combining Base and Instruction-Tuned Language Models for Better Synthetic Data Generation**|Alan Zhu et.al.|[2502.01697](http://arxiv.org/abs/2502.01697)|null|
@@ -222,6 +227,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Fat-Tree QRAM: A High-Bandwidth Shared Quantum Random Access Memory for Parallel Queries**|Shifan Xu et.al.|[2502.06767](http://arxiv.org/abs/2502.06767)|null|
+|**2025-02-10**|**The Ridge Integration Method and its Application to Molecular Sieving, Demonstrated for Gas Purification via Graphdiyne Membranes**|Christian W. Binder et.al.|[2502.06654](http://arxiv.org/abs/2502.06654)|null|
+|**2025-02-10**|**A Grain Boundary Embrittlement Genome for Substitutional Cubic Alloys**|Nutth Tuchinda et.al.|[2502.06531](http://arxiv.org/abs/2502.06531)|null|
+|**2025-02-10**|**Fermion mediated pairing in the Ruderman-Kittel-Kasuya-Yosida to Efimov transition regime**|Geyue Cai et.al.|[2502.06266](http://arxiv.org/abs/2502.06266)|null|
+|**2025-02-10**|**PAH carbon accretion and return to the diffuse interstellar medium**|Alain Omont et.al.|[2502.06248](http://arxiv.org/abs/2502.06248)|null|
+|**2025-02-09**|**Allegro-FM: Towards Equivariant Foundation Model for Exascale Molecular Dynamics Simulations**|Ken-ichi Nomura et.al.|[2502.06073](http://arxiv.org/abs/2502.06073)|null|
+|**2025-02-08**|**Finding Quasars Behind the Galactic Plane: Spectroscopic Identifications of ~1300 New Quasars at |b|<=20 degree from LAMOST DR10**|Zhi-Ying Huo et.al.|[2502.05480](http://arxiv.org/abs/2502.05480)|null|
+|**2025-02-07**|**Teacher-student training improves accuracy and efficiency of machine learning inter-atomic potentials**|Sakib Matin et.al.|[2502.05379](http://arxiv.org/abs/2502.05379)|null|
 |**2025-02-07**|**Emission from multiple molecular isotopologues in a high-inclination protoplanetary disk**|Colette Salyk et.al.|[2502.05061](http://arxiv.org/abs/2502.05061)|null|
 |**2025-02-07**|**The GAPS Programme at TNG LXVII. Detection of water and preliminary characterisation of the atmospheres of the two hot Jupiters KELT-8 b and KELT-23 Ab**|M. Basilicata et.al.|[2502.05056](http://arxiv.org/abs/2502.05056)|null|
 |**2025-02-07**|**Modelling the impact of circumbinary disk accretion on post-AGB binary evolution and surface chemistry**|Kayla Martin et.al.|[2502.04660](http://arxiv.org/abs/2502.04660)|null|
