@@ -227,6 +227,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-11**|**Materials and spin characteristics of amino-terminated nanodiamonds embedded with nitrogen-vacancy color centers**|Nikoletta Jegenyes et.al.|[2502.07706](http://arxiv.org/abs/2502.07706)|null|
+|**2025-02-11**|**The Evolution of Machine Learning Potentials for Molecules, Reactions and Materials**|Junfan Xia et.al.|[2502.07335](http://arxiv.org/abs/2502.07335)|null|
+|**2025-02-10**|**A fast and robust recipe for modeling non-ideal MHD effects in star-formation simulations**|E. Agianoglou et.al.|[2502.06933](http://arxiv.org/abs/2502.06933)|null|
+|**2025-02-08**|**QuantumDNA: A Python Package for Analyzing Quantum Charge Dynamics in DNA and Exploring Its Biological Relevance**|Dennis Herb et.al.|[2502.06883](http://arxiv.org/abs/2502.06883)|null|
 |**2025-02-10**|**Fat-Tree QRAM: A High-Bandwidth Shared Quantum Random Access Memory for Parallel Queries**|Shifan Xu et.al.|[2502.06767](http://arxiv.org/abs/2502.06767)|null|
 |**2025-02-10**|**The Ridge Integration Method and its Application to Molecular Sieving, Demonstrated for Gas Purification via Graphdiyne Membranes**|Christian W. Binder et.al.|[2502.06654](http://arxiv.org/abs/2502.06654)|null|
 |**2025-02-10**|**A Grain Boundary Embrittlement Genome for Substitutional Cubic Alloys**|Nutth Tuchinda et.al.|[2502.06531](http://arxiv.org/abs/2502.06531)|null|
