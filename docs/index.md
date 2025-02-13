@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-05**|**Reasoning-as-Logic-Units: Scaling Test-Time Reasoning in Large Language Models Through Logic Unit Alignment**|Cheryl Li et.al.|[2502.07803](http://arxiv.org/abs/2502.07803)|null|
 |**2025-02-10**|**ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates**|Ling Yang et.al.|[2502.06772](http://arxiv.org/abs/2502.06772)|null|
 |**2025-02-10**|**MATH-Perturb: Benchmarking LLMs' Math Reasoning Abilities against Hard Perturbations**|Kaixuan Huang et.al.|[2502.06453](http://arxiv.org/abs/2502.06453)|null|
 |**2025-02-09**|**Self-Training Large Language Models for Tool-Use Without Demonstrations**|Ne Luo et.al.|[2502.05867](http://arxiv.org/abs/2502.05867)|null|
@@ -221,6 +222,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-12**|**Optimization of magnetic contrast layer for neutron reflectometry**|Anton Zubayer et.al.|[2502.08322](http://arxiv.org/abs/2502.08322)|null|
+|**2025-02-12**|**ChemZIP: Accelerated Modeling of Complex Aerothermochemical Interactions in Novel Turbomachines for Sustainable High-Temperature Chemical Processes**|Dylan Rubini et.al.|[2502.08232](http://arxiv.org/abs/2502.08232)|null|
+|**2025-02-12**|**Equivariant Masked Position Prediction for Efficient Molecular Representation**|Junyi An et.al.|[2502.08209](http://arxiv.org/abs/2502.08209)|null|
+|**2025-02-11**|**The Augmented Potential Method: Multiscale Modeling Toward a Spectral Defect Genome**|Nutth Tuchinda et.al.|[2502.08014](http://arxiv.org/abs/2502.08014)|null|
 |**2025-02-11**|**Materials and spin characteristics of amino-terminated nanodiamonds embedded with nitrogen-vacancy color centers**|Nikoletta Jegenyes et.al.|[2502.07706](http://arxiv.org/abs/2502.07706)|null|
 |**2025-02-11**|**The Evolution of Machine Learning Potentials for Molecules, Reactions and Materials**|Junfan Xia et.al.|[2502.07335](http://arxiv.org/abs/2502.07335)|null|
 |**2025-02-10**|**A fast and robust recipe for modeling non-ideal MHD effects in star-formation simulations**|E. Agianoglou et.al.|[2502.06933](http://arxiv.org/abs/2502.06933)|null|
