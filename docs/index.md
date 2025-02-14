@@ -14,9 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**CoT-Valve: Length-Compressible Chain-of-Thought Tuning**|Xinyin Ma et.al.|[2502.09601](http://arxiv.org/abs/2502.09601)|null|
+|**2025-02-13**|**CRANE: Reasoning with constrained LLM generation**|Debangshu Banerjee et.al.|[2502.09061](http://arxiv.org/abs/2502.09061)|null|
+|**2025-02-13**|**Cost-Saving LLM Cascades with Early Abstention**|Michael J. Zellinger et.al.|[2502.09054](http://arxiv.org/abs/2502.09054)|null|
+|**2025-02-12**|**Mathematical Reasoning in Large Language Models: Assessing Logical and Arithmetic Errors across Wide Numerical Ranges**|Safal Shrestha et.al.|[2502.08680](http://arxiv.org/abs/2502.08680)|null|
 |**2025-02-05**|**Reasoning-as-Logic-Units: Scaling Test-Time Reasoning in Large Language Models Through Logic Unit Alignment**|Cheryl Li et.al.|[2502.07803](http://arxiv.org/abs/2502.07803)|null|
 |**2025-02-10**|**ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates**|Ling Yang et.al.|[2502.06772](http://arxiv.org/abs/2502.06772)|null|
-|**2025-02-10**|**MATH-Perturb: Benchmarking LLMs' Math Reasoning Abilities against Hard Perturbations**|Kaixuan Huang et.al.|[2502.06453](http://arxiv.org/abs/2502.06453)|null|
+|**2025-02-12**|**MATH-Perturb: Benchmarking LLMs' Math Reasoning Abilities against Hard Perturbations**|Kaixuan Huang et.al.|[2502.06453](http://arxiv.org/abs/2502.06453)|null|
 |**2025-02-09**|**Self-Training Large Language Models for Tool-Use Without Demonstrations**|Ne Luo et.al.|[2502.05867](http://arxiv.org/abs/2502.05867)|null|
 |**2025-02-09**|**PIPA: Preference Alignment as Prior-Informed Statistical Estimation**|Junbo Li et.al.|[2502.05773](http://arxiv.org/abs/2502.05773)|null|
 |**2025-02-08**|**ARIES: Stimulating Self-Refinement of Large Language Models by Iterative Preference Optimization**|Yongcheng Zeng et.al.|[2502.05605](http://arxiv.org/abs/2502.05605)|null|
@@ -222,6 +226,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**BenchQC: A Benchmarking Toolkit for Quantum Computation**|Nia Pollard et.al.|[2502.09595](http://arxiv.org/abs/2502.09595)|null|
+|**2025-02-13**|**Predicting the detectability of sulphur-bearing molecules in the solid phase with simulated spectra of JWST instruments**|A. Taillard et.al.|[2502.09384](http://arxiv.org/abs/2502.09384)|null|
+|**2025-02-13**|**Evidence of the matrix effect on a compositionally graded oxide thin film**|J. Scola et.al.|[2502.09382](http://arxiv.org/abs/2502.09382)|null|
+|**2025-02-13**|**Leveraging the Bias-Variance Tradeoff in Quantum Chemistry for Accurate Negative Singlet-Triplet Gap Predictions: A Case for Double-Hybrid DFT**|Atreyee Majumdar et.al.|[2502.09330](http://arxiv.org/abs/2502.09330)|null|
+|**2025-02-13**|**Quantum Circuit for Non-Unitary Linear Transformation of Basis Sets**|Guorui Zhu et.al.|[2502.08962](http://arxiv.org/abs/2502.08962)|null|
+|**2025-02-12**|**A Map of the Zintl AM2Pn2 Compounds: Influence of Chemistry on Stability and Electronic Structure**|Andrew Pike et.al.|[2502.08801](http://arxiv.org/abs/2502.08801)|null|
+|**2025-02-12**|**A Guide to Molecular Properties from the Bethe-Salpeter Equation**|Christof Holzer et.al.|[2502.08753](http://arxiv.org/abs/2502.08753)|null|
 |**2025-02-12**|**Optimization of magnetic contrast layer for neutron reflectometry**|Anton Zubayer et.al.|[2502.08322](http://arxiv.org/abs/2502.08322)|null|
 |**2025-02-12**|**ChemZIP: Accelerated Modeling of Complex Aerothermochemical Interactions in Novel Turbomachines for Sustainable High-Temperature Chemical Processes**|Dylan Rubini et.al.|[2502.08232](http://arxiv.org/abs/2502.08232)|null|
 |**2025-02-12**|**Equivariant Masked Position Prediction for Efficient Molecular Representation**|Junyi An et.al.|[2502.08209](http://arxiv.org/abs/2502.08209)|null|
