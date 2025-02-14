@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.13
+## Updated on 2025.02.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -228,10 +228,10 @@ layout: default
 |**2025-02-11**|**The Augmented Potential Method: Multiscale Modeling Toward a Spectral Defect Genome**|Nutth Tuchinda et.al.|[2502.08014](http://arxiv.org/abs/2502.08014)|null|
 |**2025-02-11**|**Materials and spin characteristics of amino-terminated nanodiamonds embedded with nitrogen-vacancy color centers**|Nikoletta Jegenyes et.al.|[2502.07706](http://arxiv.org/abs/2502.07706)|null|
 |**2025-02-11**|**The Evolution of Machine Learning Potentials for Molecules, Reactions and Materials**|Junfan Xia et.al.|[2502.07335](http://arxiv.org/abs/2502.07335)|null|
-|**2025-02-10**|**A fast and robust recipe for modeling non-ideal MHD effects in star-formation simulations**|E. Agianoglou et.al.|[2502.06933](http://arxiv.org/abs/2502.06933)|null|
+|**2025-02-10**|**A fast and robust recipe for modeling non-ideal MHD effects in star-formation simulations**|E. Agianoglou et.al.|[2502.06933](http://arxiv.org/abs/2502.06933)|**[link](https://github.com/manosagian/non-ideal-mhd-approximate-code)**|
 |**2025-02-08**|**QuantumDNA: A Python Package for Analyzing Quantum Charge Dynamics in DNA and Exploring Its Biological Relevance**|Dennis Herb et.al.|[2502.06883](http://arxiv.org/abs/2502.06883)|null|
 |**2025-02-10**|**Fat-Tree QRAM: A High-Bandwidth Shared Quantum Random Access Memory for Parallel Queries**|Shifan Xu et.al.|[2502.06767](http://arxiv.org/abs/2502.06767)|null|
-|**2025-02-10**|**The Ridge Integration Method and its Application to Molecular Sieving, Demonstrated for Gas Purification via Graphdiyne Membranes**|Christian W. Binder et.al.|[2502.06654](http://arxiv.org/abs/2502.06654)|null|
+|**2025-02-10**|**The Ridge Integration Method and its Application to Molecular Sieving, Demonstrated for Gas Purification via Graphdiyne Membranes**|Christian W. Binder et.al.|[2502.06654](http://arxiv.org/abs/2502.06654)|**[link](https://github.com/hauser-group/ridge_integrator)**|
 |**2025-02-10**|**A Grain Boundary Embrittlement Genome for Substitutional Cubic Alloys**|Nutth Tuchinda et.al.|[2502.06531](http://arxiv.org/abs/2502.06531)|null|
 |**2025-02-10**|**Fermion mediated pairing in the Ruderman-Kittel-Kasuya-Yosida to Efimov transition regime**|Geyue Cai et.al.|[2502.06266](http://arxiv.org/abs/2502.06266)|null|
 |**2025-02-10**|**PAH carbon accretion and return to the diffuse interstellar medium**|Alain Omont et.al.|[2502.06248](http://arxiv.org/abs/2502.06248)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.13
+## Updated on 2025.02.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -222,7 +222,7 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250214>back to top</a>)</p>
 
 ## AI for Science
 
@@ -234,10 +234,10 @@
 |**2025-02-11**|**The Augmented Potential Method: Multiscale Modeling Toward a Spectral Defect Genome**|Nutth Tuchinda et.al.|[2502.08014](http://arxiv.org/abs/2502.08014)|null|
 |**2025-02-11**|**Materials and spin characteristics of amino-terminated nanodiamonds embedded with nitrogen-vacancy color centers**|Nikoletta Jegenyes et.al.|[2502.07706](http://arxiv.org/abs/2502.07706)|null|
 |**2025-02-11**|**The Evolution of Machine Learning Potentials for Molecules, Reactions and Materials**|Junfan Xia et.al.|[2502.07335](http://arxiv.org/abs/2502.07335)|null|
-|**2025-02-10**|**A fast and robust recipe for modeling non-ideal MHD effects in star-formation simulations**|E. Agianoglou et.al.|[2502.06933](http://arxiv.org/abs/2502.06933)|null|
+|**2025-02-10**|**A fast and robust recipe for modeling non-ideal MHD effects in star-formation simulations**|E. Agianoglou et.al.|[2502.06933](http://arxiv.org/abs/2502.06933)|**[link](https://github.com/manosagian/non-ideal-mhd-approximate-code)**|
 |**2025-02-08**|**QuantumDNA: A Python Package for Analyzing Quantum Charge Dynamics in DNA and Exploring Its Biological Relevance**|Dennis Herb et.al.|[2502.06883](http://arxiv.org/abs/2502.06883)|null|
 |**2025-02-10**|**Fat-Tree QRAM: A High-Bandwidth Shared Quantum Random Access Memory for Parallel Queries**|Shifan Xu et.al.|[2502.06767](http://arxiv.org/abs/2502.06767)|null|
-|**2025-02-10**|**The Ridge Integration Method and its Application to Molecular Sieving, Demonstrated for Gas Purification via Graphdiyne Membranes**|Christian W. Binder et.al.|[2502.06654](http://arxiv.org/abs/2502.06654)|null|
+|**2025-02-10**|**The Ridge Integration Method and its Application to Molecular Sieving, Demonstrated for Gas Purification via Graphdiyne Membranes**|Christian W. Binder et.al.|[2502.06654](http://arxiv.org/abs/2502.06654)|**[link](https://github.com/hauser-group/ridge_integrator)**|
 |**2025-02-10**|**A Grain Boundary Embrittlement Genome for Substitutional Cubic Alloys**|Nutth Tuchinda et.al.|[2502.06531](http://arxiv.org/abs/2502.06531)|null|
 |**2025-02-10**|**Fermion mediated pairing in the Ruderman-Kittel-Kasuya-Yosida to Efimov transition regime**|Geyue Cai et.al.|[2502.06266](http://arxiv.org/abs/2502.06266)|null|
 |**2025-02-10**|**PAH carbon accretion and return to the diffuse interstellar medium**|Alain Omont et.al.|[2502.06248](http://arxiv.org/abs/2502.06248)|null|
@@ -1168,7 +1168,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250214>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
