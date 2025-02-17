@@ -14,10 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-13**|**CoT-Valve: Length-Compressible Chain-of-Thought Tuning**|Xinyin Ma et.al.|[2502.09601](http://arxiv.org/abs/2502.09601)|null|
+|**2025-02-13**|**CoT-Valve: Length-Compressible Chain-of-Thought Tuning**|Xinyin Ma et.al.|[2502.09601](http://arxiv.org/abs/2502.09601)|**[link](https://github.com/horseee/cot-valve)**|
 |**2025-02-13**|**CRANE: Reasoning with constrained LLM generation**|Debangshu Banerjee et.al.|[2502.09061](http://arxiv.org/abs/2502.09061)|null|
 |**2025-02-13**|**Cost-Saving LLM Cascades with Early Abstention**|Michael J. Zellinger et.al.|[2502.09054](http://arxiv.org/abs/2502.09054)|null|
-|**2025-02-12**|**Mathematical Reasoning in Large Language Models: Assessing Logical and Arithmetic Errors across Wide Numerical Ranges**|Safal Shrestha et.al.|[2502.08680](http://arxiv.org/abs/2502.08680)|null|
+|**2025-02-12**|**Mathematical Reasoning in Large Language Models: Assessing Logical and Arithmetic Errors across Wide Numerical Ranges**|Safal Shrestha et.al.|[2502.08680](http://arxiv.org/abs/2502.08680)|**[link](https://github.com/minwukim/GSM-Ranges)**|
 |**2025-02-05**|**Reasoning-as-Logic-Units: Scaling Test-Time Reasoning in Large Language Models Through Logic Unit Alignment**|Cheryl Li et.al.|[2502.07803](http://arxiv.org/abs/2502.07803)|null|
 |**2025-02-10**|**ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates**|Ling Yang et.al.|[2502.06772](http://arxiv.org/abs/2502.06772)|**[link](https://github.com/gen-verse/reasonflux)**|
 |**2025-02-12**|**MATH-Perturb: Benchmarking LLMs' Math Reasoning Abilities against Hard Perturbations**|Kaixuan Huang et.al.|[2502.06453](http://arxiv.org/abs/2502.06453)|null|
@@ -226,10 +226,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-14**|**MICONIC: JWST Unveils Shocked Hot Core Chemistry in the Western Nucleus of Arp 220**|Victorine Buiten et.al.|[2502.10271](http://arxiv.org/abs/2502.10271)|null|
+|**2025-02-14**|**Modelling methanol and hydride formation in the JWST Ice Age era**|Izaskun Jiménez-Serra et.al.|[2502.10123](http://arxiv.org/abs/2502.10123)|null|
+|**2025-02-14**|**Cl+ and HCl+ in Reaction with H2 and Isotopologues: A Glance into H Abstraction and Indirect Exchange at Astrophysical Conditions**|Miguel Jiménez-Redondo et.al.|[2502.10022](http://arxiv.org/abs/2502.10022)|null|
+|**2025-02-14**|**Artificial Intelligence in Spectroscopy: Advancing Chemistry from Prediction to Generation and Beyond**|Kehan Guo et.al.|[2502.09897](http://arxiv.org/abs/2502.09897)|null|
 |**2025-02-13**|**BenchQC: A Benchmarking Toolkit for Quantum Computation**|Nia Pollard et.al.|[2502.09595](http://arxiv.org/abs/2502.09595)|null|
 |**2025-02-13**|**Predicting the detectability of sulphur-bearing molecules in the solid phase with simulated spectra of JWST instruments**|A. Taillard et.al.|[2502.09384](http://arxiv.org/abs/2502.09384)|null|
 |**2025-02-13**|**Evidence of the matrix effect on a compositionally graded oxide thin film**|J. Scola et.al.|[2502.09382](http://arxiv.org/abs/2502.09382)|null|
-|**2025-02-13**|**Leveraging the Bias-Variance Tradeoff in Quantum Chemistry for Accurate Negative Singlet-Triplet Gap Predictions: A Case for Double-Hybrid DFT**|Atreyee Majumdar et.al.|[2502.09330](http://arxiv.org/abs/2502.09330)|null|
+|**2025-02-14**|**Leveraging the Bias-Variance Tradeoff in Quantum Chemistry for Accurate Negative Singlet-Triplet Gap Predictions: A Case for Double-Hybrid DFT**|Atreyee Majumdar et.al.|[2502.09330](http://arxiv.org/abs/2502.09330)|**[link](https://github.com/moldis-group/triangulenes12)**|
 |**2025-02-13**|**Quantum Circuit for Non-Unitary Linear Transformation of Basis Sets**|Guorui Zhu et.al.|[2502.08962](http://arxiv.org/abs/2502.08962)|null|
 |**2025-02-12**|**A Map of the Zintl AM2Pn2 Compounds: Influence of Chemistry on Stability and Electronic Structure**|Andrew Pike et.al.|[2502.08801](http://arxiv.org/abs/2502.08801)|null|
 |**2025-02-12**|**A Guide to Molecular Properties from the Bethe-Salpeter Equation**|Christof Holzer et.al.|[2502.08753](http://arxiv.org/abs/2502.08753)|null|
