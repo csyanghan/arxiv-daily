@@ -18,6 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**Scaling Test-Time Compute Without Verification or RL is Suboptimal**|Amrith Setlur et.al.|[2502.12118](http://arxiv.org/abs/2502.12118)|null|
+|**2025-02-17**|**A Study on Leveraging Search and Self-Feedback for Agent Reasoning**|Karthikeyan K et.al.|[2502.12094](http://arxiv.org/abs/2502.12094)|null|
+|**2025-02-17**|**TokenSkip: Controllable Chain-of-Thought Compression in LLMs**|Heming Xia et.al.|[2502.12067](http://arxiv.org/abs/2502.12067)|null|
+|**2025-02-17**|**MathFimer: Enhancing Mathematical Reasoning by Expanding Reasoning Steps through Fill-in-the-Middle Task**|Yuchen Yan et.al.|[2502.11684](http://arxiv.org/abs/2502.11684)|null|
+|**2025-02-17**|**SMART: Self-Aware Agent for Tool Overuse Mitigation**|Cheng Qian et.al.|[2502.11435](http://arxiv.org/abs/2502.11435)|null|
+|**2025-02-16**|**Balancing the Budget: Understanding Trade-offs Between Supervised and Preference-Based Finetuning**|Mohit Raghavendra et.al.|[2502.11284](http://arxiv.org/abs/2502.11284)|null|
+|**2025-02-16**|**Don't Get Lost in the Trees: Streamlining LLM Reasoning by Overcoming Tree Search Exploration Pitfalls**|Ante Wang et.al.|[2502.11183](http://arxiv.org/abs/2502.11183)|null|
+|**2025-02-16**|**Uncertainty-Aware Search and Value Models: Mitigating Search Scaling Flaws in LLMs**|Fei Yu et.al.|[2502.11155](http://arxiv.org/abs/2502.11155)|null|
+|**2025-02-16**|**Leveraging Uncertainty Estimation for Efficient LLM Routing**|Tuo Zhang et.al.|[2502.11021](http://arxiv.org/abs/2502.11021)|null|
 |**2025-02-13**|**CoT-Valve: Length-Compressible Chain-of-Thought Tuning**|Xinyin Ma et.al.|[2502.09601](http://arxiv.org/abs/2502.09601)|**[link](https://github.com/horseee/cot-valve)**|
 |**2025-02-13**|**CRANE: Reasoning with constrained LLM generation**|Debangshu Banerjee et.al.|[2502.09061](http://arxiv.org/abs/2502.09061)|null|
 |**2025-02-13**|**Cost-Saving LLM Cascades with Early Abstention**|Michael J. Zellinger et.al.|[2502.09054](http://arxiv.org/abs/2502.09054)|null|
@@ -232,6 +241,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**Single-Molecule Water Motion on h-BN and Graphene: A Paradigm Shift in Understanding the Behaviour of Water on 2D Material Interfaces**|Philipp Seiler et.al.|[2502.11944](http://arxiv.org/abs/2502.11944)|null|
+|**2025-02-17**|**Excluded conformal minors of Birkhoff-von Neumann graphs with equal global forcing number and maximum anti-forcing number**|Yaxian Zhang et.al.|[2502.11391](http://arxiv.org/abs/2502.11391)|null|
+|**2025-02-16**|**New perspectives on MASCARA-1b: A combined analysis of pre- and post-eclipse emission data using CRIRES+**|Swaetha Ramkumar et.al.|[2502.11180](http://arxiv.org/abs/2502.11180)|null|
+|**2025-02-15**|**Cavity-Mediated Collective Resonant Suppression of Local Molecular Vibrations**|Vasil Rokaj et.al.|[2502.10917](http://arxiv.org/abs/2502.10917)|null|
+|**2025-02-15**|**Injecting Domain-Specific Knowledge into Large Language Models: A Comprehensive Survey**|Zirui Song et.al.|[2502.10708](http://arxiv.org/abs/2502.10708)|null|
+|**2025-02-14**|**Non-Markovian superposition process model for stochastically describing concentration-discharge relationship**|Hidekazu Yoshioka et.al.|[2502.10535](http://arxiv.org/abs/2502.10535)|null|
+|**2025-02-14**|**MixMin: Finding Data Mixtures via Convex Minimization**|Anvith Thudi et.al.|[2502.10510](http://arxiv.org/abs/2502.10510)|null|
+|**2025-02-14**|**Scientific literature cited in patents: A Technology Transfer indicator in Portuguese universities**|Carmen Galvez et.al.|[2502.10496](http://arxiv.org/abs/2502.10496)|null|
 |**2025-02-14**|**MICONIC: JWST Unveils Shocked Hot Core Chemistry in the Western Nucleus of Arp 220**|Victorine Buiten et.al.|[2502.10271](http://arxiv.org/abs/2502.10271)|null|
 |**2025-02-14**|**Modelling methanol and hydride formation in the JWST Ice Age era**|Izaskun Jiménez-Serra et.al.|[2502.10123](http://arxiv.org/abs/2502.10123)|null|
 |**2025-02-14**|**Cl+ and HCl+ in Reaction with H2 and Isotopologues: A Glance into H Abstraction and Indirect Exchange at Astrophysical Conditions**|Miguel Jiménez-Redondo et.al.|[2502.10022](http://arxiv.org/abs/2502.10022)|null|
