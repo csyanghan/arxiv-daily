@@ -18,7 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-17**|**Scaling Test-Time Compute Without Verification or RL is Suboptimal**|Amrith Setlur et.al.|[2502.12118](http://arxiv.org/abs/2502.12118)|null|
+|**2025-02-18**|**Integrating Arithmetic Learning Improves Mathematical Reasoning in Smaller Models**|Neeraj Gangwar et.al.|[2502.12855](http://arxiv.org/abs/2502.12855)|null|
+|**2025-02-18**|**Multi-Step Alignment as Markov Games: An Optimistic Online Gradient Descent Approach with Convergence Guarantees**|Yongtao Wu et.al.|[2502.12678](http://arxiv.org/abs/2502.12678)|null|
+|**2025-02-18**|**Scaling Test-Time Compute Without Verification or RL is Suboptimal**|Amrith Setlur et.al.|[2502.12118](http://arxiv.org/abs/2502.12118)|null|
 |**2025-02-17**|**A Study on Leveraging Search and Self-Feedback for Agent Reasoning**|Karthikeyan K et.al.|[2502.12094](http://arxiv.org/abs/2502.12094)|null|
 |**2025-02-17**|**TokenSkip: Controllable Chain-of-Thought Compression in LLMs**|Heming Xia et.al.|[2502.12067](http://arxiv.org/abs/2502.12067)|null|
 |**2025-02-17**|**MathFimer: Enhancing Mathematical Reasoning by Expanding Reasoning Steps through Fill-in-the-Middle Task**|Yuchen Yan et.al.|[2502.11684](http://arxiv.org/abs/2502.11684)|null|
@@ -241,6 +243,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Rotational quenching of monofluorides in a cryogenic helium bath**|Mateo Londoño et.al.|[2502.13046](http://arxiv.org/abs/2502.13046)|null|
+|**2025-02-18**|**Predictive simulations of the dynamical response of mesoscopic devices**|Samuel Boutin et.al.|[2502.12960](http://arxiv.org/abs/2502.12960)|null|
+|**2025-02-18**|**Flow-of-Options: Diversified and Improved LLM Reasoning by Thinking Through Options**|Lakshmi Nair et.al.|[2502.12929](http://arxiv.org/abs/2502.12929)|null|
+|**2025-02-18**|**Transferable Machine Learning Potential X-MACE for Excited States using Integrated DeepSets**|Rhyan Barrett et.al.|[2502.12870](http://arxiv.org/abs/2502.12870)|null|
+|**2025-02-18**|**Electron-induced chemistry and sputtering of volatile species from amorphous and crystalline water ice**|Yogeshwar Nath Mishra et.al.|[2502.12780](http://arxiv.org/abs/2502.12780)|null|
+|**2025-02-18**|**Black Hole Chemistry Knows Extra Dimensions**|Kyung Kiu Kim et.al.|[2502.12687](http://arxiv.org/abs/2502.12687)|null|
+|**2025-02-17**|**Titanium chemistry of WASP-121 b with ESPRESSO in 4-UT mode**|B. Prinoth et.al.|[2502.12262](http://arxiv.org/abs/2502.12262)|null|
 |**2025-02-17**|**Single-Molecule Water Motion on h-BN and Graphene: A Paradigm Shift in Understanding the Behaviour of Water on 2D Material Interfaces**|Philipp Seiler et.al.|[2502.11944](http://arxiv.org/abs/2502.11944)|null|
 |**2025-02-17**|**Excluded conformal minors of Birkhoff-von Neumann graphs with equal global forcing number and maximum anti-forcing number**|Yaxian Zhang et.al.|[2502.11391](http://arxiv.org/abs/2502.11391)|null|
 |**2025-02-16**|**New perspectives on MASCARA-1b: A combined analysis of pre- and post-eclipse emission data using CRIRES+**|Swaetha Ramkumar et.al.|[2502.11180](http://arxiv.org/abs/2502.11180)|null|
