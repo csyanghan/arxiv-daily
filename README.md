@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-20**|**How to Get Your LLM to Generate Challenging Problems for Evaluation**|Arkil Patel et.al.|[2502.14678](http://arxiv.org/abs/2502.14678)|null|
+|**2025-02-20**|**NLoRA: Nyström-Initiated Low-Rank Adaptation for Large Language Models**|Chenlu Guo et.al.|[2502.14482](http://arxiv.org/abs/2502.14482)|null|
+|**2025-02-20**|**Earlier Tokens Contribute More: Learning Direct Preference Optimization From Temporal Decay Perspective**|Ruichen Shao et.al.|[2502.14340](http://arxiv.org/abs/2502.14340)|null|
+|**2025-02-20**|**A Survey on Feedback-based Multi-step Reasoning for Large Language Models on Mathematics**|Ting-Ruen Wei et.al.|[2502.14333](http://arxiv.org/abs/2502.14333)|null|
 |**2025-02-19**|**From Correctness to Comprehension: AI Agents for Personalized Error Diagnosis in Education**|Yi-Fan Zhang et.al.|[2502.13789](http://arxiv.org/abs/2502.13789)|null|
 |**2025-02-19**|**BeamLoRA: Beam-Constraint Low-Rank Adaptation**|Naibin Gu et.al.|[2502.13604](http://arxiv.org/abs/2502.13604)|null|
 |**2025-02-19**|**TreeCut: A Synthetic Unanswerable Math Word Problem Dataset for LLM Hallucination Evaluation**|Jialin Ouyang et.al.|[2502.13442](http://arxiv.org/abs/2502.13442)|null|
@@ -248,6 +252,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-20**|**MadVoro: Parallel Construction of Voronoi Diagrams in Distributed Memory Systems**|Maor Mizrachi et.al.|[2502.14825](http://arxiv.org/abs/2502.14825)|null|
+|**2025-02-20**|**Explicit adaptive time stepping for the Cahn-Hilliard equation by exponential Krylov subspace and Chebyshev polynomial methods**|Mike A. Botchev et.al.|[2502.14589](http://arxiv.org/abs/2502.14589)|null|
+|**2025-02-20**|**ChemHTS: Hierarchical Tool Stacking for Enhancing Chemical Agents**|Zhucong Li et.al.|[2502.14327](http://arxiv.org/abs/2502.14327)|null|
 |**2025-02-19**|**LIDDIA: Language-based Intelligent Drug Discovery Agent**|Reza Averly et.al.|[2502.13959](http://arxiv.org/abs/2502.13959)|null|
 |**2025-02-19**|**AI-Empowered Catalyst Discovery: A Survey from Classical Machine Learning Approaches to Large Language Models**|Yuanyuan Xu et.al.|[2502.13626](http://arxiv.org/abs/2502.13626)|null|
 |**2025-02-19**|**HCN and C2H2 in the atmosphere of a T8.5+T9 brown dwarf binary**|Elisabeth C. Matthews et.al.|[2502.13610](http://arxiv.org/abs/2502.13610)|null|
