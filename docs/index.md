@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.22
+## Updated on 2025.02.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -251,7 +251,7 @@ layout: default
 |**2025-02-20**|**ChemHTS: Hierarchical Tool Stacking for Enhancing Chemical Agents**|Zhucong Li et.al.|[2502.14327](http://arxiv.org/abs/2502.14327)|null|
 |**2025-02-19**|**LIDDIA: Language-based Intelligent Drug Discovery Agent**|Reza Averly et.al.|[2502.13959](http://arxiv.org/abs/2502.13959)|null|
 |**2025-02-19**|**AI-Empowered Catalyst Discovery: A Survey from Classical Machine Learning Approaches to Large Language Models**|Yuanyuan Xu et.al.|[2502.13626](http://arxiv.org/abs/2502.13626)|null|
-|**2025-02-19**|**HCN and C2H2 in the atmosphere of a T8.5+T9 brown dwarf binary**|Elisabeth C. Matthews et.al.|[2502.13610](http://arxiv.org/abs/2502.13610)|null|
+|**2025-02-19**|**HCN and C2H2 in the atmosphere of a T8.5+T9 brown dwarf binary**|Elisabeth C. Matthews et.al.|[2502.13610](http://arxiv.org/abs/2502.13610)|**[link](https://github.com/ecmatthews/mirimrs_destripe)**|
 |**2025-02-19**|**Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model**|Dongki Kim et.al.|[2502.13449](http://arxiv.org/abs/2502.13449)|null|
 |**2025-02-18**|**Enhancing Machine Learning Performance through Intelligent Data Quality Assessment: An Unsupervised Data-centric Framework**|Manal Rahal et.al.|[2502.13198](http://arxiv.org/abs/2502.13198)|null|
 |**2025-02-18**|**Rotational quenching of monofluorides in a cryogenic helium bath**|Mateo Londoño et.al.|[2502.13046](http://arxiv.org/abs/2502.13046)|null|
