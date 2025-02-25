@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**Big-Math: A Large-Scale, High-Quality Math Dataset for Reinforcement Learning in Language Models**|Alon Albalak et.al.|[2502.17387](http://arxiv.org/abs/2502.17387)|null|
+|**2025-02-24**|**LED-Merging: Mitigating Safety-Utility Conflicts in Model Merging with Location-Election-Disjoint**|Qianli Ma et.al.|[2502.16770](http://arxiv.org/abs/2502.16770)|null|
+|**2025-02-23**|**SBSC: Step-By-Step Coding for Improving Mathematical Olympiad Performance**|Kunal Singh et.al.|[2502.16666](http://arxiv.org/abs/2502.16666)|null|
+|**2025-02-22**|**Dynamic Parallel Tree Search for Efficient LLM Reasoning**|Yifu Ding et.al.|[2502.16235](http://arxiv.org/abs/2502.16235)|null|
 |**2025-02-19**|**SIFT: Grounding LLM Reasoning in Contexts via Stickers**|Zihao Zeng et.al.|[2502.14922](http://arxiv.org/abs/2502.14922)|null|
 |**2025-02-20**|**How to Get Your LLM to Generate Challenging Problems for Evaluation**|Arkil Patel et.al.|[2502.14678](http://arxiv.org/abs/2502.14678)|**[link](https://github.com/mcgill-nlp/chase)**|
 |**2025-02-20**|**NLoRA: Nyström-Initiated Low-Rank Adaptation for Large Language Models**|Chenlu Guo et.al.|[2502.14482](http://arxiv.org/abs/2502.14482)|**[link](https://github.com/TracyGuo2001/NLoRA)**|
@@ -247,6 +251,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**Extracting domain-specific terms using contextual word embeddings**|Andraž Repar et.al.|[2502.17278](http://arxiv.org/abs/2502.17278)|null|
+|**2025-02-22**|**Auto-ADMET: An Effective and Interpretable AutoML Method for Chemical ADMET Property Prediction**|Alex G. C. de Sá et.al.|[2502.16378](http://arxiv.org/abs/2502.16378)|null|
+|**2025-02-22**|**Making Puzzle Pieces Fit or Reshaping MiMiC for Multiscale Simulations with CP2K and More**|Andrej Antalík et.al.|[2502.16253](http://arxiv.org/abs/2502.16253)|null|
+|**2025-02-21**|**Chemistry and ro-vibrational excitation of HeH $^+$ in the Planetary Nebula NGC 7027**|Milan Sil et.al.|[2502.15943](http://arxiv.org/abs/2502.15943)|null|
 |**2025-02-21**|**Fine-tuning foundation models of materials interatomic potentials with frozen transfer learning**|Mariia Radova et.al.|[2502.15582](http://arxiv.org/abs/2502.15582)|null|
 |**2025-02-21**|**Accurate and efficient machine learning interatomic potentials for finite temperature modeling of molecular crystals**|Flaviano Della Pia et.al.|[2502.15530](http://arxiv.org/abs/2502.15530)|null|
 |**2025-02-21**|**Auto-Bench: An Automated Benchmark for Scientific Discovery in LLMs**|Tingting Chen et.al.|[2502.15224](http://arxiv.org/abs/2502.15224)|null|
