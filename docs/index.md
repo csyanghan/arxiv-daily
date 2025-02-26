@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**SECURA: Sigmoid-Enhanced CUR Decomposition with Uninterrupted Retention and Low-Rank Adaptation in Large Language Models**|Zhang Yuxuan et.al.|[2502.18168](http://arxiv.org/abs/2502.18168)|null|
 |**2025-02-24**|**Big-Math: A Large-Scale, High-Quality Math Dataset for Reinforcement Learning in Language Models**|Alon Albalak et.al.|[2502.17387](http://arxiv.org/abs/2502.17387)|**[link](https://github.com/synthlabsai/big-math)**|
 |**2025-02-24**|**LED-Merging: Mitigating Safety-Utility Conflicts in Model Merging with Location-Election-Disjoint**|Qianli Ma et.al.|[2502.16770](http://arxiv.org/abs/2502.16770)|null|
 |**2025-02-23**|**SBSC: Step-By-Step Coding for Improving Mathematical Olympiad Performance**|Kunal Singh et.al.|[2502.16666](http://arxiv.org/abs/2502.16666)|null|
@@ -251,6 +252,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**Unveiling the Aromatic and Aliphatic Universe at Redshifts $z\sim$ 0.2--0.5 with JWST/NIRCam**|Jianwei Lyu et.al.|[2502.18464](http://arxiv.org/abs/2502.18464)|null|
+|**2025-02-25**|**A Digital Quantum Algorithm for Non-Markovian Electron Transfer Dynamics Using Repeated Interactions**|Lea K. Northcote et.al.|[2502.18426](http://arxiv.org/abs/2502.18426)|null|
+|**2025-02-25**|**Imaging thick objects with deep-sub-angstrom resolution and deep-sub-picometer precision**|Wenfeng Yang et.al.|[2502.18294](http://arxiv.org/abs/2502.18294)|null|
+|**2025-02-25**|**Transformation-free generation of a quasi-diabatic representation from the state-average orbital-optimized variational quantum eigensolver**|Silvie Illésová et.al.|[2502.18194](http://arxiv.org/abs/2502.18194)|null|
+|**2025-02-25**|**Novel Strontium Carbides Under Compression**|Nikita Rybin et.al.|[2502.18057](http://arxiv.org/abs/2502.18057)|null|
+|**2025-02-25**|**Near-instantaneous Atmospheric Retrievals and Model Comparison with FASTER**|Anna Lueber et.al.|[2502.18045](http://arxiv.org/abs/2502.18045)|null|
+|**2025-02-25**|**Broadening Discovery through Structural Models: Multimodal Combination of Local and Structural Properties for Predicting Chemical Features**|Nikolai Rekut et.al.|[2502.17986](http://arxiv.org/abs/2502.17986)|null|
+|**2025-02-25**|**ByteQC: GPU-Accelerated Quantum Chemistry Package for Large-Scale Systems**|Zhen Guo et.al.|[2502.17963](http://arxiv.org/abs/2502.17963)|null|
+|**2025-02-25**|**Swirling topological textures of polarization in bulk relaxor ferroelectrics**|M. Eremenko et.al.|[2502.17768](http://arxiv.org/abs/2502.17768)|null|
+|**2025-02-25**|**The First Chemical Census the Milky Way's Nuclear Star Cluster**|Govind Nandakumar et.al.|[2502.17756](http://arxiv.org/abs/2502.17756)|null|
 |**2025-02-24**|**Extracting domain-specific terms using contextual word embeddings**|Andraž Repar et.al.|[2502.17278](http://arxiv.org/abs/2502.17278)|null|
 |**2025-02-22**|**Auto-ADMET: An Effective and Interpretable AutoML Method for Chemical ADMET Property Prediction**|Alex G. C. de Sá et.al.|[2502.16378](http://arxiv.org/abs/2502.16378)|null|
 |**2025-02-22**|**Making Puzzle Pieces Fit or Reshaping MiMiC for Multiscale Simulations with CP2K and More**|Andrej Antalík et.al.|[2502.16253](http://arxiv.org/abs/2502.16253)|null|
