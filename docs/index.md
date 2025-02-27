@@ -14,7 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-25**|**SECURA: Sigmoid-Enhanced CUR Decomposition with Uninterrupted Retention and Low-Rank Adaptation in Large Language Models**|Zhang Yuxuan et.al.|[2502.18168](http://arxiv.org/abs/2502.18168)|null|
+|**2025-02-26**|**MathClean: A Benchmark for Synthetic Mathematical Data Cleaning**|Hao Liang et.al.|[2502.19058](http://arxiv.org/abs/2502.19058)|null|
+|**2025-02-26**|**SECURA: Sigmoid-Enhanced CUR Decomposition with Uninterrupted Retention and Low-Rank Adaptation in Large Language Models**|Yuxuan Zhang et.al.|[2502.18168](http://arxiv.org/abs/2502.18168)|null|
 |**2025-02-24**|**Big-Math: A Large-Scale, High-Quality Math Dataset for Reinforcement Learning in Language Models**|Alon Albalak et.al.|[2502.17387](http://arxiv.org/abs/2502.17387)|**[link](https://github.com/synthlabsai/big-math)**|
 |**2025-02-24**|**LED-Merging: Mitigating Safety-Utility Conflicts in Model Merging with Location-Election-Disjoint**|Qianli Ma et.al.|[2502.16770](http://arxiv.org/abs/2502.16770)|null|
 |**2025-02-23**|**SBSC: Step-By-Step Coding for Improving Mathematical Olympiad Performance**|Kunal Singh et.al.|[2502.16666](http://arxiv.org/abs/2502.16666)|null|
@@ -252,6 +253,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-26**|**Operando XPS in Reactive Plasmas: The Importance of The Wall Reactions**|J. Trey Diulus et.al.|[2502.19303](http://arxiv.org/abs/2502.19303)|null|
+|**2025-02-26**|**Enhancing the Scalability and Applicability of Kohn-Sham Hamiltonians for Molecular Systems**|Yunyang Li et.al.|[2502.19227](http://arxiv.org/abs/2502.19227)|null|
+|**2025-02-26**|**A Hybrid Transformer Architecture with a Quantized Self-Attention Mechanism Applied to Molecular Generation**|Anthony M. Smaldone et.al.|[2502.19214](http://arxiv.org/abs/2502.19214)|null|
+|**2025-02-26**|**DeePMD-kit v3: A Multiple-Backend Framework for Machine Learning Potentials**|Jinzhe Zeng et.al.|[2502.19161](http://arxiv.org/abs/2502.19161)|null|
+|**2025-02-26**|**Chemical knowledge-informed framework for privacy-aware retrosynthesis learning**|Guikun Chen et.al.|[2502.19119](http://arxiv.org/abs/2502.19119)|null|
+|**2025-02-26**|**Influence of Chemistry and Topography on the Wettability of Copper**|Sarah Marie Lößlein et.al.|[2502.18938](http://arxiv.org/abs/2502.18938)|null|
+|**2025-02-26**|**Efficient optimization of neural network backflow for ab-initio quantum chemistry**|An-Jun Liu et.al.|[2502.18843](http://arxiv.org/abs/2502.18843)|null|
+|**2025-02-26**|**Simulations for the evolution of the chemical clock HC3N/N2H+ in high-mass star-forming regions**|Yao Wang et.al.|[2502.18819](http://arxiv.org/abs/2502.18819)|null|
+|**2025-02-26**|**Towards Higher Order Accuracy in Self-Gravitating Hydrodynamics**|Tomoyuki Hanawa et.al.|[2502.18794](http://arxiv.org/abs/2502.18794)|null|
 |**2025-02-25**|**Unveiling the Aromatic and Aliphatic Universe at Redshifts $z\sim$ 0.2--0.5 with JWST/NIRCam**|Jianwei Lyu et.al.|[2502.18464](http://arxiv.org/abs/2502.18464)|null|
 |**2025-02-25**|**A Digital Quantum Algorithm for Non-Markovian Electron Transfer Dynamics Using Repeated Interactions**|Lea K. Northcote et.al.|[2502.18426](http://arxiv.org/abs/2502.18426)|null|
 |**2025-02-25**|**Imaging thick objects with deep-sub-angstrom resolution and deep-sub-picometer precision**|Wenfeng Yang et.al.|[2502.18294](http://arxiv.org/abs/2502.18294)|null|
