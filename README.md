@@ -18,8 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**FINEREASON: Evaluating and Improving LLMs' Deliberate Reasoning through Reflective Puzzle Solving**|Guizhen Chen et.al.|[2502.20238](http://arxiv.org/abs/2502.20238)|null|
+|**2025-02-27**|**Layer-Aware Task Arithmetic: Disentangling Task-Specific and Instruction-Following Knowledge**|Yan-Lun Chen et.al.|[2502.20186](http://arxiv.org/abs/2502.20186)|null|
+|**2025-02-27**|**Self-Training Elicits Concise Reasoning in Large Language Models**|Tergel Munkhbat et.al.|[2502.20122](http://arxiv.org/abs/2502.20122)|null|
+|**2025-02-26**|**Weaker LLMs' Opinions Also Matter: Mixture of Opinions Enhances LLM's Mathematical Reasoning**|Yanan Chen et.al.|[2502.19622](http://arxiv.org/abs/2502.19622)|null|
+|**2025-02-26**|**Distill Not Only Data but Also Rewards: Can Smaller Language Models Surpass Larger Ones?**|Yudi Zhang et.al.|[2502.19557](http://arxiv.org/abs/2502.19557)|null|
 |**2025-02-26**|**MathClean: A Benchmark for Synthetic Mathematical Data Cleaning**|Hao Liang et.al.|[2502.19058](http://arxiv.org/abs/2502.19058)|null|
-|**2025-02-26**|**SECURA: Sigmoid-Enhanced CUR Decomposition with Uninterrupted Retention and Low-Rank Adaptation in Large Language Models**|Yuxuan Zhang et.al.|[2502.18168](http://arxiv.org/abs/2502.18168)|null|
+|**2025-02-27**|**SECURA: Sigmoid-Enhanced CUR Decomposition with Uninterrupted Retention and Low-Rank Adaptation in Large Language Models**|Yuxuan Zhang et.al.|[2502.18168](http://arxiv.org/abs/2502.18168)|null|
 |**2025-02-24**|**Big-Math: A Large-Scale, High-Quality Math Dataset for Reinforcement Learning in Language Models**|Alon Albalak et.al.|[2502.17387](http://arxiv.org/abs/2502.17387)|**[link](https://github.com/synthlabsai/big-math)**|
 |**2025-02-24**|**LED-Merging: Mitigating Safety-Utility Conflicts in Model Merging with Location-Election-Disjoint**|Qianli Ma et.al.|[2502.16770](http://arxiv.org/abs/2502.16770)|null|
 |**2025-02-23**|**SBSC: Step-By-Step Coding for Improving Mathematical Olympiad Performance**|Kunal Singh et.al.|[2502.16666](http://arxiv.org/abs/2502.16666)|null|
@@ -259,6 +264,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**Reservoir Computing and Photoelectrochemical Sensors: A Marriage of Convenience**|Gisya Abdi et.al.|[2502.20342](http://arxiv.org/abs/2502.20342)|null|
+|**2025-02-27**|**Visible Light Spectroscopy of Liquid Solutes from Femto- to Attoliter Volumes inside a Single Nanofluidic Channel**|Björn Altenburger et.al.|[2502.20298](http://arxiv.org/abs/2502.20298)|null|
+|**2025-02-27**|**Enhancing quantum computations with the synergy of auxiliary field quantum Monte Carlo and computational basis tomography**|Viktor Khinevich et.al.|[2502.20066](http://arxiv.org/abs/2502.20066)|null|
+|**2025-02-26**|**Intercalated structures formed by platinum on epitaxial graphene on SiC(0001)**|Letizia Ferbel et.al.|[2502.19524](http://arxiv.org/abs/2502.19524)|null|
 |**2025-02-26**|**Operando XPS in Reactive Plasmas: The Importance of The Wall Reactions**|J. Trey Diulus et.al.|[2502.19303](http://arxiv.org/abs/2502.19303)|null|
 |**2025-02-26**|**Enhancing the Scalability and Applicability of Kohn-Sham Hamiltonians for Molecular Systems**|Yunyang Li et.al.|[2502.19227](http://arxiv.org/abs/2502.19227)|null|
 |**2025-02-26**|**A Hybrid Transformer Architecture with a Quantized Self-Attention Mechanism Applied to Molecular Generation**|Anthony M. Smaldone et.al.|[2502.19214](http://arxiv.org/abs/2502.19214)|null|
