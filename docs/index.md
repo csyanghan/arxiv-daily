@@ -14,9 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-27**|**FINEREASON: Evaluating and Improving LLMs' Deliberate Reasoning through Reflective Puzzle Solving**|Guizhen Chen et.al.|[2502.20238](http://arxiv.org/abs/2502.20238)|null|
+|**2025-02-28**|**CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation**|Zhenyi Shen et.al.|[2502.21074](http://arxiv.org/abs/2502.21074)|null|
+|**2025-02-28**|**Capability Localization: Capabilities Can be Localized rather than Individual Knowledge**|Xiusheng Huang et.al.|[2502.20992](http://arxiv.org/abs/2502.20992)|null|
+|**2025-02-28**|**MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts**|Peijie Wang et.al.|[2502.20808](http://arxiv.org/abs/2502.20808)|null|
+|**2025-02-27**|**$Q\sharp$ : Provably Optimal Distributional RL for LLM Post-Training**|Jin Peng Zhou et.al.|[2502.20548](http://arxiv.org/abs/2502.20548)|null|
+|**2025-02-27**|**FINEREASON: Evaluating and Improving LLMs' Deliberate Reasoning through Reflective Puzzle Solving**|Guizhen Chen et.al.|[2502.20238](http://arxiv.org/abs/2502.20238)|**[link](https://github.com/DAMO-NLP-SG/FineReason)**|
 |**2025-02-27**|**Layer-Aware Task Arithmetic: Disentangling Task-Specific and Instruction-Following Knowledge**|Yan-Lun Chen et.al.|[2502.20186](http://arxiv.org/abs/2502.20186)|null|
-|**2025-02-27**|**Self-Training Elicits Concise Reasoning in Large Language Models**|Tergel Munkhbat et.al.|[2502.20122](http://arxiv.org/abs/2502.20122)|null|
+|**2025-02-28**|**Self-Training Elicits Concise Reasoning in Large Language Models**|Tergel Munkhbat et.al.|[2502.20122](http://arxiv.org/abs/2502.20122)|**[link](https://github.com/tergelmunkhbat/concise-reasoning)**|
 |**2025-02-26**|**Weaker LLMs' Opinions Also Matter: Mixture of Opinions Enhances LLM's Mathematical Reasoning**|Yanan Chen et.al.|[2502.19622](http://arxiv.org/abs/2502.19622)|null|
 |**2025-02-26**|**Distill Not Only Data but Also Rewards: Can Smaller Language Models Surpass Larger Ones?**|Yudi Zhang et.al.|[2502.19557](http://arxiv.org/abs/2502.19557)|null|
 |**2025-02-26**|**MathClean: A Benchmark for Synthetic Mathematical Data Cleaning**|Hao Liang et.al.|[2502.19058](http://arxiv.org/abs/2502.19058)|null|
@@ -258,6 +262,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**Assessing zero-shot generalisation behaviour in graph-neural-network interatomic potentials**|Chiheb Ben Mahmoud et.al.|[2502.21317](http://arxiv.org/abs/2502.21317)|null|
+|**2025-02-28**|**Foundation Models -- A Panacea for Artificial Intelligence in Pathology?**|Nita Mulliqi et.al.|[2502.21264](http://arxiv.org/abs/2502.21264)|null|
+|**2025-02-28**|**Auxiliary-field quantum Monte Carlo method with quantum selected configuration interaction**|Yuichiro Yoshida et.al.|[2502.21081](http://arxiv.org/abs/2502.21081)|null|
+|**2025-02-28**|**Shock-induced HCNH+ abundance enhancement in the heart of the starburst galaxy NGC 253 unveiled by ALCHEMI**|Y. Gong et.al.|[2502.20894](http://arxiv.org/abs/2502.20894)|null|
+|**2025-02-28**|**Kinetic energy density functional based on electron distribution on the energy coordinate to describe covalent bond**|Hideaki Takahashi et.al.|[2502.20829](http://arxiv.org/abs/2502.20829)|null|
+|**2025-02-28**|**Quantum-assisted variational Monte Carlo**|Longfei Chang et.al.|[2502.20799](http://arxiv.org/abs/2502.20799)|null|
+|**2025-02-28**|**First passage time properties of diffusion with a broad class of stochastic diffusion coefficients**|Go Uchida et.al.|[2502.20705](http://arxiv.org/abs/2502.20705)|null|
+|**2025-02-27**|**Simple molecules and complex chemistry in a protoplanetary disk: A JWST investigation of the highly inclined disk d216-0939**|Alexey Potapov et.al.|[2502.20472](http://arxiv.org/abs/2502.20472)|null|
 |**2025-02-27**|**Reservoir Computing and Photoelectrochemical Sensors: A Marriage of Convenience**|Gisya Abdi et.al.|[2502.20342](http://arxiv.org/abs/2502.20342)|null|
 |**2025-02-27**|**Visible Light Spectroscopy of Liquid Solutes from Femto- to Attoliter Volumes inside a Single Nanofluidic Channel**|Björn Altenburger et.al.|[2502.20298](http://arxiv.org/abs/2502.20298)|null|
 |**2025-02-27**|**Enhancing quantum computations with the synergy of auxiliary field quantum Monte Carlo and computational basis tomography**|Viktor Khinevich et.al.|[2502.20066](http://arxiv.org/abs/2502.20066)|null|
