@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-28**|**CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation**|Zhenyi Shen et.al.|[2502.21074](http://arxiv.org/abs/2502.21074)|null|
 |**2025-02-28**|**Capability Localization: Capabilities Can be Localized rather than Individual Knowledge**|Xiusheng Huang et.al.|[2502.20992](http://arxiv.org/abs/2502.20992)|null|
-|**2025-02-28**|**MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts**|Peijie Wang et.al.|[2502.20808](http://arxiv.org/abs/2502.20808)|null|
+|**2025-03-03**|**MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts**|Peijie Wang et.al.|[2502.20808](http://arxiv.org/abs/2502.20808)|null|
 |**2025-02-27**|**$Q\sharp$ : Provably Optimal Distributional RL for LLM Post-Training**|Jin Peng Zhou et.al.|[2502.20548](http://arxiv.org/abs/2502.20548)|null|
 |**2025-02-27**|**FINEREASON: Evaluating and Improving LLMs' Deliberate Reasoning through Reflective Puzzle Solving**|Guizhen Chen et.al.|[2502.20238](http://arxiv.org/abs/2502.20238)|**[link](https://github.com/DAMO-NLP-SG/FineReason)**|
 |**2025-02-27**|**Layer-Aware Task Arithmetic: Disentangling Task-Specific and Instruction-Following Knowledge**|Yan-Lun Chen et.al.|[2502.20186](http://arxiv.org/abs/2502.20186)|null|
@@ -263,7 +263,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-28**|**Assessing zero-shot generalisation behaviour in graph-neural-network interatomic potentials**|Chiheb Ben Mahmoud et.al.|[2502.21317](http://arxiv.org/abs/2502.21317)|null|
-|**2025-02-28**|**Foundation Models -- A Panacea for Artificial Intelligence in Pathology?**|Nita Mulliqi et.al.|[2502.21264](http://arxiv.org/abs/2502.21264)|null|
+|**2025-03-03**|**Foundation Models -- A Panacea for Artificial Intelligence in Pathology?**|Nita Mulliqi et.al.|[2502.21264](http://arxiv.org/abs/2502.21264)|null|
 |**2025-02-28**|**Auxiliary-field quantum Monte Carlo method with quantum selected configuration interaction**|Yuichiro Yoshida et.al.|[2502.21081](http://arxiv.org/abs/2502.21081)|null|
 |**2025-02-28**|**Shock-induced HCNH+ abundance enhancement in the heart of the starburst galaxy NGC 253 unveiled by ALCHEMI**|Y. Gong et.al.|[2502.20894](http://arxiv.org/abs/2502.20894)|null|
 |**2025-02-28**|**Kinetic energy density functional based on electron distribution on the energy coordinate to describe covalent bond**|Hideaki Takahashi et.al.|[2502.20829](http://arxiv.org/abs/2502.20829)|null|
