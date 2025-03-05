@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**Multidimensional Consistency Improves Reasoning in Language Models**|Huiyuan Lai et.al.|[2503.02670](http://arxiv.org/abs/2503.02670)|null|
+|**2025-03-04**|**DeLTa: A Decoding Strategy based on Logit Trajectory Prediction Improves Factuality and Reasoning Ability**|Yunzhen He et.al.|[2503.02343](http://arxiv.org/abs/2503.02343)|null|
+|**2025-03-04**|**PromptCoT: Synthesizing Olympiad-level Problems for Mathematical Reasoning in Large Language Models**|Xueliang Zhao et.al.|[2503.02324](http://arxiv.org/abs/2503.02324)|null|
+|**2025-03-03**|**Graph-Augmented Reasoning: Evolving Step-by-Step Knowledge Graph Retrieval for LLM Reasoning**|Wenjie Wu et.al.|[2503.01642](http://arxiv.org/abs/2503.01642)|null|
+|**2025-03-02**|**Rewarding Graph Reasoning Process makes LLMs more Generalized Reasoners**|Miao Peng et.al.|[2503.00845](http://arxiv.org/abs/2503.00845)|null|
 |**2025-02-28**|**CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation**|Zhenyi Shen et.al.|[2502.21074](http://arxiv.org/abs/2502.21074)|null|
 |**2025-02-28**|**Capability Localization: Capabilities Can be Localized rather than Individual Knowledge**|Xiusheng Huang et.al.|[2502.20992](http://arxiv.org/abs/2502.20992)|null|
 |**2025-03-03**|**MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts**|Peijie Wang et.al.|[2502.20808](http://arxiv.org/abs/2502.20808)|null|
@@ -268,6 +273,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**Efficient Quantum Chemistry Calculations on Noisy Quantum Hardware**|Nora Bauer et.al.|[2503.02778](http://arxiv.org/abs/2503.02778)|null|
+|**2025-03-04**|**The hot corino-like chemistry of four FUor-like protostars**|Fernando Cruz-Sáenz de Miera et.al.|[2503.02762](http://arxiv.org/abs/2503.02762)|null|
+|**2025-03-04**|**Smart Reaction Templating: A Graph-Based Method for Automated Molecular Dynamics Input Generation**|Julian Konrad et.al.|[2503.02678](http://arxiv.org/abs/2503.02678)|null|
+|**2025-03-04**|**FGM Modeling of Thermo-Diffusive Unstable Lean Premixed Hydrogen-Air Flames**|Stijn N. J. Schepers et.al.|[2503.02620](http://arxiv.org/abs/2503.02620)|null|
+|**2025-03-03**|**The Diversity of Cold Worlds: a blended-light binary straddling the T/Y transition in brown dwarfs**|Daniella C. Bardalez Gagliuffi et.al.|[2503.02025](http://arxiv.org/abs/2503.02025)|null|
+|**2025-03-03**|**Projection-angle effects when "observing" a turbulent magnetized collapsing molecular cloud. I. Chemistry and line transfer**|A. Tritsis et.al.|[2503.01963](http://arxiv.org/abs/2503.01963)|null|
+|**2025-03-03**|**Hydrogenation of HOCO and formation of interstellar CO $_2$ : A not so straightforward relation**|Germán Molpeceres et.al.|[2503.01692](http://arxiv.org/abs/2503.01692)|null|
+|**2025-03-03**|**First-principles Hubbard parameters with automated and reproducible workflows**|Lorenzo Bastonero et.al.|[2503.01590](http://arxiv.org/abs/2503.01590)|null|
+|**2025-03-03**|**Capturing the critical coupling of large random Kuramoto networks with graphons**|Jason Bramburger et.al.|[2503.01589](http://arxiv.org/abs/2503.01589)|null|
+|**2025-03-03**|**Pushing the boundaries of Structure-Based Drug Design through Collaboration with Large Language Models**|Bowen Gao et.al.|[2503.01376](http://arxiv.org/abs/2503.01376)|null|
 |**2025-02-28**|**Assessing zero-shot generalisation behaviour in graph-neural-network interatomic potentials**|Chiheb Ben Mahmoud et.al.|[2502.21317](http://arxiv.org/abs/2502.21317)|null|
 |**2025-03-03**|**Foundation Models -- A Panacea for Artificial Intelligence in Pathology?**|Nita Mulliqi et.al.|[2502.21264](http://arxiv.org/abs/2502.21264)|null|
 |**2025-02-28**|**Auxiliary-field quantum Monte Carlo method with quantum selected configuration interaction**|Yuichiro Yoshida et.al.|[2502.21081](http://arxiv.org/abs/2502.21081)|null|
