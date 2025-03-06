@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**FANS -- Formal Answer Selection for Natural Language Math Reasoning Using Lean4**|Jiarui Yao et.al.|[2503.03238](http://arxiv.org/abs/2503.03238)|null|
 |**2025-03-04**|**Multidimensional Consistency Improves Reasoning in Language Models**|Huiyuan Lai et.al.|[2503.02670](http://arxiv.org/abs/2503.02670)|null|
 |**2025-03-04**|**DeLTa: A Decoding Strategy based on Logit Trajectory Prediction Improves Factuality and Reasoning Ability**|Yunzhen He et.al.|[2503.02343](http://arxiv.org/abs/2503.02343)|null|
 |**2025-03-04**|**PromptCoT: Synthesizing Olympiad-level Problems for Mathematical Reasoning in Large Language Models**|Xueliang Zhao et.al.|[2503.02324](http://arxiv.org/abs/2503.02324)|null|
@@ -267,6 +268,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**New routes for PN destruction and formation in the ISM via neutral-neutral gas-phase reactions and an extended database for reactions involving phosphorus**|Mateus X. Silva et.al.|[2503.03635](http://arxiv.org/abs/2503.03635)|null|
+|**2025-03-05**|**Stability, growth, and doping of In $_{2}$(Si, Ge)$_{2}$O$_{7}$ as promising n-type wide-gap semiconductors**|Cheng-Wei Lee et.al.|[2503.03619](http://arxiv.org/abs/2503.03619)|null|
+|**2025-03-05**|**Modeling solute-grain boundary interactions in a bcc Ti-Mo alloy using density functional theory**|Hariharan Umashankar et.al.|[2503.03538](http://arxiv.org/abs/2503.03538)|null|
+|**2025-03-05**|**On the possibility of chiral symmetry breaking in liquid hydrogen peroxide**|Roberto Menta et.al.|[2503.03385](http://arxiv.org/abs/2503.03385)|null|
+|**2025-03-04**|**Cluster Ages to Reconstruct the Milky Way Assembly (CARMA). III. NGC 288 as the first Splashed globular cluster**|E. Ceccarelli et.al.|[2503.02939](http://arxiv.org/abs/2503.02939)|null|
 |**2025-03-04**|**Efficient Quantum Chemistry Calculations on Noisy Quantum Hardware**|Nora Bauer et.al.|[2503.02778](http://arxiv.org/abs/2503.02778)|null|
 |**2025-03-04**|**The hot corino-like chemistry of four FUor-like protostars**|Fernando Cruz-Sáenz de Miera et.al.|[2503.02762](http://arxiv.org/abs/2503.02762)|null|
 |**2025-03-04**|**Smart Reaction Templating: A Graph-Based Method for Automated Molecular Dynamics Input Generation**|Julian Konrad et.al.|[2503.02678](http://arxiv.org/abs/2503.02678)|null|
