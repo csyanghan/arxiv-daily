@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**DIMSUM: Discourse in Mathematical Reasoning as a Supervision Module**|Krish Sharma et.al.|[2503.04685](http://arxiv.org/abs/2503.04685)|null|
+|**2025-03-06**|**SOLAR: Scalable Optimization of Large-scale Architecture for Reasoning**|Chen Li et.al.|[2503.04530](http://arxiv.org/abs/2503.04530)|null|
+|**2025-03-06**|**The Role of Visual Modality in Multimodal Mathematical Reasoning: Challenges and Insights**|Yufang Liu et.al.|[2503.04167](http://arxiv.org/abs/2503.04167)|null|
 |**2025-03-05**|**FANS -- Formal Answer Selection for Natural Language Math Reasoning Using Lean4**|Jiarui Yao et.al.|[2503.03238](http://arxiv.org/abs/2503.03238)|null|
 |**2025-03-04**|**Multidimensional Consistency Improves Reasoning in Language Models**|Huiyuan Lai et.al.|[2503.02670](http://arxiv.org/abs/2503.02670)|null|
 |**2025-03-04**|**DeLTa: A Decoding Strategy based on Logit Trajectory Prediction Improves Factuality and Reasoning Ability**|Yunzhen He et.al.|[2503.02343](http://arxiv.org/abs/2503.02343)|null|
@@ -268,6 +271,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**Fiducial Inference for Random-Effects Calibration Models: Advancing Reliable Quantification in Environmental Analytical Chemistry**|Soumya Sahu et.al.|[2503.04588](http://arxiv.org/abs/2503.04588)|null|
+|**2025-03-06**|**MIRI-LRS spectrum of a cold exoplanet around a white dwarf: water, ammonia, and methane measurements**|Maël Voyer et.al.|[2503.04531](http://arxiv.org/abs/2503.04531)|null|
+|**2025-03-06**|**AppQSim: Application-oriented benchmarks for Hamiltonian simulation on a quantum computer**|Etienne Granet et.al.|[2503.04298](http://arxiv.org/abs/2503.04298)|null|
+|**2025-03-06**|**Random search with stochastic resetting: when finding the target is not enough**|Paul C. Bressloff et.al.|[2503.04221](http://arxiv.org/abs/2503.04221)|null|
+|**2025-03-06**|**Observation of Multiplet Lines in Seeded Stimulated Mn Kα1 X-ray Emission**|Thomas Kroll et.al.|[2503.03993](http://arxiv.org/abs/2503.03993)|null|
+|**2025-03-05**|**All-atom Diffusion Transformers: Unified generative modelling of molecules and materials**|Chaitanya K. Joshi et.al.|[2503.03965](http://arxiv.org/abs/2503.03965)|null|
+|**2025-03-05**|**Materials Graph Library (MatGL), an open-source graph deep learning library for materials science and chemistry**|Tsz Wai Ko et.al.|[2503.03837](http://arxiv.org/abs/2503.03837)|null|
+|**2025-03-05**|**The THESAN-ZOOM project: Population III star formation continues until the end of reionization**|Oliver Zier et.al.|[2503.03806](http://arxiv.org/abs/2503.03806)|null|
 |**2025-03-05**|**New routes for PN destruction and formation in the ISM via neutral-neutral gas-phase reactions and an extended database for reactions involving phosphorus**|Mateus X. Silva et.al.|[2503.03635](http://arxiv.org/abs/2503.03635)|null|
 |**2025-03-05**|**Stability, growth, and doping of In $_{2}$(Si, Ge)$_{2}$O$_{7}$ as promising n-type wide-gap semiconductors**|Cheng-Wei Lee et.al.|[2503.03619](http://arxiv.org/abs/2503.03619)|null|
 |**2025-03-05**|**Modeling solute-grain boundary interactions in a bcc Ti-Mo alloy using density functional theory**|Hariharan Umashankar et.al.|[2503.03538](http://arxiv.org/abs/2503.03538)|null|
