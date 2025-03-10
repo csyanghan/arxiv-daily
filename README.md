@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**Self-Evolved Preference Optimization for Enhancing Mathematical Reasoning in Small Language Models**|Joykirat Singh et.al.|[2503.04813](http://arxiv.org/abs/2503.04813)|null|
 |**2025-03-07**|**DIMSUM: Discourse in Mathematical Reasoning as a Supervision Module**|Krish Sharma et.al.|[2503.04685](http://arxiv.org/abs/2503.04685)|null|
 |**2025-03-06**|**SOLAR: Scalable Optimization of Large-scale Architecture for Reasoning**|Chen Li et.al.|[2503.04530](http://arxiv.org/abs/2503.04530)|null|
 |**2025-03-06**|**The Role of Visual Modality in Multimodal Mathematical Reasoning: Challenges and Insights**|Yufang Liu et.al.|[2503.04167](http://arxiv.org/abs/2503.04167)|null|
@@ -277,6 +278,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**Phase estimation with partially randomized time evolution**|Jakob Günther et.al.|[2503.05647](http://arxiv.org/abs/2503.05647)|null|
+|**2025-03-07**|**A high-throughput ab initio study of elemental segregation and cohesion at ferritic-iron grain boundaries**|Han Lin Mai et.al.|[2503.05640](http://arxiv.org/abs/2503.05640)|null|
+|**2025-03-07**|**Free energy profiles for chemical reactions in solution from high-dimensional neural network potentials: The case of the Strecker synthesis**|Alea Miako Tokita et.al.|[2503.05370](http://arxiv.org/abs/2503.05370)|null|
+|**2025-03-07**|**Centrifugation theory revisited: Understanding and modelling the centrifugation of 2D nanosheets**|Stuart Goldie et.al.|[2503.05111](http://arxiv.org/abs/2503.05111)|null|
+|**2025-03-07**|**An Oxidation Gradient Straddling the Small Planet Radius Valley**|Collin Cherubim et.al.|[2503.05055](http://arxiv.org/abs/2503.05055)|null|
 |**2025-03-06**|**Fiducial Inference for Random-Effects Calibration Models: Advancing Reliable Quantification in Environmental Analytical Chemistry**|Soumya Sahu et.al.|[2503.04588](http://arxiv.org/abs/2503.04588)|null|
 |**2025-03-06**|**MIRI-LRS spectrum of a cold exoplanet around a white dwarf: water, ammonia, and methane measurements**|Maël Voyer et.al.|[2503.04531](http://arxiv.org/abs/2503.04531)|null|
 |**2025-03-06**|**AppQSim: Application-oriented benchmarks for Hamiltonian simulation on a quantum computer**|Etienne Granet et.al.|[2503.04298](http://arxiv.org/abs/2503.04298)|null|
