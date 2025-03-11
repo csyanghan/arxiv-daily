@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning**|Yuxiao Qu et.al.|[2503.07572](http://arxiv.org/abs/2503.07572)|null|
+|**2025-03-09**|**Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models**|Wenxuan Huang et.al.|[2503.06749](http://arxiv.org/abs/2503.06749)|null|
 |**2025-03-04**|**Self-Evolved Preference Optimization for Enhancing Mathematical Reasoning in Small Language Models**|Joykirat Singh et.al.|[2503.04813](http://arxiv.org/abs/2503.04813)|null|
 |**2025-03-07**|**DIMSUM: Discourse in Mathematical Reasoning as a Supervision Module**|Krish Sharma et.al.|[2503.04685](http://arxiv.org/abs/2503.04685)|null|
 |**2025-03-06**|**SOLAR: Scalable Optimization of Large-scale Architecture for Reasoning**|Chen Li et.al.|[2503.04530](http://arxiv.org/abs/2503.04530)|null|
@@ -272,6 +274,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**Inorganic Catalyst Efficiency Prediction Based on EAPCR Model: A Deep Learning Solution for Multi-Source Heterogeneous Data**|Zhangdi Liu et.al.|[2503.07424](http://arxiv.org/abs/2503.07424)|null|
+|**2025-03-10**|**Q-MARL: A quantum-inspired algorithm using neural message passing for large-scale multi-agent reinforcement learning**|Kha Vo et.al.|[2503.07397](http://arxiv.org/abs/2503.07397)|null|
+|**2025-03-10**|**ALMA observations of CH3COCH3 and the related species CH3CHO, CH3OH, and C2H5CN in line-rich molecular cores**|Chuanshou Li et.al.|[2503.07052](http://arxiv.org/abs/2503.07052)|null|
+|**2025-03-08**|**HIVQE: Handover Iterative Variational Quantum Eigensolver for Efficient Quantum Chemistry Calculations**|Aidan Pellow-Jarman et.al.|[2503.06292](http://arxiv.org/abs/2503.06292)|null|
+|**2025-03-08**|**Diffusive vs. non-diffusive paths to interstellar hydrogen peroxide. A machine learning-based molecular dynamics study**|Jan Poštulka et.al.|[2503.06258](http://arxiv.org/abs/2503.06258)|null|
+|**2025-03-07**|**Nuclear-Electronic Orbital Multireference Configuration Interaction for Ground and Excited Vibronic States and Fundamental Insights into Multicomponent Basis Sets**|Christopher L. Malbon et.al.|[2503.05973](http://arxiv.org/abs/2503.05973)|null|
+|**2025-03-07**|**GHOST commissioning science results -- IV: Chemodynamical analyses of Milky Way satellites Sagittarius II and Aquarius II**|Daria Zaremba et.al.|[2503.05927](http://arxiv.org/abs/2503.05927)|null|
+|**2025-03-07**|**Interpretable Visualizations of Data Spaces for Classification Problems**|Christian Jorgensen et.al.|[2503.05861](http://arxiv.org/abs/2503.05861)|null|
 |**2025-03-07**|**Phase estimation with partially randomized time evolution**|Jakob Günther et.al.|[2503.05647](http://arxiv.org/abs/2503.05647)|null|
 |**2025-03-07**|**A high-throughput ab initio study of elemental segregation and cohesion at ferritic-iron grain boundaries**|Han Lin Mai et.al.|[2503.05640](http://arxiv.org/abs/2503.05640)|null|
 |**2025-03-07**|**Free energy profiles for chemical reactions in solution from high-dimensional neural network potentials: The case of the Strecker synthesis**|Alea Miako Tokita et.al.|[2503.05370](http://arxiv.org/abs/2503.05370)|null|
