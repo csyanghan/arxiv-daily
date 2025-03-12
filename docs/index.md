@@ -14,8 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**Position-Aware Depth Decay Decoding ( $D^3$ ): Boosting Large Language Model Inference Efficiency**|Siqi Fan et.al.|[2503.08524](http://arxiv.org/abs/2503.08524)|null|
 |**2025-03-10**|**Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning**|Yuxiao Qu et.al.|[2503.07572](http://arxiv.org/abs/2503.07572)|null|
-|**2025-03-09**|**Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models**|Wenxuan Huang et.al.|[2503.06749](http://arxiv.org/abs/2503.06749)|null|
+|**2025-03-11**|**Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models**|Wenxuan Huang et.al.|[2503.06749](http://arxiv.org/abs/2503.06749)|null|
 |**2025-03-04**|**Self-Evolved Preference Optimization for Enhancing Mathematical Reasoning in Small Language Models**|Joykirat Singh et.al.|[2503.04813](http://arxiv.org/abs/2503.04813)|null|
 |**2025-03-07**|**DIMSUM: Discourse in Mathematical Reasoning as a Supervision Module**|Krish Sharma et.al.|[2503.04685](http://arxiv.org/abs/2503.04685)|null|
 |**2025-03-06**|**SOLAR: Scalable Optimization of Large-scale Architecture for Reasoning**|Chen Li et.al.|[2503.04530](http://arxiv.org/abs/2503.04530)|null|
@@ -274,6 +275,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**Nanoscale electrostatic control in ferroelectric thin films through lattice chemistry**|Ipek Efe et.al.|[2503.08613](http://arxiv.org/abs/2503.08613)|null|
+|**2025-03-11**|**Chemical reasoning in LLMs unlocks steerable synthesis planning and reaction mechanism elucidation**|Andres M Bran et.al.|[2503.08537](http://arxiv.org/abs/2503.08537)|null|
+|**2025-03-11**|**Does excellence correspond to universal inequality level? Evidences from scholarly citations and Olympic medal data**|Soumyajyoti Biswas et.al.|[2503.08480](http://arxiv.org/abs/2503.08480)|null|
+|**2025-03-11**|**ELECTRA: A Symmetry-breaking Cartesian Network for Charge Density Prediction with Floating Orbitals**|Jonas Elsborg et.al.|[2503.08305](http://arxiv.org/abs/2503.08305)|null|
+|**2025-03-11**|**Parabolic regularisation for increasing functions and applications to reaction-diffusion and reaction-cross-diffusion systems**|Laurent Desvillettes et.al.|[2503.08186](http://arxiv.org/abs/2503.08186)|null|
+|**2025-03-11**|**Towards Large-scale Chemical Reaction Image Parsing via a Multimodal Large Language Model**|Yufan Chen et.al.|[2503.08156](http://arxiv.org/abs/2503.08156)|null|
+|**2025-03-11**|**Construction of Chemistry Inspired Dynamic Ansatz Utilizing Generative Machine Learning**|Sonaldeep Halder et.al.|[2503.08149](http://arxiv.org/abs/2503.08149)|null|
+|**2025-03-10**|**Surface Chemistry-Driven Oxidation Mechanisms in Ti $_{\text{3}}$C$_{\text{2}}$T$_{\textit{x}}$ MXenes**|Bradlee J. McIntosh et.al.|[2503.07896](http://arxiv.org/abs/2503.07896)|null|
+|**2025-03-10**|**Does Hessian Data Improve the Performance of Machine Learning Potentials?**|Austin Rodriguez et.al.|[2503.07839](http://arxiv.org/abs/2503.07839)|null|
 |**2025-03-10**|**Inorganic Catalyst Efficiency Prediction Based on EAPCR Model: A Deep Learning Solution for Multi-Source Heterogeneous Data**|Zhangdi Liu et.al.|[2503.07424](http://arxiv.org/abs/2503.07424)|null|
 |**2025-03-10**|**Q-MARL: A quantum-inspired algorithm using neural message passing for large-scale multi-agent reinforcement learning**|Kha Vo et.al.|[2503.07397](http://arxiv.org/abs/2503.07397)|null|
 |**2025-03-10**|**ALMA observations of CH3COCH3 and the related species CH3CHO, CH3OH, and C2H5CN in line-rich molecular cores**|Chuanshou Li et.al.|[2503.07052](http://arxiv.org/abs/2503.07052)|null|
