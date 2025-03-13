@@ -275,6 +275,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**Parsing the Language of Expression: Enhancing Symbolic Regression with Domain-Aware Symbolic Priors**|Sikai Huang et.al.|[2503.09592](http://arxiv.org/abs/2503.09592)|null|
+|**2025-03-12**|**Agentic AI for Scientific Discovery: A Survey of Progress, Challenges, and Future Directions**|Mourad Gridach et.al.|[2503.08979](http://arxiv.org/abs/2503.08979)|null|
+|**2025-03-11**|**Multilevel Generative Samplers for Investigating Critical Phenomena**|Ankur Singha et.al.|[2503.08918](http://arxiv.org/abs/2503.08918)|null|
+|**2025-03-11**|**A Critical Analysis of the Usage of Dimensionality Reduction in Four Domains**|Dylan Cashman et.al.|[2503.08836](http://arxiv.org/abs/2503.08836)|null|
+|**2025-03-11**|**Ferroelectricity of Wurtzite Al $_{1-x}$Hf$_{x}$ N Heterovalent Alloys**|Nate S. P. Bernstein et.al.|[2503.08816](http://arxiv.org/abs/2503.08816)|null|
 |**2025-03-11**|**Nanoscale electrostatic control in ferroelectric thin films through lattice chemistry**|Ipek Efe et.al.|[2503.08613](http://arxiv.org/abs/2503.08613)|null|
 |**2025-03-11**|**Chemical reasoning in LLMs unlocks steerable synthesis planning and reaction mechanism elucidation**|Andres M Bran et.al.|[2503.08537](http://arxiv.org/abs/2503.08537)|null|
 |**2025-03-11**|**Does excellence correspond to universal inequality level? Evidences from scholarly citations and Olympic medal data**|Soumyajyoti Biswas et.al.|[2503.08480](http://arxiv.org/abs/2503.08480)|null|
