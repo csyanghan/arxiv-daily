@@ -275,6 +275,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**VisualWebInstruct: Scaling up Multimodal Instruction Data through Web Search**|Yiming Jia et.al.|[2503.10582](http://arxiv.org/abs/2503.10582)|null|
+|**2025-03-13**|**Foundation Models for Atomistic Simulation of Chemistry and Materials**|Eric C. -Y. Yuan et.al.|[2503.10538](http://arxiv.org/abs/2503.10538)|null|
+|**2025-03-13**|**Topotactic Reduction-Driven Crystal Field Excitations in Brownmillerite Manganite Thin Films**|Feng Jin et.al.|[2503.10373](http://arxiv.org/abs/2503.10373)|null|
+|**2025-03-13**|**Distributed implementation of tensor-product selected configuration interaction**|Enhua Xu et.al.|[2503.10335](http://arxiv.org/abs/2503.10335)|null|
+|**2025-03-13**|**A Fluctuation Theory of Transport Properties in Liquid-Phase Solutions**|Yury A. Budkov et.al.|[2503.10303](http://arxiv.org/abs/2503.10303)|null|
+|**2025-03-13**|**Vector soliton molecules and their collisions**|S. Stalin et.al.|[2503.10275](http://arxiv.org/abs/2503.10275)|null|
+|**2025-03-13**|**PIMRL: Physics-Informed Multi-Scale Recurrent Learning for Spatiotemporal Prediction**|Han Wan et.al.|[2503.10253](http://arxiv.org/abs/2503.10253)|null|
+|**2025-03-13**|**Predicting Chemical Reaction Outcomes Based on Electron Movements Using Machine Learning**|Shuan Chen et.al.|[2503.10197](http://arxiv.org/abs/2503.10197)|null|
+|**2025-03-13**|**Locating the Atoms at the Hard-soft Interface of Gold Nanoparticles**|Weilun Li et.al.|[2503.10059](http://arxiv.org/abs/2503.10059)|null|
+|**2025-03-12**|**Improved Carbon and Nitrogen Isotopic Ratios for CH $_3$ CN in Titan's Atmosphere Using ALMA**|J. Nosowitz et.al.|[2503.09897](http://arxiv.org/abs/2503.09897)|null|
 |**2025-03-12**|**Parsing the Language of Expression: Enhancing Symbolic Regression with Domain-Aware Symbolic Priors**|Sikai Huang et.al.|[2503.09592](http://arxiv.org/abs/2503.09592)|null|
 |**2025-03-12**|**Agentic AI for Scientific Discovery: A Survey of Progress, Challenges, and Future Directions**|Mourad Gridach et.al.|[2503.08979](http://arxiv.org/abs/2503.08979)|null|
 |**2025-03-11**|**Multilevel Generative Samplers for Investigating Critical Phenomena**|Ankur Singha et.al.|[2503.08918](http://arxiv.org/abs/2503.08918)|null|
