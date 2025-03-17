@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Rule-Guided Feedback: Enhancing Reasoning by Enforcing Rule Adherence in Large Language Models**|Aissatou Diallo et.al.|[2503.11336](http://arxiv.org/abs/2503.11336)|null|
 |**2025-03-11**|**Position-Aware Depth Decay Decoding ( $D^3$ ): Boosting Large Language Model Inference Efficiency**|Siqi Fan et.al.|[2503.08524](http://arxiv.org/abs/2503.08524)|null|
 |**2025-03-10**|**Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning**|Yuxiao Qu et.al.|[2503.07572](http://arxiv.org/abs/2503.07572)|null|
 |**2025-03-11**|**Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models**|Wenxuan Huang et.al.|[2503.06749](http://arxiv.org/abs/2503.06749)|**[link](https://github.com/hiyouga/easyr1)**|
@@ -275,6 +276,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Quantum algorithms for simulating systems coupled to bosonic modes using a hybrid resonator-qubit quantum computer**|Juha Leppäkangas et.al.|[2503.11507](http://arxiv.org/abs/2503.11507)|null|
+|**2025-03-14**|**NH-rich organic compounds from the carbonaceous asteroid (162173) Ryugu: nanoscale spectral and isotopic characterizations**|L. G. Vacher et.al.|[2503.11471](http://arxiv.org/abs/2503.11471)|null|
+|**2025-03-14**|**Permutation Equivariant Neural Networks for Symmetric Tensors**|Edward Pearce-Crump et.al.|[2503.11276](http://arxiv.org/abs/2503.11276)|null|
+|**2025-03-14**|**CRPS-Based Targeted Sequential Design with Application in Chemical Space**|Lea Friedli et.al.|[2503.11250](http://arxiv.org/abs/2503.11250)|null|
+|**2025-03-14**|**Don't Forget It! Conditional Sparse Autoencoder Clamping Works for Unlearning**|Matthew Khoriaty et.al.|[2503.11127](http://arxiv.org/abs/2503.11127)|null|
+|**2025-03-13**|**Surface Reaction Simulations for Battery Materials through Sample-Based Quantum Diagonalization and Local Embedding**|Marco Antonio Barroca et.al.|[2503.10923](http://arxiv.org/abs/2503.10923)|null|
+|**2025-03-13**|**Water is a superacid at extreme thermodynamic conditions**|Thomas Thévenet et.al.|[2503.10849](http://arxiv.org/abs/2503.10849)|null|
+|**2025-03-13**|**Interplay between Static and Dynamic Disorder: Contrasting Effects on Dark State Population inside a Cavity**|Robert F. Catuto et.al.|[2503.10818](http://arxiv.org/abs/2503.10818)|null|
 |**2025-03-13**|**VisualWebInstruct: Scaling up Multimodal Instruction Data through Web Search**|Yiming Jia et.al.|[2503.10582](http://arxiv.org/abs/2503.10582)|null|
 |**2025-03-13**|**Foundation Models for Atomistic Simulation of Chemistry and Materials**|Eric C. -Y. Yuan et.al.|[2503.10538](http://arxiv.org/abs/2503.10538)|null|
 |**2025-03-13**|**Topotactic Reduction-Driven Crystal Field Excitations in Brownmillerite Manganite Thin Films**|Feng Jin et.al.|[2503.10373](http://arxiv.org/abs/2503.10373)|null|
