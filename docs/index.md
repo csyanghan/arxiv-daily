@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Improving Complex Reasoning with Dynamic Prompt Corruption: A soft prompt Optimization Approach**|Sinan Fan et.al.|[2503.13208](http://arxiv.org/abs/2503.13208)|null|
+|**2025-03-15**|**PLM: Efficient Peripheral Language Models Hardware-Co-Designed for Ubiquitous Computing**|Cheng Deng et.al.|[2503.12167](http://arxiv.org/abs/2503.12167)|null|
 |**2025-03-14**|**Rule-Guided Feedback: Enhancing Reasoning by Enforcing Rule Adherence in Large Language Models**|Aissatou Diallo et.al.|[2503.11336](http://arxiv.org/abs/2503.11336)|null|
 |**2025-03-11**|**Position-Aware Depth Decay Decoding ( $D^3$ ): Boosting Large Language Model Inference Efficiency**|Siqi Fan et.al.|[2503.08524](http://arxiv.org/abs/2503.08524)|null|
 |**2025-03-10**|**Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning**|Yuxiao Qu et.al.|[2503.07572](http://arxiv.org/abs/2503.07572)|null|
@@ -276,7 +278,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-14**|**Quantum algorithms for simulating systems coupled to bosonic modes using a hybrid resonator-qubit quantum computer**|Juha Leppäkangas et.al.|[2503.11507](http://arxiv.org/abs/2503.11507)|null|
+|**2025-03-17**|**Efficient Detection of Statistical RF Fields at High Magnetic Field with a Quantum Sensor**|Rouven Maier et.al.|[2503.12954](http://arxiv.org/abs/2503.12954)|null|
+|**2025-03-17**|**Enhancing Circuit Trainability with Selective Gate Activation Strategy**|Jeihee Cho et.al.|[2503.12738](http://arxiv.org/abs/2503.12738)|null|
+|**2025-03-16**|**Quantum Chemistry Driven Molecular Inverse Design with Data-free Reinforcement Learning**|Francesco Calcagno et.al.|[2503.12653](http://arxiv.org/abs/2503.12653)|null|
+|**2025-03-16**|**Antiferromagnetic two-dimensional transition-metal nitride Co $_2$N$_2$ layer with high N$\rm \acute{\textbf e}$ el temperature and Dirac fermions**|Lujia Tian et.al.|[2503.12413](http://arxiv.org/abs/2503.12413)|null|
+|**2025-03-16**|**A novel association and ranking approach identifies factors affecting educational outcomes of STEM majors**|Kira Adaricheva et.al.|[2503.12321](http://arxiv.org/abs/2503.12321)|null|
+|**2025-03-15**|**Degenerate Fluid Polyamorphism Induced by Symmetrical Molecular Interconversion**|Mikhail A. Anisimov et.al.|[2503.12138](http://arxiv.org/abs/2503.12138)|null|
+|**2025-03-15**|**Quantum Simulations of Chemical Reactions: Achieving Accuracy with NISQ Devices**|Maitreyee Sarkar et.al.|[2503.12084](http://arxiv.org/abs/2503.12084)|null|
+|**2025-03-15**|**Vacancy-induced Modification of Electronic Band Structure of LiBO $_{2}$ Material as Cathode Surface Coating of Lithium-ion Batteries**|Ha M. Nguyen et.al.|[2503.11941](http://arxiv.org/abs/2503.11941)|null|
+|**2025-03-17**|**Quantum algorithms for simulating systems coupled to bosonic modes using a hybrid resonator-qubit quantum computer**|Juha Leppäkangas et.al.|[2503.11507](http://arxiv.org/abs/2503.11507)|null|
 |**2025-03-14**|**NH-rich organic compounds from the carbonaceous asteroid (162173) Ryugu: nanoscale spectral and isotopic characterizations**|L. G. Vacher et.al.|[2503.11471](http://arxiv.org/abs/2503.11471)|null|
 |**2025-03-14**|**Permutation Equivariant Neural Networks for Symmetric Tensors**|Edward Pearce-Crump et.al.|[2503.11276](http://arxiv.org/abs/2503.11276)|null|
 |**2025-03-14**|**CRPS-Based Targeted Sequential Design with Application in Chemical Space**|Lea Friedli et.al.|[2503.11250](http://arxiv.org/abs/2503.11250)|null|
