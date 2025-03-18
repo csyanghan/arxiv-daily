@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.17
+## Updated on 2025.03.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -276,7 +276,7 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
 
 ## AI for Science
 
@@ -290,7 +290,7 @@
 |**2025-03-13**|**Surface Reaction Simulations for Battery Materials through Sample-Based Quantum Diagonalization and Local Embedding**|Marco Antonio Barroca et.al.|[2503.10923](http://arxiv.org/abs/2503.10923)|null|
 |**2025-03-13**|**Water is a superacid at extreme thermodynamic conditions**|Thomas Thévenet et.al.|[2503.10849](http://arxiv.org/abs/2503.10849)|null|
 |**2025-03-13**|**Interplay between Static and Dynamic Disorder: Contrasting Effects on Dark State Population inside a Cavity**|Robert F. Catuto et.al.|[2503.10818](http://arxiv.org/abs/2503.10818)|null|
-|**2025-03-13**|**VisualWebInstruct: Scaling up Multimodal Instruction Data through Web Search**|Yiming Jia et.al.|[2503.10582](http://arxiv.org/abs/2503.10582)|null|
+|**2025-03-15**|**VisualWebInstruct: Scaling up Multimodal Instruction Data through Web Search**|Yiming Jia et.al.|[2503.10582](http://arxiv.org/abs/2503.10582)|null|
 |**2025-03-13**|**Foundation Models for Atomistic Simulation of Chemistry and Materials**|Eric C. -Y. Yuan et.al.|[2503.10538](http://arxiv.org/abs/2503.10538)|null|
 |**2025-03-13**|**Topotactic Reduction-Driven Crystal Field Excitations in Brownmillerite Manganite Thin Films**|Feng Jin et.al.|[2503.10373](http://arxiv.org/abs/2503.10373)|null|
 |**2025-03-13**|**Distributed implementation of tensor-product selected configuration interaction**|Enhua Xu et.al.|[2503.10335](http://arxiv.org/abs/2503.10335)|null|
@@ -1362,7 +1362,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
