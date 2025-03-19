@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.18
+## Updated on 2025.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -284,7 +284,7 @@ layout: default
 |**2025-03-16**|**Antiferromagnetic two-dimensional transition-metal nitride Co $_2$N$_2$ layer with high N$\rm \acute{\textbf e}$ el temperature and Dirac fermions**|Lujia Tian et.al.|[2503.12413](http://arxiv.org/abs/2503.12413)|null|
 |**2025-03-16**|**A novel association and ranking approach identifies factors affecting educational outcomes of STEM majors**|Kira Adaricheva et.al.|[2503.12321](http://arxiv.org/abs/2503.12321)|null|
 |**2025-03-15**|**Degenerate Fluid Polyamorphism Induced by Symmetrical Molecular Interconversion**|Mikhail A. Anisimov et.al.|[2503.12138](http://arxiv.org/abs/2503.12138)|null|
-|**2025-03-15**|**Quantum Simulations of Chemical Reactions: Achieving Accuracy with NISQ Devices**|Maitreyee Sarkar et.al.|[2503.12084](http://arxiv.org/abs/2503.12084)|null|
+|**2025-03-18**|**Quantum Simulations of Chemical Reactions: Achieving Accuracy with NISQ Devices**|Maitreyee Sarkar et.al.|[2503.12084](http://arxiv.org/abs/2503.12084)|null|
 |**2025-03-15**|**Vacancy-induced Modification of Electronic Band Structure of LiBO $_{2}$ Material as Cathode Surface Coating of Lithium-ion Batteries**|Ha M. Nguyen et.al.|[2503.11941](http://arxiv.org/abs/2503.11941)|null|
 |**2025-03-17**|**Quantum algorithms for simulating systems coupled to bosonic modes using a hybrid resonator-qubit quantum computer**|Juha Leppäkangas et.al.|[2503.11507](http://arxiv.org/abs/2503.11507)|null|
 |**2025-03-14**|**NH-rich organic compounds from the carbonaceous asteroid (162173) Ryugu: nanoscale spectral and isotopic characterizations**|L. G. Vacher et.al.|[2503.11471](http://arxiv.org/abs/2503.11471)|null|

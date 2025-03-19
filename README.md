@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.18
+## Updated on 2025.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -278,7 +278,7 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
 
 ## AI for Science
 
@@ -290,7 +290,7 @@
 |**2025-03-16**|**Antiferromagnetic two-dimensional transition-metal nitride Co $_2$N$_2$ layer with high N$\rm \acute{\textbf e}$ el temperature and Dirac fermions**|Lujia Tian et.al.|[2503.12413](http://arxiv.org/abs/2503.12413)|null|
 |**2025-03-16**|**A novel association and ranking approach identifies factors affecting educational outcomes of STEM majors**|Kira Adaricheva et.al.|[2503.12321](http://arxiv.org/abs/2503.12321)|null|
 |**2025-03-15**|**Degenerate Fluid Polyamorphism Induced by Symmetrical Molecular Interconversion**|Mikhail A. Anisimov et.al.|[2503.12138](http://arxiv.org/abs/2503.12138)|null|
-|**2025-03-15**|**Quantum Simulations of Chemical Reactions: Achieving Accuracy with NISQ Devices**|Maitreyee Sarkar et.al.|[2503.12084](http://arxiv.org/abs/2503.12084)|null|
+|**2025-03-18**|**Quantum Simulations of Chemical Reactions: Achieving Accuracy with NISQ Devices**|Maitreyee Sarkar et.al.|[2503.12084](http://arxiv.org/abs/2503.12084)|null|
 |**2025-03-15**|**Vacancy-induced Modification of Electronic Band Structure of LiBO $_{2}$ Material as Cathode Surface Coating of Lithium-ion Batteries**|Ha M. Nguyen et.al.|[2503.11941](http://arxiv.org/abs/2503.11941)|null|
 |**2025-03-17**|**Quantum algorithms for simulating systems coupled to bosonic modes using a hybrid resonator-qubit quantum computer**|Juha Leppäkangas et.al.|[2503.11507](http://arxiv.org/abs/2503.11507)|null|
 |**2025-03-14**|**NH-rich organic compounds from the carbonaceous asteroid (162173) Ryugu: nanoscale spectral and isotopic characterizations**|L. G. Vacher et.al.|[2503.11471](http://arxiv.org/abs/2503.11471)|null|
@@ -1372,7 +1372,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
