@@ -18,9 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**Tapered Off-Policy REINFORCE: Stable and efficient reinforcement learning for LLMs**|Nicolas Le Roux et.al.|[2503.14286](http://arxiv.org/abs/2503.14286)|null|
+|**2025-03-16**|**Towards Hierarchical Multi-Step Reward Models for Enhanced Reasoning in Large Language Models**|Teng Wang et.al.|[2503.13551](http://arxiv.org/abs/2503.13551)|null|
 |**2025-03-17**|**Improving Complex Reasoning with Dynamic Prompt Corruption: A soft prompt Optimization Approach**|Sinan Fan et.al.|[2503.13208](http://arxiv.org/abs/2503.13208)|null|
 |**2025-03-15**|**PLM: Efficient Peripheral Language Models Hardware-Co-Designed for Ubiquitous Computing**|Cheng Deng et.al.|[2503.12167](http://arxiv.org/abs/2503.12167)|null|
 |**2025-03-14**|**Rule-Guided Feedback: Enhancing Reasoning by Enforcing Rule Adherence in Large Language Models**|Aissatou Diallo et.al.|[2503.11336](http://arxiv.org/abs/2503.11336)|null|
+|**2025-03-18**|**Light-R1: Curriculum SFT, DPO and RL for Long COT from Scratch and Beyond**|Liang Wen et.al.|[2503.10460](http://arxiv.org/abs/2503.10460)|**[link](https://github.com/qihoo360/light-r1)**|
 |**2025-03-11**|**Position-Aware Depth Decay Decoding ( $D^3$ ): Boosting Large Language Model Inference Efficiency**|Siqi Fan et.al.|[2503.08524](http://arxiv.org/abs/2503.08524)|null|
 |**2025-03-10**|**Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning**|Yuxiao Qu et.al.|[2503.07572](http://arxiv.org/abs/2503.07572)|null|
 |**2025-03-11**|**Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models**|Wenxuan Huang et.al.|[2503.06749](http://arxiv.org/abs/2503.06749)|**[link](https://github.com/hiyouga/easyr1)**|
@@ -284,6 +287,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**Precise Quantum Chemistry calculations with few Slater Determinants**|Clemens Giuliani et.al.|[2503.14502](http://arxiv.org/abs/2503.14502)|null|
+|**2025-03-18**|**Ensemble Knowledge Distillation for Machine Learning Interatomic Potentials**|Sakib Matin et.al.|[2503.14293](http://arxiv.org/abs/2503.14293)|null|
+|**2025-03-18**|**Opportunities and Challenges in Unsupervised Learning: The Case of Aqueous Electrolyte Solutions**|Giulia Sormani et.al.|[2503.14197](http://arxiv.org/abs/2503.14197)|null|
+|**2025-03-18**|**Broadband shot-to-shot transient absorption anisotropy**|Maximilian Binzer et.al.|[2503.14144](http://arxiv.org/abs/2503.14144)|null|
+|**2025-03-18**|**Sustainable wafer-scale integration of epitaxial ZnO on silicon for piezoelectric devices**|D. Sanchez-Fuentes et.al.|[2503.14069](http://arxiv.org/abs/2503.14069)|null|
+|**2025-03-18**|**A Set of Tutorials for the LAMMPS Simulation Package**|Simon Gravelle et.al.|[2503.14020](http://arxiv.org/abs/2503.14020)|null|
+|**2025-03-18**|**Carbonic anhydrase II simulated with a universal neural network potential**|Timothy T. Duignan et.al.|[2503.13789](http://arxiv.org/abs/2503.13789)|null|
+|**2025-03-17**|**CoCCoA: Complex Chemistry in hot Cores with ALMA. The chemical evolution of acetone from ice to gas**|Y. Chen et.al.|[2503.13770](http://arxiv.org/abs/2503.13770)|null|
+|**2025-03-17**|**Collision-induced spectroscopy and radiative association in microcavities**|Tuan H. Nguyen et.al.|[2503.13742](http://arxiv.org/abs/2503.13742)|null|
+|**2025-03-17**|**Optimal compound downselection to promote diversity and parallel chemistry**|Jenna C. Fromer et.al.|[2503.13627](http://arxiv.org/abs/2503.13627)|null|
 |**2025-03-17**|**Efficient Detection of Statistical RF Fields at High Magnetic Field with a Quantum Sensor**|Rouven Maier et.al.|[2503.12954](http://arxiv.org/abs/2503.12954)|null|
 |**2025-03-17**|**Enhancing Circuit Trainability with Selective Gate Activation Strategy**|Jeihee Cho et.al.|[2503.12738](http://arxiv.org/abs/2503.12738)|null|
 |**2025-03-16**|**Quantum Chemistry Driven Molecular Inverse Design with Data-free Reinforcement Learning**|Francesco Calcagno et.al.|[2503.12653](http://arxiv.org/abs/2503.12653)|null|
