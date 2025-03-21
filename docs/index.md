@@ -281,6 +281,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Hyperspectral Unmixing using Iterative, Sparse and Ensambling Approaches for Large Spectral Libraries Applied to Soils and Minerals**|Jade Preston et.al.|[2503.16298](http://arxiv.org/abs/2503.16298)|null|
+|**2025-03-20**|**Energy-Adaptive Riemannian Conjugate Gradient Method for Density Functional Theory**|Daniel Peterseim et.al.|[2503.16225](http://arxiv.org/abs/2503.16225)|null|
+|**2025-03-20**|**Aging-aware Energy Management for Residential Multi-Carrier Energy Systems**|Darío Slaifstein et.al.|[2503.16139](http://arxiv.org/abs/2503.16139)|null|
+|**2025-03-20**|**MarkushGrapher: Joint Visual and Textual Recognition of Markush Structures**|Lucas Morin et.al.|[2503.16096](http://arxiv.org/abs/2503.16096)|null|
+|**2025-03-20**|**1-Adamantanamine implementation in surface engineering of biomimetic PVDF-based membranes for enhanced membrane distillation**|Samer Al-Gharabli et.al.|[2503.15930](http://arxiv.org/abs/2503.15930)|null|
+|**2025-03-20**|**Characterising the Atmosphere of 55 Cancri e: 1D Forward Model Grid for Current and Future JWST Observations**|Mantas Zilinskas et.al.|[2503.15844](http://arxiv.org/abs/2503.15844)|null|
+|**2025-03-19**|**Primordial Origin of Methane on Eris and Makemake Supported by D/H Ratios**|Olivier Mousis et.al.|[2503.15652](http://arxiv.org/abs/2503.15652)|null|
+|**2025-03-19**|**Deep quantum Monte Carlo approach for polaritonic chemistry**|Yifan Tang et.al.|[2503.15644](http://arxiv.org/abs/2503.15644)|null|
 |**2025-03-19**|**Variational Quantum Annealing for Quantum Chemistry**|Ka-Wa Yip et.al.|[2503.15473](http://arxiv.org/abs/2503.15473)|null|
 |**2025-03-19**|**Refractory and Volatile Species in the UV-to-IR Transmission Spectrum of Ultra-hot Jupiter WASP-178b with HST and JWST**|Joshua D. Lothringer et.al.|[2503.15472](http://arxiv.org/abs/2503.15472)|null|
 |**2025-03-19**|**SOFIA FIFI-LS spectroscopy of DR21 Main: energetics of the spatially-resolved outflow from a high-mass protostar**|A. Karska et.al.|[2503.15059](http://arxiv.org/abs/2503.15059)|null|
