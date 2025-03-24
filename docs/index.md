@@ -14,8 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**SafeMERGE: Preserving Safety Alignment in Fine-Tuned Large Language Models via Selective Layer-Wise Model Merging**|Aladin Djuhera et.al.|[2503.17239](http://arxiv.org/abs/2503.17239)|null|
+|**2025-03-21**|**Chain-of-Tools: Utilizing Massive Unseen Tools in the CoT Reasoning of Frozen Language Models**|Mengsong Wu et.al.|[2503.16779](http://arxiv.org/abs/2503.16779)|null|
+|**2025-03-15**|**Token-Level Uncertainty-Aware Objective for Language Model Post-Training**|Tingkai Liu et.al.|[2503.16511](http://arxiv.org/abs/2503.16511)|null|
 |**2025-03-19**|**Tapered Off-Policy REINFORCE: Stable and efficient reinforcement learning for LLMs**|Nicolas Le Roux et.al.|[2503.14286](http://arxiv.org/abs/2503.14286)|null|
-|**2025-03-19**|**Towards Hierarchical Multi-Step Reward Models for Enhanced Reasoning in Large Language Models**|Teng Wang et.al.|[2503.13551](http://arxiv.org/abs/2503.13551)|null|
+|**2025-03-19**|**Towards Hierarchical Multi-Step Reward Models for Enhanced Reasoning in Large Language Models**|Teng Wang et.al.|[2503.13551](http://arxiv.org/abs/2503.13551)|**[link](https://github.com/tengwang0318/hierarchial_reward_model)**|
 |**2025-03-17**|**Improving Complex Reasoning with Dynamic Prompt Corruption: A soft prompt Optimization Approach**|Sinan Fan et.al.|[2503.13208](http://arxiv.org/abs/2503.13208)|null|
 |**2025-03-19**|**PLM: Efficient Peripheral Language Models Hardware-Co-Designed for Ubiquitous Computing**|Cheng Deng et.al.|[2503.12167](http://arxiv.org/abs/2503.12167)|null|
 |**2025-03-14**|**Rule-Guided Feedback: Enhancing Reasoning by Enforcing Rule Adherence in Large Language Models**|Aissatou Diallo et.al.|[2503.11336](http://arxiv.org/abs/2503.11336)|null|
@@ -281,10 +284,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**Plasma treated metals after H- irradiation and its effect on vacuum breakdown behaviour**|C. Serafim et.al.|[2503.17360](http://arxiv.org/abs/2503.17360)|null|
+|**2025-03-21**|**Lattice Materials with Topological States Optimized On-Demand**|Pegah Azizi et.al.|[2503.17320](http://arxiv.org/abs/2503.17320)|null|
+|**2025-03-21**|**Determining the N-representability of a reduced density matrix via unitary evolution and stochastic sampling**|Gustavo. E. Massaccesi et.al.|[2503.17303](http://arxiv.org/abs/2503.17303)|null|
+|**2025-03-21**|**High-throughput study of kagome compounds in the AV3Sb5 family**|Thalis H. B. da Silva et.al.|[2503.17124](http://arxiv.org/abs/2503.17124)|null|
+|**2025-03-21**|**Molecular Polarizability under Vibrational Strong Coupling**|Thomas Schnappinger et.al.|[2503.17102](http://arxiv.org/abs/2503.17102)|null|
+|**2025-03-21**|**Extreme Ultraviolet Time-Resolved Photoelectron Spectrometer with an Ultrathin Liquid Flat Jet**|Masafumi Koga et.al.|[2503.16840](http://arxiv.org/abs/2503.16840)|null|
 |**2025-03-21**|**Hyperspectral Unmixing using Iterative, Sparse and Ensambling Approaches for Large Spectral Libraries Applied to Soils and Minerals**|Jade Preston et.al.|[2503.16298](http://arxiv.org/abs/2503.16298)|null|
 |**2025-03-20**|**Energy-Adaptive Riemannian Conjugate Gradient Method for Density Functional Theory**|Daniel Peterseim et.al.|[2503.16225](http://arxiv.org/abs/2503.16225)|null|
 |**2025-03-20**|**Aging-aware Energy Management for Residential Multi-Carrier Energy Systems**|Darío Slaifstein et.al.|[2503.16139](http://arxiv.org/abs/2503.16139)|null|
-|**2025-03-20**|**MarkushGrapher: Joint Visual and Textual Recognition of Markush Structures**|Lucas Morin et.al.|[2503.16096](http://arxiv.org/abs/2503.16096)|null|
+|**2025-03-20**|**MarkushGrapher: Joint Visual and Textual Recognition of Markush Structures**|Lucas Morin et.al.|[2503.16096](http://arxiv.org/abs/2503.16096)|**[link](https://github.com/DS4SD/MarkushGrapher)**|
 |**2025-03-20**|**1-Adamantanamine implementation in surface engineering of biomimetic PVDF-based membranes for enhanced membrane distillation**|Samer Al-Gharabli et.al.|[2503.15930](http://arxiv.org/abs/2503.15930)|null|
 |**2025-03-20**|**Characterising the Atmosphere of 55 Cancri e: 1D Forward Model Grid for Current and Future JWST Observations**|Mantas Zilinskas et.al.|[2503.15844](http://arxiv.org/abs/2503.15844)|null|
 |**2025-03-19**|**Primordial Origin of Methane on Eris and Makemake Supported by D/H Ratios**|Olivier Mousis et.al.|[2503.15652](http://arxiv.org/abs/2503.15652)|null|
