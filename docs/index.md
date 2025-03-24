@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.23
+## Updated on 2025.03.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -281,7 +281,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-20**|**Hyperspectral Unmixing using Iterative, Sparse and Ensambling Approaches for Large Spectral Libraries Applied to Soils and Minerals**|Jade Preston et.al.|[2503.16298](http://arxiv.org/abs/2503.16298)|null|
+|**2025-03-21**|**Hyperspectral Unmixing using Iterative, Sparse and Ensambling Approaches for Large Spectral Libraries Applied to Soils and Minerals**|Jade Preston et.al.|[2503.16298](http://arxiv.org/abs/2503.16298)|null|
 |**2025-03-20**|**Energy-Adaptive Riemannian Conjugate Gradient Method for Density Functional Theory**|Daniel Peterseim et.al.|[2503.16225](http://arxiv.org/abs/2503.16225)|null|
 |**2025-03-20**|**Aging-aware Energy Management for Residential Multi-Carrier Energy Systems**|Darío Slaifstein et.al.|[2503.16139](http://arxiv.org/abs/2503.16139)|null|
 |**2025-03-20**|**MarkushGrapher: Joint Visual and Textual Recognition of Markush Structures**|Lucas Morin et.al.|[2503.16096](http://arxiv.org/abs/2503.16096)|null|
