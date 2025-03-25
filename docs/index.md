@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-23**|**$D^2LoRA$ : Data-Driven LoRA Initialization for Low Resource Tasks**|Javad SeraJ et.al.|[2503.18089](http://arxiv.org/abs/2503.18089)|null|
+|**2025-03-23**|**Lost in Cultural Translation: Do LLMs Struggle with Math Across Cultural Contexts?**|Aabid Karim et.al.|[2503.18018](http://arxiv.org/abs/2503.18018)|null|
 |**2025-03-21**|**SafeMERGE: Preserving Safety Alignment in Fine-Tuned Large Language Models via Selective Layer-Wise Model Merging**|Aladin Djuhera et.al.|[2503.17239](http://arxiv.org/abs/2503.17239)|null|
 |**2025-03-21**|**Chain-of-Tools: Utilizing Massive Unseen Tools in the CoT Reasoning of Frozen Language Models**|Mengsong Wu et.al.|[2503.16779](http://arxiv.org/abs/2503.16779)|null|
 |**2025-03-15**|**Token-Level Uncertainty-Aware Objective for Language Model Post-Training**|Tingkai Liu et.al.|[2503.16511](http://arxiv.org/abs/2503.16511)|null|
@@ -284,6 +286,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-24**|**Simulation of Fermionic circuits using Majorana Propagation**|Aaron Miller et.al.|[2503.18939](http://arxiv.org/abs/2503.18939)|null|
+|**2025-03-24**|**Convolutional neural network approach to ion Coulomb crystal image analysis**|James Allsopp et.al.|[2503.18846](http://arxiv.org/abs/2503.18846)|null|
+|**2025-03-24**|**Dome-like pressure-temperature phase diagram of the cooperative Jahn--Teller distortion in NaNiO $_2$**|Liam A. V. Nagle-Cocco et.al.|[2503.18833](http://arxiv.org/abs/2503.18833)|null|
+|**2025-03-24**|**Leveraging Land Cover Priors for Isoprene Emission Super-Resolution**|Christopher Ummerle et.al.|[2503.18658](http://arxiv.org/abs/2503.18658)|null|
+|**2025-03-24**|**Unveiling Coverage Dependent Interactions of N-Methylaniline with the Pt(111) Surface**|Bushra Ashraf et.al.|[2503.18330](http://arxiv.org/abs/2503.18330)|null|
+|**2025-03-24**|**On-the-fly Reduced-Order Modeling of the Filter Density Function with Time-Dependent Subspaces**|Aidyn Aitzhan et.al.|[2503.18271](http://arxiv.org/abs/2503.18271)|null|
+|**2025-03-23**|**The Abiogenesis Timescale**|Daniel P. Whitmire et.al.|[2503.18217](http://arxiv.org/abs/2503.18217)|null|
 |**2025-03-21**|**Plasma treated metals after H- irradiation and its effect on vacuum breakdown behaviour**|C. Serafim et.al.|[2503.17360](http://arxiv.org/abs/2503.17360)|null|
 |**2025-03-21**|**Lattice Materials with Topological States Optimized On-Demand**|Pegah Azizi et.al.|[2503.17320](http://arxiv.org/abs/2503.17320)|null|
 |**2025-03-21**|**Determining the N-representability of a reduced density matrix via unitary evolution and stochastic sampling**|Gustavo. E. Massaccesi et.al.|[2503.17303](http://arxiv.org/abs/2503.17303)|null|
