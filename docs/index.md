@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-23**|**SplitFrozen: Split Learning with Device-side Model Frozen for Fine-Tuning LLM on Heterogeneous Resource-Constrained Devices**|Jian Ma et.al.|[2503.18986](http://arxiv.org/abs/2503.18986)|null|
 |**2025-03-23**|**$D^2LoRA$ : Data-Driven LoRA Initialization for Low Resource Tasks**|Javad SeraJ et.al.|[2503.18089](http://arxiv.org/abs/2503.18089)|null|
 |**2025-03-23**|**Lost in Cultural Translation: Do LLMs Struggle with Math Across Cultural Contexts?**|Aabid Karim et.al.|[2503.18018](http://arxiv.org/abs/2503.18018)|null|
 |**2025-03-21**|**SafeMERGE: Preserving Safety Alignment in Fine-Tuned Large Language Models via Selective Layer-Wise Model Merging**|Aladin Djuhera et.al.|[2503.17239](http://arxiv.org/abs/2503.17239)|null|
@@ -286,6 +287,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**Role of enthalpy transport in laminar premixed hydrogen flames at atmospheric and elevated pressures**|Thomas L. Howarth et.al.|[2503.19865](http://arxiv.org/abs/2503.19865)|null|
+|**2025-03-25**|**Kernel Learning Assisted Synthesis Condition Exploration for Ternary Spinel**|Yutong Liu et.al.|[2503.19637](http://arxiv.org/abs/2503.19637)|null|
+|**2025-03-25**|**A multi-scale investigation into the diagnostic potential of the HCN/HCO $^+$ ratio for AGN and starburst activity in nearby galaxies**|J. Butterworth et.al.|[2503.19527](http://arxiv.org/abs/2503.19527)|null|
+|**2025-03-25**|**Compositional Outcomes of Earth Formation from a Narrow Ring**|Katherine I. Dale et.al.|[2503.19526](http://arxiv.org/abs/2503.19526)|null|
+|**2025-03-25**|**Extracting Interpretable Logic Rules from Graph Neural Networks**|Chuqin Geng et.al.|[2503.19476](http://arxiv.org/abs/2503.19476)|null|
+|**2025-03-25**|**Intermolecular Radiative Decay: A non-local decay mechanism providing an insider's view of the solvation shell**|Johan Söderström et.al.|[2503.19435](http://arxiv.org/abs/2503.19435)|null|
+|**2025-03-25**|**Oxidation States in Solids from Data-Driven Paradigms**|Yue Yin et.al.|[2503.19425](http://arxiv.org/abs/2503.19425)|null|
+|**2025-03-25**|**Irradiated Atmospheres II: Interplay Between Scattering and Vertical-Mixing induced Energy Transport**|Zhen-Tai Zhang et.al.|[2503.19327](http://arxiv.org/abs/2503.19327)|null|
+|**2025-03-24**|**Fast and Error-Correctable Quantum RAM**|Francesco Cesa et.al.|[2503.19172](http://arxiv.org/abs/2503.19172)|null|
+|**2025-03-24**|**The robust detection and spatial distribution of acetaldehyde in Orion KL: ALMA observations and chemical modeling**|Miwha Jin et.al.|[2503.19059](http://arxiv.org/abs/2503.19059)|null|
 |**2025-03-24**|**Simulation of Fermionic circuits using Majorana Propagation**|Aaron Miller et.al.|[2503.18939](http://arxiv.org/abs/2503.18939)|null|
 |**2025-03-24**|**Convolutional neural network approach to ion Coulomb crystal image analysis**|James Allsopp et.al.|[2503.18846](http://arxiv.org/abs/2503.18846)|null|
 |**2025-03-24**|**Dome-like pressure-temperature phase diagram of the cooperative Jahn--Teller distortion in NaNiO $_2$**|Liam A. V. Nagle-Cocco et.al.|[2503.18833](http://arxiv.org/abs/2503.18833)|null|
