@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.26
+## Updated on 2025.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -289,7 +289,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-25**|**Role of enthalpy transport in laminar premixed hydrogen flames at atmospheric and elevated pressures**|Thomas L. Howarth et.al.|[2503.19865](http://arxiv.org/abs/2503.19865)|null|
 |**2025-03-25**|**Kernel Learning Assisted Synthesis Condition Exploration for Ternary Spinel**|Yutong Liu et.al.|[2503.19637](http://arxiv.org/abs/2503.19637)|null|
-|**2025-03-25**|**A multi-scale investigation into the diagnostic potential of the HCN/HCO $^+$ ratio for AGN and starburst activity in nearby galaxies**|J. Butterworth et.al.|[2503.19527](http://arxiv.org/abs/2503.19527)|null|
+|**2025-03-26**|**A multi-scale investigation into the diagnostic potential of the HCN/HCO $^+$ ratio for AGN and starburst activity in nearby galaxies**|J. Butterworth et.al.|[2503.19527](http://arxiv.org/abs/2503.19527)|null|
 |**2025-03-25**|**Compositional Outcomes of Earth Formation from a Narrow Ring**|Katherine I. Dale et.al.|[2503.19526](http://arxiv.org/abs/2503.19526)|null|
 |**2025-03-25**|**Extracting Interpretable Logic Rules from Graph Neural Networks**|Chuqin Geng et.al.|[2503.19476](http://arxiv.org/abs/2503.19476)|null|
 |**2025-03-25**|**Intermolecular Radiative Decay: A non-local decay mechanism providing an insider's view of the solvation shell**|Johan Söderström et.al.|[2503.19435](http://arxiv.org/abs/2503.19435)|null|
