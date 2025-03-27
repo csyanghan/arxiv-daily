@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**Qwen2.5-Omni Technical Report**|Jin Xu et.al.|[2503.20215](http://arxiv.org/abs/2503.20215)|null|
 |**2025-03-23**|**SplitFrozen: Split Learning with Device-side Model Frozen for Fine-Tuning LLM on Heterogeneous Resource-Constrained Devices**|Jian Ma et.al.|[2503.18986](http://arxiv.org/abs/2503.18986)|null|
 |**2025-03-23**|**$D^2LoRA$ : Data-Driven LoRA Initialization for Low Resource Tasks**|Javad SeraJ et.al.|[2503.18089](http://arxiv.org/abs/2503.18089)|null|
 |**2025-03-23**|**Lost in Cultural Translation: Do LLMs Struggle with Math Across Cultural Contexts?**|Aabid Karim et.al.|[2503.18018](http://arxiv.org/abs/2503.18018)|null|
@@ -287,6 +288,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**Improving Variational Quantum Circuit Optimization via Hybrid Algorithms and Random Axis Initialization**|Joona V. Pankkonen et.al.|[2503.20728](http://arxiv.org/abs/2503.20728)|null|
+|**2025-03-26**|**Flow of a two-dimensional liquid foam: Impact of surfactant type and boundary conditions**|Farshad Nazari et.al.|[2503.20710](http://arxiv.org/abs/2503.20710)|null|
+|**2025-03-26**|**Orbital optimization of large active spaces via AI-accelerators**|Örs Legeza et.al.|[2503.20700](http://arxiv.org/abs/2503.20700)|null|
+|**2025-03-26**|**Enhanced plasmonic absorption in spontaneous nanocomplexes of metal nanoparticles with surface modified HPHT nanodiamonds**|Vendula Hrncirova et.al.|[2503.20448](http://arxiv.org/abs/2503.20448)|null|
+|**2025-03-26**|**Compositional Analysis of Fragrance Accords Using Femtosecond Thermal Lens Spectroscopy**|Rohit Goswami et.al.|[2503.20431](http://arxiv.org/abs/2503.20431)|null|
+|**2025-03-26**|**Coupled electromigration-nanoindentation study on dislocation nucleation in SrTiO3**|Chukwudalu Okafor et.al.|[2503.20408](http://arxiv.org/abs/2503.20408)|null|
+|**2025-03-26**|**Mathematical crystal chemistry II: Random search for ionic crystals and analysis on oxide crystals registered in ICSD**|Ryotaro Koshoji et.al.|[2503.20273](http://arxiv.org/abs/2503.20273)|null|
+|**2025-03-25**|**Exploiting a Shortcoming of Coupled-Cluster Theory: The Extent of non-Hermiticity as a Diagnostic Indicator of Computational Accuracy**|Kaila E. Weflen et.al.|[2503.20006](http://arxiv.org/abs/2503.20006)|null|
 |**2025-03-25**|**Role of enthalpy transport in laminar premixed hydrogen flames at atmospheric and elevated pressures**|Thomas L. Howarth et.al.|[2503.19865](http://arxiv.org/abs/2503.19865)|null|
 |**2025-03-25**|**Kernel Learning Assisted Synthesis Condition Exploration for Ternary Spinel**|Yutong Liu et.al.|[2503.19637](http://arxiv.org/abs/2503.19637)|null|
 |**2025-03-26**|**A multi-scale investigation into the diagnostic potential of the HCN/HCO $^+$ ratio for AGN and starburst activity in nearby galaxies**|J. Butterworth et.al.|[2503.19527](http://arxiv.org/abs/2503.19527)|null|
