@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-28**|**CPPO: Accelerating the Training of Group Relative Policy Optimization-Based Reasoning Models**|Zhihang Lin et.al.|[2503.22342](http://arxiv.org/abs/2503.22342)|**[link](https://github.com/lzhxmu/cppo)**|
 |**2025-03-26**|**Qwen2.5-Omni Technical Report**|Jin Xu et.al.|[2503.20215](http://arxiv.org/abs/2503.20215)|null|
 |**2025-03-23**|**SplitFrozen: Split Learning with Device-side Model Frozen for Fine-Tuning LLM on Heterogeneous Resource-Constrained Devices**|Jian Ma et.al.|[2503.18986](http://arxiv.org/abs/2503.18986)|null|
 |**2025-03-23**|**$D^2LoRA$ : Data-Driven LoRA Initialization for Low Resource Tasks**|Javad SeraJ et.al.|[2503.18089](http://arxiv.org/abs/2503.18089)|null|
@@ -294,6 +295,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-28**|**Plasmon-Induced Tuning of Cerium Oxidation States in Au@CeO $_x$ Core@Shell Nanoparticles**|Klára Beranová et.al.|[2503.22433](http://arxiv.org/abs/2503.22433)|null|
+|**2025-03-28**|**Analogue of the Mpemba effect in classical mechanics**|Alexei V. Finkelstein et.al.|[2503.22387](http://arxiv.org/abs/2503.22387)|null|
+|**2025-03-28**|**Enhancing Accuracy of Quantum-Selected Configuration Interaction Calculations using Multireference Perturbation Theory: Application to Aromatic Molecules**|Soichi Shirai et.al.|[2503.22221](http://arxiv.org/abs/2503.22221)|null|
 |**2025-03-27**|**Molecular Quantum Transformer**|Yuichi Kamata et.al.|[2503.21686](http://arxiv.org/abs/2503.21686)|null|
 |**2025-03-27**|**Numerical Analysis of the Stability of Iron Dust Bunsen Flames**|Thijs Hazenberg et.al.|[2503.21658](http://arxiv.org/abs/2503.21658)|null|
 |**2025-03-27**|**Ultrafast Charge-Transfer and Auger Decay Processes in Aqueous CaCl $_2$ Solution: Insights from Core-Level Spectroscopy**|Denis Céolin et.al.|[2503.21517](http://arxiv.org/abs/2503.21517)|null|
