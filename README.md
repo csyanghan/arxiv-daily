@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Entropy-Based Adaptive Weighting for Self-Training**|Xiaoxuan Wang et.al.|[2503.23913](http://arxiv.org/abs/2503.23913)|null|
 |**2025-03-28**|**CPPO: Accelerating the Training of Group Relative Policy Optimization-Based Reasoning Models**|Zhihang Lin et.al.|[2503.22342](http://arxiv.org/abs/2503.22342)|**[link](https://github.com/lzhxmu/cppo)**|
 |**2025-03-26**|**Qwen2.5-Omni Technical Report**|Jin Xu et.al.|[2503.20215](http://arxiv.org/abs/2503.20215)|null|
 |**2025-03-23**|**SplitFrozen: Split Learning with Device-side Model Frozen for Fine-Tuning LLM on Heterogeneous Resource-Constrained Devices**|Jian Ma et.al.|[2503.18986](http://arxiv.org/abs/2503.18986)|null|
@@ -295,6 +296,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**The structure and topology of an amorphous metal-organic framework**|Thomas C. Nicholas et.al.|[2503.24367](http://arxiv.org/abs/2503.24367)|null|
+|**2025-03-31**|**BOWIE-ALIGN: Sub-stellar metallicity and carbon depletion in the aligned TrES-4b with JWST NIRSpec transmission spectroscopy**|Annabella Meech et.al.|[2503.24280](http://arxiv.org/abs/2503.24280)|null|
+|**2025-03-31**|**Quantum-computing within a bosonic context: Assessing finite basis effects on prototypical vibrational Hamiltonian spectra**|Joachim Knapik et.al.|[2503.23983](http://arxiv.org/abs/2503.23983)|null|
+|**2025-03-31**|**Distortion of the CMB spectrum by the first molecules of the Dark Ages**|Yurii Kulinich et.al.|[2503.23971](http://arxiv.org/abs/2503.23971)|null|
+|**2025-03-31**|**The Molecular Quantum electro-Dynamics Research Group in Budapest**|Edit Matyus et.al.|[2503.23942](http://arxiv.org/abs/2503.23942)|null|
+|**2025-03-31**|**He-Mg compounds and helium-driven nonmetal transition in metallic magnesium**|Y. S. Huang et.al.|[2503.23874](http://arxiv.org/abs/2503.23874)|null|
+|**2025-03-31**|**Three-dimensional Optical Reconstruction of colloidal electrokinetics via multiplane imaging**|Flip de Jong et.al.|[2503.23839](http://arxiv.org/abs/2503.23839)|null|
+|**2025-03-31**|**Expanding RL with Verifiable Rewards Across Diverse Domains**|Yi Su et.al.|[2503.23829](http://arxiv.org/abs/2503.23829)|null|
+|**2025-03-31**|**Reviewing the fundamentals and best practices to characterize microplastics using state-of-the-art quantum-cascade laser reflectance-absorbance spectroscopy**|Adrian Lopez-Rosales et.al.|[2503.23789](http://arxiv.org/abs/2503.23789)|null|
+|**2025-03-31**|**Modeling Framework to Predict Melting Dynamics at Microstructural Defects in TNT-HMX High Explosive Composites**|Ethan Holbrook et.al.|[2503.23680](http://arxiv.org/abs/2503.23680)|null|
 |**2025-03-28**|**Plasmon-Induced Tuning of Cerium Oxidation States in Au@CeO $_x$ Core@Shell Nanoparticles**|Klára Beranová et.al.|[2503.22433](http://arxiv.org/abs/2503.22433)|null|
 |**2025-03-28**|**Analogue of the Mpemba effect in classical mechanics**|Alexei V. Finkelstein et.al.|[2503.22387](http://arxiv.org/abs/2503.22387)|null|
 |**2025-03-28**|**Enhancing Accuracy of Quantum-Selected Configuration Interaction Calculations using Multireference Perturbation Theory: Application to Aromatic Molecules**|Soichi Shirai et.al.|[2503.22221](http://arxiv.org/abs/2503.22221)|null|
