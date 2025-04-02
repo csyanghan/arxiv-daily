@@ -297,7 +297,7 @@ layout: default
 |**2025-03-31**|**The Molecular Quantum electro-Dynamics Research Group in Budapest**|Edit Matyus et.al.|[2503.23942](http://arxiv.org/abs/2503.23942)|null|
 |**2025-03-31**|**He-Mg compounds and helium-driven nonmetal transition in metallic magnesium**|Y. S. Huang et.al.|[2503.23874](http://arxiv.org/abs/2503.23874)|null|
 |**2025-03-31**|**Three-dimensional Optical Reconstruction of colloidal electrokinetics via multiplane imaging**|Flip de Jong et.al.|[2503.23839](http://arxiv.org/abs/2503.23839)|null|
-|**2025-03-31**|**Expanding RL with Verifiable Rewards Across Diverse Domains**|Yi Su et.al.|[2503.23829](http://arxiv.org/abs/2503.23829)|null|
+|**2025-04-01**|**Crossing the Reward Bridge: Expanding RL with Verifiable Rewards Across Diverse Domains**|Yi Su et.al.|[2503.23829](http://arxiv.org/abs/2503.23829)|null|
 |**2025-03-31**|**Reviewing the fundamentals and best practices to characterize microplastics using state-of-the-art quantum-cascade laser reflectance-absorbance spectroscopy**|Adrian Lopez-Rosales et.al.|[2503.23789](http://arxiv.org/abs/2503.23789)|null|
 |**2025-03-31**|**Modeling Framework to Predict Melting Dynamics at Microstructural Defects in TNT-HMX High Explosive Composites**|Ethan Holbrook et.al.|[2503.23680](http://arxiv.org/abs/2503.23680)|null|
 |**2025-03-28**|**Plasmon-Induced Tuning of Cerium Oxidation States in Au@CeO $_x$ Core@Shell Nanoparticles**|Klára Beranová et.al.|[2503.22433](http://arxiv.org/abs/2503.22433)|null|
