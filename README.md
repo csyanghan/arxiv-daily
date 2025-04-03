@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-02**|**Adaptive Rectification Sampling for Test-Time Compute Scaling**|Zhendong Tan et.al.|[2504.01317](http://arxiv.org/abs/2504.01317)|null|
 |**2025-03-31**|**Entropy-Based Adaptive Weighting for Self-Training**|Xiaoxuan Wang et.al.|[2503.23913](http://arxiv.org/abs/2503.23913)|**[link](https://github.com/mandyyyyii/east)**|
 |**2025-03-28**|**CPPO: Accelerating the Training of Group Relative Policy Optimization-Based Reasoning Models**|Zhihang Lin et.al.|[2503.22342](http://arxiv.org/abs/2503.22342)|**[link](https://github.com/lzhxmu/cppo)**|
 |**2025-03-26**|**Qwen2.5-Omni Technical Report**|Jin Xu et.al.|[2503.20215](http://arxiv.org/abs/2503.20215)|null|
@@ -296,6 +297,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-02**|**A method to derive material-specific spin-bath model descriptions of materials displaying prevalent spin physics (for simulation on NISQ devices)**|Benedikt M. Schoenauer et.al.|[2504.01859](http://arxiv.org/abs/2504.01859)|null|
+|**2025-04-02**|**The untangling number of 3-periodic tangles**|Toky Andriamanalina et.al.|[2504.01747](http://arxiv.org/abs/2504.01747)|null|
+|**2025-04-02**|**Deep Learning-Driven Protein Structure Prediction and Design: Key Model Developments by Nobel Laureates and Multi-Domain Applications**|Wanqing Yang et.al.|[2504.01490](http://arxiv.org/abs/2504.01490)|null|
+|**2025-04-01**|**Exploring the design space of machine-learning models for quantum chemistry with a fully differentiable framework**|Divya Suman et.al.|[2504.01187](http://arxiv.org/abs/2504.01187)|null|
+|**2025-04-01**|**JWST reveals the diversity of nuclear obscuring dust in nearby AGN: nuclear isolation of MIRI/MRS datacubes and continuum spectral fitting**|Omaira González-Martín et.al.|[2504.01103](http://arxiv.org/abs/2504.01103)|null|
+|**2025-04-01**|**Thermal Desorption Kinetics, Binding Energies, and Entrapment of Methyl Mercaptan Ices**|Suchitra Narayanan et.al.|[2504.01102](http://arxiv.org/abs/2504.01102)|**[link](https://zenodo.org/record/14914778)**|
+|**2025-03-31**|**Surface Sensitive Raman Response of Metal-Supported Monolayer MoS $_2$**|Francesco Tumino et.al.|[2504.00208](http://arxiv.org/abs/2504.00208)|null|
 |**2025-03-31**|**The structure and topology of an amorphous metal-organic framework**|Thomas C. Nicholas et.al.|[2503.24367](http://arxiv.org/abs/2503.24367)|null|
 |**2025-03-31**|**BOWIE-ALIGN: Sub-stellar metallicity and carbon depletion in the aligned TrES-4b with JWST NIRSpec transmission spectroscopy**|Annabella Meech et.al.|[2503.24280](http://arxiv.org/abs/2503.24280)|null|
 |**2025-03-31**|**Quantum-computing within a bosonic context: Assessing finite basis effects on prototypical vibrational Hamiltonian spectra**|Joachim Knapik et.al.|[2503.23983](http://arxiv.org/abs/2503.23983)|null|
