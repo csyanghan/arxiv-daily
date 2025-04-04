@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**Large (Vision) Language Models are Unsupervised In-Context Learners**|Artyom Gadetsky et.al.|[2504.02349](http://arxiv.org/abs/2504.02349)|**[link](https://github.com/mlbio-epfl/joint-inference)**|
+|**2025-04-03**|**Reasoning Under 1 Billion: Memory-Augmented Reinforcement Learning for Large Language Models**|Hung Le et.al.|[2504.02273](http://arxiv.org/abs/2504.02273)|null|
+|**2025-04-02**|**Exploring LLM Reasoning Through Controlled Prompt Variations**|Giannis Chatziveroglou et.al.|[2504.02111](http://arxiv.org/abs/2504.02111)|null|
 |**2025-04-02**|**Adaptive Rectification Sampling for Test-Time Compute Scaling**|Zhendong Tan et.al.|[2504.01317](http://arxiv.org/abs/2504.01317)|null|
 |**2025-03-31**|**Entropy-Based Adaptive Weighting for Self-Training**|Xiaoxuan Wang et.al.|[2503.23913](http://arxiv.org/abs/2503.23913)|**[link](https://github.com/mandyyyyii/east)**|
 |**2025-03-28**|**CPPO: Accelerating the Training of Group Relative Policy Optimization-Based Reasoning Models**|Zhihang Lin et.al.|[2503.22342](http://arxiv.org/abs/2503.22342)|**[link](https://github.com/lzhxmu/cppo)**|
@@ -297,6 +300,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**Non-linear elasticity effects and stratification in brushes of branched polyelectrolytes**|Inna O. Lebedeva et.al.|[2504.02783](http://arxiv.org/abs/2504.02783)|null|
+|**2025-04-03**|**Cosmic ray ionisation of a post-impact early Earth atmosphere: Solar cosmic ray ionisation must be considered in origin-of-life scenarios**|S. R. Raeside et.al.|[2504.02596](http://arxiv.org/abs/2504.02596)|null|
+|**2025-04-03**|**Native defects, hydrogen impurities, and metal dopants in CeO $_2$**|Khang Hoang et.al.|[2504.02595](http://arxiv.org/abs/2504.02595)|null|
+|**2025-04-03**|**The Gradient of Mean Molecular Weight Across the Radius Valley**|Kevin Heng et.al.|[2504.02499](http://arxiv.org/abs/2504.02499)|null|
+|**2025-04-02**|**One-dimensional conduction channels in the correlated Mott NiS2 arising from obstructed Wannier charges**|Mikel Iraola et.al.|[2504.02063](http://arxiv.org/abs/2504.02063)|null|
 |**2025-04-02**|**A method to derive material-specific spin-bath model descriptions of materials displaying prevalent spin physics (for simulation on NISQ devices)**|Benedikt M. Schoenauer et.al.|[2504.01859](http://arxiv.org/abs/2504.01859)|null|
 |**2025-04-02**|**The untangling number of 3-periodic tangles**|Toky Andriamanalina et.al.|[2504.01747](http://arxiv.org/abs/2504.01747)|null|
 |**2025-04-02**|**Deep Learning-Driven Protein Structure Prediction and Design: Key Model Developments by Nobel Laureates and Multi-Domain Applications**|Wanqing Yang et.al.|[2504.01490](http://arxiv.org/abs/2504.01490)|null|
