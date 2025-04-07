@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Online Difficulty Filtering for Reasoning Oriented Reinforcement Learning**|Sanghwan Bae et.al.|[2504.03380](http://arxiv.org/abs/2504.03380)|null|
+|**2025-04-04**|**Sustainable LLM Inference for Edge AI: Evaluating Quantized LLMs for Energy Efficiency, Output Accuracy, and Inference Latency**|Erik Johannes Husom et.al.|[2504.03360](http://arxiv.org/abs/2504.03360)|null|
 |**2025-04-03**|**Large (Vision) Language Models are Unsupervised In-Context Learners**|Artyom Gadetsky et.al.|[2504.02349](http://arxiv.org/abs/2504.02349)|**[link](https://github.com/mlbio-epfl/joint-inference)**|
 |**2025-04-03**|**Reasoning Under 1 Billion: Memory-Augmented Reinforcement Learning for Large Language Models**|Hung Le et.al.|[2504.02273](http://arxiv.org/abs/2504.02273)|null|
 |**2025-04-02**|**Exploring LLM Reasoning Through Controlled Prompt Variations**|Giannis Chatziveroglou et.al.|[2504.02111](http://arxiv.org/abs/2504.02111)|null|
@@ -294,6 +296,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Dynamic Training Enhances Machine Learning Potentials for Long-Lasting Molecular Dynamics**|Ivan Žugec et.al.|[2504.03521](http://arxiv.org/abs/2504.03521)|null|
+|**2025-04-04**|**Error estimates of an exponential wave integrator for the nonlinear Schrödinger equation with singular potential**|Weizhu Bao et.al.|[2504.03346](http://arxiv.org/abs/2504.03346)|null|
+|**2025-04-04**|**Typical reconstruction limit and phase transition of maximum entropy method**|Masaru Hitomi et.al.|[2504.03095](http://arxiv.org/abs/2504.03095)|null|
 |**2025-04-03**|**Non-linear elasticity effects and stratification in brushes of branched polyelectrolytes**|Inna O. Lebedeva et.al.|[2504.02783](http://arxiv.org/abs/2504.02783)|null|
 |**2025-04-03**|**Cosmic ray ionisation of a post-impact early Earth atmosphere: Solar cosmic ray ionisation must be considered in origin-of-life scenarios**|S. R. Raeside et.al.|[2504.02596](http://arxiv.org/abs/2504.02596)|null|
 |**2025-04-03**|**Native defects, hydrogen impurities, and metal dopants in CeO $_2$**|Khang Hoang et.al.|[2504.02595](http://arxiv.org/abs/2504.02595)|null|
