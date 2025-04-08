@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use**|Anna Goldie et.al.|[2504.04736](http://arxiv.org/abs/2504.04736)|null|
+|**2025-04-04**|**Sample, Don't Search: Rethinking Test-Time Alignment for Language Models**|Gonçalo Faria et.al.|[2504.03790](http://arxiv.org/abs/2504.03790)|null|
 |**2025-04-04**|**Online Difficulty Filtering for Reasoning Oriented Reinforcement Learning**|Sanghwan Bae et.al.|[2504.03380](http://arxiv.org/abs/2504.03380)|null|
 |**2025-04-04**|**Sustainable LLM Inference for Edge AI: Evaluating Quantized LLMs for Energy Efficiency, Output Accuracy, and Inference Latency**|Erik Johannes Husom et.al.|[2504.03360](http://arxiv.org/abs/2504.03360)|null|
 |**2025-04-03**|**Large (Vision) Language Models are Unsupervised In-Context Learners**|Artyom Gadetsky et.al.|[2504.02349](http://arxiv.org/abs/2504.02349)|**[link](https://github.com/mlbio-epfl/joint-inference)**|
@@ -302,6 +304,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**Discovery of the 7-ring PAH Cyanocoronene (C $_{24}$H$_{11}$ CN) in GOTHAM Observations of TMC-1**|Gabi Wenzel et.al.|[2504.05232](http://arxiv.org/abs/2504.05232)|null|
+|**2025-04-07**|**Sub-Clustering for Class Distance Recalculation in Long-Tailed Drug Classification**|Yujia Su et.al.|[2504.04647](http://arxiv.org/abs/2504.04647)|null|
+|**2025-04-05**|**CutQAS: Topology-aware quantum circuit cutting via reinforcement learning**|Abhishek Sadhu et.al.|[2504.04167](http://arxiv.org/abs/2504.04167)|null|
+|**2025-04-04**|**CREASE-2D Analysis of Small Angle X-ray Scattering Data from Supramolecular Dipeptide Systems**|Nitant Gupta et.al.|[2504.03869](http://arxiv.org/abs/2504.03869)|null|
+|**2025-04-03**|**Chirality-Driven Magnetization Emerges from Relativistic Four-Current Dynamics**|Xuechen Zheng et.al.|[2504.03781](http://arxiv.org/abs/2504.03781)|null|
 |**2025-04-04**|**Dynamic Training Enhances Machine Learning Potentials for Long-Lasting Molecular Dynamics**|Ivan Žugec et.al.|[2504.03521](http://arxiv.org/abs/2504.03521)|null|
 |**2025-04-04**|**Error estimates of an exponential wave integrator for the nonlinear Schrödinger equation with singular potential**|Weizhu Bao et.al.|[2504.03346](http://arxiv.org/abs/2504.03346)|null|
 |**2025-04-04**|**Typical reconstruction limit and phase transition of maximum entropy method**|Masaru Hitomi et.al.|[2504.03095](http://arxiv.org/abs/2504.03095)|null|
