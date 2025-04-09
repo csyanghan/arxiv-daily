@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.08
+## Updated on 2025.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -301,7 +301,7 @@ layout: default
 |**2025-04-07**|**Discovery of the 7-ring PAH Cyanocoronene (C $_{24}$H$_{11}$ CN) in GOTHAM Observations of TMC-1**|Gabi Wenzel et.al.|[2504.05232](http://arxiv.org/abs/2504.05232)|null|
 |**2025-04-07**|**Sub-Clustering for Class Distance Recalculation in Long-Tailed Drug Classification**|Yujia Su et.al.|[2504.04647](http://arxiv.org/abs/2504.04647)|null|
 |**2025-04-05**|**CutQAS: Topology-aware quantum circuit cutting via reinforcement learning**|Abhishek Sadhu et.al.|[2504.04167](http://arxiv.org/abs/2504.04167)|null|
-|**2025-04-04**|**CREASE-2D Analysis of Small Angle X-ray Scattering Data from Supramolecular Dipeptide Systems**|Nitant Gupta et.al.|[2504.03869](http://arxiv.org/abs/2504.03869)|null|
+|**2025-04-04**|**CREASE-2D Analysis of Small Angle X-ray Scattering Data from Supramolecular Dipeptide Systems**|Nitant Gupta et.al.|[2504.03869](http://arxiv.org/abs/2504.03869)|**[link](https://github.com/arthijayaraman-lab/CREASE-2D-Analysis-of-Small-Angle-X-ray-Scattering-Data-from-Supramolecular-Dipeptide-Systems)**|
 |**2025-04-03**|**Chirality-Driven Magnetization Emerges from Relativistic Four-Current Dynamics**|Xuechen Zheng et.al.|[2504.03781](http://arxiv.org/abs/2504.03781)|null|
 |**2025-04-04**|**Dynamic Training Enhances Machine Learning Potentials for Long-Lasting Molecular Dynamics**|Ivan Žugec et.al.|[2504.03521](http://arxiv.org/abs/2504.03521)|null|
 |**2025-04-04**|**Error estimates of an exponential wave integrator for the nonlinear Schrödinger equation with singular potential**|Weizhu Bao et.al.|[2504.03346](http://arxiv.org/abs/2504.03346)|null|
