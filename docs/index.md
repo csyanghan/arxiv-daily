@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**EduPlanner: LLM-Based Multi-Agent Systems for Customized and Intelligent Instructional Design**|Xueqiao Zhang et.al.|[2504.05370](http://arxiv.org/abs/2504.05370)|null|
 |**2025-04-07**|**Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use**|Anna Goldie et.al.|[2504.04736](http://arxiv.org/abs/2504.04736)|null|
 |**2025-04-04**|**Sample, Don't Search: Rethinking Test-Time Alignment for Language Models**|Gonçalo Faria et.al.|[2504.03790](http://arxiv.org/abs/2504.03790)|null|
 |**2025-04-04**|**Online Difficulty Filtering for Reasoning Oriented Reinforcement Learning**|Sanghwan Bae et.al.|[2504.03380](http://arxiv.org/abs/2504.03380)|null|
@@ -298,6 +299,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning through Bayesian Optimization**|Bojana Ranković et.al.|[2504.06265](http://arxiv.org/abs/2504.06265)|null|
+|**2025-04-08**|**Orb-v3: atomistic simulation at scale**|Benjamin Rhodes et.al.|[2504.06231](http://arxiv.org/abs/2504.06231)|null|
+|**2025-04-08**|**TxGemma: Efficient and Agentic LLMs for Therapeutics**|Eric Wang et.al.|[2504.06196](http://arxiv.org/abs/2504.06196)|null|
+|**2025-04-08**|**Differential diffusion effects and super-adiabatic local temperature in lean hydrogen-air turbulent flames**|H. C. Lee et.al.|[2504.06168](http://arxiv.org/abs/2504.06168)|null|
+|**2025-04-08**|**Accurate Ab-initio Neural-network Solutions to Large-Scale Electronic Structure Problems**|Michael Scherbela et.al.|[2504.06087](http://arxiv.org/abs/2504.06087)|null|
+|**2025-04-08**|**Have you tried turning it off and on again? Stochastic resetting for enhanced sampling**|Ofir Blumer et.al.|[2504.05982](http://arxiv.org/abs/2504.05982)|null|
+|**2025-04-08**|**MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models**|Pengfei Zhou et.al.|[2504.05782](http://arxiv.org/abs/2504.05782)|null|
+|**2025-04-07**|**Core-Excited States of Linear and Bent Uranyl Complexes: Insights from High-Energy Resolution X-ray Spectroscopy and Relativistic Quantum Chemistry**|Wilken Aldair Misael et.al.|[2504.05542](http://arxiv.org/abs/2504.05542)|null|
+|**2025-04-07**|**The UV Legacy Library of Young Stars as Essential Standards (ULLYSES) Large Director's Discretionary Program with Hubble. I. Goals, Design, and Initial Results**|Julia Roman-Duval et.al.|[2504.05446](http://arxiv.org/abs/2504.05446)|null|
+|**2025-04-07**|**Defect chemistry of mixed ionic-electronic conductors under light: halide perovskites as master example**|Davide Moia et.al.|[2504.05414](http://arxiv.org/abs/2504.05414)|null|
 |**2025-04-07**|**Discovery of the 7-ring PAH Cyanocoronene (C $_{24}$H$_{11}$ CN) in GOTHAM Observations of TMC-1**|Gabi Wenzel et.al.|[2504.05232](http://arxiv.org/abs/2504.05232)|null|
 |**2025-04-07**|**Sub-Clustering for Class Distance Recalculation in Long-Tailed Drug Classification**|Yujia Su et.al.|[2504.04647](http://arxiv.org/abs/2504.04647)|null|
 |**2025-04-05**|**CutQAS: Topology-aware quantum circuit cutting via reinforcement learning**|Abhishek Sadhu et.al.|[2504.04167](http://arxiv.org/abs/2504.04167)|null|
