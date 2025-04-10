@@ -299,6 +299,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**A Practical Cross-Platform, Multi-Algorithm Study of Quantum Optimisation for Configurational Analysis of Materials**|Kieran McDowall et.al.|[2504.06885](http://arxiv.org/abs/2504.06885)|null|
+|**2025-04-09**|**Surface Oxidation of SnTe Analyzed by Self-Consistent Fitting of all Emission Peaks in its X-ray Photoelectron Spectrum**|Martin Wortmann et.al.|[2504.06875](http://arxiv.org/abs/2504.06875)|null|
+|**2025-04-09**|**TOI-6478 b: a cold under-dense Neptune transiting a fully convective M dwarf from the thick disc**|Madison G. Scott et.al.|[2504.06848](http://arxiv.org/abs/2504.06848)|null|
+|**2025-04-09**|**Identifying the Nano Interface Through Phase**|Madhuri Mukhopadhyay et.al.|[2504.06655](http://arxiv.org/abs/2504.06655)|null|
+|**2025-04-08**|**Electric-Field-Controlled Chemical Reaction via Piezo-Chemistry Creates Programmable Material Stiffness**|Jun Wang et.al.|[2504.06405](http://arxiv.org/abs/2504.06405)|null|
+|**2025-04-08**|**A comprehensive framework to simulate real-time chemical dynamics on a fault-tolerant quantum computer**|Felipe H. da Jornada et.al.|[2504.06348](http://arxiv.org/abs/2504.06348)|null|
 |**2025-04-08**|**GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning through Bayesian Optimization**|Bojana Ranković et.al.|[2504.06265](http://arxiv.org/abs/2504.06265)|null|
 |**2025-04-08**|**Orb-v3: atomistic simulation at scale**|Benjamin Rhodes et.al.|[2504.06231](http://arxiv.org/abs/2504.06231)|null|
 |**2025-04-08**|**TxGemma: Efficient and Agentic LLMs for Therapeutics**|Eric Wang et.al.|[2504.06196](http://arxiv.org/abs/2504.06196)|null|
