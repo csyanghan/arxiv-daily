@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -305,7 +305,7 @@ layout: default
 |**2025-04-09**|**Identifying the Nano Interface Through Phase**|Madhuri Mukhopadhyay et.al.|[2504.06655](http://arxiv.org/abs/2504.06655)|null|
 |**2025-04-08**|**Electric-Field-Controlled Chemical Reaction via Piezo-Chemistry Creates Programmable Material Stiffness**|Jun Wang et.al.|[2504.06405](http://arxiv.org/abs/2504.06405)|null|
 |**2025-04-08**|**A comprehensive framework to simulate real-time chemical dynamics on a fault-tolerant quantum computer**|Felipe H. da Jornada et.al.|[2504.06348](http://arxiv.org/abs/2504.06348)|null|
-|**2025-04-08**|**GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning through Bayesian Optimization**|Bojana Ranković et.al.|[2504.06265](http://arxiv.org/abs/2504.06265)|null|
+|**2025-04-09**|**GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning through Bayesian Optimization**|Bojana Ranković et.al.|[2504.06265](http://arxiv.org/abs/2504.06265)|null|
 |**2025-04-08**|**Orb-v3: atomistic simulation at scale**|Benjamin Rhodes et.al.|[2504.06231](http://arxiv.org/abs/2504.06231)|null|
 |**2025-04-08**|**TxGemma: Efficient and Agentic LLMs for Therapeutics**|Eric Wang et.al.|[2504.06196](http://arxiv.org/abs/2504.06196)|null|
 |**2025-04-08**|**Differential diffusion effects and super-adiabatic local temperature in lean hydrogen-air turbulent flames**|H. C. Lee et.al.|[2504.06168](http://arxiv.org/abs/2504.06168)|null|

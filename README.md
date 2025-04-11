@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -299,7 +299,7 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 ## AI for Science
 
@@ -311,7 +311,7 @@
 |**2025-04-09**|**Identifying the Nano Interface Through Phase**|Madhuri Mukhopadhyay et.al.|[2504.06655](http://arxiv.org/abs/2504.06655)|null|
 |**2025-04-08**|**Electric-Field-Controlled Chemical Reaction via Piezo-Chemistry Creates Programmable Material Stiffness**|Jun Wang et.al.|[2504.06405](http://arxiv.org/abs/2504.06405)|null|
 |**2025-04-08**|**A comprehensive framework to simulate real-time chemical dynamics on a fault-tolerant quantum computer**|Felipe H. da Jornada et.al.|[2504.06348](http://arxiv.org/abs/2504.06348)|null|
-|**2025-04-08**|**GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning through Bayesian Optimization**|Bojana Ranković et.al.|[2504.06265](http://arxiv.org/abs/2504.06265)|null|
+|**2025-04-09**|**GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning through Bayesian Optimization**|Bojana Ranković et.al.|[2504.06265](http://arxiv.org/abs/2504.06265)|null|
 |**2025-04-08**|**Orb-v3: atomistic simulation at scale**|Benjamin Rhodes et.al.|[2504.06231](http://arxiv.org/abs/2504.06231)|null|
 |**2025-04-08**|**TxGemma: Efficient and Agentic LLMs for Therapeutics**|Eric Wang et.al.|[2504.06196](http://arxiv.org/abs/2504.06196)|null|
 |**2025-04-08**|**Differential diffusion effects and super-adiabatic local temperature in lean hydrogen-air turbulent flames**|H. C. Lee et.al.|[2504.06168](http://arxiv.org/abs/2504.06168)|null|
@@ -1504,7 +1504,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
