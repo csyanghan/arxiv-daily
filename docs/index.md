@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-10**|**Supervised Optimism Correction: Be Confident When LLMs Are Sure**|Junjie Zhang et.al.|[2504.07527](http://arxiv.org/abs/2504.07527)|null|
+|**2025-04-10**|**Task-Circuit Quantization: Leveraging Knowledge Localization and Interpretability for Compression**|Hanqi Xiao et.al.|[2504.07389](http://arxiv.org/abs/2504.07389)|null|
+|**2025-04-09**|**MDIT: A Model-free Data Interpolation Method for Diverse Instruction Tuning**|Yangning Li et.al.|[2504.07288](http://arxiv.org/abs/2504.07288)|null|
 |**2025-04-07**|**EduPlanner: LLM-Based Multi-Agent Systems for Customized and Intelligent Instructional Design**|Xueqiao Zhang et.al.|[2504.05370](http://arxiv.org/abs/2504.05370)|null|
 |**2025-04-07**|**Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use**|Anna Goldie et.al.|[2504.04736](http://arxiv.org/abs/2504.04736)|null|
 |**2025-04-04**|**Sample, Don't Search: Rethinking Test-Time Alignment for Language Models**|Gonçalo Faria et.al.|[2504.03790](http://arxiv.org/abs/2504.03790)|null|
@@ -299,6 +302,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-10**|**Pushing the Accuracy Limit of Foundation Neural Network Models with Quantum Monte Carlo Forces and Path Integrals**|Anouar Benali et.al.|[2504.07948](http://arxiv.org/abs/2504.07948)|null|
+|**2025-04-10**|**Inverse Design of Block Polymer Materials with Desired Nanoscale Structure and Macroscale Properties**|Vinson Liao et.al.|[2504.07834](http://arxiv.org/abs/2504.07834)|null|
+|**2025-04-10**|**A new look into the atmospheric composition of WASP-39 b**|Sushuang Ma et.al.|[2504.07823](http://arxiv.org/abs/2504.07823)|null|
+|**2025-04-10**|**Ground State Energy of Helium Using a Four-Qubit Photonic Processor with the Variational Quantum Eigensolver (VQE)**|Badie Ghavami et.al.|[2504.07568](http://arxiv.org/abs/2504.07568)|null|
+|**2025-04-10**|**Infrared Spectroscopy of Pentagon-Containing PAHs: Indenyl and Fluorenyl Anions and Indenyl Cation**|Gabi Wenzel et.al.|[2504.07512](http://arxiv.org/abs/2504.07512)|null|
+|**2025-04-09**|**Data Fusion of Deep Learned Molecular Embeddings for Property Prediction**|Robert J Appleton et.al.|[2504.07297](http://arxiv.org/abs/2504.07297)|null|
+|**2025-04-09**|**Tuning Diblock Copolymer Morphology by Adding Associative Homopolymers**|Xiangyu Zhang et.al.|[2504.07241](http://arxiv.org/abs/2504.07241)|null|
+|**2025-04-09**|**Emergent kinetics of in vitro transcription from interactions of T7 RNA polymerase and DNA**|Nathan M. Stover et.al.|[2504.07212](http://arxiv.org/abs/2504.07212)|null|
 |**2025-04-09**|**A Practical Cross-Platform, Multi-Algorithm Study of Quantum Optimisation for Configurational Analysis of Materials**|Kieran McDowall et.al.|[2504.06885](http://arxiv.org/abs/2504.06885)|null|
 |**2025-04-09**|**Surface Oxidation of SnTe Analyzed by Self-Consistent Fitting of all Emission Peaks in its X-ray Photoelectron Spectrum**|Martin Wortmann et.al.|[2504.06875](http://arxiv.org/abs/2504.06875)|null|
 |**2025-04-09**|**TOI-6478 b: a cold under-dense Neptune transiting a fully convective M dwarf from the thick disc**|Madison G. Scott et.al.|[2504.06848](http://arxiv.org/abs/2504.06848)|null|
