@@ -18,10 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**Executable Functional Abstractions: Inferring Generative Programs for Advanced Math Problems**|Zaid Khan et.al.|[2504.09763](http://arxiv.org/abs/2504.09763)|null|
+|**2025-04-13**|**Syzygy of Thoughts: Improving LLM CoT with the Minimal Free Resolution**|Chenghao Li et.al.|[2504.09566](http://arxiv.org/abs/2504.09566)|null|
+|**2025-04-13**|**Question Tokens Deserve More Attention: Enhancing Large Language Models without Training through Step-by-Step Reading and Question Attention Recalibration**|Feijiang Han et.al.|[2504.09402](http://arxiv.org/abs/2504.09402)|null|
 |**2025-04-07**|**SEAL: Steerable Reasoning Calibration of Large Language Models for Free**|Runjin Chen et.al.|[2504.07986](http://arxiv.org/abs/2504.07986)|null|
 |**2025-04-10**|**Supervised Optimism Correction: Be Confident When LLMs Are Sure**|Junjie Zhang et.al.|[2504.07527](http://arxiv.org/abs/2504.07527)|null|
 |**2025-04-10**|**Task-Circuit Quantization: Leveraging Knowledge Localization and Interpretability for Compression**|Hanqi Xiao et.al.|[2504.07389](http://arxiv.org/abs/2504.07389)|**[link](https://github.com/the-inscrutable-x/tacq)**|
-|**2025-04-09**|**MDIT: A Model-free Data Interpolation Method for Diverse Instruction Tuning**|Yangning Li et.al.|[2504.07288](http://arxiv.org/abs/2504.07288)|null|
+|**2025-04-14**|**MDIT: A Model-free Data Interpolation Method for Diverse Instruction Tuning**|Yangning Li et.al.|[2504.07288](http://arxiv.org/abs/2504.07288)|null|
 |**2025-04-07**|**EduPlanner: LLM-Based Multi-Agent Systems for Customized and Intelligent Instructional Design**|Xueqiao Zhang et.al.|[2504.05370](http://arxiv.org/abs/2504.05370)|null|
 |**2025-04-07**|**Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use**|Anna Goldie et.al.|[2504.04736](http://arxiv.org/abs/2504.04736)|null|
 |**2025-04-04**|**Sample, Don't Search: Rethinking Test-Time Alignment for Language Models**|Gonçalo Faria et.al.|[2504.03790](http://arxiv.org/abs/2504.03790)|null|
@@ -309,6 +312,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**De-excitation of $K$-shell hollow atoms with $12 \le Z \le 20$ : transition rates and branching ratios**|Karol Kozioł et.al.|[2504.10467](http://arxiv.org/abs/2504.10467)|null|
+|**2025-04-14**|**Discovery of an intriguing chemically rich outflow in the OMC-2/3 filament**|M. Bouvier et.al.|[2504.10133](http://arxiv.org/abs/2504.10133)|null|
+|**2025-04-14**|**Relativistic Quantum Simulation of Hydrogen Sulfide for Hydrogen Energy via Hybrid Quantum-Classical Algorithms**|Chi-Chuan Hwang et.al.|[2504.10069](http://arxiv.org/abs/2504.10069)|null|
+|**2025-04-14**|**A Practical Framework for Assessing the Performance of Observable Estimation in Quantum Simulation**|Siyuan Niu et.al.|[2504.09813](http://arxiv.org/abs/2504.09813)|null|
+|**2025-04-12**|**Tunable Molecular Interactions Near an Atomic Feshbach Resonance: Stability and Collapse of a Molecular Bose-Einstein Condensate**|Zhiqiang Wang et.al.|[2504.09183](http://arxiv.org/abs/2504.09183)|null|
+|**2025-04-12**|**The Chemistry and Physics of $^{199}$ Hg Nuclear Spin Polarization Relaxation in Quantum Magnetometry Cells**|Steven K. Lamoreaux et.al.|[2504.09040](http://arxiv.org/abs/2504.09040)|null|
+|**2025-04-11**|**Distilling and exploiting quantitative insights from Large Language Models for enhanced Bayesian optimization of chemical reactions**|Roshan Patel et.al.|[2504.08874](http://arxiv.org/abs/2504.08874)|null|
 |**2025-04-11**|**A Generic Explanation of the Mechanism of Co-solvency**|Xiangyu Zhang et.al.|[2504.08688](http://arxiv.org/abs/2504.08688)|null|
 |**2025-04-11**|**Computational Stochastic Mechanics of a Simple Bound State**|Nathaniel A. Lynd et.al.|[2504.08669](http://arxiv.org/abs/2504.08669)|null|
 |**2025-04-10**|**Coordinated Space and Ground-Based Monitoring of Accretion Bursts in a Protoplanetary Disk: Establishing Mid-Infrared Hydrogen Lines as Accretion Diagnostics for JWST-MIRI**|Benjamin M. Tofflemire et.al.|[2504.08029](http://arxiv.org/abs/2504.08029)|null|
