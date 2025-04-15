@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.14
+## Updated on 2025.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -309,7 +309,7 @@ layout: default
 |**2025-04-11**|**Pushing the Accuracy Limit of Foundation Neural Network Models with Quantum Monte Carlo Forces and Path Integrals**|Anouar Benali et.al.|[2504.07948](http://arxiv.org/abs/2504.07948)|null|
 |**2025-04-10**|**Inverse Design of Block Polymer Materials with Desired Nanoscale Structure and Macroscale Properties**|Vinson Liao et.al.|[2504.07834](http://arxiv.org/abs/2504.07834)|null|
 |**2025-04-10**|**A new look into the atmospheric composition of WASP-39 b**|Sushuang Ma et.al.|[2504.07823](http://arxiv.org/abs/2504.07823)|null|
-|**2025-04-10**|**Ground State Energy of Helium Using a Four-Qubit Photonic Processor with the Variational Quantum Eigensolver (VQE)**|Badie Ghavami et.al.|[2504.07568](http://arxiv.org/abs/2504.07568)|null|
+|**2025-04-12**|**Ground State Energy of He molecule Using a Four-Qubit Photonic Processor with the Variational Quantum Eigensolver**|Badie Ghavami et.al.|[2504.07568](http://arxiv.org/abs/2504.07568)|null|
 |**2025-04-10**|**Infrared Spectroscopy of Pentagon-Containing PAHs: Indenyl and Fluorenyl Anions and Indenyl Cation**|Gabi Wenzel et.al.|[2504.07512](http://arxiv.org/abs/2504.07512)|null|
 |**2025-04-09**|**Data Fusion of Deep Learned Molecular Embeddings for Property Prediction**|Robert J Appleton et.al.|[2504.07297](http://arxiv.org/abs/2504.07297)|null|
 |**2025-04-09**|**Tuning Diblock Copolymer Morphology by Adding Associative Homopolymers**|Xiangyu Zhang et.al.|[2504.07241](http://arxiv.org/abs/2504.07241)|null|
