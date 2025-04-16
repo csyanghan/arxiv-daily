@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**Efficient Process Reward Model Training via Active Learning**|Keyu Duan et.al.|[2504.10559](http://arxiv.org/abs/2504.10559)|null|
 |**2025-04-14**|**Executable Functional Abstractions: Inferring Generative Programs for Advanced Math Problems**|Zaid Khan et.al.|[2504.09763](http://arxiv.org/abs/2504.09763)|null|
 |**2025-04-13**|**Syzygy of Thoughts: Improving LLM CoT with the Minimal Free Resolution**|Chenghao Li et.al.|[2504.09566](http://arxiv.org/abs/2504.09566)|null|
 |**2025-04-13**|**Question Tokens Deserve More Attention: Enhancing Large Language Models without Training through Step-by-Step Reading and Question Attention Recalibration**|Feijiang Han et.al.|[2504.09402](http://arxiv.org/abs/2504.09402)|null|
@@ -312,6 +313,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**MINDS. Anatomy of a water-rich, inclined, brown dwarf disk: lack of abundant hydrocarbons**|Giulia Perotti et.al.|[2504.11424](http://arxiv.org/abs/2504.11424)|null|
+|**2025-04-15**|**Advances in Prebiotic Chemistry: the potential of Analog Computing and Navier-Stokes Nernst-Planck (NPNS) Modeling in Organic Electronics Technologies (OECTs)**|Giuseppe De Giorgio et.al.|[2504.11401](http://arxiv.org/abs/2504.11401)|null|
+|**2025-04-15**|**Assessing Tensor Network Quantum Emulators for Hamiltonian Simulation of Pharmaceutical Molecules: Challenges and Limitations in Drug Discovery Applications**|Marek Kowalik et.al.|[2504.11399](http://arxiv.org/abs/2504.11399)|null|
+|**2025-04-15**|**Mildly-Interacting Fermionic Unitaries are Efficiently Learnable**|Vishnu Iyer et.al.|[2504.11318](http://arxiv.org/abs/2504.11318)|null|
+|**2025-04-15**|**Adjustable Molecular Cross-Linkage of MXene Layers for Tunable Charge Transport and VOC Sensing**|Yudhajit Bhattacharjee et.al.|[2504.11166](http://arxiv.org/abs/2504.11166)|null|
+|**2025-04-15**|**Synthesis and characterization of gold-coated nanodiamonds through green chemistry as potential radiosensitizers for proton therapy**|Edgar Mendes et.al.|[2504.11061](http://arxiv.org/abs/2504.11061)|null|
+|**2025-04-14**|**Optimizing Data Distribution and Kernel Performance for Efficient Training of Chemistry Foundation Models: A Case Study with MACE**|Jesun Firoz et.al.|[2504.10700](http://arxiv.org/abs/2504.10700)|null|
+|**2025-04-14**|**Grain Boundary Space Charge Engineering of Solid Oxide Electrolytes: Model Thin Film Study**|Thomas Defferriere et.al.|[2504.10684](http://arxiv.org/abs/2504.10684)|null|
+|**2025-04-14**|**Tracing long-lived atomic coherences generated via molecular conical intersections**|Patrick Rupprecht et.al.|[2504.10674](http://arxiv.org/abs/2504.10674)|null|
 |**2025-04-14**|**De-excitation of $K$-shell hollow atoms with $12 \le Z \le 20$ : transition rates and branching ratios**|Karol Kozioł et.al.|[2504.10467](http://arxiv.org/abs/2504.10467)|null|
 |**2025-04-14**|**Discovery of an intriguing chemically rich outflow in the OMC-2/3 filament**|M. Bouvier et.al.|[2504.10133](http://arxiv.org/abs/2504.10133)|null|
 |**2025-04-14**|**Relativistic Quantum Simulation of Hydrogen Sulfide for Hydrogen Energy via Hybrid Quantum-Classical Algorithms**|Chi-Chuan Hwang et.al.|[2504.10069](http://arxiv.org/abs/2504.10069)|null|
