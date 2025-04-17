@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Entropy-Guided Watermarking for LLMs: A Test-Time Framework for Robust and Traceable Text Generation**|Shizhan Cai et.al.|[2504.12108](http://arxiv.org/abs/2504.12108)|null|
+|**2025-04-16**|**Rethinking the Generation of High-Quality CoT Data from the Perspective of LLM-Adaptive Question Difficulty Grading**|Qianjin Yu et.al.|[2504.11919](http://arxiv.org/abs/2504.11919)|null|
 |**2025-04-14**|**Efficient Process Reward Model Training via Active Learning**|Keyu Duan et.al.|[2504.10559](http://arxiv.org/abs/2504.10559)|null|
 |**2025-04-14**|**Executable Functional Abstractions: Inferring Generative Programs for Advanced Math Problems**|Zaid Khan et.al.|[2504.09763](http://arxiv.org/abs/2504.09763)|null|
 |**2025-04-16**|**Syzygy of Thoughts: Improving LLM CoT with the Minimal Free Resolution**|Chenghao Li et.al.|[2504.09566](http://arxiv.org/abs/2504.09566)|null|
@@ -307,6 +309,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Interface, bulk and surface structure of heteroepitaxial altermagnetic α-MnTe films grown on GaAs(111)**|Sara Bey et.al.|[2504.12126](http://arxiv.org/abs/2504.12126)|null|
+|**2025-04-16**|**Lifelong and Universal Machine Learning Potentials for Chemical Reaction Network Explorations**|Marco Eckhoff et.al.|[2504.11933](http://arxiv.org/abs/2504.11933)|null|
+|**2025-04-16**|**Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching**|Aaron Havens et.al.|[2504.11713](http://arxiv.org/abs/2504.11713)|null|
+|**2025-04-16**|**Radiative Flux from a High-Resolution Atmospheric Dynamics Simulation of a Hot-Jupiter for JWST and Ariel**|Jagat Kafle et.al.|[2504.11679](http://arxiv.org/abs/2504.11679)|null|
 |**2025-04-15**|**MINDS. Anatomy of a water-rich, inclined, brown dwarf disk: lack of abundant hydrocarbons**|Giulia Perotti et.al.|[2504.11424](http://arxiv.org/abs/2504.11424)|null|
 |**2025-04-15**|**Advances in Prebiotic Chemistry: the potential of Analog Computing and Navier-Stokes Nernst-Planck (NPNS) Modeling in Organic Electronics Technologies (OECTs)**|Giuseppe De Giorgio et.al.|[2504.11401](http://arxiv.org/abs/2504.11401)|null|
 |**2025-04-15**|**Assessing Tensor Network Quantum Emulators for Hamiltonian Simulation of Pharmaceutical Molecules: Challenges and Limitations in Drug Discovery Applications**|Marek Kowalik et.al.|[2504.11399](http://arxiv.org/abs/2504.11399)|null|
