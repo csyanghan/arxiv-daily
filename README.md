@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.16
+## Updated on 2025.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |---|---|---|---|---|
 |**2025-04-14**|**Efficient Process Reward Model Training via Active Learning**|Keyu Duan et.al.|[2504.10559](http://arxiv.org/abs/2504.10559)|null|
 |**2025-04-14**|**Executable Functional Abstractions: Inferring Generative Programs for Advanced Math Problems**|Zaid Khan et.al.|[2504.09763](http://arxiv.org/abs/2504.09763)|null|
-|**2025-04-13**|**Syzygy of Thoughts: Improving LLM CoT with the Minimal Free Resolution**|Chenghao Li et.al.|[2504.09566](http://arxiv.org/abs/2504.09566)|null|
+|**2025-04-16**|**Syzygy of Thoughts: Improving LLM CoT with the Minimal Free Resolution**|Chenghao Li et.al.|[2504.09566](http://arxiv.org/abs/2504.09566)|null|
 |**2025-04-13**|**Question Tokens Deserve More Attention: Enhancing Large Language Models without Training through Step-by-Step Reading and Question Attention Recalibration**|Feijiang Han et.al.|[2504.09402](http://arxiv.org/abs/2504.09402)|null|
 |**2025-04-07**|**SEAL: Steerable Reasoning Calibration of Large Language Models for Free**|Runjin Chen et.al.|[2504.07986](http://arxiv.org/abs/2504.07986)|**[link](https://github.com/vita-group/seal)**|
 |**2025-04-10**|**Supervised Optimism Correction: Be Confident When LLMs Are Sure**|Junjie Zhang et.al.|[2504.07527](http://arxiv.org/abs/2504.07527)|null|
@@ -307,7 +307,7 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
 ## AI for Science
 
@@ -1539,7 +1539,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
