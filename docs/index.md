@@ -309,6 +309,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**Energy Landscape Plummeting in Variational Quantum Eigensolver: Subspace Optimization, Non-iterative Corrections and Generator-informed Initialization for Improved Quantum Efficiency**|Chayan Patra et.al.|[2504.13097](http://arxiv.org/abs/2504.13097)|null|
+|**2025-04-17**|**Evidence for sulfur chemistry in the atmosphere of the warm sub-Neptune TOI-270 d**|Lukas Felix et.al.|[2504.13039](http://arxiv.org/abs/2504.13039)|null|
+|**2025-04-17**|**Hardness of classically sampling quantum chemistry circuits**|Ayoub Hafid et.al.|[2504.12893](http://arxiv.org/abs/2504.12893)|null|
+|**2025-04-17**|**Enantiospecific Two-Photon Electric-Dipole Selection Rules of Chiral Molecules**|Fen Zou et.al.|[2504.12648](http://arxiv.org/abs/2504.12648)|null|
+|**2025-04-17**|**Sampling-based Quantum Optimization Algorithm with Quantum Relaxation**|Hiromichi Matsuyama et.al.|[2504.12629](http://arxiv.org/abs/2504.12629)|null|
+|**2025-04-17**|**Solving Constrained Combinatorial Optimization Problems with Variational Quantum Imaginary Time Evolution**|Xin Wei Lee et.al.|[2504.12607](http://arxiv.org/abs/2504.12607)|null|
+|**2025-04-17**|**ChemKANs for Combustion Chemistry Modeling and Acceleration**|Benjamin C. Koenig et.al.|[2504.12580](http://arxiv.org/abs/2504.12580)|null|
 |**2025-04-16**|**Interface, bulk and surface structure of heteroepitaxial altermagnetic α-MnTe films grown on GaAs(111)**|Sara Bey et.al.|[2504.12126](http://arxiv.org/abs/2504.12126)|null|
 |**2025-04-16**|**Lifelong and Universal Machine Learning Potentials for Chemical Reaction Network Explorations**|Marco Eckhoff et.al.|[2504.11933](http://arxiv.org/abs/2504.11933)|null|
 |**2025-04-16**|**Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching**|Aaron Havens et.al.|[2504.11713](http://arxiv.org/abs/2504.11713)|null|
