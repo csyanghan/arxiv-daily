@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.19
+## Updated on 2025.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-16**|**Entropy-Guided Watermarking for LLMs: A Test-Time Framework for Robust and Traceable Text Generation**|Shizhan Cai et.al.|[2504.12108](http://arxiv.org/abs/2504.12108)|null|
 |**2025-04-16**|**Rethinking the Generation of High-Quality CoT Data from the Perspective of LLM-Adaptive Question Difficulty Grading**|Qianjin Yu et.al.|[2504.11919](http://arxiv.org/abs/2504.11919)|null|
-|**2025-04-14**|**Efficient Process Reward Model Training via Active Learning**|Keyu Duan et.al.|[2504.10559](http://arxiv.org/abs/2504.10559)|null|
+|**2025-04-14**|**Efficient Process Reward Model Training via Active Learning**|Keyu Duan et.al.|[2504.10559](http://arxiv.org/abs/2504.10559)|**[link](https://github.com/sail-sg/activeprm)**|
 |**2025-04-14**|**Executable Functional Abstractions: Inferring Generative Programs for Advanced Math Problems**|Zaid Khan et.al.|[2504.09763](http://arxiv.org/abs/2504.09763)|null|
 |**2025-04-16**|**Syzygy of Thoughts: Improving LLM CoT with the Minimal Free Resolution**|Chenghao Li et.al.|[2504.09566](http://arxiv.org/abs/2504.09566)|null|
 |**2025-04-13**|**Question Tokens Deserve More Attention: Enhancing Large Language Models without Training through Step-by-Step Reading and Question Attention Recalibration**|Feijiang Han et.al.|[2504.09402](http://arxiv.org/abs/2504.09402)|null|
