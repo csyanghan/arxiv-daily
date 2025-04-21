@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.20
+## Updated on 2025.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -309,7 +309,7 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
 
 ## AI for Science
 
@@ -324,7 +324,7 @@
 |**2025-04-17**|**ChemKANs for Combustion Chemistry Modeling and Acceleration**|Benjamin C. Koenig et.al.|[2504.12580](http://arxiv.org/abs/2504.12580)|null|
 |**2025-04-16**|**Interface, bulk and surface structure of heteroepitaxial altermagnetic α-MnTe films grown on GaAs(111)**|Sara Bey et.al.|[2504.12126](http://arxiv.org/abs/2504.12126)|null|
 |**2025-04-16**|**Lifelong and Universal Machine Learning Potentials for Chemical Reaction Network Explorations**|Marco Eckhoff et.al.|[2504.11933](http://arxiv.org/abs/2504.11933)|null|
-|**2025-04-16**|**Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching**|Aaron Havens et.al.|[2504.11713](http://arxiv.org/abs/2504.11713)|null|
+|**2025-04-18**|**Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching**|Aaron Havens et.al.|[2504.11713](http://arxiv.org/abs/2504.11713)|null|
 |**2025-04-16**|**Radiative Flux from a High-Resolution Atmospheric Dynamics Simulation of a Hot-Jupiter for JWST and Ariel**|Jagat Kafle et.al.|[2504.11679](http://arxiv.org/abs/2504.11679)|null|
 |**2025-04-15**|**MINDS. Anatomy of a water-rich, inclined, brown dwarf disk: lack of abundant hydrocarbons**|Giulia Perotti et.al.|[2504.11424](http://arxiv.org/abs/2504.11424)|null|
 |**2025-04-15**|**Advances in Prebiotic Chemistry: the potential of Analog Computing and Navier-Stokes Nernst-Planck (NPNS) Modeling in Organic Electronics Technologies (OECTs)**|Giuseppe De Giorgio et.al.|[2504.11401](http://arxiv.org/abs/2504.11401)|null|
@@ -1552,7 +1552,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
