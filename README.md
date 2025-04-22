@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**Evaluating Judges as Evaluators: The JETTS Benchmark of LLM-as-Judges as Test-Time Scaling Evaluators**|Yilun Zhou et.al.|[2504.15253](http://arxiv.org/abs/2504.15253)|**[link](https://github.com/salesforceairesearch/jetts-benchmark)**|
+|**2025-04-16**|**Open-Medical-R1: How to Choose Data for RLVR Training at Medicine Domain**|Zhongxi Qiu et.al.|[2504.13950](http://arxiv.org/abs/2504.13950)|null|
+|**2025-04-15**|**NEMOTRON-CROSSTHINK: Scaling Self-Learning beyond Math Reasoning**|Syeda Nahida Akter et.al.|[2504.13941](http://arxiv.org/abs/2504.13941)|null|
 |**2025-04-18**|**Not All Rollouts are Useful: Down-Sampling Rollouts in LLM Reinforcement Learning**|Yixuan Even Xu et.al.|[2504.13818](http://arxiv.org/abs/2504.13818)|null|
 |**2025-04-17**|**THOUGHTTERMINATOR: Benchmarking, Calibrating, and Mitigating Overthinking in Reasoning Models**|Xiao Pu et.al.|[2504.13367](http://arxiv.org/abs/2504.13367)|null|
 |**2025-04-16**|**Entropy-Guided Watermarking for LLMs: A Test-Time Framework for Robust and Traceable Text Generation**|Shizhan Cai et.al.|[2504.12108](http://arxiv.org/abs/2504.12108)|null|
@@ -317,6 +320,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**Simulating biochemical reactions: The Linear Noise Approximation can capture non-linear dynamics**|Frederick Truman-Williams et.al.|[2504.15166](http://arxiv.org/abs/2504.15166)|null|
+|**2025-04-19**|**Discharge structure theory of highly electronegative plasma and its hierarchy and interdisciplinary meanings**|Yuan-He Sun et.al.|[2504.14155](http://arxiv.org/abs/2504.14155)|null|
+|**2025-04-18**|**From sequence to protein structure and conformational dynamics with AI/ML**|Alexander M. Ille et.al.|[2504.14059](http://arxiv.org/abs/2504.14059)|null|
+|**2025-04-18**|**Predicting fermionic densities using a Projected Quantum Kernel method**|Francesco Perciavalle et.al.|[2504.14002](http://arxiv.org/abs/2504.14002)|null|
 |**2025-04-18**|**Laboratory rotational spectra of cyanocyclohexane and its siblings (1- and 4-cyanocyclohexene) using a compact CP-FTMW spectrometer for interstellar detection**|Gabi Wenzel et.al.|[2504.13686](http://arxiv.org/abs/2504.13686)|null|
 |**2025-04-17**|**Energy Landscape Plummeting in Variational Quantum Eigensolver: Subspace Optimization, Non-iterative Corrections and Generator-informed Initialization for Improved Quantum Efficiency**|Chayan Patra et.al.|[2504.13097](http://arxiv.org/abs/2504.13097)|null|
 |**2025-04-17**|**Evidence for sulfur chemistry in the atmosphere of the warm sub-Neptune TOI-270 d**|Lukas Felix et.al.|[2504.13039](http://arxiv.org/abs/2504.13039)|null|
