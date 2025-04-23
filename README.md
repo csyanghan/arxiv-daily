@@ -320,6 +320,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**An Error Mitigated Non-Orthogonal Quantum Eigensolver via Shadow Tomography**|Hang Ren et.al.|[2504.16008](http://arxiv.org/abs/2504.16008)|null|
+|**2025-04-22**|**Real-fluid behavior in rapid compression machines: Does it matter?**|Mingrui Wang et.al.|[2504.15887](http://arxiv.org/abs/2504.15887)|null|
+|**2025-04-22**|**Radiative equilibrium boundary condition and correlation analysis on catalytic surfaces in DSMC**|Youngil Ko et.al.|[2504.15842](http://arxiv.org/abs/2504.15842)|null|
+|**2025-04-22**|**Original mechanism of transformation from soft metallic (sp2/sp3) C12 to ultra-dense and ultra-hard (sp3) semi-conducting C12: Crystal chemistry and DFT characterizations**|Samir F Matar et.al.|[2504.15687](http://arxiv.org/abs/2504.15687)|null|
+|**2025-04-22**|**Interpretable Deep Learning for Polar Mechanistic Reaction Prediction**|Ryan J. Miller et.al.|[2504.15539](http://arxiv.org/abs/2504.15539)|null|
 |**2025-04-21**|**Simulating biochemical reactions: The Linear Noise Approximation can capture non-linear dynamics**|Frederick Truman-Williams et.al.|[2504.15166](http://arxiv.org/abs/2504.15166)|null|
 |**2025-04-19**|**Discharge structure theory of highly electronegative plasma and its hierarchy and interdisciplinary meanings**|Yuan-He Sun et.al.|[2504.14155](http://arxiv.org/abs/2504.14155)|null|
 |**2025-04-18**|**From sequence to protein structure and conformational dynamics with AI/ML**|Alexander M. Ille et.al.|[2504.14059](http://arxiv.org/abs/2504.14059)|null|
