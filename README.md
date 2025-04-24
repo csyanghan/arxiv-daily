@@ -320,7 +320,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-22**|**An Error Mitigated Non-Orthogonal Quantum Eigensolver via Shadow Tomography**|Hang Ren et.al.|[2504.16008](http://arxiv.org/abs/2504.16008)|null|
+|**2025-04-23**|**Ultra-high dose rate 6 MeV electron irradiation generates stable [1- $^{13}$ C]alanine radicals suitable for medical imaging with dissolution Dynamic Nuclear Polarisation**|Catriona H. E. Rooney et.al.|[2504.16621](http://arxiv.org/abs/2504.16621)|null|
+|**2025-04-23**|**Phase stabilization of In2Se3 by disordered Ni intercalation and its enhanced thermoelectrical performance**|Zengguang Shi et.al.|[2504.16605](http://arxiv.org/abs/2504.16605)|null|
+|**2025-04-23**|**Optically detected and radio wave-controlled spin chemistry in cryptochrome**|Kun Meng et.al.|[2504.16566](http://arxiv.org/abs/2504.16566)|null|
+|**2025-04-23**|**Brownian motion and generalized Lifson-Jackson formula in quasi-periodic systems**|Sang Yang et.al.|[2504.16527](http://arxiv.org/abs/2504.16527)|null|
+|**2025-04-23**|**Evaluating Multi-Hop Reasoning in Large Language Models: A Chemistry-Centric Case Study**|Mohammad Khodadad et.al.|[2504.16414](http://arxiv.org/abs/2504.16414)|null|
+|**2025-04-23**|**PhaseT3M: 3D Imaging at 1.6 Å Resolution via Electron Cryo-Tomography with Nonlinear Phase Retrieval**|Juhyeok Lee et.al.|[2504.16332](http://arxiv.org/abs/2504.16332)|null|
+|**2025-04-22**|**Physics-Informed Inference Time Scaling via Simulation-Calibrated Scientific Machine Learning**|Zexi Fan et.al.|[2504.16172](http://arxiv.org/abs/2504.16172)|null|
+|**2025-04-23**|**An Error Mitigated Non-Orthogonal Quantum Eigensolver via Shadow Tomography**|Hang Ren et.al.|[2504.16008](http://arxiv.org/abs/2504.16008)|null|
 |**2025-04-22**|**Real-fluid behavior in rapid compression machines: Does it matter?**|Mingrui Wang et.al.|[2504.15887](http://arxiv.org/abs/2504.15887)|null|
 |**2025-04-22**|**Radiative equilibrium boundary condition and correlation analysis on catalytic surfaces in DSMC**|Youngil Ko et.al.|[2504.15842](http://arxiv.org/abs/2504.15842)|null|
 |**2025-04-22**|**Original mechanism of transformation from soft metallic (sp2/sp3) C12 to ultra-dense and ultra-hard (sp3) semi-conducting C12: Crystal chemistry and DFT characterizations**|Samir F Matar et.al.|[2504.15687](http://arxiv.org/abs/2504.15687)|null|
