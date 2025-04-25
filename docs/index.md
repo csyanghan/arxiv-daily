@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Evaluating Grounded Reasoning by Code-Assisted Large Language Models for Mathematics**|Zena Al-Khalili et.al.|[2504.17665](http://arxiv.org/abs/2504.17665)|null|
 |**2025-04-21**|**Evaluating Judges as Evaluators: The JETTS Benchmark of LLM-as-Judges as Test-Time Scaling Evaluators**|Yilun Zhou et.al.|[2504.15253](http://arxiv.org/abs/2504.15253)|**[link](https://github.com/salesforceairesearch/jetts-benchmark)**|
 |**2025-04-16**|**Open-Medical-R1: How to Choose Data for RLVR Training at Medicine Domain**|Zhongxi Qiu et.al.|[2504.13950](http://arxiv.org/abs/2504.13950)|null|
 |**2025-04-24**|**Nemotron-CrossThink: Scaling Self-Learning beyond Math Reasoning**|Syeda Nahida Akter et.al.|[2504.13941](http://arxiv.org/abs/2504.13941)|null|
@@ -314,6 +315,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**polyGen: A Learning Framework for Atomic-level Polymer Structure Generation**|Ayush Jain et.al.|[2504.17656](http://arxiv.org/abs/2504.17656)|null|
+|**2025-04-24**|**Quantum simulation of CO $_2$ chemisorption in an amine-functionalized metal-organic framework**|Jonathan R. Owens et.al.|[2504.17453](http://arxiv.org/abs/2504.17453)|null|
 |**2025-04-23**|**Ultra-high dose rate 6 MeV electron irradiation generates stable [1- $^{13}$ C]alanine radicals suitable for medical imaging with dissolution Dynamic Nuclear Polarisation**|Catriona H. E. Rooney et.al.|[2504.16621](http://arxiv.org/abs/2504.16621)|null|
 |**2025-04-23**|**Phase stabilization of In2Se3 by disordered Ni intercalation and its enhanced thermoelectrical performance**|Zengguang Shi et.al.|[2504.16605](http://arxiv.org/abs/2504.16605)|null|
 |**2025-04-23**|**Optically detected and radio wave-controlled spin chemistry in cryptochrome**|Kun Meng et.al.|[2504.16566](http://arxiv.org/abs/2504.16566)|null|
