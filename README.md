@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.27
+## Updated on 2025.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -315,7 +315,7 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 ## AI for Science
 
@@ -329,7 +329,7 @@
 |**2025-04-23**|**Brownian motion and generalized Lifson-Jackson formula in quasi-periodic systems**|Sang Yang et.al.|[2504.16527](http://arxiv.org/abs/2504.16527)|null|
 |**2025-04-23**|**Evaluating Multi-Hop Reasoning in Large Language Models: A Chemistry-Centric Case Study**|Mohammad Khodadad et.al.|[2504.16414](http://arxiv.org/abs/2504.16414)|null|
 |**2025-04-23**|**PhaseT3M: 3D Imaging at 1.6 Å Resolution via Electron Cryo-Tomography with Nonlinear Phase Retrieval**|Juhyeok Lee et.al.|[2504.16332](http://arxiv.org/abs/2504.16332)|null|
-|**2025-04-22**|**Physics-Informed Inference Time Scaling via Simulation-Calibrated Scientific Machine Learning**|Zexi Fan et.al.|[2504.16172](http://arxiv.org/abs/2504.16172)|null|
+|**2025-04-25**|**Physics-Informed Inference Time Scaling via Simulation-Calibrated Scientific Machine Learning**|Zexi Fan et.al.|[2504.16172](http://arxiv.org/abs/2504.16172)|null|
 |**2025-04-23**|**An Error Mitigated Non-Orthogonal Quantum Eigensolver via Shadow Tomography**|Hang Ren et.al.|[2504.16008](http://arxiv.org/abs/2504.16008)|null|
 |**2025-04-22**|**Real-fluid behavior in rapid compression machines: Does it matter?**|Mingrui Wang et.al.|[2504.15887](http://arxiv.org/abs/2504.15887)|null|
 |**2025-04-22**|**Radiative equilibrium boundary condition and correlation analysis on catalytic surfaces in DSMC**|Youngil Ko et.al.|[2504.15842](http://arxiv.org/abs/2504.15842)|null|
@@ -1577,7 +1577,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

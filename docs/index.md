@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.27
+## Updated on 2025.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -323,7 +323,7 @@ layout: default
 |**2025-04-23**|**Brownian motion and generalized Lifson-Jackson formula in quasi-periodic systems**|Sang Yang et.al.|[2504.16527](http://arxiv.org/abs/2504.16527)|null|
 |**2025-04-23**|**Evaluating Multi-Hop Reasoning in Large Language Models: A Chemistry-Centric Case Study**|Mohammad Khodadad et.al.|[2504.16414](http://arxiv.org/abs/2504.16414)|null|
 |**2025-04-23**|**PhaseT3M: 3D Imaging at 1.6 Å Resolution via Electron Cryo-Tomography with Nonlinear Phase Retrieval**|Juhyeok Lee et.al.|[2504.16332](http://arxiv.org/abs/2504.16332)|null|
-|**2025-04-22**|**Physics-Informed Inference Time Scaling via Simulation-Calibrated Scientific Machine Learning**|Zexi Fan et.al.|[2504.16172](http://arxiv.org/abs/2504.16172)|null|
+|**2025-04-25**|**Physics-Informed Inference Time Scaling via Simulation-Calibrated Scientific Machine Learning**|Zexi Fan et.al.|[2504.16172](http://arxiv.org/abs/2504.16172)|null|
 |**2025-04-23**|**An Error Mitigated Non-Orthogonal Quantum Eigensolver via Shadow Tomography**|Hang Ren et.al.|[2504.16008](http://arxiv.org/abs/2504.16008)|null|
 |**2025-04-22**|**Real-fluid behavior in rapid compression machines: Does it matter?**|Mingrui Wang et.al.|[2504.15887](http://arxiv.org/abs/2504.15887)|null|
 |**2025-04-22**|**Radiative equilibrium boundary condition and correlation analysis on catalytic surfaces in DSMC**|Youngil Ko et.al.|[2504.15842](http://arxiv.org/abs/2504.15842)|null|
