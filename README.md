@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**Think, Prune, Train, Improve: Scaling Reasoning without Scaling Models**|Caia Costello et.al.|[2504.18116](http://arxiv.org/abs/2504.18116)|null|
 |**2025-04-24**|**Evaluating Grounded Reasoning by Code-Assisted Large Language Models for Mathematics**|Zena Al-Khalili et.al.|[2504.17665](http://arxiv.org/abs/2504.17665)|null|
 |**2025-04-21**|**Evaluating Judges as Evaluators: The JETTS Benchmark of LLM-as-Judges as Test-Time Scaling Evaluators**|Yilun Zhou et.al.|[2504.15253](http://arxiv.org/abs/2504.15253)|**[link](https://github.com/salesforceairesearch/jetts-benchmark)**|
 |**2025-04-16**|**Open-Medical-R1: How to Choose Data for RLVR Training at Medicine Domain**|Zhongxi Qiu et.al.|[2504.13950](http://arxiv.org/abs/2504.13950)|null|
@@ -321,6 +322,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**Large Language Models to Accelerate Organic Chemistry Synthesis**|Yu Zhang et.al.|[2504.18340](http://arxiv.org/abs/2504.18340)|null|
+|**2025-04-25**|**Parallelized Givens Ansatz for Molecular ground-states: Bridging Accuracy and Efficiency on NISQ Platforms**|M. R. Nirmal et.al.|[2504.18264](http://arxiv.org/abs/2504.18264)|null|
+|**2025-04-25**|**SOLIS. XIX. The chemically rich SVS13-B protostellar jet**|C. Codella et.al.|[2504.18255](http://arxiv.org/abs/2504.18255)|null|
+|**2025-04-25**|**Learning to fuse: dynamic integration of multi-source data for accurate battery lifespan prediction**|He Shanxuan et.al.|[2504.18230](http://arxiv.org/abs/2504.18230)|null|
+|**2025-04-25**|**Determining Molecular Ground State with Quantum Imaginary Time Evolution using Broken-Symmetry Wave Function**|Pawan Sharma Poudel et.al.|[2504.18156](http://arxiv.org/abs/2504.18156)|null|
+|**2025-04-25**|**Role of Diffusive and Non-Diffusive Grain-Surface Processes in Cold Cores: Insights from the PEGASIS Three-Phase Astrochemical Model**|S. Maitrey et.al.|[2504.18138](http://arxiv.org/abs/2504.18138)|null|
+|**2025-04-25**|**Development of Exotic Harmonium Model to Investigate Electron-Positively Charged Particle Correlation in Two-Component Quantum Systems**|Nahid Sadat Riyahi et.al.|[2504.18118](http://arxiv.org/abs/2504.18118)|null|
+|**2025-04-24**|**phase2: Full-State Vector Simulation of Quantum Time Evolution at Scale**|Marek Miller et.al.|[2504.17881](http://arxiv.org/abs/2504.17881)|null|
+|**2025-04-24**|**First detections of PN, PO and PO+ toward a shocked low-mass starless core**|Samantha Scibelli et.al.|[2504.17849](http://arxiv.org/abs/2504.17849)|null|
 |**2025-04-24**|**polyGen: A Learning Framework for Atomic-level Polymer Structure Generation**|Ayush Jain et.al.|[2504.17656](http://arxiv.org/abs/2504.17656)|null|
 |**2025-04-24**|**Quantum simulation of CO $_2$ chemisorption in an amine-functionalized metal-organic framework**|Jonathan R. Owens et.al.|[2504.17453](http://arxiv.org/abs/2504.17453)|null|
 |**2025-04-23**|**Ultra-high dose rate 6 MeV electron irradiation generates stable [1- $^{13}$ C]alanine radicals suitable for medical imaging with dissolution Dynamic Nuclear Polarisation**|Catriona H. E. Rooney et.al.|[2504.16621](http://arxiv.org/abs/2504.16621)|null|
