@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**AutoJudge: Judge Decoding Without Manual Annotation**|Roman Garipov et.al.|[2504.20039](http://arxiv.org/abs/2504.20039)|null|
+|**2025-04-27**|**Efficient Reasoning for LLMs through Speculative Chain-of-Thought**|Jikai Wang et.al.|[2504.19095](http://arxiv.org/abs/2504.19095)|null|
+|**2025-04-24**|**Training Large Language Models to Reason via EM Policy Gradient**|Tianbing Xu et.al.|[2504.18587](http://arxiv.org/abs/2504.18587)|null|
+|**2025-04-22**|**Understanding the Skill Gap in Recurrent Language Models: The Role of the Gather-and-Aggregate Mechanism**|Aviv Bick et.al.|[2504.18574](http://arxiv.org/abs/2504.18574)|null|
 |**2025-04-25**|**Think, Prune, Train, Improve: Scaling Reasoning without Scaling Models**|Caia Costello et.al.|[2504.18116](http://arxiv.org/abs/2504.18116)|null|
 |**2025-04-24**|**Evaluating Grounded Reasoning by Code-Assisted Large Language Models for Mathematics**|Zena Al-Khalili et.al.|[2504.17665](http://arxiv.org/abs/2504.17665)|null|
 |**2025-04-21**|**Evaluating Judges as Evaluators: The JETTS Benchmark of LLM-as-Judges as Test-Time Scaling Evaluators**|Yilun Zhou et.al.|[2504.15253](http://arxiv.org/abs/2504.15253)|**[link](https://github.com/salesforceairesearch/jetts-benchmark)**|
@@ -322,6 +326,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**Lightning activity on a tidally locked terrestrial exoplanet in storm-resolving simulations for a range of surface pressures**|Denis E. Sergeev et.al.|[2504.19883](http://arxiv.org/abs/2504.19883)|null|
+|**2025-04-28**|**Oscillation death by mechanochemical feedback**|Phanindra Dewan et.al.|[2504.19655](http://arxiv.org/abs/2504.19655)|null|
+|**2025-04-28**|**Molecular Dynamics Investigation of Static and Dynamic Interfacial Properties in Ice-Polymer Premelting Layers**|Takumi Sato et.al.|[2504.19628](http://arxiv.org/abs/2504.19628)|null|
+|**2025-04-28**|**Exploring circumstellar chemistry in X-ray emitting AGB stars**|J. Alonso-Hernández et.al.|[2504.19616](http://arxiv.org/abs/2504.19616)|null|
+|**2025-04-27**|**Thermodynamic constraints on the citric acid cycle and related reactions in ocean world interiors**|Seda Işık et.al.|[2504.19369](http://arxiv.org/abs/2504.19369)|null|
+|**2025-04-27**|**Evidence for a Catastrophically Disrupted Open Cluster**|Alexis N. Miller et.al.|[2504.19343](http://arxiv.org/abs/2504.19343)|null|
+|**2025-04-27**|**Classical simulation of parity-preserving quantum circuits**|Carolin Wille et.al.|[2504.19317](http://arxiv.org/abs/2504.19317)|null|
+|**2025-04-27**|**Synergistic Role of Transition Metals and Polyanionic Frameworks in Phosphate-Based Cathode Materials for Sodium-Ion Batteries**|Madhav Sharma et.al.|[2504.19299](http://arxiv.org/abs/2504.19299)|null|
+|**2025-04-26**|**Does chemistry need more physics ?**|Trond Saue et.al.|[2504.19003](http://arxiv.org/abs/2504.19003)|null|
+|**2025-04-26**|**A Next-Generation Exoplanet Atmospheric Retrieval Framework for Transmission Spectroscopy (NEXOTRANS): Comparative Characterization for WASP-39 b Using JWST NIRISS, NIRSpec PRISM, and MIRI Observations**|Tonmoy Deka et.al.|[2504.18815](http://arxiv.org/abs/2504.18815)|null|
 |**2025-04-25**|**Large Language Models to Accelerate Organic Chemistry Synthesis**|Yu Zhang et.al.|[2504.18340](http://arxiv.org/abs/2504.18340)|null|
 |**2025-04-25**|**Parallelized Givens Ansatz for Molecular ground-states: Bridging Accuracy and Efficiency on NISQ Platforms**|M. R. Nirmal et.al.|[2504.18264](http://arxiv.org/abs/2504.18264)|null|
 |**2025-04-25**|**SOLIS. XIX. The chemically rich SVS13-B protostellar jet**|C. Codella et.al.|[2504.18255](http://arxiv.org/abs/2504.18255)|null|
