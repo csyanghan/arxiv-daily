@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Reinforcement Learning for Reasoning in Large Language Models with One Training Example**|Yiping Wang et.al.|[2504.20571](http://arxiv.org/abs/2504.20571)|null|
+|**2025-04-29**|**Local Prompt Optimization**|Yash Jain et.al.|[2504.20355](http://arxiv.org/abs/2504.20355)|null|
 |**2025-04-28**|**AutoJudge: Judge Decoding Without Manual Annotation**|Roman Garipov et.al.|[2504.20039](http://arxiv.org/abs/2504.20039)|null|
 |**2025-04-27**|**Efficient Reasoning for LLMs through Speculative Chain-of-Thought**|Jikai Wang et.al.|[2504.19095](http://arxiv.org/abs/2504.19095)|null|
 |**2025-04-24**|**Training Large Language Models to Reason via EM Policy Gradient**|Tianbing Xu et.al.|[2504.18587](http://arxiv.org/abs/2504.18587)|null|
@@ -320,6 +322,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Egret-1: Pretrained Neural Network Potentials For Efficient and Accurate Bioorganic Simulation**|Corin C. Wagen et.al.|[2504.20955](http://arxiv.org/abs/2504.20955)|null|
+|**2025-04-29**|**Interfacial Behavior from the Atomic Blueprint: Machine Learning-Guided Design of Spatially Functionalized a-SiO2 Surfaces**|Evgenii Strugovshchikov et.al.|[2504.20929](http://arxiv.org/abs/2504.20929)|null|
+|**2025-04-29**|**AI-enhanced High Resolution Functional Imaging Reveals Trap States and Charge Carrier Recombination Pathways in Perovskite**|Qi Shi et.al.|[2504.20826](http://arxiv.org/abs/2504.20826)|null|
+|**2025-04-29**|**Quantum Signature of Anisotropic Singularities in Hydrogen Bond Breaking of Water Dimer**|Md Rejwan Ali et.al.|[2504.20819](http://arxiv.org/abs/2504.20819)|null|
+|**2025-04-29**|**Simulating metal complex formation and dynamics in aqueous solutions: Insights into stability, mechanism, and rates of ligand exchange**|Luca Sagresti et.al.|[2504.20818](http://arxiv.org/abs/2504.20818)|null|
+|**2025-04-29**|**The role of dark polariton states for electronic strong coupling in molecules**|Lucas Borges et.al.|[2504.20798](http://arxiv.org/abs/2504.20798)|null|
+|**2025-04-29**|**Trotterization is substantially efficient for low-energy states**|Kaoru Mizuta et.al.|[2504.20746](http://arxiv.org/abs/2504.20746)|null|
+|**2025-04-29**|**Binding of native DNA to MoS $_{2}$ nanoflakes: the role of defects and edge atoms of MoS$_{2}$ nanostructures in their biofunctionalization**|Alexander Glamazda et.al.|[2504.20562](http://arxiv.org/abs/2504.20562)|null|
+|**2025-04-29**|**Redox chemistry meets semiconductor defect physics**|Jian Gu et.al.|[2504.20423](http://arxiv.org/abs/2504.20423)|null|
+|**2025-04-29**|**High-resolution geostationary satellite observations of free tropospheric NO2 over North America: implications for lightning emissions**|Ruijun Dang et.al.|[2504.20337](http://arxiv.org/abs/2504.20337)|null|
 |**2025-04-28**|**Lightning activity on a tidally locked terrestrial exoplanet in storm-resolving simulations for a range of surface pressures**|Denis E. Sergeev et.al.|[2504.19883](http://arxiv.org/abs/2504.19883)|null|
 |**2025-04-28**|**Oscillation death by mechanochemical feedback**|Phanindra Dewan et.al.|[2504.19655](http://arxiv.org/abs/2504.19655)|null|
 |**2025-04-28**|**Molecular Dynamics Investigation of Static and Dynamic Interfacial Properties in Ice-Polymer Premelting Layers**|Takumi Sato et.al.|[2504.19628](http://arxiv.org/abs/2504.19628)|null|
