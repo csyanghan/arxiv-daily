@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language Models in Math**|Haoran Xu et.al.|[2504.21233](http://arxiv.org/abs/2504.21233)|null|
 |**2025-04-29**|**Reinforcement Learning for Reasoning in Large Language Models with One Training Example**|Yiping Wang et.al.|[2504.20571](http://arxiv.org/abs/2504.20571)|null|
 |**2025-04-29**|**Local Prompt Optimization**|Yash Jain et.al.|[2504.20355](http://arxiv.org/abs/2504.20355)|null|
 |**2025-04-28**|**AutoJudge: Judge Decoding Without Manual Annotation**|Roman Garipov et.al.|[2504.20039](http://arxiv.org/abs/2504.20039)|null|
@@ -328,7 +329,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-29**|**Egret-1: Pretrained Neural Network Potentials For Efficient and Accurate Bioorganic Simulation**|Corin C. Wagen et.al.|[2504.20955](http://arxiv.org/abs/2504.20955)|null|
+|**2025-04-30**|**A Sequoia stellar candidate with very high 7Li and 9Be**|L. Monaco et.al.|[2504.21823](http://arxiv.org/abs/2504.21823)|null|
+|**2025-04-30**|**Entanglement-Enhanced Nanoscale Single-Spin Sensing**|Xu Zhou et.al.|[2504.21715](http://arxiv.org/abs/2504.21715)|null|
+|**2025-04-30**|**Optimal fermion-qubit mappings via quadratic assignment**|Mitchell Chiew et.al.|[2504.21636](http://arxiv.org/abs/2504.21636)|null|
+|**2025-04-30**|**Levitated Sensor for Magnetometry in Ambient Environment**|Wei Ji et.al.|[2504.21524](http://arxiv.org/abs/2504.21524)|null|
+|**2025-04-30**|**A Unified Variational Framework for Quantum Excited States**|Shi-Xin Zhang et.al.|[2504.21459](http://arxiv.org/abs/2504.21459)|null|
+|**2025-04-30**|**Integration of a Synthetic Molecular Motor Into a Rotary DNA Nanostructure: A Framework for Single-Molecule Actuation**|Seham Helmi et.al.|[2504.21434](http://arxiv.org/abs/2504.21434)|null|
+|**2025-04-29**|**Do QGP Droplets Drive Anisotropy in Small Systems? Insights from RHIC and the LHC**|Roy A. Lacey et.al.|[2504.21183](http://arxiv.org/abs/2504.21183)|null|
+|**2025-04-30**|**Egret-1: Pretrained Neural Network Potentials For Efficient and Accurate Bioorganic Simulation**|Elias L. Mann et.al.|[2504.20955](http://arxiv.org/abs/2504.20955)|null|
 |**2025-04-29**|**Interfacial Behavior from the Atomic Blueprint: Machine Learning-Guided Design of Spatially Functionalized a-SiO2 Surfaces**|Evgenii Strugovshchikov et.al.|[2504.20929](http://arxiv.org/abs/2504.20929)|null|
 |**2025-04-29**|**AI-enhanced High Resolution Functional Imaging Reveals Trap States and Charge Carrier Recombination Pathways in Perovskite**|Qi Shi et.al.|[2504.20826](http://arxiv.org/abs/2504.20826)|null|
 |**2025-04-29**|**Quantum Signature of Anisotropic Singularities in Hydrogen Bond Breaking of Water Dimer**|Md Rejwan Ali et.al.|[2504.20819](http://arxiv.org/abs/2504.20819)|null|
