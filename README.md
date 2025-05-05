@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.04
+## Updated on 2025.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -324,7 +324,7 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20250504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250505>back to top</a>)</p>
 
 ## AI for Science
 
@@ -338,7 +338,7 @@
 |**2025-04-30**|**A Unified Variational Framework for Quantum Excited States**|Shi-Xin Zhang et.al.|[2504.21459](http://arxiv.org/abs/2504.21459)|null|
 |**2025-04-30**|**Integration of a Synthetic Molecular Motor Into a Rotary DNA Nanostructure: A Framework for Single-Molecule Actuation**|Seham Helmi et.al.|[2504.21434](http://arxiv.org/abs/2504.21434)|null|
 |**2025-04-29**|**Do QGP Droplets Drive Anisotropy in Small Systems? Insights from RHIC and the LHC**|Roy A. Lacey et.al.|[2504.21183](http://arxiv.org/abs/2504.21183)|null|
-|**2025-04-30**|**Egret-1: Pretrained Neural Network Potentials For Efficient and Accurate Bioorganic Simulation**|Elias L. Mann et.al.|[2504.20955](http://arxiv.org/abs/2504.20955)|null|
+|**2025-05-01**|**Egret-1: Pretrained Neural Network Potentials For Efficient and Accurate Bioorganic Simulation**|Elias L. Mann et.al.|[2504.20955](http://arxiv.org/abs/2504.20955)|null|
 |**2025-04-29**|**Interfacial Behavior from the Atomic Blueprint: Machine Learning-Guided Design of Spatially Functionalized a-SiO2 Surfaces**|Evgenii Strugovshchikov et.al.|[2504.20929](http://arxiv.org/abs/2504.20929)|null|
 |**2025-04-29**|**AI-enhanced High Resolution Functional Imaging Reveals Trap States and Charge Carrier Recombination Pathways in Perovskite**|Qi Shi et.al.|[2504.20826](http://arxiv.org/abs/2504.20826)|null|
 |**2025-04-29**|**Quantum Signature of Anisotropic Singularities in Hydrogen Bond Breaking of Water Dimer**|Md Rejwan Ali et.al.|[2504.20819](http://arxiv.org/abs/2504.20819)|null|
@@ -1623,7 +1623,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20250504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250505>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

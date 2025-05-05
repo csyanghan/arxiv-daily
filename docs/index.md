@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.04
+## Updated on 2025.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -332,7 +332,7 @@ layout: default
 |**2025-04-30**|**A Unified Variational Framework for Quantum Excited States**|Shi-Xin Zhang et.al.|[2504.21459](http://arxiv.org/abs/2504.21459)|null|
 |**2025-04-30**|**Integration of a Synthetic Molecular Motor Into a Rotary DNA Nanostructure: A Framework for Single-Molecule Actuation**|Seham Helmi et.al.|[2504.21434](http://arxiv.org/abs/2504.21434)|null|
 |**2025-04-29**|**Do QGP Droplets Drive Anisotropy in Small Systems? Insights from RHIC and the LHC**|Roy A. Lacey et.al.|[2504.21183](http://arxiv.org/abs/2504.21183)|null|
-|**2025-04-30**|**Egret-1: Pretrained Neural Network Potentials For Efficient and Accurate Bioorganic Simulation**|Elias L. Mann et.al.|[2504.20955](http://arxiv.org/abs/2504.20955)|null|
+|**2025-05-01**|**Egret-1: Pretrained Neural Network Potentials For Efficient and Accurate Bioorganic Simulation**|Elias L. Mann et.al.|[2504.20955](http://arxiv.org/abs/2504.20955)|null|
 |**2025-04-29**|**Interfacial Behavior from the Atomic Blueprint: Machine Learning-Guided Design of Spatially Functionalized a-SiO2 Surfaces**|Evgenii Strugovshchikov et.al.|[2504.20929](http://arxiv.org/abs/2504.20929)|null|
 |**2025-04-29**|**AI-enhanced High Resolution Functional Imaging Reveals Trap States and Charge Carrier Recombination Pathways in Perovskite**|Qi Shi et.al.|[2504.20826](http://arxiv.org/abs/2504.20826)|null|
 |**2025-04-29**|**Quantum Signature of Anisotropic Singularities in Hydrogen Bond Breaking of Water Dimer**|Md Rejwan Ali et.al.|[2504.20819](http://arxiv.org/abs/2504.20819)|null|
