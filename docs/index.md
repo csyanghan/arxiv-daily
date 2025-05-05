@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**NeMo-Inspector: A Visualization Tool for LLM Generation Analysis**|Daria Gitman et.al.|[2505.00903](http://arxiv.org/abs/2505.00903)|null|
 |**2025-04-30**|**Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language Models in Math**|Haoran Xu et.al.|[2504.21233](http://arxiv.org/abs/2504.21233)|null|
 |**2025-04-30**|**Trace-of-Thought Prompting: Investigating Prompt-Based Knowledge Distillation Through Question Decomposition**|Tyler McDonald et.al.|[2504.20946](http://arxiv.org/abs/2504.20946)|null|
 |**2025-04-29**|**Reinforcement Learning for Reasoning in Large Language Models with One Training Example**|Yiping Wang et.al.|[2504.20571](http://arxiv.org/abs/2504.20571)|null|
@@ -324,6 +325,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**QCMaquis 4.0: Multi-Purpose Electronic, Vibrational, and Vibronic Structure and Dynamics Calculations with the Density Matrix Renormalization Group**|Kalman Szenes et.al.|[2505.01405](http://arxiv.org/abs/2505.01405)|null|
+|**2025-05-02**|**Qracle: A Graph-Neural-Network-based Parameter Initializer for Variational Quantum Eigensolvers**|Chi Zhang et.al.|[2505.01236](http://arxiv.org/abs/2505.01236)|null|
+|**2025-05-02**|**Energy Transduction in Complex Networks with Multiple Resources: The Chemistry Paradigm**|Massimo Bilancioni et.al.|[2505.01176](http://arxiv.org/abs/2505.01176)|null|
+|**2025-05-02**|**A Survey Of Model Fits to Brown Dwarf Spectra Through the L-T Sequence**|Savanah K. Turner et.al.|[2505.00978](http://arxiv.org/abs/2505.00978)|null|
 |**2025-04-30**|**Roadmap on Advancements of the FHI-aims Software Package**|Joseph W. Abbott et.al.|[2505.00125](http://arxiv.org/abs/2505.00125)|null|
 |**2025-04-30**|**A Sequoia stellar candidate with very high 7Li and 9Be**|L. Monaco et.al.|[2504.21823](http://arxiv.org/abs/2504.21823)|null|
 |**2025-04-30**|**Entanglement-Enhanced Nanoscale Single-Spin Sensing**|Xu Zhou et.al.|[2504.21715](http://arxiv.org/abs/2504.21715)|null|
