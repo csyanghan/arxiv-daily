@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**A Survey of Slow Thinking-based Reasoning LLMs using Reinforced Learning and Inference-time Scaling Law**|Qianjun Pan et.al.|[2505.02665](http://arxiv.org/abs/2505.02665)|null|
+|**2025-05-03**|**Memory-Efficient LLM Training by Various-Grained Low-Rank Projection of Gradients**|Yezhen Wang et.al.|[2505.01744](http://arxiv.org/abs/2505.01744)|null|
+|**2025-05-02**|**TutorGym: A Testbed for Evaluating AI Agents as Tutors and Students**|Daniel Weitekamp et.al.|[2505.01563](http://arxiv.org/abs/2505.01563)|null|
 |**2025-05-01**|**NeMo-Inspector: A Visualization Tool for LLM Generation Analysis**|Daria Gitman et.al.|[2505.00903](http://arxiv.org/abs/2505.00903)|null|
 |**2025-04-30**|**Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language Models in Math**|Haoran Xu et.al.|[2504.21233](http://arxiv.org/abs/2504.21233)|null|
 |**2025-04-30**|**Trace-of-Thought Prompting: Investigating Prompt-Based Knowledge Distillation Through Question Decomposition**|Tyler McDonald et.al.|[2504.20946](http://arxiv.org/abs/2504.20946)|null|
@@ -325,6 +328,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**El Agente: An Autonomous Agent for Quantum Chemistry**|Yunheng Zou et.al.|[2505.02484](http://arxiv.org/abs/2505.02484)|null|
+|**2025-05-05**|**Computational Insights into the Chemical Reaction Networks of C3H6O3,C3H7O3 and C2H5O2: Implications for the Interstellar Medium**|Anxo Lema-Saavedra et.al.|[2505.02427](http://arxiv.org/abs/2505.02427)|null|
+|**2025-05-05**|**Learning simple heuristic rules for classifying materials based on chemical composition**|Andrew Ma et.al.|[2505.02361](http://arxiv.org/abs/2505.02361)|null|
+|**2025-05-03**|**BOOM: Benchmarking Out-Of-distribution Molecular Property Predictions of Machine Learning Models**|Evan R. Antoniuk et.al.|[2505.01912](http://arxiv.org/abs/2505.01912)|null|
+|**2025-05-03**|**From Formulas to Figures: How Visual Elements Impact User Interactions in Educational Videos**|Wolfgang Gritz et.al.|[2505.01753](http://arxiv.org/abs/2505.01753)|null|
+|**2025-05-02**|**From Tides to Currents: Unraveling the Mechanism That Powers WASP-107b's Internal Heat Flux**|Konstantin Batygin et.al.|[2505.01581](http://arxiv.org/abs/2505.01581)|null|
+|**2025-05-02**|**Quantum simulation with sum-of-squares spectral amplification**|Robbie King et.al.|[2505.01528](http://arxiv.org/abs/2505.01528)|null|
+|**2025-05-02**|**Comparative Biosignatures**|Tereza Constantinou et.al.|[2505.01512](http://arxiv.org/abs/2505.01512)|null|
 |**2025-05-02**|**QCMaquis 4.0: Multi-Purpose Electronic, Vibrational, and Vibronic Structure and Dynamics Calculations with the Density Matrix Renormalization Group**|Kalman Szenes et.al.|[2505.01405](http://arxiv.org/abs/2505.01405)|null|
 |**2025-05-02**|**Qracle: A Graph-Neural-Network-based Parameter Initializer for Variational Quantum Eigensolvers**|Chi Zhang et.al.|[2505.01236](http://arxiv.org/abs/2505.01236)|null|
 |**2025-05-02**|**Energy Transduction in Complex Networks with Multiple Resources: The Chemistry Paradigm**|Massimo Bilancioni et.al.|[2505.01176](http://arxiv.org/abs/2505.01176)|null|
