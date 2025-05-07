@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-05**|**Rewriting Pre-Training Data Boosts LLM Performance in Math and Code**|Kazuki Fujii et.al.|[2505.02881](http://arxiv.org/abs/2505.02881)|null|
 |**2025-05-05**|**A Survey of Slow Thinking-based Reasoning LLMs using Reinforced Learning and Inference-time Scaling Law**|Qianjun Pan et.al.|[2505.02665](http://arxiv.org/abs/2505.02665)|null|
 |**2025-05-03**|**Memory-Efficient LLM Training by Various-Grained Low-Rank Projection of Gradients**|Yezhen Wang et.al.|[2505.01744](http://arxiv.org/abs/2505.01744)|null|
 |**2025-05-02**|**TutorGym: A Testbed for Evaluating AI Agents as Tutors and Students**|Daniel Weitekamp et.al.|[2505.01563](http://arxiv.org/abs/2505.01563)|null|
@@ -334,6 +335,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Effects of transient stellar emissions on planetary climates of tidally-locked exo-earths**|Howard Chen et.al.|[2505.03723](http://arxiv.org/abs/2505.03723)|null|
+|**2025-05-06**|**Statistical geochemical constraints on present-day water outgassing as a source of secondary atmospheres on the TRAPPIST-1 exoplanets**|Trent B. Thomas et.al.|[2505.03672](http://arxiv.org/abs/2505.03672)|null|
+|**2025-05-06**|**Rapid, Broadband, Optical Spectroscopy of Cold Radicals**|Ashay N. Patel et.al.|[2505.03650](http://arxiv.org/abs/2505.03650)|null|
+|**2025-05-06**|**AI-Driven Scholarly Peer Review via Persistent Workflow Prompting, Meta-Prompting, and Meta-Reasoning**|Evgeny Markhasin et.al.|[2505.03332](http://arxiv.org/abs/2505.03332)|null|
+|**2025-05-06**|**Synthesis and characterization of a $π$ -extended Clar's goblet**|Shantanu Mishra et.al.|[2505.03289](http://arxiv.org/abs/2505.03289)|null|
+|**2025-05-06**|**Reexploring Molecular Complexity with ALMA: Insights into chemical differentiation from the molecular composition of hot cores in Sgr B2(N2)**|A. Belloche et.al.|[2505.03262](http://arxiv.org/abs/2505.03262)|null|
+|**2025-05-06**|**Monosilane Worlds: Sub-Neptunes with Atmospheres Shaped by Reduced Magma Oceans**|Yuichi Ito et.al.|[2505.03200](http://arxiv.org/abs/2505.03200)|null|
+|**2025-05-06**|**Broadband Dielectric Spectroscopy on dry Poly(vinyl alcohol)/Poly(vinylidene fluoride) blends reinforced with Nano-Graphene Platelets at combined pressure and temperature**|Eirini Kolonelou et.al.|[2505.03192](http://arxiv.org/abs/2505.03192)|null|
+|**2025-05-06**|**HMAE: Self-Supervised Few-Shot Learning for Quantum Spin Systems**|Ibne Farabi Shihab et.al.|[2505.03140](http://arxiv.org/abs/2505.03140)|null|
+|**2025-05-05**|**Fabrication-Directed Entanglement for Designing Chiral and Anisotropic Metamaterial Foams**|Daniel Revier et.al.|[2505.03064](http://arxiv.org/abs/2505.03064)|null|
 |**2025-05-05**|**El Agente: An Autonomous Agent for Quantum Chemistry**|Yunheng Zou et.al.|[2505.02484](http://arxiv.org/abs/2505.02484)|null|
 |**2025-05-05**|**Computational Insights into the Chemical Reaction Networks of C3H6O3,C3H7O3 and C2H5O2: Implications for the Interstellar Medium**|Anxo Lema-Saavedra et.al.|[2505.02427](http://arxiv.org/abs/2505.02427)|null|
 |**2025-05-05**|**Learning simple heuristic rules for classifying materials based on chemical composition**|Andrew Ma et.al.|[2505.02361](http://arxiv.org/abs/2505.02361)|null|
