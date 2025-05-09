@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.08
+## Updated on 2025.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |---|---|---|---|---|
 |**2025-05-02**|**Efficient Fine-Tuning of Quantized Models via Adaptive Rank and Bitwidth**|Changhai Zhou et.al.|[2505.03802](http://arxiv.org/abs/2505.03802)|null|
 |**2025-05-05**|**Rewriting Pre-Training Data Boosts LLM Performance in Math and Code**|Kazuki Fujii et.al.|[2505.02881](http://arxiv.org/abs/2505.02881)|**[link](https://github.com/rioyokotalab/swallow-code-math)**|
-|**2025-05-05**|**A Survey of Slow Thinking-based Reasoning LLMs using Reinforced Learning and Inference-time Scaling Law**|Qianjun Pan et.al.|[2505.02665](http://arxiv.org/abs/2505.02665)|null|
+|**2025-05-08**|**A Survey of Slow Thinking-based Reasoning LLMs using Reinforced Learning and Inference-time Scaling Law**|Qianjun Pan et.al.|[2505.02665](http://arxiv.org/abs/2505.02665)|null|
 |**2025-05-03**|**Memory-Efficient LLM Training by Various-Grained Low-Rank Projection of Gradients**|Yezhen Wang et.al.|[2505.01744](http://arxiv.org/abs/2505.01744)|null|
 |**2025-05-02**|**TutorGym: A Testbed for Evaluating AI Agents as Tutors and Students**|Daniel Weitekamp et.al.|[2505.01563](http://arxiv.org/abs/2505.01563)|null|
 |**2025-05-01**|**NeMo-Inspector: A Visualization Tool for LLM Generation Analysis**|Daria Gitman et.al.|[2505.00903](http://arxiv.org/abs/2505.00903)|null|
@@ -330,14 +330,14 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## AI for Science
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-07**|**MuAPBEK: An Improved Analytical Kinetic Energy Density Functional for Quantum Chemistry**|Siwoo Lee et.al.|[2505.04559](http://arxiv.org/abs/2505.04559)|null|
-|**2025-05-07**|**A Multi-Scale Quantum Framework for Evaluating Metal-Organic Frameworks in Carbon Capture**|Tom W. A. Montgomery et.al.|[2505.04527](http://arxiv.org/abs/2505.04527)|null|
+|**2025-05-08**|**A Multi-Scale Quantum Framework for Evaluating Metal-Organic Frameworks in Carbon Capture**|Tom W. A. Montgomery et.al.|[2505.04527](http://arxiv.org/abs/2505.04527)|null|
 |**2025-05-07**|**A Detailed Investigation of HD 209458 b HST & JWST Transmission Spectra with SANSAR**|Avinash Verma et.al.|[2505.04413](http://arxiv.org/abs/2505.04413)|null|
 |**2025-05-06**|**The Sonora Substellar Atmosphere Models. V: A Correction to the Disequilibrium Abundance of CO $_2$ for Sonora Elf Owl**|Nicholas F. Wogan et.al.|[2505.03994](http://arxiv.org/abs/2505.03994)|null|
 |**2025-05-06**|**Effects of transient stellar emissions on planetary climates of tidally-locked exo-earths**|Howard Chen et.al.|[2505.03723](http://arxiv.org/abs/2505.03723)|null|
@@ -1655,7 +1655,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
