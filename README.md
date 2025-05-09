@@ -336,6 +336,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**Operator-Level Quantum Acceleration of Non-Logconcave Sampling**|Jiaqi Leng et.al.|[2505.05301](http://arxiv.org/abs/2505.05301)|null|
+|**2025-05-08**|**ChemRxivQuest: A Curated Chemistry Question-Answer Database Extracted from ChemRxiv Preprints**|Mahmoud Amiri et.al.|[2505.05232](http://arxiv.org/abs/2505.05232)|null|
+|**2025-05-08**|**Electron attachment to nitric oxide (NO) controversy**|Ana I. Lozano et.al.|[2505.05219](http://arxiv.org/abs/2505.05219)|null|
+|**2025-05-07**|**Nonadiabatic ring-polymer instanton rate theory: a generalised dividing-surface approach**|Rhiannon A. Zarotiadis et.al.|[2505.04770](http://arxiv.org/abs/2505.04770)|null|
+|**2025-05-07**|**An Introduction to Variational Quantum Eigensolver Applied to Chemistry**|Matheus da S. Fonseca et.al.|[2505.04768](http://arxiv.org/abs/2505.04768)|null|
 |**2025-05-07**|**MuAPBEK: An Improved Analytical Kinetic Energy Density Functional for Quantum Chemistry**|Siwoo Lee et.al.|[2505.04559](http://arxiv.org/abs/2505.04559)|null|
 |**2025-05-08**|**A Multi-Scale Quantum Framework for Evaluating Metal-Organic Frameworks in Carbon Capture**|Tom W. A. Montgomery et.al.|[2505.04527](http://arxiv.org/abs/2505.04527)|null|
 |**2025-05-07**|**A Detailed Investigation of HD 209458 b HST & JWST Transmission Spectra with SANSAR**|Avinash Verma et.al.|[2505.04413](http://arxiv.org/abs/2505.04413)|null|
