@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Elastic Weight Consolidation for Full-Parameter Continual Pre-Training of Gemma2**|Vytenis Šliogeris et.al.|[2505.05946](http://arxiv.org/abs/2505.05946)|null|
 |**2025-05-02**|**Efficient Fine-Tuning of Quantized Models via Adaptive Rank and Bitwidth**|Changhai Zhou et.al.|[2505.03802](http://arxiv.org/abs/2505.03802)|null|
 |**2025-05-05**|**Rewriting Pre-Training Data Boosts LLM Performance in Math and Code**|Kazuki Fujii et.al.|[2505.02881](http://arxiv.org/abs/2505.02881)|**[link](https://github.com/rioyokotalab/swallow-code-math)**|
 |**2025-05-08**|**A Survey of Slow Thinking-based Reasoning LLMs using Reinforced Learning and Inference-time Scaling Law**|Qianjun Pan et.al.|[2505.02665](http://arxiv.org/abs/2505.02665)|null|
@@ -330,6 +331,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**From Fermions to Qubits: A ZX-Calculus Perspective**|Haytham McDowall-Rose et.al.|[2505.06212](http://arxiv.org/abs/2505.06212)|null|
+|**2025-05-08**|**SPIN-ODE: Stiff Physics-Informed Neural ODE for Chemical Reaction Rate Estimation**|Wenqing Peng et.al.|[2505.05625](http://arxiv.org/abs/2505.05625)|null|
 |**2025-05-08**|**Operator-Level Quantum Acceleration of Non-Logconcave Sampling**|Jiaqi Leng et.al.|[2505.05301](http://arxiv.org/abs/2505.05301)|null|
 |**2025-05-08**|**ChemRxivQuest: A Curated Chemistry Question-Answer Database Extracted from ChemRxiv Preprints**|Mahmoud Amiri et.al.|[2505.05232](http://arxiv.org/abs/2505.05232)|null|
 |**2025-05-08**|**Electron attachment to nitric oxide (NO) controversy**|Ana I. Lozano et.al.|[2505.05219](http://arxiv.org/abs/2505.05219)|null|
