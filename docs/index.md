@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models**|Muzhi Dai et.al.|[2505.07686](http://arxiv.org/abs/2505.07686)|null|
+|**2025-05-12**|**AttentionInfluence: Adopting Attention Head Influence for Weak-to-Strong Pretraining Data Selection**|Kai Hua et.al.|[2505.07293](http://arxiv.org/abs/2505.07293)|null|
 |**2025-05-09**|**Elastic Weight Consolidation for Full-Parameter Continual Pre-Training of Gemma2**|Vytenis Šliogeris et.al.|[2505.05946](http://arxiv.org/abs/2505.05946)|null|
 |**2025-05-02**|**Efficient Fine-Tuning of Quantized Models via Adaptive Rank and Bitwidth**|Changhai Zhou et.al.|[2505.03802](http://arxiv.org/abs/2505.03802)|null|
 |**2025-05-10**|**Rewriting Pre-Training Data Boosts LLM Performance in Math and Code**|Kazuki Fujii et.al.|[2505.02881](http://arxiv.org/abs/2505.02881)|**[link](https://github.com/rioyokotalab/swallow-code-math)**|
@@ -331,6 +333,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**Assessing the Chemical Intelligence of Large Language Models**|Nicholas T. Runcie et.al.|[2505.07735](http://arxiv.org/abs/2505.07735)|null|
+|**2025-05-12**|**Benchmarking Retrieval-Augmented Generation for Chemistry**|Xianrui Zhong et.al.|[2505.07671](http://arxiv.org/abs/2505.07671)|null|
+|**2025-05-12**|**Fundamental Understanding of Exposure and Process Chemistry for Enhanced Lithography and Stability of Metal Oxide Resists**|Kevin M. Dorney et.al.|[2505.07639](http://arxiv.org/abs/2505.07639)|null|
+|**2025-05-12**|**The JDISC Survey: Linking the Physics and Chemistry of Inner and Outer Protoplanetary Disk Zones**|Nicole Arulanantham et.al.|[2505.07562](http://arxiv.org/abs/2505.07562)|null|
+|**2025-05-12**|**Morphology and Strain Engineering of Cu-based Materials by Chemical Dealloying for Electrochemical CO Reduction**|Yuxiang Zhou et.al.|[2505.07419](http://arxiv.org/abs/2505.07419)|null|
+|**2025-05-12**|**Unraveling the Reaction Mechanisms in a Chemically Amplified EUV Photoresist from a Combined Theoretical and Experimental Approach**|Laura Galleni et.al.|[2505.07346](http://arxiv.org/abs/2505.07346)|null|
+|**2025-05-11**|**LLM-Augmented Chemical Synthesis and Design Decision Programs**|Haorui Wang et.al.|[2505.07027](http://arxiv.org/abs/2505.07027)|null|
+|**2025-05-09**|**An Improved Approach to Estimate the Internal Resistance of a Battery**|Prarthana Pillai et.al.|[2505.06410](http://arxiv.org/abs/2505.06410)|null|
+|**2025-05-09**|**Ultrastrong Light-Matter Coupling in Materials**|Niclas S. Mueller et.al.|[2505.06373](http://arxiv.org/abs/2505.06373)|null|
+|**2025-05-09**|**2D Quon Language: Unifying Framework for Cliffords, Matchgates, and Beyond**|Byungmin Kang et.al.|[2505.06336](http://arxiv.org/abs/2505.06336)|null|
 |**2025-05-09**|**From Fermions to Qubits: A ZX-Calculus Perspective**|Haytham McDowall-Rose et.al.|[2505.06212](http://arxiv.org/abs/2505.06212)|null|
 |**2025-05-08**|**SPIN-ODE: Stiff Physics-Informed Neural ODE for Chemical Reaction Rate Estimation**|Wenqing Peng et.al.|[2505.05625](http://arxiv.org/abs/2505.05625)|null|
 |**2025-05-08**|**Operator-Level Quantum Acceleration of Non-Logconcave Sampling**|Jiaqi Leng et.al.|[2505.05301](http://arxiv.org/abs/2505.05301)|null|
