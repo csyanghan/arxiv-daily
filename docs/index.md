@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Accelerating Chain-of-Thought Reasoning: When Goal-Gradient Importance Meets Dynamic Skipping**|Ren Zhuang et.al.|[2505.08392](http://arxiv.org/abs/2505.08392)|null|
+|**2025-05-08**|**Scalable LLM Math Reasoning Acceleration with Low-rank Distillation**|Harry Dong et.al.|[2505.07861](http://arxiv.org/abs/2505.07861)|null|
 |**2025-05-12**|**S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models**|Muzhi Dai et.al.|[2505.07686](http://arxiv.org/abs/2505.07686)|null|
 |**2025-05-12**|**AttentionInfluence: Adopting Attention Head Influence for Weak-to-Strong Pretraining Data Selection**|Kai Hua et.al.|[2505.07293](http://arxiv.org/abs/2505.07293)|null|
 |**2025-05-09**|**Elastic Weight Consolidation for Full-Parameter Continual Pre-Training of Gemma2**|Vytenis Šliogeris et.al.|[2505.05946](http://arxiv.org/abs/2505.05946)|null|
@@ -333,6 +335,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Generative Molecular Design with Steerable and Granular Synthesizability Control**|Jeff Guo et.al.|[2505.08774](http://arxiv.org/abs/2505.08774)|null|
+|**2025-05-13**|**The Open Molecules 2025 (OMol25) Dataset, Evaluations, and Models**|Daniel S. Levine et.al.|[2505.08762](http://arxiv.org/abs/2505.08762)|null|
+|**2025-05-13**|**A Machine Learning Pipeline for Molecular Property Prediction using ChemXploreML**|Aravindh Nivas Marimuthu et.al.|[2505.08688](http://arxiv.org/abs/2505.08688)|null|
+|**2025-05-13**|**Understanding molecular ratios in the carbon and oxygen poor outer Milky Way with interpretable machine learning**|Gijs Vermariën et.al.|[2505.08410](http://arxiv.org/abs/2505.08410)|null|
+|**2025-05-13**|**Multireference error mitigation for quantum computation of chemistry**|Hang Zou et.al.|[2505.08291](http://arxiv.org/abs/2505.08291)|null|
+|**2025-05-13**|**Experimental demonstration of kinetic proofreading inherited in ligation-based information replication**|Hiroyuki Aoyanagi et.al.|[2505.08232](http://arxiv.org/abs/2505.08232)|null|
+|**2025-05-13**|**Aitomia: Your Intelligent Assistant for AI-Driven Atomistic and Quantum Chemical Simulations**|Jinming Hu et.al.|[2505.08195](http://arxiv.org/abs/2505.08195)|null|
+|**2025-05-12**|**Theoretical Study on MR-TADF Materials Based on CzBN**|Jinpu Bai et.al.|[2505.08040](http://arxiv.org/abs/2505.08040)|null|
+|**2025-05-12**|**JWST Observations of Young protoStars (JOYS): overview of program and early results**|E. F. van Dishoeck et.al.|[2505.08002](http://arxiv.org/abs/2505.08002)|null|
+|**2025-05-12**|**The full iron budget in simulated galaxy clusters: The chemistry between gas and stars**|Veronica Biffi et.al.|[2505.07936](http://arxiv.org/abs/2505.07936)|null|
 |**2025-05-12**|**Assessing the Chemical Intelligence of Large Language Models**|Nicholas T. Runcie et.al.|[2505.07735](http://arxiv.org/abs/2505.07735)|null|
 |**2025-05-12**|**Benchmarking Retrieval-Augmented Generation for Chemistry**|Xianrui Zhong et.al.|[2505.07671](http://arxiv.org/abs/2505.07671)|null|
 |**2025-05-12**|**Fundamental Understanding of Exposure and Process Chemistry for Enhanced Lithography and Stability of Metal Oxide Resists**|Kevin M. Dorney et.al.|[2505.07639](http://arxiv.org/abs/2505.07639)|null|
