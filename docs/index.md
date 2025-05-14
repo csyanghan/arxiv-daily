@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -21,8 +21,8 @@ layout: default
 |**2025-05-10**|**Rewriting Pre-Training Data Boosts LLM Performance in Math and Code**|Kazuki Fujii et.al.|[2505.02881](http://arxiv.org/abs/2505.02881)|**[link](https://github.com/rioyokotalab/swallow-code-math)**|
 |**2025-05-08**|**A Survey of Slow Thinking-based Reasoning LLMs using Reinforced Learning and Inference-time Scaling Law**|Qianjun Pan et.al.|[2505.02665](http://arxiv.org/abs/2505.02665)|null|
 |**2025-05-03**|**Memory-Efficient LLM Training by Various-Grained Low-Rank Projection of Gradients**|Yezhen Wang et.al.|[2505.01744](http://arxiv.org/abs/2505.01744)|null|
-|**2025-05-02**|**TutorGym: A Testbed for Evaluating AI Agents as Tutors and Students**|Daniel Weitekamp et.al.|[2505.01563](http://arxiv.org/abs/2505.01563)|null|
-|**2025-05-01**|**NeMo-Inspector: A Visualization Tool for LLM Generation Analysis**|Daria Gitman et.al.|[2505.00903](http://arxiv.org/abs/2505.00903)|null|
+|**2025-05-02**|**TutorGym: A Testbed for Evaluating AI Agents as Tutors and Students**|Daniel Weitekamp et.al.|[2505.01563](http://arxiv.org/abs/2505.01563)|**[link](https://github.com/teachable-ai-lab/tutor_gym)**|
+|**2025-05-01**|**NeMo-Inspector: A Visualization Tool for LLM Generation Analysis**|Daria Gitman et.al.|[2505.00903](http://arxiv.org/abs/2505.00903)|**[link](https://github.com/NVIDIA/NeMo-Inspector)**|
 |**2025-04-30**|**Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language Models in Math**|Haoran Xu et.al.|[2504.21233](http://arxiv.org/abs/2504.21233)|null|
 |**2025-04-30**|**Trace-of-Thought Prompting: Investigating Prompt-Based Knowledge Distillation Through Question Decomposition**|Tyler McDonald et.al.|[2504.20946](http://arxiv.org/abs/2504.20946)|null|
 |**2025-04-29**|**Reinforcement Learning for Reasoning in Large Language Models with One Training Example**|Yiping Wang et.al.|[2504.20571](http://arxiv.org/abs/2504.20571)|**[link](https://github.com/ypwang61/one-shot-rlvr)**|
