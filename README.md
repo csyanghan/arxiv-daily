@@ -341,6 +341,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Atomic Confinement Potentials**|Hugo Åström et.al.|[2505.09540](http://arxiv.org/abs/2505.09540)|null|
+|**2025-05-14**|**Zassenhaus Expansion in Solving the Schrödinger Equation**|Molena Nguyen et.al.|[2505.09441](http://arxiv.org/abs/2505.09441)|null|
+|**2025-05-14**|**TensorRL-QAS: Reinforcement learning with tensor networks for scalable quantum architecture search**|Akash Kundu et.al.|[2505.09371](http://arxiv.org/abs/2505.09371)|null|
+|**2025-05-14**|**300th anniversary of the birth of Father Eliseo della Concezione: the scientific contribution in the Royal Academy of Studies of Palermo**|Aurelio Agliolo Gallitto et.al.|[2505.09192](http://arxiv.org/abs/2505.09192)|null|
+|**2025-05-13**|**Exoplanet atmospheres at high spectral resolution**|Ignas Snellen et.al.|[2505.08926](http://arxiv.org/abs/2505.08926)|null|
+|**2025-05-13**|**Acid Base Chemistry of Short Hydrogen Bonds: A Tale of Schrödinger's Cat in Glutamine-Derived Crystals**|Muhammad Nawaz Qaisrani et.al.|[2505.08893](http://arxiv.org/abs/2505.08893)|null|
 |**2025-05-13**|**Generative Molecular Design with Steerable and Granular Synthesizability Control**|Jeff Guo et.al.|[2505.08774](http://arxiv.org/abs/2505.08774)|null|
 |**2025-05-13**|**The Open Molecules 2025 (OMol25) Dataset, Evaluations, and Models**|Daniel S. Levine et.al.|[2505.08762](http://arxiv.org/abs/2505.08762)|null|
 |**2025-05-13**|**A Machine Learning Pipeline for Molecular Property Prediction using ChemXploreML**|Aravindh Nivas Marimuthu et.al.|[2505.08688](http://arxiv.org/abs/2505.08688)|null|
