@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models**|Zemin Huang et.al.|[2505.10446](http://arxiv.org/abs/2505.10446)|null|
 |**2025-05-13**|**Accelerating Chain-of-Thought Reasoning: When Goal-Gradient Importance Meets Dynamic Skipping**|Ren Zhuang et.al.|[2505.08392](http://arxiv.org/abs/2505.08392)|null|
 |**2025-05-08**|**Scalable LLM Math Reasoning Acceleration with Low-rank Distillation**|Harry Dong et.al.|[2505.07861](http://arxiv.org/abs/2505.07861)|null|
 |**2025-05-12**|**S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models**|Muzhi Dai et.al.|[2505.07686](http://arxiv.org/abs/2505.07686)|null|
@@ -341,6 +342,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**Magnetic deflection of high-spin sodium dimers formed on helium nanodroplets**|Thomas H. Villers et.al.|[2505.10523](http://arxiv.org/abs/2505.10523)|null|
+|**2025-05-15**|**Sensing a magnetic rare-earth surface alloy by proximity effect with an open-shell nanographene**|Nicolò Bassi et.al.|[2505.10313](http://arxiv.org/abs/2505.10313)|null|
+|**2025-05-15**|**Dynamics of reactive oxygen species produced by the COST microplasma jet**|Sascha Chur et.al.|[2505.10204](http://arxiv.org/abs/2505.10204)|null|
+|**2025-05-15**|**VUV Processing of Nitrile Ice: Direct Comparison of Branching in Ice and TPD Spectra**|Travis J. Hager et.al.|[2505.09888](http://arxiv.org/abs/2505.09888)|null|
+|**2025-05-14**|**Stable Real-Space Invariants and Topology Beyond Symmetry Indicators**|Yoonseok Hwang et.al.|[2505.09697](http://arxiv.org/abs/2505.09697)|null|
 |**2025-05-14**|**Atomic Confinement Potentials**|Hugo Åström et.al.|[2505.09540](http://arxiv.org/abs/2505.09540)|null|
 |**2025-05-14**|**Zassenhaus Expansion in Solving the Schrödinger Equation**|Molena Nguyen et.al.|[2505.09441](http://arxiv.org/abs/2505.09441)|null|
 |**2025-05-14**|**TensorRL-QAS: Reinforcement learning with tensor networks for scalable quantum architecture search**|Akash Kundu et.al.|[2505.09371](http://arxiv.org/abs/2505.09371)|null|
