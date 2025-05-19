@@ -342,6 +342,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**Tracing the formation and migration history: molecular signatures in the atmosphere of misaligned hot Jupiter WASP-94Ab using JWST NIRSpec/G395H**|Eva-Maria Ahrer et.al.|[2505.11224](http://arxiv.org/abs/2505.11224)|null|
+|**2025-05-16**|**Absence of a Runaway Greenhouse Limit on Lava Planets**|Iris D. Boer et.al.|[2505.11149](http://arxiv.org/abs/2505.11149)|null|
+|**2025-05-16**|**Novel high symmetry super-hard C48 and C32 allotropes with ana and ukc original topologies: Crystal chemistry and DFT investigations**|Samir F Matar et.al.|[2505.10959](http://arxiv.org/abs/2505.10959)|null|
+|**2025-05-16**|**Exploring the Interplay Between Formation Mechanisms and Luminescence of Lignin Carbon Quantum Dots from Spruce Biomass**|Jelena Papan Djaniš et.al.|[2505.10886](http://arxiv.org/abs/2505.10886)|null|
 |**2025-05-15**|**Magnetic deflection of high-spin sodium dimers formed on helium nanodroplets**|Thomas H. Villers et.al.|[2505.10523](http://arxiv.org/abs/2505.10523)|null|
 |**2025-05-15**|**Sensing a magnetic rare-earth surface alloy by proximity effect with an open-shell nanographene**|Nicolò Bassi et.al.|[2505.10313](http://arxiv.org/abs/2505.10313)|null|
 |**2025-05-15**|**Dynamics of reactive oxygen species produced by the COST microplasma jet**|Sascha Chur et.al.|[2505.10204](http://arxiv.org/abs/2505.10204)|null|
