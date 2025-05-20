@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.19
+## Updated on 2025.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -15,9 +15,9 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-15**|**Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models**|Zemin Huang et.al.|[2505.10446](http://arxiv.org/abs/2505.10446)|null|
-|**2025-05-13**|**Accelerating Chain-of-Thought Reasoning: When Goal-Gradient Importance Meets Dynamic Skipping**|Ren Zhuang et.al.|[2505.08392](http://arxiv.org/abs/2505.08392)|null|
+|**2025-05-17**|**Accelerating Chain-of-Thought Reasoning: When Goal-Gradient Importance Meets Dynamic Skipping**|Ren Zhuang et.al.|[2505.08392](http://arxiv.org/abs/2505.08392)|null|
 |**2025-05-08**|**Scalable LLM Math Reasoning Acceleration with Low-rank Distillation**|Harry Dong et.al.|[2505.07861](http://arxiv.org/abs/2505.07861)|null|
-|**2025-05-12**|**S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models**|Muzhi Dai et.al.|[2505.07686](http://arxiv.org/abs/2505.07686)|null|
+|**2025-05-17**|**S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models**|Muzhi Dai et.al.|[2505.07686](http://arxiv.org/abs/2505.07686)|null|
 |**2025-05-12**|**AttentionInfluence: Adopting Attention Head Influence for Weak-to-Strong Pretraining Data Selection**|Kai Hua et.al.|[2505.07293](http://arxiv.org/abs/2505.07293)|null|
 |**2025-05-09**|**Elastic Weight Consolidation for Full-Parameter Continual Pre-Training of Gemma2**|Vytenis Šliogeris et.al.|[2505.05946](http://arxiv.org/abs/2505.05946)|null|
 |**2025-05-02**|**Efficient Fine-Tuning of Quantized Models via Adaptive Rank and Bitwidth**|Changhai Zhou et.al.|[2505.03802](http://arxiv.org/abs/2505.03802)|null|
