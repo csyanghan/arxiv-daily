@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**Thinkless: LLM Learns When to Think**|Gongfan Fang et.al.|[2505.13379](http://arxiv.org/abs/2505.13379)|**[link](https://github.com/vainf/thinkless)**|
+|**2025-05-19**|**Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space**|Hengli Li et.al.|[2505.13308](http://arxiv.org/abs/2505.13308)|null|
+|**2025-05-18**|**MARGE: Improving Math Reasoning for LLMs with Guided Exploration**|Jingyue Gao et.al.|[2505.12500](http://arxiv.org/abs/2505.12500)|**[link](https://github.com/georgao35/marge)**|
+|**2025-05-18**|**SLOT: Sample-specific Language Model Optimization at Test-time**|Yang Hu et.al.|[2505.12392](http://arxiv.org/abs/2505.12392)|**[link](https://github.com/maple-research-lab/slot)**|
+|**2025-05-18**|**Data Whisperer: Efficient Data Selection for Task-Specific LLM Fine-Tuning via Few-Shot In-Context Learning**|Shaobo Wang et.al.|[2505.12212](http://arxiv.org/abs/2505.12212)|null|
+|**2025-05-17**|**Search-Based Correction of Reasoning Chains for Language Models**|Minsu Kim et.al.|[2505.11824](http://arxiv.org/abs/2505.11824)|null|
+|**2025-05-16**|**InfiJanice: Joint Analysis and In-situ Correction Engine for Quantization-Induced Math Degradation in Large Language Models**|Zhen Li et.al.|[2505.11574](http://arxiv.org/abs/2505.11574)|null|
 |**2025-05-15**|**Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models**|Zemin Huang et.al.|[2505.10446](http://arxiv.org/abs/2505.10446)|null|
 |**2025-05-17**|**Accelerating Chain-of-Thought Reasoning: When Goal-Gradient Importance Meets Dynamic Skipping**|Ren Zhuang et.al.|[2505.08392](http://arxiv.org/abs/2505.08392)|null|
 |**2025-05-08**|**Scalable LLM Math Reasoning Acceleration with Low-rank Distillation**|Harry Dong et.al.|[2505.07861](http://arxiv.org/abs/2505.07861)|null|
@@ -336,6 +343,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**Multireference Embedding and Fragmentation Methods for Classical and Quantum Computers: from Model Systems to Realistic Applications**|Shreya Verma et.al.|[2505.13394](http://arxiv.org/abs/2505.13394)|null|
+|**2025-05-19**|**OPA-Pack: Object-Property-Aware Robotic Bin Packing**|Jia-Hui Pan et.al.|[2505.13339](http://arxiv.org/abs/2505.13339)|null|
+|**2025-05-18**|**mCLM: A Function-Infused and Synthesis-Friendly Modular Chemical Language Model**|Carl Edwards et.al.|[2505.12565](http://arxiv.org/abs/2505.12565)|null|
+|**2025-05-18**|**ChemPile: A 250GB Diverse and Curated Dataset for Chemical Foundation Models**|Adrian Mirza et.al.|[2505.12534](http://arxiv.org/abs/2505.12534)|null|
+|**2025-05-18**|**HORM: A Large Scale Molecular Hessian Database for Optimizing Reactive Machine Learning Interatomic Potentials**|Taoyong Cui et.al.|[2505.12447](http://arxiv.org/abs/2505.12447)|null|
+|**2025-05-18**|**Neural Graduated Assignment for Maximum Common Edge Subgraphs**|Chaolong Ying et.al.|[2505.12325](http://arxiv.org/abs/2505.12325)|null|
+|**2025-05-17**|**Inclusion of sulfur chemistry in a validated C/H/O/N chemical network: identification of key C/S coupling pathways**|R. Veillet et.al.|[2505.12152](http://arxiv.org/abs/2505.12152)|null|
+|**2025-05-17**|**HST/WFC3 Constraints on the Abundances of OH and FeH in the Atmosphere of the Ultra-Hot Neptune LTT-9779 b**|Li Zhou et.al.|[2505.11960](http://arxiv.org/abs/2505.11960)|null|
 |**2025-05-16**|**Tracing the formation and migration history: molecular signatures in the atmosphere of misaligned hot Jupiter WASP-94Ab using JWST NIRSpec/G395H**|Eva-Maria Ahrer et.al.|[2505.11224](http://arxiv.org/abs/2505.11224)|null|
 |**2025-05-16**|**Absence of a Runaway Greenhouse Limit on Lava Planets**|Iris D. Boer et.al.|[2505.11149](http://arxiv.org/abs/2505.11149)|null|
 |**2025-05-16**|**Novel high symmetry super-hard C48 and C32 allotropes with ana and ukc original topologies: Crystal chemistry and DFT investigations**|Samir F Matar et.al.|[2505.10959](http://arxiv.org/abs/2505.10959)|null|
