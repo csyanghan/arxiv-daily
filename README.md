@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**TinyV: Reducing False Negatives in Verification Improves RL for LLM Reasoning**|Zhangchen Xu et.al.|[2505.14625](http://arxiv.org/abs/2505.14625)|null|
+|**2025-05-20**|**Let LLMs Break Free from Overthinking via Self-Braking Tuning**|Haoran Zhao et.al.|[2505.14604](http://arxiv.org/abs/2505.14604)|null|
+|**2025-05-20**|**Dual Decomposition of Weights and Singular Value Low Rank Adaptation**|Jialong Han et.al.|[2505.14367](http://arxiv.org/abs/2505.14367)|null|
+|**2025-05-20**|**Self-Reasoning Language Models: Unfold Hidden Reasoning Chains with Few Reasoning Catalyst**|Hongru Wang et.al.|[2505.14116](http://arxiv.org/abs/2505.14116)|null|
+|**2025-05-20**|**DRP: Distilled Reasoning Pruning with Skill-aware Step Decomposition for Efficient Large Reasoning Models**|Yuxuan Jiang et.al.|[2505.13975](http://arxiv.org/abs/2505.13975)|null|
+|**2025-05-19**|**RL in Name Only? Analyzing the Structural Assumptions in RL post-training for LLMs**|Soumya Rani Samineni et.al.|[2505.13697](http://arxiv.org/abs/2505.13697)|null|
 |**2025-05-19**|**Thinkless: LLM Learns When to Think**|Gongfan Fang et.al.|[2505.13379](http://arxiv.org/abs/2505.13379)|**[link](https://github.com/vainf/thinkless)**|
 |**2025-05-19**|**Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space**|Hengli Li et.al.|[2505.13308](http://arxiv.org/abs/2505.13308)|null|
 |**2025-05-18**|**MARGE: Improving Math Reasoning for LLMs with Guided Exploration**|Jingyue Gao et.al.|[2505.12500](http://arxiv.org/abs/2505.12500)|**[link](https://github.com/georgao35/marge)**|
@@ -349,6 +355,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**General-Reasoner: Advancing LLM Reasoning Across All Domains**|Xueguang Ma et.al.|[2505.14652](http://arxiv.org/abs/2505.14652)|null|
+|**2025-05-20**|**Impact of Surfactant and Flow Rate on the Electrical Properties of Activated Carbon Black Suspensions**|KangJin Lee et.al.|[2505.14618](http://arxiv.org/abs/2505.14618)|null|
+|**2025-05-20**|**Insight into the Correlation of Shape and Magnetism of Hematite Nanospindles**|Juri Kopp et.al.|[2505.14265](http://arxiv.org/abs/2505.14265)|null|
+|**2025-05-20**|**Parallel Exploration of the Optoelectronic Properties of (Sb,Bi)(S,Se)(Br,I) Chalcohalides**|Rasmus S. Nielsen et.al.|[2505.14208](http://arxiv.org/abs/2505.14208)|null|
+|**2025-05-20**|**A novel approach to process TRISO nuclear fuel using plasma-aided chemistry**|Tobias Chemnitz et.al.|[2505.14108](http://arxiv.org/abs/2505.14108)|null|
+|**2025-05-19**|**Quantum state preparation with polynomial resources: Branched-Subspaces Adiabatic Preparation (B-SAP)**|Davide Cugini et.al.|[2505.13717](http://arxiv.org/abs/2505.13717)|null|
+|**2025-05-19**|**Can thermodynamic equilibrium be established in planet-forming disks?**|Jayatee Kanwar et.al.|[2505.13705](http://arxiv.org/abs/2505.13705)|null|
+|**2025-05-19**|**Genesis: A Compiler Framework for Hamiltonian Simulation on Hybrid CV-DV Quantum Computers**|Zihan Chen et.al.|[2505.13683](http://arxiv.org/abs/2505.13683)|null|
+|**2025-05-19**|**Bayesian Hierarchical Models for Quantitative Estimates for Performance metrics applied to Saddle Search Algorithms**|Rohit Goswami et.al.|[2505.13621](http://arxiv.org/abs/2505.13621)|null|
 |**2025-05-19**|**Multireference Embedding and Fragmentation Methods for Classical and Quantum Computers: from Model Systems to Realistic Applications**|Shreya Verma et.al.|[2505.13394](http://arxiv.org/abs/2505.13394)|null|
 |**2025-05-19**|**OPA-Pack: Object-Property-Aware Robotic Bin Packing**|Jia-Hui Pan et.al.|[2505.13339](http://arxiv.org/abs/2505.13339)|null|
 |**2025-05-18**|**mCLM: A Function-Infused and Synthesis-Friendly Modular Chemical Language Model**|Carl Edwards et.al.|[2505.12565](http://arxiv.org/abs/2505.12565)|null|
