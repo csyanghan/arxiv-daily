@@ -7,16 +7,19 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-20**|**TinyV: Reducing False Negatives in Verification Improves RL for LLM Reasoning**|Zhangchen Xu et.al.|[2505.14625](http://arxiv.org/abs/2505.14625)|null|
-|**2025-05-20**|**Let LLMs Break Free from Overthinking via Self-Braking Tuning**|Haoran Zhao et.al.|[2505.14604](http://arxiv.org/abs/2505.14604)|null|
-|**2025-05-20**|**Dual Decomposition of Weights and Singular Value Low Rank Adaptation**|Jialong Han et.al.|[2505.14367](http://arxiv.org/abs/2505.14367)|null|
+|**2025-05-21**|**How Should We Enhance the Safety of Large Reasoning Models: An Empirical Study**|Zhexin Zhang et.al.|[2505.15404](http://arxiv.org/abs/2505.15404)|**[link](https://github.com/thu-coai/lrm-safety-study)**|
+|**2025-05-21**|**Learning to Rank Chain-of-Thought: An Energy-Based Approach with Outcome Supervision**|Eric Hanchen Jiang et.al.|[2505.14999](http://arxiv.org/abs/2505.14999)|null|
+|**2025-05-20**|**EasyMath: A 0-shot Math Benchmark for SLMs**|Drishya Karki et.al.|[2505.14852](http://arxiv.org/abs/2505.14852)|null|
+|**2025-05-20**|**TinyV: Reducing False Negatives in Verification Improves RL for LLM Reasoning**|Zhangchen Xu et.al.|[2505.14625](http://arxiv.org/abs/2505.14625)|**[link](https://github.com/uw-nsl/tinyv)**|
+|**2025-05-21**|**Let LLMs Break Free from Overthinking via Self-Braking Tuning**|Haoran Zhao et.al.|[2505.14604](http://arxiv.org/abs/2505.14604)|**[link](https://github.com/zju-real/self-braking-tuning)**|
+|**2025-05-21**|**Dual Decomposition of Weights and Singular Value Low Rank Adaptation**|Jialong Han et.al.|[2505.14367](http://arxiv.org/abs/2505.14367)|null|
 |**2025-05-20**|**Self-Reasoning Language Models: Unfold Hidden Reasoning Chains with Few Reasoning Catalyst**|Hongru Wang et.al.|[2505.14116](http://arxiv.org/abs/2505.14116)|null|
 |**2025-05-20**|**DRP: Distilled Reasoning Pruning with Skill-aware Step Decomposition for Efficient Large Reasoning Models**|Yuxuan Jiang et.al.|[2505.13975](http://arxiv.org/abs/2505.13975)|null|
 |**2025-05-19**|**RL in Name Only? Analyzing the Structural Assumptions in RL post-training for LLMs**|Soumya Rani Samineni et.al.|[2505.13697](http://arxiv.org/abs/2505.13697)|null|
@@ -349,7 +352,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-20**|**General-Reasoner: Advancing LLM Reasoning Across All Domains**|Xueguang Ma et.al.|[2505.14652](http://arxiv.org/abs/2505.14652)|null|
+|**2025-05-21**|**Lithium Intercalation in the Anisotropic van der Waals Magnetic Semiconductor CrSBr**|Kseniia Mosina et.al.|[2505.15663](http://arxiv.org/abs/2505.15663)|null|
+|**2025-05-21**|**Quantifying structural uncertainty in chemical reaction network inference**|Yong See Foo et.al.|[2505.15653](http://arxiv.org/abs/2505.15653)|null|
+|**2025-05-21**|**SciCUEval: A Comprehensive Dataset for Evaluating Scientific Context Understanding in Large Language Models**|Jing Yu et.al.|[2505.15094](http://arxiv.org/abs/2505.15094)|null|
+|**2025-05-21**|**Selective profiling of non-canonical nucleic acid structures via size-discriminative supramolecular probes**|Runyu Shi et.al.|[2505.15035](http://arxiv.org/abs/2505.15035)|null|
+|**2025-05-21**|**Rethinking Habitability using Biogenic Precursors: Formaldehyde in Millimeter Molecular Clouds of the Inner Galaxy**|Nursyazela Badrina Baharin et.al.|[2505.15027](http://arxiv.org/abs/2505.15027)|null|
+|**2025-05-21**|**General-Reasoner: Advancing LLM Reasoning Across All Domains**|Xueguang Ma et.al.|[2505.14652](http://arxiv.org/abs/2505.14652)|null|
 |**2025-05-20**|**Impact of Surfactant and Flow Rate on the Electrical Properties of Activated Carbon Black Suspensions**|KangJin Lee et.al.|[2505.14618](http://arxiv.org/abs/2505.14618)|null|
 |**2025-05-20**|**Insight into the Correlation of Shape and Magnetism of Hematite Nanospindles**|Juri Kopp et.al.|[2505.14265](http://arxiv.org/abs/2505.14265)|null|
 |**2025-05-20**|**Parallel Exploration of the Optoelectronic Properties of (Sb,Bi)(S,Se)(Br,I) Chalcohalides**|Rasmus S. Nielsen et.al.|[2505.14208](http://arxiv.org/abs/2505.14208)|null|
