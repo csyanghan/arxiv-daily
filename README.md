@@ -18,10 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**EquivPruner: Boosting Efficiency and Quality in LLM-Based Search via Action Pruning**|Jiawei Liu et.al.|[2505.16312](http://arxiv.org/abs/2505.16312)|null|
+|**2025-05-22**|**PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models**|Chenzhuo Zhao et.al.|[2505.16307](http://arxiv.org/abs/2505.16307)|null|
+|**2025-05-21**|**Training Step-Level Reasoning Verifiers with Formal Verification Tools**|Ryo Kamoi et.al.|[2505.15960](http://arxiv.org/abs/2505.15960)|null|
 |**2025-05-21**|**How Should We Enhance the Safety of Large Reasoning Models: An Empirical Study**|Zhexin Zhang et.al.|[2505.15404](http://arxiv.org/abs/2505.15404)|**[link](https://github.com/thu-coai/lrm-safety-study)**|
 |**2025-05-21**|**Learning to Rank Chain-of-Thought: An Energy-Based Approach with Outcome Supervision**|Eric Hanchen Jiang et.al.|[2505.14999](http://arxiv.org/abs/2505.14999)|null|
 |**2025-05-20**|**EasyMath: A 0-shot Math Benchmark for SLMs**|Drishya Karki et.al.|[2505.14852](http://arxiv.org/abs/2505.14852)|null|
-|**2025-05-20**|**TinyV: Reducing False Negatives in Verification Improves RL for LLM Reasoning**|Zhangchen Xu et.al.|[2505.14625](http://arxiv.org/abs/2505.14625)|**[link](https://github.com/uw-nsl/tinyv)**|
+|**2025-05-22**|**TinyV: Reducing False Negatives in Verification Improves RL for LLM Reasoning**|Zhangchen Xu et.al.|[2505.14625](http://arxiv.org/abs/2505.14625)|**[link](https://github.com/uw-nsl/tinyv)**|
 |**2025-05-21**|**Let LLMs Break Free from Overthinking via Self-Braking Tuning**|Haoran Zhao et.al.|[2505.14604](http://arxiv.org/abs/2505.14604)|**[link](https://github.com/ccai-lab/self-braking-tuning)**|
 |**2025-05-21**|**Dual Decomposition of Weights and Singular Value Low Rank Adaptation**|Jialong Han et.al.|[2505.14367](http://arxiv.org/abs/2505.14367)|null|
 |**2025-05-20**|**Self-Reasoning Language Models: Unfold Hidden Reasoning Chains with Few Reasoning Catalyst**|Hongru Wang et.al.|[2505.14116](http://arxiv.org/abs/2505.14116)|null|
@@ -358,6 +361,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**Accurate crystal field Hamiltonians of single-ion magnets at mean-field cost**|Linqing Peng et.al.|[2505.16905](http://arxiv.org/abs/2505.16905)|null|
+|**2025-05-22**|**Abiotic Ozone in the Observable Atmospheres of Venus and Venus-like Exoplanets**|Robb Calder et.al.|[2505.16543](http://arxiv.org/abs/2505.16543)|null|
+|**2025-05-22**|**Advancing the Scientific Method with Large Language Models: From Hypothesis to Discovery**|Yanbo Zhang et.al.|[2505.16477](http://arxiv.org/abs/2505.16477)|null|
+|**2025-05-22**|**A collaborative constrained graph diffusion model for the generation of realistic synthetic molecules**|Manuel Ruiz-Botella et.al.|[2505.16365](http://arxiv.org/abs/2505.16365)|null|
+|**2025-05-22**|**Investigating the chemical link between H $_2$CO and CH$_3$ OH within the CMZ of NGC 253**|K. -Y. Huang et.al.|[2505.16255](http://arxiv.org/abs/2505.16255)|null|
+|**2025-05-21**|**Auxiliary Field Quantum Monte Carlo for Electron-Photon Correlation**|Braden M. Weight et.al.|[2505.16021](http://arxiv.org/abs/2505.16021)|null|
 |**2025-05-21**|**Lithium Intercalation in the Anisotropic van der Waals Magnetic Semiconductor CrSBr**|Kseniia Mosina et.al.|[2505.15663](http://arxiv.org/abs/2505.15663)|null|
 |**2025-05-21**|**Quantifying structural uncertainty in chemical reaction network inference**|Yong See Foo et.al.|[2505.15653](http://arxiv.org/abs/2505.15653)|null|
 |**2025-05-21**|**SciCUEval: A Comprehensive Dataset for Evaluating Scientific Context Understanding in Large Language Models**|Jing Yu et.al.|[2505.15094](http://arxiv.org/abs/2505.15094)|null|
