@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-22**|**EquivPruner: Boosting Efficiency and Quality in LLM-Based Search via Action Pruning**|Jiawei Liu et.al.|[2505.16312](http://arxiv.org/abs/2505.16312)|null|
 |**2025-05-22**|**PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models**|Chenzhuo Zhao et.al.|[2505.16307](http://arxiv.org/abs/2505.16307)|null|
-|**2025-05-21**|**Training Step-Level Reasoning Verifiers with Formal Verification Tools**|Ryo Kamoi et.al.|[2505.15960](http://arxiv.org/abs/2505.15960)|null|
+|**2025-05-21**|**Training Step-Level Reasoning Verifiers with Formal Verification Tools**|Ryo Kamoi et.al.|[2505.15960](http://arxiv.org/abs/2505.15960)|**[link](https://github.com/psunlpgroup/fover)**|
 |**2025-05-21**|**How Should We Enhance the Safety of Large Reasoning Models: An Empirical Study**|Zhexin Zhang et.al.|[2505.15404](http://arxiv.org/abs/2505.15404)|**[link](https://github.com/thu-coai/lrm-safety-study)**|
 |**2025-05-21**|**Learning to Rank Chain-of-Thought: An Energy-Based Approach with Outcome Supervision**|Eric Hanchen Jiang et.al.|[2505.14999](http://arxiv.org/abs/2505.14999)|null|
 |**2025-05-20**|**EasyMath: A 0-shot Math Benchmark for SLMs**|Drishya Karki et.al.|[2505.14852](http://arxiv.org/abs/2505.14852)|null|

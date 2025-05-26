@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |---|---|---|---|---|
 |**2025-05-22**|**EquivPruner: Boosting Efficiency and Quality in LLM-Based Search via Action Pruning**|Jiawei Liu et.al.|[2505.16312](http://arxiv.org/abs/2505.16312)|null|
 |**2025-05-22**|**PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models**|Chenzhuo Zhao et.al.|[2505.16307](http://arxiv.org/abs/2505.16307)|null|
-|**2025-05-21**|**Training Step-Level Reasoning Verifiers with Formal Verification Tools**|Ryo Kamoi et.al.|[2505.15960](http://arxiv.org/abs/2505.15960)|null|
+|**2025-05-21**|**Training Step-Level Reasoning Verifiers with Formal Verification Tools**|Ryo Kamoi et.al.|[2505.15960](http://arxiv.org/abs/2505.15960)|**[link](https://github.com/psunlpgroup/fover)**|
 |**2025-05-21**|**How Should We Enhance the Safety of Large Reasoning Models: An Empirical Study**|Zhexin Zhang et.al.|[2505.15404](http://arxiv.org/abs/2505.15404)|**[link](https://github.com/thu-coai/lrm-safety-study)**|
 |**2025-05-21**|**Learning to Rank Chain-of-Thought: An Energy-Based Approach with Outcome Supervision**|Eric Hanchen Jiang et.al.|[2505.14999](http://arxiv.org/abs/2505.14999)|null|
 |**2025-05-20**|**EasyMath: A 0-shot Math Benchmark for SLMs**|Drishya Karki et.al.|[2505.14852](http://arxiv.org/abs/2505.14852)|null|
@@ -355,7 +355,7 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## AI for Science
 
@@ -1750,7 +1750,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
