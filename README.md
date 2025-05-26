@@ -18,7 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-22**|**EquivPruner: Boosting Efficiency and Quality in LLM-Based Search via Action Pruning**|Jiawei Liu et.al.|[2505.16312](http://arxiv.org/abs/2505.16312)|null|
+|**2025-05-23**|**Bridging Supervised Learning and Reinforcement Learning in Math Reasoning**|Huayu Chen et.al.|[2505.18116](http://arxiv.org/abs/2505.18116)|null|
+|**2025-05-23**|**Stable Reinforcement Learning for Efficient Reasoning**|Muzhi Dai et.al.|[2505.18086](http://arxiv.org/abs/2505.18086)|null|
+|**2025-05-22**|**EquivPruner: Boosting Efficiency and Quality in LLM-Based Search via Action Pruning**|Jiawei Liu et.al.|[2505.16312](http://arxiv.org/abs/2505.16312)|**[link](https://github.com/Lolo1222/EquivPruner)**|
 |**2025-05-22**|**PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models**|Chenzhuo Zhao et.al.|[2505.16307](http://arxiv.org/abs/2505.16307)|null|
 |**2025-05-21**|**Training Step-Level Reasoning Verifiers with Formal Verification Tools**|Ryo Kamoi et.al.|[2505.15960](http://arxiv.org/abs/2505.15960)|**[link](https://github.com/psunlpgroup/fover)**|
 |**2025-05-21**|**How Should We Enhance the Safety of Large Reasoning Models: An Empirical Study**|Zhexin Zhang et.al.|[2505.15404](http://arxiv.org/abs/2505.15404)|**[link](https://github.com/thu-coai/lrm-safety-study)**|
@@ -361,6 +363,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**Nonadiabatic reactive scattering of hydrogen on different surface facets of copper**|Wojciech G. Stark et.al.|[2505.18147](http://arxiv.org/abs/2505.18147)|null|
+|**2025-05-23**|**A new generation of effective core potentials: Selected lanthanides and heavy elements II**|Omar Madany et.al.|[2505.18100](http://arxiv.org/abs/2505.18100)|null|
+|**2025-05-23**|**Flexible MOF Generation with Torsion-Aware Flow Matching**|Nayoung Kim et.al.|[2505.17914](http://arxiv.org/abs/2505.17914)|null|
+|**2025-05-23**|**MOOSE-Chem3: Toward Experiment-Guided Hypothesis Ranking via Simulated Experimental Feedback**|Wanhao Liu et.al.|[2505.17873](http://arxiv.org/abs/2505.17873)|null|
+|**2025-05-23**|**Identifying cobordisms using kernel persistence**|Yossi Bokor Bleile et.al.|[2505.17858](http://arxiv.org/abs/2505.17858)|null|
+|**2025-05-23**|**Neural Network Assisted Fermionic Compression Encoding: A Lossy-QSCI Framework for Scalable Quantum Chemistry Simulations**|Yu-cheng Chen et.al.|[2505.17846](http://arxiv.org/abs/2505.17846)|null|
+|**2025-05-22**|**Algebraic Varieties in Second Quantization**|Svala Sverrisdóttir et.al.|[2505.17276](http://arxiv.org/abs/2505.17276)|null|
 |**2025-05-22**|**Accurate crystal field Hamiltonians of single-ion magnets at mean-field cost**|Linqing Peng et.al.|[2505.16905](http://arxiv.org/abs/2505.16905)|null|
 |**2025-05-22**|**Abiotic Ozone in the Observable Atmospheres of Venus and Venus-like Exoplanets**|Robb Calder et.al.|[2505.16543](http://arxiv.org/abs/2505.16543)|null|
 |**2025-05-22**|**Advancing the Scientific Method with Large Language Models: From Hypothesis to Discovery**|Yanbo Zhang et.al.|[2505.16477](http://arxiv.org/abs/2505.16477)|null|
