@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Prismatic Synthesis: Gradient-based Data Diversification Boosts Generalization in LLM Reasoning**|Jaehun Jung et.al.|[2505.20161](http://arxiv.org/abs/2505.20161)|null|
+|**2025-05-26**|**Improving Multilingual Math Reasoning for African Languages**|Odunayo Ogundepo et.al.|[2505.19848](http://arxiv.org/abs/2505.19848)|null|
+|**2025-05-25**|**LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models**|Fengqi Zhu et.al.|[2505.19223](http://arxiv.org/abs/2505.19223)|null|
+|**2025-05-25**|**Efficient Data Selection at Scale via Influence Distillation**|Mahdi Nikdan et.al.|[2505.19051](http://arxiv.org/abs/2505.19051)|null|
+|**2025-05-25**|**System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts**|Xiaoqiang Wang et.al.|[2505.18962](http://arxiv.org/abs/2505.18962)|null|
+|**2025-05-25**|**The Price of Format: Diversity Collapse in LLMs**|Longfei Yun et.al.|[2505.18949](http://arxiv.org/abs/2505.18949)|null|
+|**2025-05-24**|**On the Effect of Negative Gradient in Group Relative Deep Reinforcement Optimization**|Wenlong Deng et.al.|[2505.18830](http://arxiv.org/abs/2505.18830)|null|
+|**2025-05-24**|**AdaCtrl: Towards Adaptive and Controllable Reasoning via Difficulty-Aware Budgeting**|Shijue Huang et.al.|[2505.18822](http://arxiv.org/abs/2505.18822)|null|
+|**2025-05-24**|**Steering LLM Reasoning Through Bias-Only Adaptation**|Viacheslav Sinii et.al.|[2505.18706](http://arxiv.org/abs/2505.18706)|null|
 |**2025-05-23**|**Bridging Supervised Learning and Reinforcement Learning in Math Reasoning**|Huayu Chen et.al.|[2505.18116](http://arxiv.org/abs/2505.18116)|null|
 |**2025-05-23**|**Stable Reinforcement Learning for Efficient Reasoning**|Muzhi Dai et.al.|[2505.18086](http://arxiv.org/abs/2505.18086)|null|
 |**2025-05-22**|**EquivPruner: Boosting Efficiency and Quality in LLM-Based Search via Action Pruning**|Jiawei Liu et.al.|[2505.16312](http://arxiv.org/abs/2505.16312)|**[link](https://github.com/Lolo1222/EquivPruner)**|
@@ -357,6 +366,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Comparing Grid Model Fitting Methodologies for Low-Temperature Atmospheres: Markov Chain Monte Carlo versus Random Forest Retrieval**|Anna Lueber et.al.|[2505.19993](http://arxiv.org/abs/2505.19993)|null|
+|**2025-05-26**|**CP-Router: An Uncertainty-Aware Router Between LLM and LRM**|Jiayuan Su et.al.|[2505.19970](http://arxiv.org/abs/2505.19970)|null|
+|**2025-05-26**|**Local Pseudopotential Unlocks the True Potential of Neural Network-based Quantum Monte Carlo**|Weizhong Fu et.al.|[2505.19909](http://arxiv.org/abs/2505.19909)|null|
+|**2025-05-26**|**Toward Unraveling Cyanopolyyne Surface Chemistry: A Preview on Isolated Systems From HC_{3}N to Ethyl Cyanide and Propylamine**|Marten T. Raaphorst et.al.|[2505.19908](http://arxiv.org/abs/2505.19908)|null|
+|**2025-05-26**|**Truncated Variational Hamiltonian Ansatz: efficient quantum circuit design for quantum chemistry and material science**|Clemens Possel et.al.|[2505.19772](http://arxiv.org/abs/2505.19772)|null|
+|**2025-05-26**|**SESaMo: Symmetry-Enforcing Stochastic Modulation for Normalizing Flows**|Janik Kreit et.al.|[2505.19619](http://arxiv.org/abs/2505.19619)|null|
+|**2025-05-25**|**MOOSE-Chem2: Exploring LLM Limits in Fine-Grained Scientific Hypothesis Discovery via Hierarchical Search**|Zonglin Yang et.al.|[2505.19209](http://arxiv.org/abs/2505.19209)|null|
+|**2025-05-25**|**Formation of Supersonic Turbulence in the Primordial Star-forming Cloud**|Ke-Jung Chen et.al.|[2505.18964](http://arxiv.org/abs/2505.18964)|null|
+|**2025-05-24**|**Cloud and Haze Parameterization in Atmospheric Retrievals: Insights from Titan's Cassini Data and JWST Observations of Hot Jupiters**|Quentin Changeat et.al.|[2505.18715](http://arxiv.org/abs/2505.18715)|null|
+|**2025-05-23**|**Strain Modulated Catalytic Activity of Pt2XSe3 (X = Hg, Zn) for Hydrogen Evolution Reaction**|Caique C. Oliveira et.al.|[2505.18338](http://arxiv.org/abs/2505.18338)|null|
 |**2025-05-23**|**Nonadiabatic reactive scattering of hydrogen on different surface facets of copper**|Wojciech G. Stark et.al.|[2505.18147](http://arxiv.org/abs/2505.18147)|null|
 |**2025-05-23**|**A new generation of effective core potentials: Selected lanthanides and heavy elements II**|Omar Madany et.al.|[2505.18100](http://arxiv.org/abs/2505.18100)|null|
 |**2025-05-23**|**Flexible MOF Generation with Torsion-Aware Flow Matching**|Nayoung Kim et.al.|[2505.17914](http://arxiv.org/abs/2505.17914)|null|
