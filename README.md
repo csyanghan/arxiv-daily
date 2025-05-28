@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**SOLIDGEO: Measuring Multimodal Spatial Math Reasoning in Solid Geometry**|Peijie Wang et.al.|[2505.21177](http://arxiv.org/abs/2505.21177)|null|
 |**2025-05-26**|**Prismatic Synthesis: Gradient-based Data Diversification Boosts Generalization in LLM Reasoning**|Jaehun Jung et.al.|[2505.20161](http://arxiv.org/abs/2505.20161)|null|
 |**2025-05-26**|**Improving Multilingual Math Reasoning for African Languages**|Odunayo Ogundepo et.al.|[2505.19848](http://arxiv.org/abs/2505.19848)|null|
 |**2025-05-25**|**LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models**|Fengqi Zhu et.al.|[2505.19223](http://arxiv.org/abs/2505.19223)|null|
@@ -372,6 +373,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Reinforcing General Reasoning without Verifiers**|Xiangxin Zhou et.al.|[2505.21493](http://arxiv.org/abs/2505.21493)|null|
+|**2025-05-27**|**Degradation and SEI Evolution in Alloy Anodes Revealed by Correlative Liquid-Cell Electrochemistry and Cryogenic Microscopy**|Neil Mulcahy et.al.|[2505.21434](http://arxiv.org/abs/2505.21434)|null|
+|**2025-05-27**|**RefTool: Enhancing Model Reasoning with Reference-Guided Tool Creation**|Xiao Liu et.al.|[2505.21413](http://arxiv.org/abs/2505.21413)|null|
+|**2025-05-27**|**Triangoli, Icosaedri e Cupole Geodetiche**|Giuseppe Conti et.al.|[2505.21412](http://arxiv.org/abs/2505.21412)|null|
+|**2025-05-27**|**Beyond Chemical QA: Evaluating LLM's Chemical Reasoning with Modular Chemical Operations**|Hao Li et.al.|[2505.21318](http://arxiv.org/abs/2505.21318)|null|
+|**2025-05-27**|**Reduced Density Matrices and Phase-Space Distributions in Thermofield Dynamics**|Bartosz Błasiak et.al.|[2505.21302](http://arxiv.org/abs/2505.21302)|null|
+|**2025-05-27**|**Charge Carrier Mobilities in gamma-Graphynes: A computational approach**|Elif Unsal et.al.|[2505.21234](http://arxiv.org/abs/2505.21234)|null|
+|**2025-05-27**|**MT-Mol:Multi Agent System with Tool-based Reasoning for Molecular Optimization**|Hyomin Kim et.al.|[2505.20820](http://arxiv.org/abs/2505.20820)|null|
+|**2025-05-27**|**TeroSeek: An AI-Powered Knowledge Base and Retrieval Generation Platform for Terpenoid Research**|Xu Kang et.al.|[2505.20663](http://arxiv.org/abs/2505.20663)|null|
+|**2025-05-27**|**The Cavity-Enhanced Spectroscopist's Guide to Polaritons**|Alexander M. McKillop et.al.|[2505.20601](http://arxiv.org/abs/2505.20601)|null|
 |**2025-05-26**|**Comparing Grid Model Fitting Methodologies for Low-Temperature Atmospheres: Markov Chain Monte Carlo versus Random Forest Retrieval**|Anna Lueber et.al.|[2505.19993](http://arxiv.org/abs/2505.19993)|null|
 |**2025-05-26**|**CP-Router: An Uncertainty-Aware Router Between LLM and LRM**|Jiayuan Su et.al.|[2505.19970](http://arxiv.org/abs/2505.19970)|null|
 |**2025-05-26**|**Local Pseudopotential Unlocks the True Potential of Neural Network-based Quantum Monte Carlo**|Weizhong Fu et.al.|[2505.19909](http://arxiv.org/abs/2505.19909)|null|
