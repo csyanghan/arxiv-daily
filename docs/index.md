@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Maximizing Confidence Alone Improves Reasoning**|Mihir Prabhudesai et.al.|[2505.22660](http://arxiv.org/abs/2505.22660)|null|
+|**2025-05-28**|**Self-Error-Instruct: Generalizing from Errors for LLMs Mathematical Reasoning**|Erxin Yu et.al.|[2505.22591](http://arxiv.org/abs/2505.22591)|null|
+|**2025-05-28**|**RAD: Redundancy-Aware Distillation for Hybrid Models via Self-Speculative Decoding**|Yuichiro Hoshino et.al.|[2505.22135](http://arxiv.org/abs/2505.22135)|null|
+|**2025-05-28**|**CoThink: Token-Efficient Reasoning via Instruct Models Guiding Reasoning Models**|Siqi Fan et.al.|[2505.22017](http://arxiv.org/abs/2505.22017)|null|
 |**2025-05-27**|**SOLIDGEO: Measuring Multimodal Spatial Math Reasoning in Solid Geometry**|Peijie Wang et.al.|[2505.21177](http://arxiv.org/abs/2505.21177)|null|
 |**2025-05-26**|**Prismatic Synthesis: Gradient-based Data Diversification Boosts Generalization in LLM Reasoning**|Jaehun Jung et.al.|[2505.20161](http://arxiv.org/abs/2505.20161)|null|
 |**2025-05-26**|**Improving Multilingual Math Reasoning for African Languages**|Odunayo Ogundepo et.al.|[2505.19848](http://arxiv.org/abs/2505.19848)|null|
@@ -367,6 +371,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Machine-Learned Potentials for Solvation Modeling**|Roopshree Banchode et.al.|[2505.22402](http://arxiv.org/abs/2505.22402)|null|
+|**2025-05-28**|**Numerical Optimization Strategies for the Variational Hamiltonian Ansatz in Noisy Quantum Environments**|S. Illésová et.al.|[2505.22398](http://arxiv.org/abs/2505.22398)|null|
+|**2025-05-28**|**Solar C/O ratio in planet-forming gas at 1 au in a highly irradiated disk**|Ilane Schroetter et.al.|[2505.22314](http://arxiv.org/abs/2505.22314)|null|
+|**2025-05-28**|**Charting circumstellar chemistry of carbon-rich asymptotic giant branch stars. II. Abundances and spatial distributions of CS**|R. Unnikrishnan et.al.|[2505.22173](http://arxiv.org/abs/2505.22173)|null|
+|**2025-05-28**|**The quest for the GRAph Level autoEncoder (GRALE)**|Paul Krzakala et.al.|[2505.22109](http://arxiv.org/abs/2505.22109)|null|
+|**2025-05-28**|**Symbolically Regressing Fish Biomass Spectral Data: A Linear Genetic Programming Method with Tunable Primitives**|Zhixing Huang et.al.|[2505.21901](http://arxiv.org/abs/2505.21901)|null|
+|**2025-05-27**|**Optical Interference Effect in Strong-field Electronic Coherence Spectroscopy**|Eleanor Weckwerth et.al.|[2505.21788](http://arxiv.org/abs/2505.21788)|null|
+|**2025-05-27**|**SOSBENCH: Benchmarking Safety Alignment on Scientific Knowledge**|Fengqing Jiang et.al.|[2505.21605](http://arxiv.org/abs/2505.21605)|null|
 |**2025-05-27**|**Reinforcing General Reasoning without Verifiers**|Xiangxin Zhou et.al.|[2505.21493](http://arxiv.org/abs/2505.21493)|null|
 |**2025-05-27**|**Degradation and SEI Evolution in Alloy Anodes Revealed by Correlative Liquid-Cell Electrochemistry and Cryogenic Microscopy**|Neil Mulcahy et.al.|[2505.21434](http://arxiv.org/abs/2505.21434)|null|
 |**2025-05-27**|**RefTool: Enhancing Model Reasoning with Reference-Guided Tool Creation**|Xiao Liu et.al.|[2505.21413](http://arxiv.org/abs/2505.21413)|null|
