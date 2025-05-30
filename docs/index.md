@@ -14,7 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-28**|**Maximizing Confidence Alone Improves Reasoning**|Mihir Prabhudesai et.al.|[2505.22660](http://arxiv.org/abs/2505.22660)|null|
+|**2025-05-29**|**Let's Reason Formally: Natural-Formal Hybrid Reasoning Enhances LLM's Math Capability**|Ruida Wang et.al.|[2505.23703](http://arxiv.org/abs/2505.23703)|null|
+|**2025-05-29**|**Can LLMs Reason Abstractly Over Math Word Problems Without CoT? Disentangling Abstract Formulation From Arithmetic Computation**|Ziling Cheng et.al.|[2505.23701](http://arxiv.org/abs/2505.23701)|null|
+|**2025-05-29**|**Segment Policy Optimization: Effective Segment-Level Credit Assignment in RL for Large Language Models**|Yiran Guo et.al.|[2505.23564](http://arxiv.org/abs/2505.23564)|null|
+|**2025-05-29**|**Discriminative Policy Optimization for Token-Level Reward Models**|Hongzhan Chen et.al.|[2505.23363](http://arxiv.org/abs/2505.23363)|null|
+|**2025-05-29**|**Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased Reinforcement Learning in Multimodal Small Language Models**|Zeyu Liu et.al.|[2505.23091](http://arxiv.org/abs/2505.23091)|null|
+|**2025-05-29**|**Maximizing Confidence Alone Improves Reasoning**|Mihir Prabhudesai et.al.|[2505.22660](http://arxiv.org/abs/2505.22660)|null|
 |**2025-05-28**|**Self-Error-Instruct: Generalizing from Errors for LLMs Mathematical Reasoning**|Erxin Yu et.al.|[2505.22591](http://arxiv.org/abs/2505.22591)|null|
 |**2025-05-28**|**RAD: Redundancy-Aware Distillation for Hybrid Models via Self-Speculative Decoding**|Yuichiro Hoshino et.al.|[2505.22135](http://arxiv.org/abs/2505.22135)|null|
 |**2025-05-28**|**CoThink: Token-Efficient Reasoning via Instruct Models Guiding Reasoning Models**|Siqi Fan et.al.|[2505.22017](http://arxiv.org/abs/2505.22017)|null|
@@ -371,7 +376,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-28**|**Machine-Learned Potentials for Solvation Modeling**|Roopshree Banchode et.al.|[2505.22402](http://arxiv.org/abs/2505.22402)|null|
+|**2025-05-28**|**Enhanced Excited State Population and Coherence via Adiabatic Tunneling Ionization and Excitation**|Chi-Hong Yuen et.al.|[2505.22833](http://arxiv.org/abs/2505.22833)|null|
+|**2025-05-28**|**Assembly in Directed Hypergraphs**|Christoph Flamm et.al.|[2505.22826](http://arxiv.org/abs/2505.22826)|null|
+|**2025-05-28**|**Connecting Planetary Composition with Formation: a New Paradigm Emerges**|Ralph E. Pudritz et.al.|[2505.22724](http://arxiv.org/abs/2505.22724)|null|
+|**2025-05-29**|**Machine-Learned Potentials for Solvation Modeling**|Roopshree Banchode et.al.|[2505.22402](http://arxiv.org/abs/2505.22402)|null|
 |**2025-05-29**|**Numerical Optimization Strategies for the Variational Hamiltonian Ansatz in Noisy Quantum Environments**|S. Illésová et.al.|[2505.22398](http://arxiv.org/abs/2505.22398)|null|
 |**2025-05-28**|**Solar C/O ratio in planet-forming gas at 1 au in a highly irradiated disk**|Ilane Schroetter et.al.|[2505.22314](http://arxiv.org/abs/2505.22314)|null|
 |**2025-05-28**|**Charting circumstellar chemistry of carbon-rich asymptotic giant branch stars. II. Abundances and spatial distributions of CS**|R. Unnikrishnan et.al.|[2505.22173](http://arxiv.org/abs/2505.22173)|null|
