@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.29
+## Updated on 2025.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,7 +27,7 @@
 |**2025-05-26**|**Improving Multilingual Math Reasoning for African Languages**|Odunayo Ogundepo et.al.|[2505.19848](http://arxiv.org/abs/2505.19848)|null|
 |**2025-05-25**|**LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models**|Fengqi Zhu et.al.|[2505.19223](http://arxiv.org/abs/2505.19223)|null|
 |**2025-05-25**|**Efficient Data Selection at Scale via Influence Distillation**|Mahdi Nikdan et.al.|[2505.19051](http://arxiv.org/abs/2505.19051)|null|
-|**2025-05-25**|**System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts**|Xiaoqiang Wang et.al.|[2505.18962](http://arxiv.org/abs/2505.18962)|null|
+|**2025-05-29**|**System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts**|Xiaoqiang Wang et.al.|[2505.18962](http://arxiv.org/abs/2505.18962)|null|
 |**2025-05-25**|**The Price of Format: Diversity Collapse in LLMs**|Longfei Yun et.al.|[2505.18949](http://arxiv.org/abs/2505.18949)|**[link](https://github.com/longfeiyun17/diversitycollapse)**|
 |**2025-05-24**|**On the Effect of Negative Gradient in Group Relative Deep Reinforcement Optimization**|Wenlong Deng et.al.|[2505.18830](http://arxiv.org/abs/2505.18830)|null|
 |**2025-05-24**|**AdaCtrl: Towards Adaptive and Controllable Reasoning via Difficulty-Aware Budgeting**|Shijue Huang et.al.|[2505.18822](http://arxiv.org/abs/2505.18822)|null|
@@ -371,14 +371,14 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
 ## AI for Science
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-28**|**Machine-Learned Potentials for Solvation Modeling**|Roopshree Banchode et.al.|[2505.22402](http://arxiv.org/abs/2505.22402)|null|
-|**2025-05-28**|**Numerical Optimization Strategies for the Variational Hamiltonian Ansatz in Noisy Quantum Environments**|S. Illésová et.al.|[2505.22398](http://arxiv.org/abs/2505.22398)|null|
+|**2025-05-29**|**Numerical Optimization Strategies for the Variational Hamiltonian Ansatz in Noisy Quantum Environments**|S. Illésová et.al.|[2505.22398](http://arxiv.org/abs/2505.22398)|null|
 |**2025-05-28**|**Solar C/O ratio in planet-forming gas at 1 au in a highly irradiated disk**|Ilane Schroetter et.al.|[2505.22314](http://arxiv.org/abs/2505.22314)|null|
 |**2025-05-28**|**Charting circumstellar chemistry of carbon-rich asymptotic giant branch stars. II. Abundances and spatial distributions of CS**|R. Unnikrishnan et.al.|[2505.22173](http://arxiv.org/abs/2505.22173)|null|
 |**2025-05-28**|**The quest for the GRAph Level autoEncoder (GRALE)**|Paul Krzakala et.al.|[2505.22109](http://arxiv.org/abs/2505.22109)|null|
@@ -1801,7 +1801,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
