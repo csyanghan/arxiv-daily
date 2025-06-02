@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks**|Tajamul Ashraf et.al.|[2505.24876](http://arxiv.org/abs/2505.24876)|null|
+|**2025-05-30**|**Accelerated Sampling from Masked Diffusion Models via Entropy Bounded Unmasking**|Heli Ben-Hamu et.al.|[2505.24857](http://arxiv.org/abs/2505.24857)|null|
+|**2025-05-30**|**Model Unlearning via Sparse Autoencoder Subspace Guided Projections**|Xu Wang et.al.|[2505.24428](http://arxiv.org/abs/2505.24428)|null|
 |**2025-05-29**|**Let's Reason Formally: Natural-Formal Hybrid Reasoning Enhances LLM's Math Capability**|Ruida Wang et.al.|[2505.23703](http://arxiv.org/abs/2505.23703)|null|
 |**2025-05-29**|**Can LLMs Reason Abstractly Over Math Word Problems Without CoT? Disentangling Abstract Formulation From Arithmetic Computation**|Ziling Cheng et.al.|[2505.23701](http://arxiv.org/abs/2505.23701)|null|
 |**2025-05-29**|**Segment Policy Optimization: Effective Segment-Level Credit Assignment in RL for Large Language Models**|Yiran Guo et.al.|[2505.23564](http://arxiv.org/abs/2505.23564)|**[link](https://github.com/aiframeresearch/spo)**|
@@ -382,6 +385,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Hydrogen defects and band alignment in metal-organic frameworks**|Khang Hoang et.al.|[2505.24570](http://arxiv.org/abs/2505.24570)|null|
+|**2025-05-30**|**Molecular Chiral Response Enhanced by Crosstalking Quasi-Bound States in the Continuum**|Diana Shakirova et.al.|[2505.24563](http://arxiv.org/abs/2505.24563)|null|
+|**2025-05-30**|**Spin vs. position conjugation in quantum simulations with atoms: application to quantum chemistry**|N. A. Moroz et.al.|[2505.24366](http://arxiv.org/abs/2505.24366)|null|
 |**2025-05-28**|**Enhanced Excited State Population and Coherence via Adiabatic Tunneling Ionization and Excitation**|Chi-Hong Yuen et.al.|[2505.22833](http://arxiv.org/abs/2505.22833)|null|
 |**2025-05-28**|**Assembly in Directed Hypergraphs**|Christoph Flamm et.al.|[2505.22826](http://arxiv.org/abs/2505.22826)|null|
 |**2025-05-28**|**Connecting Planetary Composition with Formation: a New Paradigm Emerges**|Ralph E. Pudritz et.al.|[2505.22724](http://arxiv.org/abs/2505.22724)|null|
