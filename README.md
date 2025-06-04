@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**Answer Convergence as a Signal for Early Stopping in Reasoning**|Xin Liu et.al.|[2506.02536](http://arxiv.org/abs/2506.02536)|null|
+|**2025-06-02**|**Act Only When It Pays: Efficient Reinforcement Learning for LLM Reasoning via Selective Rollouts**|Haizhong Zheng et.al.|[2506.02177](http://arxiv.org/abs/2506.02177)|null|
+|**2025-06-02**|**SynthRL: Scaling Visual Reasoning with Verifiable Data Synthesis**|Zijian Wu et.al.|[2506.02096](http://arxiv.org/abs/2506.02096)|null|
+|**2025-05-30**|**Evaluation of LLMs for mathematical problem solving**|Ruonan Wang et.al.|[2506.00309](http://arxiv.org/abs/2506.00309)|null|
 |**2025-05-30**|**Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks**|Tajamul Ashraf et.al.|[2505.24876](http://arxiv.org/abs/2505.24876)|null|
 |**2025-05-30**|**Accelerated Sampling from Masked Diffusion Models via Entropy Bounded Unmasking**|Heli Ben-Hamu et.al.|[2505.24857](http://arxiv.org/abs/2505.24857)|null|
 |**2025-05-30**|**Model Unlearning via Sparse Autoencoder Subspace Guided Projections**|Xu Wang et.al.|[2505.24428](http://arxiv.org/abs/2505.24428)|null|
@@ -385,6 +389,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**The exchange-correlation dipole moment dispersion method**|Kyle R Bryenton et.al.|[2506.02352](http://arxiv.org/abs/2506.02352)|null|
+|**2025-06-03**|**Alkali phenoxides in comets**|M. Fulle et.al.|[2506.02343](http://arxiv.org/abs/2506.02343)|null|
+|**2025-06-02**|**Can the Infamous Boundary Be Found in Macromolecules? Also, von Neumann vs. Schroedinger ensembles, and `Hund's Paradox' in quantum chemistry**|W. David Wick et.al.|[2506.02227](http://arxiv.org/abs/2506.02227)|null|
+|**2025-06-02**|**WASP-121b's transmission spectrum observed with JWST/NIRSpec G395H reveals thermal dissociation and SiO in the atmosphere**|Cyril Gapp et.al.|[2506.02199](http://arxiv.org/abs/2506.02199)|null|
+|**2025-06-02**|**Cavity QED with molecular defects coupled to to a photonic crystal cavity**|Christian M. Lange et.al.|[2506.01917](http://arxiv.org/abs/2506.01917)|null|
+|**2025-06-02**|**Inductive-Effect-Driven Tunability of Magnetism and Lumines-cence in Triangular Layers ANd(SO4)2 (A = Rb, Cs)**|Xudong Huai et.al.|[2506.01818](http://arxiv.org/abs/2506.01818)|null|
+|**2025-06-02**|**SiO and a super-stellar C/O ratio in the atmosphere of the giant exoplanet WASP-121b**|Thomas M. Evans-Soma et.al.|[2506.01771](http://arxiv.org/abs/2506.01771)|null|
+|**2025-06-02**|**Optimization Strategies for Variational Quantum Algorithms in Noisy Landscapes**|Vojtěch Novák et.al.|[2506.01715](http://arxiv.org/abs/2506.01715)|null|
+|**2025-06-02**|**Machine-learning-driven modelling of amorphous and polycrystalline BaZrS $_{3}$**|Laura-Bianca Paşca et.al.|[2506.01517](http://arxiv.org/abs/2506.01517)|null|
+|**2025-06-02**|**Binding energies of small interstellar molecules on neutral and charged amorphous solid water surfaces**|Tobe Vorsselmans et.al.|[2506.01431](http://arxiv.org/abs/2506.01431)|null|
 |**2025-05-30**|**Hydrogen defects and band alignment in metal-organic frameworks**|Khang Hoang et.al.|[2505.24570](http://arxiv.org/abs/2505.24570)|null|
 |**2025-05-30**|**Molecular Chiral Response Enhanced by Crosstalking Quasi-Bound States in the Continuum**|Diana Shakirova et.al.|[2505.24563](http://arxiv.org/abs/2505.24563)|null|
 |**2025-05-30**|**Spin vs. position conjugation in quantum simulations with atoms: application to quantum chemistry**|N. A. Moroz et.al.|[2505.24366](http://arxiv.org/abs/2505.24366)|null|
