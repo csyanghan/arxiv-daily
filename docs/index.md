@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -21,7 +21,7 @@ layout: default
 |**2025-05-30**|**Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks**|Tajamul Ashraf et.al.|[2505.24876](http://arxiv.org/abs/2505.24876)|null|
 |**2025-05-30**|**Accelerated Sampling from Masked Diffusion Models via Entropy Bounded Unmasking**|Heli Ben-Hamu et.al.|[2505.24857](http://arxiv.org/abs/2505.24857)|null|
 |**2025-05-30**|**Model Unlearning via Sparse Autoencoder Subspace Guided Projections**|Xu Wang et.al.|[2505.24428](http://arxiv.org/abs/2505.24428)|null|
-|**2025-05-29**|**Let's Reason Formally: Natural-Formal Hybrid Reasoning Enhances LLM's Math Capability**|Ruida Wang et.al.|[2505.23703](http://arxiv.org/abs/2505.23703)|null|
+|**2025-06-04**|**Let's Reason Formally: Natural-Formal Hybrid Reasoning Enhances LLM's Math Capability**|Ruida Wang et.al.|[2505.23703](http://arxiv.org/abs/2505.23703)|null|
 |**2025-05-29**|**Can LLMs Reason Abstractly Over Math Word Problems Without CoT? Disentangling Abstract Formulation From Arithmetic Computation**|Ziling Cheng et.al.|[2505.23701](http://arxiv.org/abs/2505.23701)|null|
 |**2025-05-29**|**Segment Policy Optimization: Effective Segment-Level Credit Assignment in RL for Large Language Models**|Yiran Guo et.al.|[2505.23564](http://arxiv.org/abs/2505.23564)|**[link](https://github.com/aiframeresearch/spo)**|
 |**2025-05-29**|**Discriminative Policy Optimization for Token-Level Reward Models**|Hongzhan Chen et.al.|[2505.23363](http://arxiv.org/abs/2505.23363)|**[link](https://github.com/homzer/q-rm)**|
@@ -387,7 +387,7 @@ layout: default
 |**2025-06-03**|**Alkali phenoxides in comets**|M. Fulle et.al.|[2506.02343](http://arxiv.org/abs/2506.02343)|null|
 |**2025-06-02**|**Can the Infamous Boundary Be Found in Macromolecules? Also, von Neumann vs. Schroedinger ensembles, and `Hund's Paradox' in quantum chemistry**|W. David Wick et.al.|[2506.02227](http://arxiv.org/abs/2506.02227)|null|
 |**2025-06-02**|**WASP-121b's transmission spectrum observed with JWST/NIRSpec G395H reveals thermal dissociation and SiO in the atmosphere**|Cyril Gapp et.al.|[2506.02199](http://arxiv.org/abs/2506.02199)|null|
-|**2025-06-02**|**Cavity QED with molecular defects coupled to to a photonic crystal cavity**|Christian M. Lange et.al.|[2506.01917](http://arxiv.org/abs/2506.01917)|null|
+|**2025-06-02**|**Cavity QED with molecular defects coupled to a photonic crystal cavity**|Christian M. Lange et.al.|[2506.01917](http://arxiv.org/abs/2506.01917)|null|
 |**2025-06-02**|**Inductive-Effect-Driven Tunability of Magnetism and Lumines-cence in Triangular Layers ANd(SO4)2 (A = Rb, Cs)**|Xudong Huai et.al.|[2506.01818](http://arxiv.org/abs/2506.01818)|null|
 |**2025-06-02**|**SiO and a super-stellar C/O ratio in the atmosphere of the giant exoplanet WASP-121b**|Thomas M. Evans-Soma et.al.|[2506.01771](http://arxiv.org/abs/2506.01771)|null|
 |**2025-06-02**|**Optimization Strategies for Variational Quantum Algorithms in Noisy Landscapes**|Vojtěch Novák et.al.|[2506.01715](http://arxiv.org/abs/2506.01715)|null|
