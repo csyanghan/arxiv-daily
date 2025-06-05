@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Rectified Sparse Attention**|Yutao Sun et.al.|[2506.04108](http://arxiv.org/abs/2506.04108)|null|
+|**2025-06-04**|**Structured Pruning for Diverse Best-of-N Reasoning Optimization**|Hieu Trung Nguyen et.al.|[2506.03978](http://arxiv.org/abs/2506.03978)|null|
+|**2025-06-04**|**Unifying Uniform and Binary-coding Quantization for Accurate Compression of Large Language Models**|Seungcheol Park et.al.|[2506.03781](http://arxiv.org/abs/2506.03781)|null|
+|**2025-06-04**|**ClozeMath: Improving Mathematical Reasoning in Language Models by Learning to Fill Equations**|Quang Hieu Pham et.al.|[2506.03763](http://arxiv.org/abs/2506.03763)|null|
+|**2025-06-04**|**Verbalized Confidence Triggers Self-Verification: Emergent Behavior Without Explicit Reasoning Supervision**|Chaeyun Jang et.al.|[2506.03723](http://arxiv.org/abs/2506.03723)|null|
+|**2025-06-04**|**Learning to Insert [PAUSE] Tokens for Better Reasoning**|Eunki Kim et.al.|[2506.03616](http://arxiv.org/abs/2506.03616)|null|
 |**2025-06-03**|**Answer Convergence as a Signal for Early Stopping in Reasoning**|Xin Liu et.al.|[2506.02536](http://arxiv.org/abs/2506.02536)|null|
 |**2025-06-02**|**Act Only When It Pays: Efficient Reinforcement Learning for LLM Reasoning via Selective Rollouts**|Haizhong Zheng et.al.|[2506.02177](http://arxiv.org/abs/2506.02177)|null|
 |**2025-06-02**|**SynthRL: Scaling Visual Reasoning with Verifiable Data Synthesis**|Zijian Wu et.al.|[2506.02096](http://arxiv.org/abs/2506.02096)|null|
@@ -383,6 +389,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Bridging Quantum Chemistry and MaxCut: Classical Performance Guarantees and Quantum Algorithms for the Hartree-Fock Method**|Alexis Ralli et.al.|[2506.04223](http://arxiv.org/abs/2506.04223)|null|
+|**2025-06-04**|**MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures**|Elena Zamaraeva et.al.|[2506.04195](http://arxiv.org/abs/2506.04195)|null|
+|**2025-06-04**|**Biological Processes as Exploratory Dynamics**|Jane Kondev et.al.|[2506.04104](http://arxiv.org/abs/2506.04104)|null|
+|**2025-06-04**|**Limitations of Quantum Hardware for Molecular Energy Estimation Using VQE**|Abel Carreras et.al.|[2506.03995](http://arxiv.org/abs/2506.03995)|null|
+|**2025-06-04**|**FLIP: Flowability-Informed Powder Weighing**|Nikola Radulov et.al.|[2506.03896](http://arxiv.org/abs/2506.03896)|null|
+|**2025-06-03**|**Nanoconfinement Effects on Intermolecular Forces Observed via Dewetting**|Tara et.al.|[2506.03387](http://arxiv.org/abs/2506.03387)|null|
 |**2025-06-03**|**The exchange-correlation dipole moment dispersion method**|Kyle R Bryenton et.al.|[2506.02352](http://arxiv.org/abs/2506.02352)|null|
 |**2025-06-03**|**Alkali phenoxides in comets**|M. Fulle et.al.|[2506.02343](http://arxiv.org/abs/2506.02343)|null|
 |**2025-06-02**|**Can the Infamous Boundary Be Found in Macromolecules? Also, von Neumann vs. Schroedinger ensembles, and `Hund's Paradox' in quantum chemistry**|W. David Wick et.al.|[2506.02227](http://arxiv.org/abs/2506.02227)|null|
