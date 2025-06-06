@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Automatic Robustness Stress Testing of LLMs as Mathematical Problem Solvers**|Yutao Hou et.al.|[2506.05038](http://arxiv.org/abs/2506.05038)|null|
 |**2025-06-05**|**Rectified Sparse Attention**|Yutao Sun et.al.|[2506.04108](http://arxiv.org/abs/2506.04108)|null|
 |**2025-06-04**|**Structured Pruning for Diverse Best-of-N Reasoning Optimization**|Hieu Trung Nguyen et.al.|[2506.03978](http://arxiv.org/abs/2506.03978)|null|
 |**2025-06-04**|**Unifying Uniform and Binary-coding Quantization for Accurate Compression of Large Language Models**|Seungcheol Park et.al.|[2506.03781](http://arxiv.org/abs/2506.03781)|null|
@@ -395,6 +396,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**PDRs4All XIV: CH radical and $H_3^+$ molecular ion in the irradiated protoplanetary disk d203-506**|I. Schroetter et.al.|[2506.05186](http://arxiv.org/abs/2506.05186)|null|
+|**2025-06-05**|**Electron and gas temperature-driven chemistry during microdischarges formed in water vapour bubbles**|Florens Grimm et.al.|[2506.05124](http://arxiv.org/abs/2506.05124)|null|
+|**2025-06-05**|**Quantum simulation of the Hubbard model on a graphene hexagon: Strengths of IQPE and noise constraints**|Mohammad Mirzakhani et.al.|[2506.05031](http://arxiv.org/abs/2506.05031)|null|
+|**2025-06-05**|**Pressure-Induced Decomposition of beta-SnWO4**|Sergio Ferrari et.al.|[2506.04936](http://arxiv.org/abs/2506.04936)|null|
+|**2025-06-05**|**Controlling rovibrational state populations of polar molecules in inhomogeneous electric fields of the Stark deceleration: molecular dynamics and quantum chemistry simulations**|Emil Zak et.al.|[2506.04798](http://arxiv.org/abs/2506.04798)|null|
+|**2025-06-05**|**Rate constants and product yields for the C + CH3CHO reaction at low temperatures**|Kevin M. Hickson et.al.|[2506.04794](http://arxiv.org/abs/2506.04794)|null|
+|**2025-06-05**|**Tip-induced nitrene generation**|Leonard-Alexander Lieske et.al.|[2506.04741](http://arxiv.org/abs/2506.04741)|null|
+|**2025-06-05**|**Unsupervised Machine Learning for Scientific Discovery: Workflow and Best Practices**|Andersen Chang et.al.|[2506.04553](http://arxiv.org/abs/2506.04553)|null|
+|**2025-06-05**|**Chronoamperometry with Room-Temperature Ionic Liquids: Sub-Second Inference Techniques**|Kordel K. France et.al.|[2506.04540](http://arxiv.org/abs/2506.04540)|null|
+|**2025-06-04**|**Interfacial Energy Gradients Drive Coalescence of Supported Nanoparticles**|Cheng-Yu Chen et.al.|[2506.04455](http://arxiv.org/abs/2506.04455)|null|
 |**2025-06-04**|**Bridging Quantum Chemistry and MaxCut: Classical Performance Guarantees and Quantum Algorithms for the Hartree-Fock Method**|Alexis Ralli et.al.|[2506.04223](http://arxiv.org/abs/2506.04223)|null|
 |**2025-06-04**|**MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures**|Elena Zamaraeva et.al.|[2506.04195](http://arxiv.org/abs/2506.04195)|null|
 |**2025-06-04**|**Biological Processes as Exploratory Dynamics**|Jane Kondev et.al.|[2506.04104](http://arxiv.org/abs/2506.04104)|null|
