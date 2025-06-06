@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-04**|**Rectified Sparse Attention**|Yutao Sun et.al.|[2506.04108](http://arxiv.org/abs/2506.04108)|null|
+|**2025-06-05**|**Rectified Sparse Attention**|Yutao Sun et.al.|[2506.04108](http://arxiv.org/abs/2506.04108)|null|
 |**2025-06-04**|**Structured Pruning for Diverse Best-of-N Reasoning Optimization**|Hieu Trung Nguyen et.al.|[2506.03978](http://arxiv.org/abs/2506.03978)|null|
 |**2025-06-04**|**Unifying Uniform and Binary-coding Quantization for Accurate Compression of Large Language Models**|Seungcheol Park et.al.|[2506.03781](http://arxiv.org/abs/2506.03781)|null|
 |**2025-06-04**|**ClozeMath: Improving Mathematical Reasoning in Language Models by Learning to Fill Equations**|Quang Hieu Pham et.al.|[2506.03763](http://arxiv.org/abs/2506.03763)|null|
@@ -389,7 +389,7 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
 
 ## AI for Science
 
@@ -399,7 +399,7 @@
 |**2025-06-04**|**MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures**|Elena Zamaraeva et.al.|[2506.04195](http://arxiv.org/abs/2506.04195)|null|
 |**2025-06-04**|**Biological Processes as Exploratory Dynamics**|Jane Kondev et.al.|[2506.04104](http://arxiv.org/abs/2506.04104)|null|
 |**2025-06-04**|**Limitations of Quantum Hardware for Molecular Energy Estimation Using VQE**|Abel Carreras et.al.|[2506.03995](http://arxiv.org/abs/2506.03995)|null|
-|**2025-06-04**|**FLIP: Flowability-Informed Powder Weighing**|Nikola Radulov et.al.|[2506.03896](http://arxiv.org/abs/2506.03896)|null|
+|**2025-06-05**|**FLIP: Flowability-Informed Powder Weighing**|Nikola Radulov et.al.|[2506.03896](http://arxiv.org/abs/2506.03896)|null|
 |**2025-06-03**|**Nanoconfinement Effects on Intermolecular Forces Observed via Dewetting**|Tara et.al.|[2506.03387](http://arxiv.org/abs/2506.03387)|null|
 |**2025-06-03**|**The exchange-correlation dipole moment dispersion method**|Kyle R Bryenton et.al.|[2506.02352](http://arxiv.org/abs/2506.02352)|null|
 |**2025-06-03**|**Alkali phenoxides in comets**|M. Fulle et.al.|[2506.02343](http://arxiv.org/abs/2506.02343)|null|
@@ -1841,7 +1841,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
