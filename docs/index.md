@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Text-to-LoRA: Instant Transformer Adaption**|Rujikorn Charakorn et.al.|[2506.06105](http://arxiv.org/abs/2506.06105)|null|
+|**2025-06-06**|**Topology of Reasoning: Understanding Large Reasoning Models through Reasoning Graph Properties**|Gouki Minegishi et.al.|[2506.05744](http://arxiv.org/abs/2506.05744)|null|
 |**2025-06-05**|**Automatic Robustness Stress Testing of LLMs as Mathematical Problem Solvers**|Yutao Hou et.al.|[2506.05038](http://arxiv.org/abs/2506.05038)|null|
 |**2025-06-05**|**Rectified Sparse Attention**|Yutao Sun et.al.|[2506.04108](http://arxiv.org/abs/2506.04108)|null|
 |**2025-06-04**|**Structured Pruning for Diverse Best-of-N Reasoning Optimization**|Hieu Trung Nguyen et.al.|[2506.03978](http://arxiv.org/abs/2506.03978)|null|
@@ -390,6 +392,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**The SagbiHomotopy.jl package for solving polynomial systems**|Barbara Betti et.al.|[2506.06264](http://arxiv.org/abs/2506.06264)|null|
+|**2025-06-06**|**Sulfur in Hydrothermal Fluids**|Gleb S. Pokrovski et.al.|[2506.05845](http://arxiv.org/abs/2506.05845)|null|
+|**2025-06-06**|**Application-specific Machine-Learned Interatomic Potentials: Exploring the Trade-off Between Precision and Computational Cost**|Ilgar Baghishov et.al.|[2506.05646](http://arxiv.org/abs/2506.05646)|null|
+|**2025-06-05**|**Meta-analysis of Life Cycle Assessments for Li-Ion Batteries Production Emissions**|Maurizio Clemente et.al.|[2506.05531](http://arxiv.org/abs/2506.05531)|null|
 |**2025-06-05**|**PDRs4All XIV: CH radical and $H_3^+$ molecular ion in the irradiated protoplanetary disk d203-506**|I. Schroetter et.al.|[2506.05186](http://arxiv.org/abs/2506.05186)|null|
 |**2025-06-05**|**Electron and gas temperature-driven chemistry during microdischarges formed in water vapour bubbles**|Florens Grimm et.al.|[2506.05124](http://arxiv.org/abs/2506.05124)|null|
 |**2025-06-05**|**Quantum simulation of the Hubbard model on a graphene hexagon: Strengths of IQPE and noise constraints**|Mohammad Mirzakhani et.al.|[2506.05031](http://arxiv.org/abs/2506.05031)|null|
