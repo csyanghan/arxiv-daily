@@ -14,11 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-06**|**Text-to-LoRA: Instant Transformer Adaption**|Rujikorn Charakorn et.al.|[2506.06105](http://arxiv.org/abs/2506.06105)|null|
+|**2025-06-09**|**Guideline Forest: Experience-Induced Multi-Guideline Reasoning with Stepwise Aggregation**|Jiaxiang CHen et.al.|[2506.07820](http://arxiv.org/abs/2506.07820)|null|
+|**2025-06-09**|**Synthesis by Design: Controlled Data Generation via Structural Guidance**|Lei Xu et.al.|[2506.07664](http://arxiv.org/abs/2506.07664)|null|
+|**2025-06-08**|**What makes Reasoning Models Different? Follow the Reasoning Leader for Efficient Decoding**|Ming Li et.al.|[2506.06998](http://arxiv.org/abs/2506.06998)|null|
+|**2025-06-07**|**Boosting LLM Reasoning via Spontaneous Self-Correction**|Xutong Zhao et.al.|[2506.06923](http://arxiv.org/abs/2506.06923)|null|
+|**2025-06-07**|**Right Is Not Enough: The Pitfalls of Outcome Supervision in Training LLMs for Math Reasoning**|Jiaxing Guo et.al.|[2506.06877](http://arxiv.org/abs/2506.06877)|null|
+|**2025-06-09**|**Text-to-LoRA: Instant Transformer Adaption**|Rujikorn Charakorn et.al.|[2506.06105](http://arxiv.org/abs/2506.06105)|null|
 |**2025-06-06**|**Topology of Reasoning: Understanding Large Reasoning Models through Reasoning Graph Properties**|Gouki Minegishi et.al.|[2506.05744](http://arxiv.org/abs/2506.05744)|null|
 |**2025-06-05**|**Automatic Robustness Stress Testing of LLMs as Mathematical Problem Solvers**|Yutao Hou et.al.|[2506.05038](http://arxiv.org/abs/2506.05038)|null|
 |**2025-06-05**|**Rectified Sparse Attention**|Yutao Sun et.al.|[2506.04108](http://arxiv.org/abs/2506.04108)|null|
-|**2025-06-04**|**Structured Pruning for Diverse Best-of-N Reasoning Optimization**|Hieu Trung Nguyen et.al.|[2506.03978](http://arxiv.org/abs/2506.03978)|null|
+|**2025-06-09**|**Structured Pruning for Diverse Best-of-N Reasoning Optimization**|Hieu Trung Nguyen et.al.|[2506.03978](http://arxiv.org/abs/2506.03978)|null|
 |**2025-06-04**|**Unifying Uniform and Binary-coding Quantization for Accurate Compression of Large Language Models**|Seungcheol Park et.al.|[2506.03781](http://arxiv.org/abs/2506.03781)|null|
 |**2025-06-04**|**ClozeMath: Improving Mathematical Reasoning in Language Models by Learning to Fill Equations**|Quang Hieu Pham et.al.|[2506.03763](http://arxiv.org/abs/2506.03763)|null|
 |**2025-06-04**|**Verbalized Confidence Triggers Self-Verification: Emergent Behavior Without Explicit Reasoning Supervision**|Chaeyun Jang et.al.|[2506.03723](http://arxiv.org/abs/2506.03723)|null|
@@ -392,6 +397,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**A giant planet transiting a 0.2 solar mass host star**|Edward M. Bryant et.al.|[2506.07931](http://arxiv.org/abs/2506.07931)|null|
+|**2025-06-09**|**Determining the methanol deuteration in the disk around V883 Orionis with laboratory measured spectroscopy**|Shaoshan Zeng et.al.|[2506.07794](http://arxiv.org/abs/2506.07794)|null|
+|**2025-06-09**|**A unified fluid model for nonthermal plasmas and reacting flows**|Xiao Shao et.al.|[2506.07792](http://arxiv.org/abs/2506.07792)|null|
+|**2025-06-09**|**Schrödinger equation with Pauli-Fierz Hamiltonian and double well potential as model of vibrationally enhanced tunneling for proton transfer in hydrogen bond**|A. E. Sitnitsky et.al.|[2506.07733](http://arxiv.org/abs/2506.07733)|null|
+|**2025-06-09**|**The Catechol Benchmark: Time-series Solvent Selection Data for Few-shot Machine Learning**|Toby Boyne et.al.|[2506.07619](http://arxiv.org/abs/2506.07619)|null|
+|**2025-06-09**|**GTR-CoT: Graph Traversal as Visual Chain of Thought for Molecular Structure Recognition**|Jingchao Wang et.al.|[2506.07553](http://arxiv.org/abs/2506.07553)|null|
+|**2025-06-09**|**ChemAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning**|Mengsong Wu et.al.|[2506.07551](http://arxiv.org/abs/2506.07551)|null|
+|**2025-06-09**|**Mutual Correlation**|Francesco A. Evangelista et.al.|[2506.07344](http://arxiv.org/abs/2506.07344)|null|
+|**2025-06-08**|**Engineering and harnessing long-range interactions for atomic quantum simulators**|Argüello-Luengo Javier et.al.|[2506.07250](http://arxiv.org/abs/2506.07250)|null|
+|**2025-06-07**|**Enhancing PySCF-based Quantum Chemistry Simulations with Modern Hardware, Algorithms, and Python Tools**|Zhichen Pu et.al.|[2506.06661](http://arxiv.org/abs/2506.06661)|null|
 |**2025-06-06**|**The SagbiHomotopy.jl package for solving polynomial systems**|Barbara Betti et.al.|[2506.06264](http://arxiv.org/abs/2506.06264)|null|
 |**2025-06-06**|**Sulfur in Hydrothermal Fluids**|Gleb S. Pokrovski et.al.|[2506.05845](http://arxiv.org/abs/2506.05845)|null|
 |**2025-06-06**|**Application-specific Machine-Learned Interatomic Potentials: Exploring the Trade-off Between Precision and Computational Cost**|Ilgar Baghishov et.al.|[2506.05646](http://arxiv.org/abs/2506.05646)|null|
