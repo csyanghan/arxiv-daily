@@ -7,20 +7,21 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.10
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-09**|**Guideline Forest: Experience-Induced Multi-Guideline Reasoning with Stepwise Aggregation**|Jiaxiang CHen et.al.|[2506.07820](http://arxiv.org/abs/2506.07820)|null|
+|**2025-06-10**|**Enhancing Reasoning Capabilities of Small Language Models with Blueprints and Prompt Template Search**|Dongge Han et.al.|[2506.08669](http://arxiv.org/abs/2506.08669)|null|
+|**2025-06-10**|**Guideline Forest: Experience-Induced Multi-Guideline Reasoning with Stepwise Aggregation**|Jiaxiang Chen et.al.|[2506.07820](http://arxiv.org/abs/2506.07820)|null|
 |**2025-06-09**|**Synthesis by Design: Controlled Data Generation via Structural Guidance**|Lei Xu et.al.|[2506.07664](http://arxiv.org/abs/2506.07664)|null|
 |**2025-06-08**|**What makes Reasoning Models Different? Follow the Reasoning Leader for Efficient Decoding**|Ming Li et.al.|[2506.06998](http://arxiv.org/abs/2506.06998)|null|
 |**2025-06-07**|**Boosting LLM Reasoning via Spontaneous Self-Correction**|Xutong Zhao et.al.|[2506.06923](http://arxiv.org/abs/2506.06923)|null|
 |**2025-06-07**|**Right Is Not Enough: The Pitfalls of Outcome Supervision in Training LLMs for Math Reasoning**|Jiaxing Guo et.al.|[2506.06877](http://arxiv.org/abs/2506.06877)|null|
 |**2025-06-09**|**Text-to-LoRA: Instant Transformer Adaption**|Rujikorn Charakorn et.al.|[2506.06105](http://arxiv.org/abs/2506.06105)|null|
-|**2025-06-06**|**Topology of Reasoning: Understanding Large Reasoning Models through Reasoning Graph Properties**|Gouki Minegishi et.al.|[2506.05744](http://arxiv.org/abs/2506.05744)|null|
+|**2025-06-10**|**Topology of Reasoning: Understanding Large Reasoning Models through Reasoning Graph Properties**|Gouki Minegishi et.al.|[2506.05744](http://arxiv.org/abs/2506.05744)|null|
 |**2025-06-05**|**Automatic Robustness Stress Testing of LLMs as Mathematical Problem Solvers**|Yutao Hou et.al.|[2506.05038](http://arxiv.org/abs/2506.05038)|null|
 |**2025-06-05**|**Rectified Sparse Attention**|Yutao Sun et.al.|[2506.04108](http://arxiv.org/abs/2506.04108)|null|
 |**2025-06-09**|**Structured Pruning for Diverse Best-of-N Reasoning Optimization**|Hieu Trung Nguyen et.al.|[2506.03978](http://arxiv.org/abs/2506.03978)|null|
@@ -397,12 +398,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-09**|**A giant planet transiting a 0.2 solar mass host star**|Edward M. Bryant et.al.|[2506.07931](http://arxiv.org/abs/2506.07931)|null|
+|**2025-06-10**|**Optimizing Sparse SYK**|Matthew Ding et.al.|[2506.09037](http://arxiv.org/abs/2506.09037)|null|
+|**2025-06-10**|**Interstellar Chemistry of CN Radicals on Ices: The formation of CH3CN and CH3NC and potential connection to acetamide**|Joan Enrique-Romero et.al.|[2506.08792](http://arxiv.org/abs/2506.08792)|null|
+|**2025-06-10**|**The detection of spatially resolved protosteller outflows and episodic jets in the outer Galaxy**|Toki Ikeda et.al.|[2506.08601](http://arxiv.org/abs/2506.08601)|null|
+|**2025-06-10**|**Strong coupling and interfering resonances in isolated van der Waals nanoresonators**|Qi Ding et.al.|[2506.08510](http://arxiv.org/abs/2506.08510)|null|
+|**2025-06-10**|**A transiting giant planet in orbit around a 0.2-solar-mass host star**|Edward M. Bryant et.al.|[2506.07931](http://arxiv.org/abs/2506.07931)|null|
 |**2025-06-09**|**Determining the methanol deuteration in the disk around V883 Orionis with laboratory measured spectroscopy**|Shaoshan Zeng et.al.|[2506.07794](http://arxiv.org/abs/2506.07794)|null|
 |**2025-06-09**|**A unified fluid model for nonthermal plasmas and reacting flows**|Xiao Shao et.al.|[2506.07792](http://arxiv.org/abs/2506.07792)|null|
 |**2025-06-09**|**Schrödinger equation with Pauli-Fierz Hamiltonian and double well potential as model of vibrationally enhanced tunneling for proton transfer in hydrogen bond**|A. E. Sitnitsky et.al.|[2506.07733](http://arxiv.org/abs/2506.07733)|null|
 |**2025-06-09**|**The Catechol Benchmark: Time-series Solvent Selection Data for Few-shot Machine Learning**|Toby Boyne et.al.|[2506.07619](http://arxiv.org/abs/2506.07619)|null|
-|**2025-06-09**|**GTR-CoT: Graph Traversal as Visual Chain of Thought for Molecular Structure Recognition**|Jingchao Wang et.al.|[2506.07553](http://arxiv.org/abs/2506.07553)|null|
+|**2025-06-10**|**GTR-CoT: Graph Traversal as Visual Chain of Thought for Molecular Structure Recognition**|Jingchao Wang et.al.|[2506.07553](http://arxiv.org/abs/2506.07553)|null|
 |**2025-06-09**|**ChemAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning**|Mengsong Wu et.al.|[2506.07551](http://arxiv.org/abs/2506.07551)|null|
 |**2025-06-09**|**Mutual Correlation**|Francesco A. Evangelista et.al.|[2506.07344](http://arxiv.org/abs/2506.07344)|null|
 |**2025-06-08**|**Engineering and harnessing long-range interactions for atomic quantum simulators**|Argüello-Luengo Javier et.al.|[2506.07250](http://arxiv.org/abs/2506.07250)|null|
