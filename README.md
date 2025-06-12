@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-11**|**Vision Matters: Simple Visual Perturbations Can Boost Multimodal Math Reasoning**|Yuting Li et.al.|[2506.09736](http://arxiv.org/abs/2506.09736)|null|
 |**2025-06-10**|**Enhancing Reasoning Capabilities of Small Language Models with Blueprints and Prompt Template Search**|Dongge Han et.al.|[2506.08669](http://arxiv.org/abs/2506.08669)|null|
 |**2025-06-10**|**Guideline Forest: Experience-Induced Multi-Guideline Reasoning with Stepwise Aggregation**|Jiaxiang Chen et.al.|[2506.07820](http://arxiv.org/abs/2506.07820)|null|
 |**2025-06-10**|**Synthesis by Design: Controlled Data Generation via Structural Guidance**|Lei Xu et.al.|[2506.07664](http://arxiv.org/abs/2506.07664)|null|
@@ -404,6 +405,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-11**|**Heavier chalcogenofenchones for fundamental gas-phase studies of molecular chirality**|Manjinder Kour et.al.|[2506.09906](http://arxiv.org/abs/2506.09906)|null|
+|**2025-06-11**|**QMCTorch: Molecular Wavefunctions with Neural Components for Energy and Force Calculations**|Nicolas Renaud et.al.|[2506.09743](http://arxiv.org/abs/2506.09743)|null|
+|**2025-06-11**|**Efficient Prediction of SO(3)-Equivariant Hamiltonian Matrices via SO(2) Local Frames**|Haiyang Yu et.al.|[2506.09398](http://arxiv.org/abs/2506.09398)|null|
+|**2025-06-11**|**Natural Language Guided Ligand-Binding Protein Design**|Zhenqiao Song et.al.|[2506.09332](http://arxiv.org/abs/2506.09332)|null|
+|**2025-06-10**|**A thorough study of Riemannian Newton's Method**|Caio O. da Silva et.al.|[2506.09297](http://arxiv.org/abs/2506.09297)|null|
+|**2025-06-10**|**Aluminum oxide coatings on Co-rich cathodes and interactions with organic electrolyte**|M. D. Hashan C. Peiris et.al.|[2506.09252](http://arxiv.org/abs/2506.09252)|null|
+|**2025-06-10**|**JWST Coronagraphic Images of 14 Her c: a Cold Giant Planet in a Dynamically Hot, Multi-planet System**|Daniella C. Bardalez Gagliuffi et.al.|[2506.09201](http://arxiv.org/abs/2506.09201)|null|
+|**2025-06-10**|**The Quantum Paldus Transform: Efficient Circuits with Applications**|Jędrzej Burkat et.al.|[2506.09151](http://arxiv.org/abs/2506.09151)|null|
+|**2025-06-10**|**Bar-driven dispersal of Galactic substructure**|Adam M. Dillamore et.al.|[2506.09117](http://arxiv.org/abs/2506.09117)|null|
 |**2025-06-10**|**Optimizing Sparse SYK**|Matthew Ding et.al.|[2506.09037](http://arxiv.org/abs/2506.09037)|null|
 |**2025-06-10**|**Interstellar Chemistry of CN Radicals on Ices: The formation of CH3CN and CH3NC and potential connection to acetamide**|Joan Enrique-Romero et.al.|[2506.08792](http://arxiv.org/abs/2506.08792)|null|
 |**2025-06-10**|**The detection of spatially resolved protosteller outflows and episodic jets in the outer Galaxy**|Toki Ikeda et.al.|[2506.08601](http://arxiv.org/abs/2506.08601)|null|
