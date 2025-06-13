@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Slimming Down LLMs Without Losing Their Minds**|Qingda et.al.|[2506.10885](http://arxiv.org/abs/2506.10885)|null|
+|**2025-06-12**|**ReCUT: Balancing Reasoning Length and Accuracy in LLMs via Stepwise Trails and Preference Optimization**|Zhensheng Jin et.al.|[2506.10822](http://arxiv.org/abs/2506.10822)|null|
+|**2025-06-12**|**PREMISE: Scalable and Strategic Prompt Optimization for Efficient Mathematical Reasoning in Large Models**|Ye Yu et.al.|[2506.10716](http://arxiv.org/abs/2506.10716)|null|
+|**2025-06-12**|**Fast on the Easy, Deep on the Hard: Efficient Reasoning via Powered Length Penalty**|Zehui Ling et.al.|[2506.10446](http://arxiv.org/abs/2506.10446)|null|
+|**2025-06-11**|**Unsupervised Elicitation of Language Models**|Jiaxin Wen et.al.|[2506.10139](http://arxiv.org/abs/2506.10139)|null|
+|**2025-06-11**|**ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception in VLMs**|Xiyao Wang et.al.|[2506.10128](http://arxiv.org/abs/2506.10128)|null|
 |**2025-06-11**|**Vision Matters: Simple Visual Perturbations Can Boost Multimodal Math Reasoning**|Yuting Li et.al.|[2506.09736](http://arxiv.org/abs/2506.09736)|null|
 |**2025-06-10**|**Enhancing Reasoning Capabilities of Small Language Models with Blueprints and Prompt Template Search**|Dongge Han et.al.|[2506.08669](http://arxiv.org/abs/2506.08669)|null|
 |**2025-06-10**|**Guideline Forest: Experience-Induced Multi-Guideline Reasoning with Stepwise Aggregation**|Jiaxiang Chen et.al.|[2506.07820](http://arxiv.org/abs/2506.07820)|null|
@@ -399,6 +405,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Transcorrelated Theory for Transition Metal Atoms**|Kristoffer Simula et.al.|[2506.10429](http://arxiv.org/abs/2506.10429)|null|
+|**2025-06-12**|**Topotactic oxidation of Ruddlesden-Popper nickelates reveals new structural family: oxygen-intercalated layered perovskites**|Dan Ferenc Segedin et.al.|[2506.10262](http://arxiv.org/abs/2506.10262)|null|
+|**2025-06-11**|**Tracking and controlling monolayer water in gold nanogaps using extreme plasmonic spectroscopy**|Elle W. Wyatt et.al.|[2506.10199](http://arxiv.org/abs/2506.10199)|null|
 |**2025-06-11**|**Heavier chalcogenofenchones for fundamental gas-phase studies of molecular chirality**|Manjinder Kour et.al.|[2506.09906](http://arxiv.org/abs/2506.09906)|null|
 |**2025-06-11**|**QMCTorch: Molecular Wavefunctions with Neural Components for Energy and Force Calculations**|Nicolas Renaud et.al.|[2506.09743](http://arxiv.org/abs/2506.09743)|null|
 |**2025-06-11**|**Efficient Prediction of SO(3)-Equivariant Hamiltonian Matrices via SO(2) Local Frames**|Haiyang Yu et.al.|[2506.09398](http://arxiv.org/abs/2506.09398)|null|
