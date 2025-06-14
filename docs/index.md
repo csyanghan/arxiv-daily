@@ -409,7 +409,7 @@ layout: default
 |**2025-06-12**|**Topotactic oxidation of Ruddlesden-Popper nickelates reveals new structural family: oxygen-intercalated layered perovskites**|Dan Ferenc Segedin et.al.|[2506.10262](http://arxiv.org/abs/2506.10262)|null|
 |**2025-06-11**|**Tracking and controlling monolayer water in gold nanogaps using extreme plasmonic spectroscopy**|Elle W. Wyatt et.al.|[2506.10199](http://arxiv.org/abs/2506.10199)|null|
 |**2025-06-11**|**Heavier chalcogenofenchones for fundamental gas-phase studies of molecular chirality**|Manjinder Kour et.al.|[2506.09906](http://arxiv.org/abs/2506.09906)|null|
-|**2025-06-11**|**QMCTorch: Molecular Wavefunctions with Neural Components for Energy and Force Calculations**|Nicolas Renaud et.al.|[2506.09743](http://arxiv.org/abs/2506.09743)|null|
+|**2025-06-11**|**QMCTorch: Molecular Wavefunctions with Neural Components for Energy and Force Calculations**|Nicolas Renaud et.al.|[2506.09743](http://arxiv.org/abs/2506.09743)|**[link](https://github.com/qmctorch/qmctorch)**|
 |**2025-06-11**|**Efficient Prediction of SO(3)-Equivariant Hamiltonian Matrices via SO(2) Local Frames**|Haiyang Yu et.al.|[2506.09398](http://arxiv.org/abs/2506.09398)|null|
 |**2025-06-11**|**Natural Language Guided Ligand-Binding Protein Design**|Zhenqiao Song et.al.|[2506.09332](http://arxiv.org/abs/2506.09332)|null|
 |**2025-06-10**|**A thorough study of Riemannian Newton's Method**|Caio O. da Silva et.al.|[2506.09297](http://arxiv.org/abs/2506.09297)|null|
