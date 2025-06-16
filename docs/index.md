@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**Feedback Friction: LLMs Struggle to Fully Incorporate External Feedback**|Dongwei Jiang et.al.|[2506.11930](http://arxiv.org/abs/2506.11930)|null|
+|**2025-06-13**|**LearnAlign: Reasoning Data Selection for Reinforcement Learning in Large Language Models Based on Improved Gradient Alignment**|Shikun Li et.al.|[2506.11480](http://arxiv.org/abs/2506.11480)|null|
+|**2025-06-12**|**Learning a Continue-Thinking Token for Enhanced Test-Time Scaling**|Liran Ringel et.al.|[2506.11274](http://arxiv.org/abs/2506.11274)|null|
 |**2025-06-12**|**Slimming Down LLMs Without Losing Their Minds**|Qingda et.al.|[2506.10885](http://arxiv.org/abs/2506.10885)|null|
 |**2025-06-12**|**ReCUT: Balancing Reasoning Length and Accuracy in LLMs via Stepwise Trails and Preference Optimization**|Zhensheng Jin et.al.|[2506.10822](http://arxiv.org/abs/2506.10822)|null|
 |**2025-06-12**|**PREMISE: Scalable and Strategic Prompt Optimization for Efficient Mathematical Reasoning in Large Models**|Ye Yu et.al.|[2506.10716](http://arxiv.org/abs/2506.10716)|null|
@@ -405,6 +408,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**Spectra-to-Structure and Structure-to-Spectra Inference Across the Periodic Table**|Yufeng Wang et.al.|[2506.11908](http://arxiv.org/abs/2506.11908)|null|
+|**2025-06-13**|**GlobDB: A comprehensive species-dereplicated microbial genome resource**|Daan R. Speth et.al.|[2506.11896](http://arxiv.org/abs/2506.11896)|null|
+|**2025-06-13**|**Entropy governs the structure and reactivity of water dissociation under electric fields**|Yair Litman et.al.|[2506.11734](http://arxiv.org/abs/2506.11734)|null|
+|**2025-06-13**|**The mutual influence of disequilibrium composition and temperature in exoplanet atmospheres**|Marcelino Agundez et.al.|[2506.11658](http://arxiv.org/abs/2506.11658)|null|
+|**2025-06-13**|**Recent advances in DNA origami-engineered nanomaterials and applications**|Pengfei Zhan et.al.|[2506.11505](http://arxiv.org/abs/2506.11505)|null|
+|**2025-06-13**|**Benchmarking Multimodal LLMs on Recognition and Understanding over Chemical Tables**|Yitong Zhou et.al.|[2506.11375](http://arxiv.org/abs/2506.11375)|null|
 |**2025-06-12**|**Transcorrelated Theory for Transition Metal Atoms**|Kristoffer Simula et.al.|[2506.10429](http://arxiv.org/abs/2506.10429)|null|
 |**2025-06-12**|**Topotactic oxidation of Ruddlesden-Popper nickelates reveals new structural family: oxygen-intercalated layered perovskites**|Dan Ferenc Segedin et.al.|[2506.10262](http://arxiv.org/abs/2506.10262)|null|
 |**2025-06-11**|**Tracking and controlling monolayer water in gold nanogaps using extreme plasmonic spectroscopy**|Elle W. Wyatt et.al.|[2506.10199](http://arxiv.org/abs/2506.10199)|null|
