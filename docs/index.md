@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -18,12 +18,12 @@ layout: default
 |**2025-06-13**|**LearnAlign: Reasoning Data Selection for Reinforcement Learning in Large Language Models Based on Improved Gradient Alignment**|Shikun Li et.al.|[2506.11480](http://arxiv.org/abs/2506.11480)|null|
 |**2025-06-12**|**Learning a Continue-Thinking Token for Enhanced Test-Time Scaling**|Liran Ringel et.al.|[2506.11274](http://arxiv.org/abs/2506.11274)|null|
 |**2025-06-12**|**Slimming Down LLMs Without Losing Their Minds**|Qingda et.al.|[2506.10885](http://arxiv.org/abs/2506.10885)|null|
-|**2025-06-12**|**ReCUT: Balancing Reasoning Length and Accuracy in LLMs via Stepwise Trails and Preference Optimization**|Zhensheng Jin et.al.|[2506.10822](http://arxiv.org/abs/2506.10822)|null|
+|**2025-06-12**|**ReCUT: Balancing Reasoning Length and Accuracy in LLMs via Stepwise Trails and Preference Optimization**|Zhensheng Jin et.al.|[2506.10822](http://arxiv.org/abs/2506.10822)|**[link](https://github.com/neuir/recut)**|
 |**2025-06-12**|**PREMISE: Scalable and Strategic Prompt Optimization for Efficient Mathematical Reasoning in Large Models**|Ye Yu et.al.|[2506.10716](http://arxiv.org/abs/2506.10716)|null|
 |**2025-06-12**|**Fast on the Easy, Deep on the Hard: Efficient Reasoning via Powered Length Penalty**|Zehui Ling et.al.|[2506.10446](http://arxiv.org/abs/2506.10446)|null|
 |**2025-06-11**|**Unsupervised Elicitation of Language Models**|Jiaxin Wen et.al.|[2506.10139](http://arxiv.org/abs/2506.10139)|null|
-|**2025-06-11**|**ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception in VLMs**|Xiyao Wang et.al.|[2506.10128](http://arxiv.org/abs/2506.10128)|null|
-|**2025-06-11**|**Vision Matters: Simple Visual Perturbations Can Boost Multimodal Math Reasoning**|Yuting Li et.al.|[2506.09736](http://arxiv.org/abs/2506.09736)|null|
+|**2025-06-11**|**ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception in VLMs**|Xiyao Wang et.al.|[2506.10128](http://arxiv.org/abs/2506.10128)|**[link](https://github.com/si0wang/vicrit)**|
+|**2025-06-11**|**Vision Matters: Simple Visual Perturbations Can Boost Multimodal Math Reasoning**|Yuting Li et.al.|[2506.09736](http://arxiv.org/abs/2506.09736)|**[link](https://github.com/hiyouga/easyr1)**|
 |**2025-06-10**|**Enhancing Reasoning Capabilities of Small Language Models with Blueprints and Prompt Template Search**|Dongge Han et.al.|[2506.08669](http://arxiv.org/abs/2506.08669)|null|
 |**2025-06-10**|**Guideline Forest: Experience-Induced Multi-Guideline Reasoning with Stepwise Aggregation**|Jiaxiang Chen et.al.|[2506.07820](http://arxiv.org/abs/2506.07820)|null|
 |**2025-06-10**|**Synthesis by Design: Controlled Data Generation via Structural Guidance**|Lei Xu et.al.|[2506.07664](http://arxiv.org/abs/2506.07664)|null|
