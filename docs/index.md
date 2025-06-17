@@ -408,6 +408,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Extrinsic Dopants as Growth Modifiers in Cu-Cr-O delafossites: A Study of Incorporation Limits and Film Properties**|Marco Moreira et.al.|[2506.13540](http://arxiv.org/abs/2506.13540)|null|
+|**2025-06-16**|**Quantum algorithm for solving generalized eigenvalue problems with application to the Schrödinger equation**|Grzegorz Rajchel-Mieldzioć et.al.|[2506.13534](http://arxiv.org/abs/2506.13534)|null|
+|**2025-06-16**|**Efficient algorithms for quantum chemistry on modular quantum processors**|Tian Xue et.al.|[2506.13332](http://arxiv.org/abs/2506.13332)|null|
+|**2025-06-15**|**Heating, Excitation, Dissociation, and Ionization of Molecules by High-Energy Photons in Planetary Atmospheres**|Antonio García Muñoz et.al.|[2506.12956](http://arxiv.org/abs/2506.12956)|null|
+|**2025-06-15**|**Re-analysis of 10 Hot-Jupiter Atmospheres with disequilibrium chemistry retrieval**|Deborah Bardet et.al.|[2506.12806](http://arxiv.org/abs/2506.12806)|null|
+|**2025-06-14**|**The Software Landscape for the Density Matrix Renormalization Group**|Per Sehlstedt et.al.|[2506.12629](http://arxiv.org/abs/2506.12629)|null|
+|**2025-06-14**|**Tailored ordering enables high-capacity cathode materials**|Tzu-chen Liu et.al.|[2506.12545](http://arxiv.org/abs/2506.12545)|null|
+|**2025-06-14**|**Ab Initio Polaritonic Chemistry on Diverse Quantum Computing Platforms: Qubit, Qudit, and Hybrid Qubit-Qumode Architectures**|Even Chiari et.al.|[2506.12504](http://arxiv.org/abs/2506.12504)|null|
+|**2025-06-13**|**Molecular Control of Floquet Topological Phase in Non-adiabatic Thouless Pumping**|Ruiyi Zhou et.al.|[2506.12147](http://arxiv.org/abs/2506.12147)|null|
+|**2025-06-13**|**The Detection-vs-Retrieval Challenge: Titan as an Exoplanet**|Prajwal Niraula et.al.|[2506.12144](http://arxiv.org/abs/2506.12144)|null|
 |**2025-06-13**|**Spectra-to-Structure and Structure-to-Spectra Inference Across the Periodic Table**|Yufeng Wang et.al.|[2506.11908](http://arxiv.org/abs/2506.11908)|null|
 |**2025-06-13**|**GlobDB: A comprehensive species-dereplicated microbial genome resource**|Daan R. Speth et.al.|[2506.11896](http://arxiv.org/abs/2506.11896)|null|
 |**2025-06-13**|**Entropy governs the structure and reactivity of water dissociation under electric fields**|Yair Litman et.al.|[2506.11734](http://arxiv.org/abs/2506.11734)|null|
