@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Excessive Reasoning Attack on Reasoning LLMs**|Wai Man Si et.al.|[2506.14374](http://arxiv.org/abs/2506.14374)|null|
+|**2025-06-17**|**Re-Initialization Token Learning for Tool-Augmented Large Language Models**|Chenghao Li et.al.|[2506.14248](http://arxiv.org/abs/2506.14248)|null|
+|**2025-06-17**|**Xolver: Multi-Agent Reasoning with Holistic Experience Learning Just Like an Olympiad Team**|Md Tanzib Hosain et.al.|[2506.14234](http://arxiv.org/abs/2506.14234)|null|
 |**2025-06-13**|**Feedback Friction: LLMs Struggle to Fully Incorporate External Feedback**|Dongwei Jiang et.al.|[2506.11930](http://arxiv.org/abs/2506.11930)|null|
 |**2025-06-13**|**LearnAlign: Reasoning Data Selection for Reinforcement Learning in Large Language Models Based on Improved Gradient Alignment**|Shikun Li et.al.|[2506.11480](http://arxiv.org/abs/2506.11480)|null|
 |**2025-06-12**|**Learning a Continue-Thinking Token for Enhanced Test-Time Scaling**|Liran Ringel et.al.|[2506.11274](http://arxiv.org/abs/2506.11274)|null|
@@ -408,6 +411,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**High-fidelity collisional quantum gates with fermionic atoms**|Petar Bojović et.al.|[2506.14711](http://arxiv.org/abs/2506.14711)|null|
+|**2025-06-17**|**Accurate and scalable exchange-correlation with deep learning**|Giulia Luise et.al.|[2506.14665](http://arxiv.org/abs/2506.14665)|null|
+|**2025-06-17**|**Approximating Hamiltonian for Hartree-Fock solutions for nonrelativistic atoms**|N. Q. San et.al.|[2506.14661](http://arxiv.org/abs/2506.14661)|null|
+|**2025-06-17**|**Accurate Chemistry Collection: Coupled cluster atomization energies for broad chemical space**|Sebastian Ehlert et.al.|[2506.14492](http://arxiv.org/abs/2506.14492)|null|
+|**2025-06-17**|**A Spintronic Battery with Reversible Modulation of Spin Polarization through Li Charge/Discharge: A First Principles Computational Modelling Case Study for an Antiperovskite System**|Sk Mujaffer Hossain et.al.|[2506.14401](http://arxiv.org/abs/2506.14401)|null|
+|**2025-06-17**|**NeuralPDR: Neural Differential Equations as surrogate models for Photodissociation Regions**|Gijs Vermariën et.al.|[2506.14270](http://arxiv.org/abs/2506.14270)|null|
 |**2025-06-16**|**Extrinsic Dopants as Growth Modifiers in Cu-Cr-O delafossites: A Study of Incorporation Limits and Film Properties**|Marco Moreira et.al.|[2506.13540](http://arxiv.org/abs/2506.13540)|null|
 |**2025-06-16**|**Quantum algorithm for solving generalized eigenvalue problems with application to the Schrödinger equation**|Grzegorz Rajchel-Mieldzioć et.al.|[2506.13534](http://arxiv.org/abs/2506.13534)|null|
 |**2025-06-16**|**Efficient algorithms for quantum chemistry on modular quantum processors**|Tian Xue et.al.|[2506.13332](http://arxiv.org/abs/2506.13332)|null|
