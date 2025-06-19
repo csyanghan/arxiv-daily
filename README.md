@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.18
+## Updated on 2025.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**AgentGroupChat-V2: Divide-and-Conquer Is What LLM-Based Multi-Agent System Need**|Zhouhong Gu et.al.|[2506.15451](http://arxiv.org/abs/2506.15451)|null|
+|**2025-06-18**|**Singular Value Decomposition on Kronecker Adaptation for Large Language Model**|Yee Hin Chong et.al.|[2506.15251](http://arxiv.org/abs/2506.15251)|null|
 |**2025-06-17**|**Excessive Reasoning Attack on Reasoning LLMs**|Wai Man Si et.al.|[2506.14374](http://arxiv.org/abs/2506.14374)|null|
 |**2025-06-17**|**Re-Initialization Token Learning for Tool-Augmented Large Language Models**|Chenghao Li et.al.|[2506.14248](http://arxiv.org/abs/2506.14248)|null|
 |**2025-06-17**|**Xolver: Multi-Agent Reasoning with Holistic Experience Learning Just Like an Olympiad Team**|Md Tanzib Hosain et.al.|[2506.14234](http://arxiv.org/abs/2506.14234)|null|
@@ -411,14 +413,21 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## AI for Science
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**Enhanced vibrational optical activity by near-zero index chiral effective media**|Ashis Paul et.al.|[2506.15592](http://arxiv.org/abs/2506.15592)|null|
+|**2025-06-18**|**Rotationally inelastic scattering of cyanocyclopentadiene by helium atoms**|Karina Sogomonyan et.al.|[2506.15536](http://arxiv.org/abs/2506.15536)|null|
+|**2025-06-18**|**Dancing on the Grain: Variety of CO and its isotopologue fluxes as a result of surface chemistry and T Tauri disk properties**|L. Zwicky et.al.|[2506.15508](http://arxiv.org/abs/2506.15508)|null|
+|**2025-06-18**|**What is a good use case for quantum computers?**|Michael Marthaler et.al.|[2506.15426](http://arxiv.org/abs/2506.15426)|null|
+|**2025-06-18**|**Liquid-fueled oblique detonation waves induced by reactive and non-reactive transverse liquid jets**|Wenhao Wang et.al.|[2506.15247](http://arxiv.org/abs/2506.15247)|null|
+|**2025-06-18**|**An efficient forgetting-aware fine-tuning framework for pretrained universal machine-learning interatomic potentials**|Jisu Kim et.al.|[2506.15223](http://arxiv.org/abs/2506.15223)|null|
+|**2025-06-18**|**ALMASOP. A Rotating Feature Rich in Complex Organic Molecules in a Protostellar Core**|Shih-Ying Hsu et.al.|[2506.15140](http://arxiv.org/abs/2506.15140)|null|
 |**2025-06-17**|**High-fidelity collisional quantum gates with fermionic atoms**|Petar Bojović et.al.|[2506.14711](http://arxiv.org/abs/2506.14711)|null|
-|**2025-06-17**|**Accurate and scalable exchange-correlation with deep learning**|Giulia Luise et.al.|[2506.14665](http://arxiv.org/abs/2506.14665)|null|
+|**2025-06-18**|**Accurate and scalable exchange-correlation with deep learning**|Giulia Luise et.al.|[2506.14665](http://arxiv.org/abs/2506.14665)|null|
 |**2025-06-17**|**Approximating Hamiltonian for Hartree-Fock solutions for nonrelativistic atoms**|N. Q. San et.al.|[2506.14661](http://arxiv.org/abs/2506.14661)|null|
 |**2025-06-17**|**Accurate Chemistry Collection: Coupled cluster atomization energies for broad chemical space**|Sebastian Ehlert et.al.|[2506.14492](http://arxiv.org/abs/2506.14492)|null|
 |**2025-06-17**|**A Spintronic Battery with Reversible Modulation of Spin Polarization through Li Charge/Discharge: A First Principles Computational Modelling Case Study for an Antiperovskite System**|Sk Mujaffer Hossain et.al.|[2506.14401](http://arxiv.org/abs/2506.14401)|null|
@@ -1925,7 +1934,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
