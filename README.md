@@ -18,7 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-18**|**AgentGroupChat-V2: Divide-and-Conquer Is What LLM-Based Multi-Agent System Need**|Zhouhong Gu et.al.|[2506.15451](http://arxiv.org/abs/2506.15451)|null|
+|**2025-06-18**|**AgentGroupChat-V2: Divide-and-Conquer Is What LLM-Based Multi-Agent System Need**|Zhouhong Gu et.al.|[2506.15451](http://arxiv.org/abs/2506.15451)|**[link](https://github.com/mikegu721/agentgroupchat-v2)**|
 |**2025-06-18**|**Singular Value Decomposition on Kronecker Adaptation for Large Language Model**|Yee Hin Chong et.al.|[2506.15251](http://arxiv.org/abs/2506.15251)|null|
 |**2025-06-17**|**Excessive Reasoning Attack on Reasoning LLMs**|Wai Man Si et.al.|[2506.14374](http://arxiv.org/abs/2506.14374)|null|
 |**2025-06-17**|**Re-Initialization Token Learning for Tool-Augmented Large Language Models**|Chenghao Li et.al.|[2506.14248](http://arxiv.org/abs/2506.14248)|null|
