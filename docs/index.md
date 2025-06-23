@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**No Free Lunch: Rethinking Internal Feedback for LLM Reasoning**|Yanzhi Zhang et.al.|[2506.17219](http://arxiv.org/abs/2506.17219)|null|
+|**2025-06-20**|**From Concepts to Components: Concept-Agnostic Attention Module Discovery in Transformers**|Jingtong Su et.al.|[2506.17052](http://arxiv.org/abs/2506.17052)|null|
+|**2025-06-20**|**Revisiting LoRA through the Lens of Parameter Redundancy: Spectral Encoding Helps**|Jiashun Cheng et.al.|[2506.16787](http://arxiv.org/abs/2506.16787)|null|
+|**2025-06-19**|**Robust Reward Modeling via Causal Rubrics**|Pragya Srivastava et.al.|[2506.16507](http://arxiv.org/abs/2506.16507)|null|
+|**2025-06-18**|**Fractional Reasoning via Latent Steering Vectors Improves Inference Time Compute**|Sheng Liu et.al.|[2506.15882](http://arxiv.org/abs/2506.15882)|null|
 |**2025-06-18**|**AgentGroupChat-V2: Divide-and-Conquer Is What LLM-Based Multi-Agent System Need**|Zhouhong Gu et.al.|[2506.15451](http://arxiv.org/abs/2506.15451)|**[link](https://github.com/mikegu721/agentgroupchat-v2)**|
 |**2025-06-18**|**Singular Value Decomposition on Kronecker Adaptation for Large Language Model**|Yee Hin Chong et.al.|[2506.15251](http://arxiv.org/abs/2506.15251)|null|
 |**2025-06-17**|**Excessive Reasoning Attack on Reasoning LLMs**|Wai Man Si et.al.|[2506.14374](http://arxiv.org/abs/2506.14374)|null|
@@ -413,6 +418,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**High-precision Quantum Phase Estimation on a Trapped-ion Quantum Computer**|Andrew Tranter et.al.|[2506.17207](http://arxiv.org/abs/2506.17207)|null|
+|**2025-06-20**|**Tighter Error Bounds for the qDRIFT Algorithm**|I. J. David et.al.|[2506.17199](http://arxiv.org/abs/2506.17199)|null|
+|**2025-06-20**|**The nanoscale molecular chemistry of outer solar system organic matter in asteroid Ryugu**|Christian Vollmer et.al.|[2506.16798](http://arxiv.org/abs/2506.16798)|null|
+|**2025-06-19**|**Critical point search and linear response theory for computing electronic excitation energies of molecular systems. Part I: General framework, application to Hartree-Fock and DFT**|Laura Grazioli et.al.|[2506.16420](http://arxiv.org/abs/2506.16420)|null|
+|**2025-06-19**|**Quantitative agreement between experiment and theory for Vibrational Circular Dichroism enhanced by electronically excited states**|Mariia Sapova et.al.|[2506.16270](http://arxiv.org/abs/2506.16270)|null|
+|**2025-06-19**|**Osiris revisited: Confirming a solar metallicity and low C/O in HD 209458b**|N. Bachmann et.al.|[2506.16232](http://arxiv.org/abs/2506.16232)|null|
+|**2025-06-19**|**Clifford augmented density matrix renormalization group for \textit{ab initio} quantum chemistry**|Lizhong Fu et.al.|[2506.16026](http://arxiv.org/abs/2506.16026)|null|
+|**2025-06-19**|**The Phase-Space Way To Electronic Structure Theory and Subsequently Chemical Dynamics**|Xuezhi Bian et.al.|[2506.15994](http://arxiv.org/abs/2506.15994)|null|
+|**2025-06-19**|**$La_3Pd_2NaO_9$ : A High-Valent Insulating Palladate**|Qingqing Yang et.al.|[2506.15966](http://arxiv.org/abs/2506.15966)|null|
+|**2025-06-19**|**Contactless Precision Steering of Particles in a Fluid inside a Cube with Rotating Walls**|Lucas Amoudruz et.al.|[2506.15958](http://arxiv.org/abs/2506.15958)|null|
 |**2025-06-18**|**Enhanced vibrational optical activity by near-zero index chiral effective media**|Ashis Paul et.al.|[2506.15592](http://arxiv.org/abs/2506.15592)|null|
 |**2025-06-18**|**Rotationally inelastic scattering of cyanocyclopentadiene by helium atoms**|Karina Sogomonyan et.al.|[2506.15536](http://arxiv.org/abs/2506.15536)|null|
 |**2025-06-18**|**Dancing on the Grain: Variety of CO and its isotopologue fluxes as a result of surface chemistry and T Tauri disk properties**|L. Zwicky et.al.|[2506.15508](http://arxiv.org/abs/2506.15508)|null|
