@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al.|[2506.18879](http://arxiv.org/abs/2506.18879)|null|
+|**2025-06-23**|**STU-PID: Steering Token Usage via PID Controller for Efficient Large Language Model Reasoning**|Aryasomayajula Ram Bharadwaj et.al.|[2506.18831](http://arxiv.org/abs/2506.18831)|null|
+|**2025-06-23**|**ConciseHint: Boosting Efficient Reasoning via Continuous Concise Hints during Generation**|Siao Tang et.al.|[2506.18810](http://arxiv.org/abs/2506.18810)|**[link](https://github.com/tsa18/ConciseHint)**|
+|**2025-06-22**|**RL for Reasoning by Adaptively Revealing Rationales**|Mohammad Hossein Amani et.al.|[2506.18110](http://arxiv.org/abs/2506.18110)|null|
+|**2025-06-22**|**Evolving Prompts In-Context: An Open-ended, Self-replicating Perspective**|Jianyu Wang et.al.|[2506.17930](http://arxiv.org/abs/2506.17930)|null|
 |**2025-06-20**|**No Free Lunch: Rethinking Internal Feedback for LLM Reasoning**|Yanzhi Zhang et.al.|[2506.17219](http://arxiv.org/abs/2506.17219)|null|
 |**2025-06-20**|**From Concepts to Components: Concept-Agnostic Attention Module Discovery in Transformers**|Jingtong Su et.al.|[2506.17052](http://arxiv.org/abs/2506.17052)|null|
 |**2025-06-20**|**Revisiting LoRA through the Lens of Parameter Redundancy: Spectral Encoding Helps**|Jiashun Cheng et.al.|[2506.16787](http://arxiv.org/abs/2506.16787)|null|
@@ -418,6 +423,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Integrating Classical and Quantum Software for Enhanced Simulation of Realistic Chemical Systems**|Tomoya Shiota et.al.|[2506.18877](http://arxiv.org/abs/2506.18877)|null|
+|**2025-06-23**|**A 3D model simulation of hydrogen chloride photochemistry on Mars: Comparison with satellite data**|Benjamin Benne et.al.|[2506.18757](http://arxiv.org/abs/2506.18757)|null|
+|**2025-06-23**|**Leveraging neural network interatomic potentials for a foundation model of chemistry**|So Yeon Kim et.al.|[2506.18497](http://arxiv.org/abs/2506.18497)|null|
+|**2025-06-21**|**The dominant role of jetting in micron- and sub-micron sea spray produced by bubble bursting: a revised model and comparison with measurements**|Alfonso M. Ganan-Calvo et.al.|[2506.17836](http://arxiv.org/abs/2506.17836)|null|
+|**2025-06-21**|**Residual Connection-Enhanced ConvLSTM for Lithium Dendrite Growth Prediction**|Hosung Lee et.al.|[2506.17756](http://arxiv.org/abs/2506.17756)|null|
+|**2025-06-21**|**Atomic layer deposition on particulate materials from 1988 through 2023: A quantitative review of technologies, materials and applications**|Peter M. Piechulla et.al.|[2506.17725](http://arxiv.org/abs/2506.17725)|null|
+|**2025-06-21**|**Dynamics of Multiphase Carbon in the Turbulent Circumgalactic Medium**|Yue Hu et.al.|[2506.17554](http://arxiv.org/abs/2506.17554)|null|
+|**2025-06-20**|**A review of heat transport in solvated gold nanoparticles: Molecular dynamics modeling and experimental perspectives**|Md Adnan Mahathir Munshi et.al.|[2506.17520](http://arxiv.org/abs/2506.17520)|null|
+|**2025-06-20**|**Planet formation in chemically diverse and evolving discs -- I. Composition of planetary building blocks**|E. Pacetti et.al.|[2506.17399](http://arxiv.org/abs/2506.17399)|null|
+|**2025-06-20**|**JWST reveals cosmic ray dominated chemistry in the local ULIRG IRAS 07251 $-$ 0248**|G. Speranza et.al.|[2506.17390](http://arxiv.org/abs/2506.17390)|null|
 |**2025-06-20**|**High-precision Quantum Phase Estimation on a Trapped-ion Quantum Computer**|Andrew Tranter et.al.|[2506.17207](http://arxiv.org/abs/2506.17207)|null|
 |**2025-06-20**|**Tighter Error Bounds for the qDRIFT Algorithm**|I. J. David et.al.|[2506.17199](http://arxiv.org/abs/2506.17199)|null|
 |**2025-06-20**|**The nanoscale molecular chemistry of outer solar system organic matter in asteroid Ryugu**|Christian Vollmer et.al.|[2506.16798](http://arxiv.org/abs/2506.16798)|null|
