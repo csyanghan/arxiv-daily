@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Scaling Speculative Decoding with Lookahead Reasoning**|Yichao Fu et.al.|[2506.19830](http://arxiv.org/abs/2506.19830)|null|
+|**2025-06-23**|**Plan for Speed -- Dilated Scheduling for Masked Diffusion Language Models**|Omer Luxembourg et.al.|[2506.19037](http://arxiv.org/abs/2506.19037)|null|
+|**2025-06-23**|**LLMs on a Budget? Say HOLA**|Zohaib Hasan Siddiqui et.al.|[2506.18952](http://arxiv.org/abs/2506.18952)|null|
+|**2025-06-23**|**Chain-of-Experts: Unlocking the Communication Power of Mixture-of-Experts Models**|Zihan Wang et.al.|[2506.18945](http://arxiv.org/abs/2506.18945)|null|
 |**2025-06-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al.|[2506.18879](http://arxiv.org/abs/2506.18879)|null|
 |**2025-06-23**|**STU-PID: Steering Token Usage via PID Controller for Efficient Large Language Model Reasoning**|Aryasomayajula Ram Bharadwaj et.al.|[2506.18831](http://arxiv.org/abs/2506.18831)|null|
 |**2025-06-24**|**ConciseHint: Boosting Efficient Reasoning via Continuous Concise Hints during Generation**|Siao Tang et.al.|[2506.18810](http://arxiv.org/abs/2506.18810)|**[link](https://github.com/tsa18/ConciseHint)**|
@@ -423,6 +427,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Metallic species in interstellar medium: Astrochemical modeling**|Ankan Das et.al.|[2506.19463](http://arxiv.org/abs/2506.19463)|null|
+|**2025-06-24**|**Do cell culturing influence the radiosensitizing effect of gold nanoparticles part 1: scrutinizing recent evidence for data consistency**|Hans Rabus et.al.|[2506.19372](http://arxiv.org/abs/2506.19372)|null|
+|**2025-06-24**|**A Perspective on Quantum Computing Applications in Quantum Chemistry using 25--100 Logical Qubits**|Yuri Alexeev et.al.|[2506.19337](http://arxiv.org/abs/2506.19337)|null|
+|**2025-06-23**|**The HUSTLE Program: The UV to Near-IR Transmission Spectrum of the Hot Jupiter KELT-7b**|Carlos Gascón et.al.|[2506.19193](http://arxiv.org/abs/2506.19193)|null|
 |**2025-06-23**|**Integrating Classical and Quantum Software for Enhanced Simulation of Realistic Chemical Systems**|Tomoya Shiota et.al.|[2506.18877](http://arxiv.org/abs/2506.18877)|null|
 |**2025-06-23**|**A 3D model simulation of hydrogen chloride photochemistry on Mars: Comparison with satellite data**|Benjamin Benne et.al.|[2506.18757](http://arxiv.org/abs/2506.18757)|null|
 |**2025-06-23**|**Leveraging neural network interatomic potentials for a foundation model of chemistry**|So Yeon Kim et.al.|[2506.18497](http://arxiv.org/abs/2506.18497)|null|
