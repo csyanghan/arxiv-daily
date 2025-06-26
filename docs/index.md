@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**OctoThinker: Mid-training Incentivizes Reinforcement Learning Scaling**|Zengzhi Wang et.al.|[2506.20512](http://arxiv.org/abs/2506.20512)|null|
 |**2025-06-24**|**Scaling Speculative Decoding with Lookahead Reasoning**|Yichao Fu et.al.|[2506.19830](http://arxiv.org/abs/2506.19830)|null|
 |**2025-06-23**|**Plan for Speed -- Dilated Scheduling for Masked Diffusion Language Models**|Omer Luxembourg et.al.|[2506.19037](http://arxiv.org/abs/2506.19037)|null|
 |**2025-06-23**|**LLMs on a Budget? Say HOLA**|Zohaib Hasan Siddiqui et.al.|[2506.18952](http://arxiv.org/abs/2506.18952)|null|
@@ -427,6 +428,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**A Framework for Quantum Advantage**|Olivia Lanes et.al.|[2506.20658](http://arxiv.org/abs/2506.20658)|null|
+|**2025-06-25**|**Sequential Quantum Computing**|Sebastián V. Romero et.al.|[2506.20655](http://arxiv.org/abs/2506.20655)|null|
+|**2025-06-25**|**Reducing Self-Interaction Error in Transition-Metal Oxides with Different Exact-Exchange Fractions for Energy and Density**|Harshan Reddy Gopidi et.al.|[2506.20635](http://arxiv.org/abs/2506.20635)|null|
+|**2025-06-25**|**JWST Observations of Photo-dissociation Regions. II. Aliphatic/Aromatic Carbonaceous Dust, Ices, and Gas Phase Spectral Line Inventory**|K. Misselt et.al.|[2506.20468](http://arxiv.org/abs/2506.20468)|null|
+|**2025-06-25**|**Visualizing intercalation effects in 2D materials using AFM based techniques**|Karmen Kapustić et.al.|[2506.20467](http://arxiv.org/abs/2506.20467)|null|
+|**2025-06-25**|**The KELT-7b atmospheric thermal-inversion conundrum revisited with CHEOPS, TESS, and additional data**|Z. Garai et.al.|[2506.20432](http://arxiv.org/abs/2506.20432)|null|
+|**2025-06-25**|**The mixing of internal gravity waves and lithium production in intermediate-mass AGB stars**|Zhijun Wang et.al.|[2506.20360](http://arxiv.org/abs/2506.20360)|null|
+|**2025-06-25**|**Phenylalanine modification in plasma-driven biocatalysis revealed by solvent accessibility and reactive dynamics in combination with protein mass spectrometry**|Hanna-Friederike Poggemann et.al.|[2506.20205](http://arxiv.org/abs/2506.20205)|null|
+|**2025-06-25**|**High mechanical strength Si anode synthesis with interlayer bonded expanded graphite structure for lithium-ion batteries**|Wenhui Lai et.al.|[2506.20189](http://arxiv.org/abs/2506.20189)|null|
+|**2025-06-24**|**Modelling Statistics of Polypeptides in Emissions from Smokers Near Ocean Ridges**|Ben Intoy et.al.|[2506.20052](http://arxiv.org/abs/2506.20052)|null|
 |**2025-06-24**|**Metallic species in interstellar medium: Astrochemical modeling**|Ankan Das et.al.|[2506.19463](http://arxiv.org/abs/2506.19463)|null|
 |**2025-06-24**|**Do cell culturing influence the radiosensitizing effect of gold nanoparticles part 1: scrutinizing recent evidence for data consistency**|Hans Rabus et.al.|[2506.19372](http://arxiv.org/abs/2506.19372)|null|
 |**2025-06-24**|**A Perspective on Quantum Computing Applications in Quantum Chemistry using 25--100 Logical Qubits**|Yuri Alexeev et.al.|[2506.19337](http://arxiv.org/abs/2506.19337)|null|
