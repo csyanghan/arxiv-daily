@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.26
+## Updated on 2025.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -428,7 +428,7 @@
 |**2024-05-05**|**Exploring the Compositional Deficiency of Large Language Models in Mathematical Reasoning**|Jun Zhao et.al.|[2405.06680](http://arxiv.org/abs/2405.06680)|null|
 |**2024-05-23**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 
-<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
 
 ## AI for Science
 
@@ -437,7 +437,7 @@
 |**2025-06-25**|**A Framework for Quantum Advantage**|Olivia Lanes et.al.|[2506.20658](http://arxiv.org/abs/2506.20658)|null|
 |**2025-06-25**|**Sequential Quantum Computing**|Sebastián V. Romero et.al.|[2506.20655](http://arxiv.org/abs/2506.20655)|null|
 |**2025-06-25**|**Reducing Self-Interaction Error in Transition-Metal Oxides with Different Exact-Exchange Fractions for Energy and Density**|Harshan Reddy Gopidi et.al.|[2506.20635](http://arxiv.org/abs/2506.20635)|null|
-|**2025-06-25**|**JWST Observations of Photo-dissociation Regions. II. Aliphatic/Aromatic Carbonaceous Dust, Ices, and Gas Phase Spectral Line Inventory**|K. Misselt et.al.|[2506.20468](http://arxiv.org/abs/2506.20468)|null|
+|**2025-06-26**|**JWST Observations of Photo-dissociation Regions. II. Aliphatic/Aromatic Carbonaceous Dust, Ices, and Gas Phase Spectral Line Inventory**|K. Misselt et.al.|[2506.20468](http://arxiv.org/abs/2506.20468)|null|
 |**2025-06-25**|**Visualizing intercalation effects in 2D materials using AFM based techniques**|Karmen Kapustić et.al.|[2506.20467](http://arxiv.org/abs/2506.20467)|null|
 |**2025-06-25**|**The KELT-7b atmospheric thermal-inversion conundrum revisited with CHEOPS, TESS, and additional data**|Z. Garai et.al.|[2506.20432](http://arxiv.org/abs/2506.20432)|null|
 |**2025-06-25**|**The mixing of internal gravity waves and lithium production in intermediate-mass AGB stars**|Zhijun Wang et.al.|[2506.20360](http://arxiv.org/abs/2506.20360)|null|
@@ -1983,7 +1983,7 @@
 |**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
 |**2024-05-20**|**A Phase Space Approach to Vibrational Circular Dichroism**|Titouan Duston et.al.|[2405.12404](http://arxiv.org/abs/2405.12404)|null|
 
-<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
