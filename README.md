@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test**|Ziyue Li et.al.|[2506.21551](http://arxiv.org/abs/2506.21551)|null|
 |**2025-06-25**|**OctoThinker: Mid-training Incentivizes Reinforcement Learning Scaling**|Zengzhi Wang et.al.|[2506.20512](http://arxiv.org/abs/2506.20512)|null|
 |**2025-06-24**|**Scaling Speculative Decoding with Lookahead Reasoning**|Yichao Fu et.al.|[2506.19830](http://arxiv.org/abs/2506.19830)|null|
 |**2025-06-23**|**Plan for Speed -- Dilated Scheduling for Masked Diffusion Language Models**|Omer Luxembourg et.al.|[2506.19037](http://arxiv.org/abs/2506.19037)|null|
@@ -434,6 +435,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Quantum thermal state preparation for near-term quantum processors**|Jerome Lloyd et.al.|[2506.21318](http://arxiv.org/abs/2506.21318)|null|
+|**2025-06-26**|**Phosphates Reveal High pH Ocean Water on Enceladus**|Christopher R. Glein et.al.|[2506.20937](http://arxiv.org/abs/2506.20937)|null|
+|**2025-06-25**|**Photocatalytic Control of Diamond Color Center Charge States via Surface Oxidation**|Minghao Li et.al.|[2506.20714](http://arxiv.org/abs/2506.20714)|null|
 |**2025-06-25**|**A Framework for Quantum Advantage**|Olivia Lanes et.al.|[2506.20658](http://arxiv.org/abs/2506.20658)|null|
 |**2025-06-25**|**Sequential Quantum Computing**|Sebastián V. Romero et.al.|[2506.20655](http://arxiv.org/abs/2506.20655)|null|
 |**2025-06-25**|**Reducing Self-Interaction Error in Transition-Metal Oxides with Different Exact-Exchange Fractions for Energy and Density**|Harshan Reddy Gopidi et.al.|[2506.20635](http://arxiv.org/abs/2506.20635)|null|
