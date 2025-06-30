@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Probabilistic Optimality for Inference-time Scaling**|Youkang Wang et.al.|[2506.22376](http://arxiv.org/abs/2506.22376)|null|
+|**2025-06-25**|**IRanker: Towards Ranking Foundation Model**|Tao Feng et.al.|[2506.21638](http://arxiv.org/abs/2506.21638)|null|
 |**2025-06-26**|**Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test**|Ziyue Li et.al.|[2506.21551](http://arxiv.org/abs/2506.21551)|null|
 |**2025-06-25**|**OctoThinker: Mid-training Incentivizes Reinforcement Learning Scaling**|Zengzhi Wang et.al.|[2506.20512](http://arxiv.org/abs/2506.20512)|null|
 |**2025-06-24**|**Scaling Speculative Decoding with Lookahead Reasoning**|Yichao Fu et.al.|[2506.19830](http://arxiv.org/abs/2506.19830)|null|
@@ -429,6 +431,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Universal Quantum Computational Spectroscopy on a Quantum Chip**|Chonghao Zhai et.al.|[2506.22418](http://arxiv.org/abs/2506.22418)|null|
+|**2025-06-27**|**Quantum-Classical Auxiliary Field Quantum Monte Carlo with Matchgate Shadows on Trapped Ion Quantum Computers**|Luning Zhao et.al.|[2506.22408](http://arxiv.org/abs/2506.22408)|null|
+|**2025-06-27**|**A Design Space for Visualization Transitions of 3D Spatial Data in Hybrid AR-Desktop Environments**|Yucheng Lu et.al.|[2506.22250](http://arxiv.org/abs/2506.22250)|null|
+|**2025-06-27**|**Exploring Modularity of Agentic Systems for Drug Discovery**|Laura van Weesep et.al.|[2506.22189](http://arxiv.org/abs/2506.22189)|null|
+|**2025-06-27**|**Scalable Etch-Free Transfer of Low-Dimensional Materials from Metal Films to Diverse Substrates**|Kentaro Yumigeta et.al.|[2506.21928](http://arxiv.org/abs/2506.21928)|null|
+|**2025-06-26**|**Understanding and Controlling V-Doping and S-Vacancy Behavior in Two-Dimensional Semiconductors- Toward Predictive Design**|Shreya Mathela et.al.|[2506.21793](http://arxiv.org/abs/2506.21793)|null|
+|**2025-06-26**|**Droplet growth, Ostwald's rule, and emergence of order in Fused in Sarcoma**|Farkhad Maksudov et.al.|[2506.21792](http://arxiv.org/abs/2506.21792)|null|
 |**2025-06-26**|**Quantum thermal state preparation for near-term quantum processors**|Jerome Lloyd et.al.|[2506.21318](http://arxiv.org/abs/2506.21318)|null|
 |**2025-06-26**|**Phosphates Reveal High pH Ocean Water on Enceladus**|Christopher R. Glein et.al.|[2506.20937](http://arxiv.org/abs/2506.20937)|null|
 |**2025-06-25**|**Photocatalytic Control of Diamond Color Center Charge States via Surface Oxidation**|Minghao Li et.al.|[2506.20714](http://arxiv.org/abs/2506.20714)|null|
