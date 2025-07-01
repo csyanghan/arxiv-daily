@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Do Thinking Tokens Help or Trap? Towards More Efficient Large Reasoning Model**|Bowen Ding et.al.|[2506.23840](http://arxiv.org/abs/2506.23840)|null|
 |**2025-06-27**|**Probabilistic Optimality for Inference-time Scaling**|Youkang Wang et.al.|[2506.22376](http://arxiv.org/abs/2506.22376)|null|
 |**2025-06-25**|**IRanker: Towards Ranking Foundation Model**|Tao Feng et.al.|[2506.21638](http://arxiv.org/abs/2506.21638)|null|
 |**2025-06-26**|**Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test**|Ziyue Li et.al.|[2506.21551](http://arxiv.org/abs/2506.21551)|null|
@@ -431,6 +432,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**UMA: A Family of Universal Models for Atoms**|Brandon M. Wood et.al.|[2506.23971](http://arxiv.org/abs/2506.23971)|null|
+|**2025-06-30**|**Three-dimensional Transport-induced Chemistry on Temperate sub-Neptune K2-18b, Part I: the Effects of Atmospheric Dynamics**|Jiachen Liu et.al.|[2506.23891](http://arxiv.org/abs/2506.23891)|null|
+|**2025-06-30**|**Large-scale Neural Network Quantum States for ab initio Quantum Chemistry Simulations on Fugaku**|Hongtao Xu et.al.|[2506.23809](http://arxiv.org/abs/2506.23809)|null|
+|**2025-06-30**|**Photonic obstructed atomic insulator**|Hongyu Chen et.al.|[2506.23713](http://arxiv.org/abs/2506.23713)|null|
+|**2025-06-30**|**ChemActor: Enhancing Automated Extraction of Chemical Synthesis Actions with LLM-Generated Data**|Yu Zhang et.al.|[2506.23520](http://arxiv.org/abs/2506.23520)|null|
+|**2025-06-29**|**Insights into Ionic Diffusion in C-S-H Gel Pore from MD Simulations: Spatial Distributions, Energy Barriers, and Structural Descriptor**|Weiqiang Chen et.al.|[2506.23089](http://arxiv.org/abs/2506.23089)|null|
+|**2025-06-28**|**A Benchmark for Quantum Chemistry Relaxations via Machine Learning Interatomic Potentials**|Cong Fu et.al.|[2506.23008](http://arxiv.org/abs/2506.23008)|null|
+|**2025-06-28**|**Characterizing the Dynamics and Chemistry of Transiting Exoplanets with the Habitable World Observatory**|Hannah R. Wakeford et.al.|[2506.22839](http://arxiv.org/abs/2506.22839)|null|
+|**2025-06-27**|**Are Helium Atmospheres Hiding as Volatile-rich in Current Exoplanet Analysis Frameworks?**|Julien de Wit et.al.|[2506.22537](http://arxiv.org/abs/2506.22537)|null|
 |**2025-06-27**|**Universal Quantum Computational Spectroscopy on a Quantum Chip**|Chonghao Zhai et.al.|[2506.22418](http://arxiv.org/abs/2506.22418)|null|
 |**2025-06-27**|**Quantum-Classical Auxiliary Field Quantum Monte Carlo with Matchgate Shadows on Trapped Ion Quantum Computers**|Luning Zhao et.al.|[2506.22408](http://arxiv.org/abs/2506.22408)|null|
 |**2025-06-27**|**A Design Space for Visualization Transitions of 3D Spatial Data in Hybrid AR-Desktop Environments**|Yucheng Lu et.al.|[2506.22250](http://arxiv.org/abs/2506.22250)|null|
