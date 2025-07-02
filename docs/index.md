@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -435,8 +435,8 @@ layout: default
 |**2025-06-30**|**UMA: A Family of Universal Models for Atoms**|Brandon M. Wood et.al.|[2506.23971](http://arxiv.org/abs/2506.23971)|null|
 |**2025-06-30**|**Three-dimensional Transport-induced Chemistry on Temperate sub-Neptune K2-18b, Part I: the Effects of Atmospheric Dynamics**|Jiachen Liu et.al.|[2506.23891](http://arxiv.org/abs/2506.23891)|null|
 |**2025-06-30**|**Large-scale Neural Network Quantum States for ab initio Quantum Chemistry Simulations on Fugaku**|Hongtao Xu et.al.|[2506.23809](http://arxiv.org/abs/2506.23809)|null|
-|**2025-06-30**|**Photonic obstructed atomic insulator**|Hongyu Chen et.al.|[2506.23713](http://arxiv.org/abs/2506.23713)|null|
-|**2025-06-30**|**ChemActor: Enhancing Automated Extraction of Chemical Synthesis Actions with LLM-Generated Data**|Yu Zhang et.al.|[2506.23520](http://arxiv.org/abs/2506.23520)|null|
+|**2025-07-01**|**Photonic obstructed atomic insulator**|Hongyu Chen et.al.|[2506.23713](http://arxiv.org/abs/2506.23713)|null|
+|**2025-07-01**|**ChemActor: Enhancing Automated Extraction of Chemical Synthesis Actions with LLM-Generated Data**|Yu Zhang et.al.|[2506.23520](http://arxiv.org/abs/2506.23520)|null|
 |**2025-06-29**|**Insights into Ionic Diffusion in C-S-H Gel Pore from MD Simulations: Spatial Distributions, Energy Barriers, and Structural Descriptor**|Weiqiang Chen et.al.|[2506.23089](http://arxiv.org/abs/2506.23089)|null|
 |**2025-06-28**|**A Benchmark for Quantum Chemistry Relaxations via Machine Learning Interatomic Potentials**|Cong Fu et.al.|[2506.23008](http://arxiv.org/abs/2506.23008)|null|
 |**2025-06-28**|**Characterizing the Dynamics and Chemistry of Transiting Exoplanets with the Habitable World Observatory**|Hannah R. Wakeford et.al.|[2506.22839](http://arxiv.org/abs/2506.22839)|null|
