@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**MiCoTA: Bridging the Learnability Gap with Intermediate CoT and Teacher Assistants**|Dongyi Ding et.al.|[2507.01887](http://arxiv.org/abs/2507.01887)|null|
+|**2025-07-01**|**Mathematics Isn't Culture-Free: Probing Cultural Gaps via Entity and Scenario Perturbations**|Aditya Tomar et.al.|[2507.00883](http://arxiv.org/abs/2507.00883)|null|
+|**2025-07-01**|**Does Math Reasoning Improve General LLM Capabilities? Understanding Transferability of LLM Reasoning**|Maggie Huan et.al.|[2507.00432](http://arxiv.org/abs/2507.00432)|null|
 |**2025-06-30**|**Do Thinking Tokens Help or Trap? Towards More Efficient Large Reasoning Model**|Bowen Ding et.al.|[2506.23840](http://arxiv.org/abs/2506.23840)|null|
 |**2025-06-27**|**Probabilistic Optimality for Inference-time Scaling**|Youkang Wang et.al.|[2506.22376](http://arxiv.org/abs/2506.22376)|null|
 |**2025-06-25**|**IRanker: Towards Ranking Foundation Model**|Tao Feng et.al.|[2506.21638](http://arxiv.org/abs/2506.21638)|null|
@@ -432,6 +435,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**Analyzing Common Electronic Structure Theory Algorithms for Distributed Quantum Computing**|Grier M. Jones et.al.|[2507.01902](http://arxiv.org/abs/2507.01902)|null|
+|**2025-07-02**|**Agent Ideate: A Framework for Product Idea Generation from Patents Using Agentic AI**|Gopichand Kanumolu et.al.|[2507.01717](http://arxiv.org/abs/2507.01717)|null|
+|**2025-07-02**|**A Large Language Model for Chemistry and Retrosynthesis Predictions**|Yueqing Zhang et.al.|[2507.01444](http://arxiv.org/abs/2507.01444)|null|
+|**2025-07-02**|**Pensieve Grader: An AI-Powered, Ready-to-Use Platform for Effortless Handwritten STEM Grading**|Yoonseok Yang et.al.|[2507.01431](http://arxiv.org/abs/2507.01431)|null|
+|**2025-07-01**|**Probing aqueous interfaces with spin defects**|Alfonso Castillo et.al.|[2507.01220](http://arxiv.org/abs/2507.01220)|null|
+|**2025-07-01**|**Coupled Cluster Downfolding Theoryin Simulations of Chemical Systems on Quantum Hardware**|Nicholas P. Bauman et.al.|[2507.01199](http://arxiv.org/abs/2507.01199)|null|
+|**2025-07-01**|**Instanton Theory for Nonadiabatic Tunneling through Near-Barrier Crossings**|Ziyan Ye et.al.|[2507.01151](http://arxiv.org/abs/2507.01151)|null|
+|**2025-07-01**|**Spectral Manifold Harmonization for Graph Imbalanced Regression**|Brenda Nogueira et.al.|[2507.01132](http://arxiv.org/abs/2507.01132)|null|
+|**2025-07-01**|**TABASCO: A Fast, Simplified Model for Molecular Generation with Improved Physical Quality**|Carlos Vonessen et.al.|[2507.00899](http://arxiv.org/abs/2507.00899)|null|
+|**2025-07-01**|**Monolayer Two-dimensional Materials Database (ML2DDB) and Applications**|Zhongwei Liu et.al.|[2507.00584](http://arxiv.org/abs/2507.00584)|null|
 |**2025-06-30**|**UMA: A Family of Universal Models for Atoms**|Brandon M. Wood et.al.|[2506.23971](http://arxiv.org/abs/2506.23971)|null|
 |**2025-07-02**|**Three-dimensional Transport-induced Chemistry on Temperate sub-Neptune K2-18b, Part I: the Effects of Atmospheric Dynamics**|Jiachen Liu et.al.|[2506.23891](http://arxiv.org/abs/2506.23891)|null|
 |**2025-06-30**|**Large-scale Neural Network Quantum States for ab initio Quantum Chemistry Simulations on Fugaku**|Hongtao Xu et.al.|[2506.23809](http://arxiv.org/abs/2506.23809)|null|
