@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -20,7 +20,7 @@ layout: default
 |**2025-06-30**|**Do Thinking Tokens Help or Trap? Towards More Efficient Large Reasoning Model**|Bowen Ding et.al.|[2506.23840](http://arxiv.org/abs/2506.23840)|null|
 |**2025-06-27**|**Probabilistic Optimality for Inference-time Scaling**|Youkang Wang et.al.|[2506.22376](http://arxiv.org/abs/2506.22376)|null|
 |**2025-06-25**|**IRanker: Towards Ranking Foundation Model**|Tao Feng et.al.|[2506.21638](http://arxiv.org/abs/2506.21638)|null|
-|**2025-06-26**|**Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test**|Ziyue Li et.al.|[2506.21551](http://arxiv.org/abs/2506.21551)|null|
+|**2025-07-03**|**Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test**|Ziyue Li et.al.|[2506.21551](http://arxiv.org/abs/2506.21551)|null|
 |**2025-06-25**|**OctoThinker: Mid-training Incentivizes Reinforcement Learning Scaling**|Zengzhi Wang et.al.|[2506.20512](http://arxiv.org/abs/2506.20512)|null|
 |**2025-06-24**|**Scaling Speculative Decoding with Lookahead Reasoning**|Yichao Fu et.al.|[2506.19830](http://arxiv.org/abs/2506.19830)|null|
 |**2025-06-23**|**Plan for Speed -- Dilated Scheduling for Masked Diffusion Language Models**|Omer Luxembourg et.al.|[2506.19037](http://arxiv.org/abs/2506.19037)|null|
@@ -440,7 +440,7 @@ layout: default
 |**2025-07-02**|**A Large Language Model for Chemistry and Retrosynthesis Predictions**|Yueqing Zhang et.al.|[2507.01444](http://arxiv.org/abs/2507.01444)|null|
 |**2025-07-02**|**Pensieve Grader: An AI-Powered, Ready-to-Use Platform for Effortless Handwritten STEM Grading**|Yoonseok Yang et.al.|[2507.01431](http://arxiv.org/abs/2507.01431)|null|
 |**2025-07-01**|**Probing aqueous interfaces with spin defects**|Alfonso Castillo et.al.|[2507.01220](http://arxiv.org/abs/2507.01220)|null|
-|**2025-07-01**|**Coupled Cluster Downfolding Theoryin Simulations of Chemical Systems on Quantum Hardware**|Nicholas P. Bauman et.al.|[2507.01199](http://arxiv.org/abs/2507.01199)|null|
+|**2025-07-03**|**Coupled Cluster Downfolding Theory in Simulations of Chemical Systems on Quantum Hardware**|Nicholas P. Bauman et.al.|[2507.01199](http://arxiv.org/abs/2507.01199)|null|
 |**2025-07-01**|**Instanton Theory for Nonadiabatic Tunneling through Near-Barrier Crossings**|Ziyan Ye et.al.|[2507.01151](http://arxiv.org/abs/2507.01151)|null|
 |**2025-07-01**|**Spectral Manifold Harmonization for Graph Imbalanced Regression**|Brenda Nogueira et.al.|[2507.01132](http://arxiv.org/abs/2507.01132)|null|
 |**2025-07-01**|**TABASCO: A Fast, Simplified Model for Molecular Generation with Improved Physical Quality**|Carlos Vonessen et.al.|[2507.00899](http://arxiv.org/abs/2507.00899)|null|
