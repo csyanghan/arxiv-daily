@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**Discrete Diffusion Trajectory Alignment via Stepwise Decomposition**|Jiaqi Han et.al.|[2507.04832](http://arxiv.org/abs/2507.04832)|null|
+|**2025-07-07**|**Activation Steering for Chain-of-Thought Compression**|Seyedarmin Azizi et.al.|[2507.04742](http://arxiv.org/abs/2507.04742)|null|
+|**2025-07-07**|**Who's the Mole? Modeling and Detecting Intention-Hiding Malicious Agents in LLM-Based Multi-Agent Systems**|Yizhe Xie et.al.|[2507.04724](http://arxiv.org/abs/2507.04724)|null|
+|**2025-07-05**|**LLMThinkBench: Towards Basic Math Reasoning and Overthinking in Large Language Models**|Gaurav Srivastava et.al.|[2507.04023](http://arxiv.org/abs/2507.04023)|null|
 |**2025-07-03**|**MOTIF: Modular Thinking via Reinforcement Fine-tuning in LLMs**|Purbesh Mitra et.al.|[2507.02851](http://arxiv.org/abs/2507.02851)|null|
 |**2025-07-03**|**OmniDraft: A Cross-vocabulary, Online Adaptive Drafter for On-device Speculative Decoding**|Ramchalam Kinattinkara Ramakrishnan et.al.|[2507.02659](http://arxiv.org/abs/2507.02659)|null|
 |**2025-07-02**|**Data Diversification Methods In Alignment Enhance Math Performance In LLMs**|Berkan Dokmeci et.al.|[2507.02173](http://arxiv.org/abs/2507.02173)|null|
@@ -444,6 +448,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**A Pyridyl-Benzimidazole Based Ruthenium(II) Complex as Optical Sensor: Targeted Cyanide Detection and Live Cell Imaging Applications**|Sudhanshu Naithani et.al.|[2507.04965](http://arxiv.org/abs/2507.04965)|null|
+|**2025-07-07**|**Nanoparticles and Quantum Dots as Emerging Optical Sensing Platforms for $\mathrm{Ni}^{2+}$ Detection: Recent Approaches and Perspectives**|Sudhanshu Naithani et.al.|[2507.04944](http://arxiv.org/abs/2507.04944)|null|
+|**2025-07-07**|**Statistical nuclear spin ratios of deuterated ammonia in the pre-stellar core L1544**|Jorma Harju et.al.|[2507.04825](http://arxiv.org/abs/2507.04825)|null|
+|**2025-07-07**|**Hexagonal boron nitride thin film synthesis with a ns-pulsed MHCD: in-situ plasma diagnostics and post-growth film characterization**|Belkacem Menacer et.al.|[2507.04759](http://arxiv.org/abs/2507.04759)|null|
+|**2025-07-06**|**RePlaChem: A dimensionality reduction library for plasma chemical mechanisms**|Z. Nikolaou et.al.|[2507.04401](http://arxiv.org/abs/2507.04401)|null|
+|**2025-07-06**|**Optimizing Quantum Chemistry Simulations with a Hybrid Quantization Scheme**|Calvin Ku et.al.|[2507.04253](http://arxiv.org/abs/2507.04253)|null|
+|**2025-07-05**|**Fast Re-Trainable Attention Autoencoder for Liquid Sensor Anomaly Detection at the Edge**|Seongyun Choi et.al.|[2507.03995](http://arxiv.org/abs/2507.03995)|null|
+|**2025-07-05**|**Was Earth's water acquired locally during the earliest phases of the Solar System formation?**|Lise Boitard-Crépeau et.al.|[2507.03968](http://arxiv.org/abs/2507.03968)|null|
+|**2025-07-05**|**OrbitAll: A Unified Quantum Mechanical Representation Deep Learning Framework for All Molecular Systems**|Beom Seok Kang et.al.|[2507.03853](http://arxiv.org/abs/2507.03853)|null|
+|**2025-07-04**|**Impact of cosmic-ray propagation on the chemistry and ionisation fraction of dark clouds**|G. Latrille et.al.|[2507.03832](http://arxiv.org/abs/2507.03832)|null|
 |**2025-07-03**|**A Highly Carbon-Rich Dayside and Disequilibrium Chemistry in the Ultra-Hot Jupiter WASP-19b**|Suman Saha et.al.|[2507.02797](http://arxiv.org/abs/2507.02797)|null|
 |**2025-07-03**|**Boosting the NOx production in microwave air plasma: A synergy of chemistry and vibrational kinetics**|Qinghao Shen et.al.|[2507.02795](http://arxiv.org/abs/2507.02795)|null|
 |**2025-07-03**|**The ESO SupJup Survey VIII. Chemical fingerprints of young L dwarf twins**|N. Grasser et.al.|[2507.02706](http://arxiv.org/abs/2507.02706)|null|
