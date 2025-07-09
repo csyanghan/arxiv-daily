@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**CoRE: Enhancing Metacognition with Label-free Self-evaluation in LRMs**|Haoxi Li et.al.|[2507.06087](http://arxiv.org/abs/2507.06087)|null|
+|**2025-07-08**|**Enhancing Test-Time Scaling of Large Language Models with Hierarchical Retrieval-Augmented MCTS**|Alex ZH Dou et.al.|[2507.05557](http://arxiv.org/abs/2507.05557)|null|
 |**2025-07-07**|**Discrete Diffusion Trajectory Alignment via Stepwise Decomposition**|Jiaqi Han et.al.|[2507.04832](http://arxiv.org/abs/2507.04832)|null|
 |**2025-07-08**|**Activation Steering for Chain-of-Thought Compression**|Seyedarmin Azizi et.al.|[2507.04742](http://arxiv.org/abs/2507.04742)|null|
 |**2025-07-07**|**Who's the Mole? Modeling and Detecting Intention-Hiding Malicious Agents in LLM-Based Multi-Agent Systems**|Yizhe Xie et.al.|[2507.04724](http://arxiv.org/abs/2507.04724)|null|
@@ -442,6 +444,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**PRODIGE VI -- Envelope to Disk with NOEMA: VI. The Missing Sulfur Problem**|J. J. Miranzo-Pastor et.al.|[2507.05830](http://arxiv.org/abs/2507.05830)|null|
+|**2025-07-07**|**Looking elsewhere: improving variational Monte Carlo gradients by importance sampling**|Antoine Misery et.al.|[2507.05352](http://arxiv.org/abs/2507.05352)|null|
+|**2025-07-07**|**From a Different Star: 3I/ATLAS in the context of the Ōtautahi-Oxford interstellar object population model**|Matthew J. Hopkins et.al.|[2507.05318](http://arxiv.org/abs/2507.05318)|null|
 |**2025-07-07**|**A Pyridyl-Benzimidazole Based Ruthenium(II) Complex as Optical Sensor: Targeted Cyanide Detection and Live Cell Imaging Applications**|Sudhanshu Naithani et.al.|[2507.04965](http://arxiv.org/abs/2507.04965)|null|
 |**2025-07-07**|**Nanoparticles and Quantum Dots as Emerging Optical Sensing Platforms for $\mathrm{Ni}^{2+}$ Detection: Recent Approaches and Perspectives**|Sudhanshu Naithani et.al.|[2507.04944](http://arxiv.org/abs/2507.04944)|null|
 |**2025-07-07**|**Statistical nuclear spin ratios of deuterated ammonia in the pre-stellar core L1544**|Jorma Harju et.al.|[2507.04825](http://arxiv.org/abs/2507.04825)|null|
