@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-07**|**Discrete Diffusion Trajectory Alignment via Stepwise Decomposition**|Jiaqi Han et.al.|[2507.04832](http://arxiv.org/abs/2507.04832)|null|
-|**2025-07-07**|**Activation Steering for Chain-of-Thought Compression**|Seyedarmin Azizi et.al.|[2507.04742](http://arxiv.org/abs/2507.04742)|null|
+|**2025-07-08**|**Activation Steering for Chain-of-Thought Compression**|Seyedarmin Azizi et.al.|[2507.04742](http://arxiv.org/abs/2507.04742)|null|
 |**2025-07-07**|**Who's the Mole? Modeling and Detecting Intention-Hiding Malicious Agents in LLM-Based Multi-Agent Systems**|Yizhe Xie et.al.|[2507.04724](http://arxiv.org/abs/2507.04724)|null|
 |**2025-07-05**|**LLMThinkBench: Towards Basic Math Reasoning and Overthinking in Large Language Models**|Gaurav Srivastava et.al.|[2507.04023](http://arxiv.org/abs/2507.04023)|null|
 |**2025-07-03**|**MOTIF: Modular Thinking via Reinforcement Fine-tuning in LLMs**|Purbesh Mitra et.al.|[2507.02851](http://arxiv.org/abs/2507.02851)|null|
