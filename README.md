@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model**|Jing Liang et.al.|[2507.06892](http://arxiv.org/abs/2507.06892)|null|
 |**2025-07-08**|**CoRE: Enhancing Metacognition with Label-free Self-evaluation in LRMs**|Haoxi Li et.al.|[2507.06087](http://arxiv.org/abs/2507.06087)|null|
 |**2025-07-08**|**Enhancing Test-Time Scaling of Large Language Models with Hierarchical Retrieval-Augmented MCTS**|Alex ZH Dou et.al.|[2507.05557](http://arxiv.org/abs/2507.05557)|null|
 |**2025-07-07**|**Discrete Diffusion Trajectory Alignment via Stepwise Decomposition**|Jiaqi Han et.al.|[2507.04832](http://arxiv.org/abs/2507.04832)|null|
@@ -450,6 +451,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**Walk Matrix-Based Upper Bounds on Generalized Cospectral Mates**|Muhammad Raza et.al.|[2507.06927](http://arxiv.org/abs/2507.06927)|null|
+|**2025-07-09**|**The Spheroidal Bulge of the Milky Way: Chemodynamically Distinct from the Inner-Thick Disc and Bar**|Samir Nepal et.al.|[2507.06863](http://arxiv.org/abs/2507.06863)|null|
+|**2025-07-09**|**DiffSpectra: Molecular Structure Elucidation from Spectra using Diffusion Models**|Liang Wang et.al.|[2507.06853](http://arxiv.org/abs/2507.06853)|null|
+|**2025-07-09**|**Long-Lived Isomers of C $_{11}$H$_9^+$ : New Experimental Insights from the PIRENEA Setup**|Ana Isabel Lozano et.al.|[2507.06667](http://arxiv.org/abs/2507.06667)|null|
+|**2025-07-09**|**Organic Electronic Classifiers for Sensing**|Sébastien Pecqueur et.al.|[2507.06660](http://arxiv.org/abs/2507.06660)|null|
+|**2025-07-08**|**GloBIAS: strengthening the foundations of BioImage Analysis**|A. A. Corbat et.al.|[2507.06407](http://arxiv.org/abs/2507.06407)|null|
+|**2025-07-08**|**Parsec-scale SiO emission in the Galactic Center**|N. Wenner et.al.|[2507.06347](http://arxiv.org/abs/2507.06347)|null|
 |**2025-07-08**|**PRODIGE VI -- Envelope to Disk with NOEMA: VI. The Missing Sulfur Problem**|J. J. Miranzo-Pastor et.al.|[2507.05830](http://arxiv.org/abs/2507.05830)|null|
 |**2025-07-07**|**Looking elsewhere: improving variational Monte Carlo gradients by importance sampling**|Antoine Misery et.al.|[2507.05352](http://arxiv.org/abs/2507.05352)|null|
 |**2025-07-07**|**From a Different Star: 3I/ATLAS in the context of the Ōtautahi-Oxford interstellar object population model**|Matthew J. Hopkins et.al.|[2507.05318](http://arxiv.org/abs/2507.05318)|null|
