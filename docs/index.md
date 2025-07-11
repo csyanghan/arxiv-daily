@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**PLAN-TUNING: Post-Training Language Models to Learn Step-by-Step Planning for Complex Problem Solving**|Mihir Parmar et.al.|[2507.07495](http://arxiv.org/abs/2507.07495)|null|
 |**2025-07-10**|**Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model**|Jing Liang et.al.|[2507.06892](http://arxiv.org/abs/2507.06892)|null|
 |**2025-07-08**|**CoRE: Enhancing Metacognition with Label-free Self-evaluation in LRMs**|Haoxi Li et.al.|[2507.06087](http://arxiv.org/abs/2507.06087)|null|
 |**2025-07-08**|**Enhancing Test-Time Scaling of Large Language Models with Hierarchical Retrieval-Augmented MCTS**|Alex ZH Dou et.al.|[2507.05557](http://arxiv.org/abs/2507.05557)|null|
@@ -445,6 +446,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**The JWST Weather Report: retrieving temperature variations, auroral heating, and static cloud coverage on SIMP-0136**|Evert Nasedkin et.al.|[2507.07772](http://arxiv.org/abs/2507.07772)|null|
+|**2025-07-10**|**Gate Freezing Method for Gradient-Free Variational Quantum Algorithms in Circuit Optimization**|Joona Pankkonen et.al.|[2507.07742](http://arxiv.org/abs/2507.07742)|null|
+|**2025-07-09**|**Bridging the Plausibility-Validity Gap by Fine-Tuning a Reasoning-Enhanced LLM for Chemical Synthesis and Discovery**|Malikussaid et.al.|[2507.07328](http://arxiv.org/abs/2507.07328)|null|
+|**2025-07-09**|**Thermodynamic Prediction Enabled by Automatic Dataset Building and Machine Learning**|Juejing Liu et.al.|[2507.07293](http://arxiv.org/abs/2507.07293)|null|
+|**2025-07-09**|**A Study of Non-linear Flows and Shear Banding in Wormlike Micelles Under Varying Elasticity, Flow Curvature, and Surfactant Chemistry**|Alfredo Scigliani et.al.|[2507.07218](http://arxiv.org/abs/2507.07218)|null|
+|**2025-07-09**|**Correlations between Dust Extinction Features across All Wavelength Scales: From Diffuse Interstellar Bands to R(V)**|Andrew K. Saydjari et.al.|[2507.07162](http://arxiv.org/abs/2507.07162)|null|
 |**2025-07-09**|**Walk Matrix-Based Upper Bounds on Generalized Cospectral Mates**|Muhammad Raza et.al.|[2507.06927](http://arxiv.org/abs/2507.06927)|null|
 |**2025-07-09**|**The Spheroidal Bulge of the Milky Way: Chemodynamically Distinct from the Inner-Thick Disc and Bar**|Samir Nepal et.al.|[2507.06863](http://arxiv.org/abs/2507.06863)|null|
 |**2025-07-09**|**DiffSpectra: Molecular Structure Elucidation from Spectra using Diffusion Models**|Liang Wang et.al.|[2507.06853](http://arxiv.org/abs/2507.06853)|null|
