@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-09**|**Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model**|Jing Liang et.al.|[2507.06892](http://arxiv.org/abs/2507.06892)|null|
+|**2025-07-10**|**Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model**|Jing Liang et.al.|[2507.06892](http://arxiv.org/abs/2507.06892)|null|
 |**2025-07-08**|**CoRE: Enhancing Metacognition with Label-free Self-evaluation in LRMs**|Haoxi Li et.al.|[2507.06087](http://arxiv.org/abs/2507.06087)|null|
 |**2025-07-08**|**Enhancing Test-Time Scaling of Large Language Models with Hierarchical Retrieval-Augmented MCTS**|Alex ZH Dou et.al.|[2507.05557](http://arxiv.org/abs/2507.05557)|null|
 |**2025-07-07**|**Discrete Diffusion Trajectory Alignment via Stepwise Decomposition**|Jiaqi Han et.al.|[2507.04832](http://arxiv.org/abs/2507.04832)|null|
