@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**The AI Language Proficiency Monitor -- Tracking the Progress of LLMs on Multilingual Benchmarks**|David Pomerenke et.al.|[2507.08538](http://arxiv.org/abs/2507.08538)|null|
+|**2025-07-10**|**TruthTorchLM: A Comprehensive Library for Predicting Truthfulness in LLM Outputs**|Duygu Nur Yaldiz et.al.|[2507.08203](http://arxiv.org/abs/2507.08203)|null|
 |**2025-07-10**|**PLAN-TUNING: Post-Training Language Models to Learn Step-by-Step Planning for Complex Problem Solving**|Mihir Parmar et.al.|[2507.07495](http://arxiv.org/abs/2507.07495)|null|
 |**2025-07-11**|**Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model**|Jing Liang et.al.|[2507.06892](http://arxiv.org/abs/2507.06892)|null|
 |**2025-07-08**|**CoRE: Enhancing Metacognition with Label-free Self-evaluation in LRMs**|Haoxi Li et.al.|[2507.06087](http://arxiv.org/abs/2507.06087)|null|
@@ -446,6 +448,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**Constraining the survival of HCN during cometary impacts**|Catriona H. McDonald et.al.|[2507.08727](http://arxiv.org/abs/2507.08727)|null|
+|**2025-07-11**|**Ionization Energy of Rb $_2$ by electric field-ionization of molecular Rydberg states**|Manuel Alejandro Lefrán Torres et.al.|[2507.08634](http://arxiv.org/abs/2507.08634)|null|
+|**2025-07-11**|**A Survey of Large Language Models in Discipline-specific Research: Challenges, Methods and Opportunities**|Lu Xiang et.al.|[2507.08425](http://arxiv.org/abs/2507.08425)|null|
+|**2025-07-11**|**Advances in Machine Learning: Where Can Quantum Techniques Help?**|Samarth Kashyap et.al.|[2507.08379](http://arxiv.org/abs/2507.08379)|null|
+|**2025-07-11**|**MK2 at PBIG Competition: A Prompt Generation Solution**|Yuzheng Xu et.al.|[2507.08335](http://arxiv.org/abs/2507.08335)|null|
+|**2025-07-11**|**Rocksalt rare-earth monoxides as electronic and magnetic materials**|Tomoteru Fukumura et.al.|[2507.08292](http://arxiv.org/abs/2507.08292)|null|
+|**2025-07-10**|**Parametrized Quantum Circuit Learning for Quantum Chemical Applications**|Grier M. Jones et.al.|[2507.08183](http://arxiv.org/abs/2507.08183)|null|
+|**2025-07-10**|**SILCC -- IX. The multi-phase interstellar medium at low metallicity**|Vittoria Brugaletta et.al.|[2507.08126](http://arxiv.org/abs/2507.08126)|null|
+|**2025-07-10**|**Exploring substructures in the Milky Way halo Neural networks applied to Gaia and APOGEE DR 17**|L. Berni et.al.|[2507.08074](http://arxiv.org/abs/2507.08074)|null|
 |**2025-07-10**|**The JWST Weather Report: retrieving temperature variations, auroral heating, and static cloud coverage on SIMP-0136**|Evert Nasedkin et.al.|[2507.07772](http://arxiv.org/abs/2507.07772)|null|
 |**2025-07-10**|**Gate Freezing Method for Gradient-Free Variational Quantum Algorithms in Circuit Optimization**|Joona Pankkonen et.al.|[2507.07742](http://arxiv.org/abs/2507.07742)|null|
 |**2025-07-09**|**Bridging the Plausibility-Validity Gap by Fine-Tuning a Reasoning-Enhanced LLM for Chemical Synthesis and Discovery**|Malikussaid et.al.|[2507.07328](http://arxiv.org/abs/2507.07328)|null|
