@@ -454,6 +454,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Modeling Atmospheric Alteration on Titan: Hydrodynamics and Shock-Induced Chemistry of Meteoroid Entry**|Ryushi Miyayama et.al.|[2507.10369](http://arxiv.org/abs/2507.10369)|null|
+|**2025-07-14**|**Practical Crystallography with a Transmission Electron Microscope**|Benjamin L. Weare et.al.|[2507.10247](http://arxiv.org/abs/2507.10247)|null|
+|**2025-07-14**|**Cometary ion dynamics at 67P: A collisional test-particle approach with Rosetta data comparison**|Zoe Lewis et.al.|[2507.10110](http://arxiv.org/abs/2507.10110)|null|
+|**2025-07-14**|**Cavity Born-Oppenheimer Coupled Cluster Theory: Towards Electron Correlation in the Vibrational Strong Light-Matter Coupling Regime**|Eric W. Fischer et.al.|[2507.10100](http://arxiv.org/abs/2507.10100)|null|
+|**2025-07-14**|**Weak Detonations Revisited: Uncovering Its General Nature Using Autoignitive Reaction Wave Concept**|Youhi Morii et.al.|[2507.10022](http://arxiv.org/abs/2507.10022)|null|
+|**2025-07-14**|**VerifyBench: A Systematic Benchmark for Evaluating Reasoning Verifiers Across Domains**|Xuzhao Li et.al.|[2507.09884](http://arxiv.org/abs/2507.09884)|null|
+|**2025-07-13**|**Efficient Molecular Conformer Generation with SO(3)-Averaged Flow Matching and Reflow**|Zhonglin Cao et.al.|[2507.09785](http://arxiv.org/abs/2507.09785)|null|
+|**2025-07-13**|**Designing quantum chemistry algorithms with Just-In-Time compilation**|Xiaojie Wu et.al.|[2507.09772](http://arxiv.org/abs/2507.09772)|null|
+|**2025-07-13**|**Accelerated Hydrogen Exchange Reaction in a Dark Cavity: A Benchmark for Bridging the Gap Between Theory and Experiment**|Victor Berenstein et.al.|[2507.09695](http://arxiv.org/abs/2507.09695)|null|
+|**2025-07-11**|**Fixed-Confidence Multiple Change Point Identification under Bandit Feedback**|Joseph Lazzaro et.al.|[2507.08994](http://arxiv.org/abs/2507.08994)|null|
 |**2025-07-11**|**Constraining the survival of HCN during cometary impacts**|Catriona H. McDonald et.al.|[2507.08727](http://arxiv.org/abs/2507.08727)|null|
 |**2025-07-11**|**Ionization Energy of Rb $_2$ by electric field-ionization of molecular Rydberg states**|Manuel Alejandro Lefrán Torres et.al.|[2507.08634](http://arxiv.org/abs/2507.08634)|null|
 |**2025-07-11**|**A Survey of Large Language Models in Discipline-specific Research: Challenges, Methods and Opportunities**|Lu Xiang et.al.|[2507.08425](http://arxiv.org/abs/2507.08425)|null|
