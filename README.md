@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**KisMATH: Do LLMs Have Knowledge of Implicit Structures in Mathematical Reasoning?**|Soumadeep Saha et.al.|[2507.11408](http://arxiv.org/abs/2507.11408)|null|
 |**2025-07-11**|**The AI Language Proficiency Monitor -- Tracking the Progress of LLMs on Multilingual Benchmarks**|David Pomerenke et.al.|[2507.08538](http://arxiv.org/abs/2507.08538)|null|
 |**2025-07-10**|**TruthTorchLM: A Comprehensive Library for Predicting Truthfulness in LLM Outputs**|Duygu Nur Yaldiz et.al.|[2507.08203](http://arxiv.org/abs/2507.08203)|null|
 |**2025-07-10**|**PLAN-TUNING: Post-Training Language Models to Learn Step-by-Step Planning for Complex Problem Solving**|Mihir Parmar et.al.|[2507.07495](http://arxiv.org/abs/2507.07495)|null|
@@ -454,6 +455,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Omnisoot: an object-oriented process design package for gas-phase synthesis of carbonaceous nanoparticles**|Mohammad Adib et.al.|[2507.10879](http://arxiv.org/abs/2507.10879)|null|
 |**2025-07-14**|**Modeling Atmospheric Alteration on Titan: Hydrodynamics and Shock-Induced Chemistry of Meteoroid Entry**|Ryushi Miyayama et.al.|[2507.10369](http://arxiv.org/abs/2507.10369)|null|
 |**2025-07-14**|**Practical Crystallography with a Transmission Electron Microscope**|Benjamin L. Weare et.al.|[2507.10247](http://arxiv.org/abs/2507.10247)|null|
 |**2025-07-14**|**Cometary ion dynamics at 67P: A collisional test-particle approach with Rosetta data comparison**|Zoe Lewis et.al.|[2507.10110](http://arxiv.org/abs/2507.10110)|null|
