@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Math Reasoning
@@ -453,7 +453,7 @@ layout: default
 |**2025-07-14**|**Cometary ion dynamics at 67P: A collisional test-particle approach with Rosetta data comparison**|Zoe Lewis et.al.|[2507.10110](http://arxiv.org/abs/2507.10110)|null|
 |**2025-07-14**|**Cavity Born-Oppenheimer Coupled Cluster Theory: Towards Electron Correlation in the Vibrational Strong Light-Matter Coupling Regime**|Eric W. Fischer et.al.|[2507.10100](http://arxiv.org/abs/2507.10100)|null|
 |**2025-07-14**|**Weak Detonations Revisited: Uncovering Its General Nature Using Autoignitive Reaction Wave Concept**|Youhi Morii et.al.|[2507.10022](http://arxiv.org/abs/2507.10022)|null|
-|**2025-07-14**|**VerifyBench: A Systematic Benchmark for Evaluating Reasoning Verifiers Across Domains**|Xuzhao Li et.al.|[2507.09884](http://arxiv.org/abs/2507.09884)|null|
+|**2025-07-15**|**VerifyBench: A Systematic Benchmark for Evaluating Reasoning Verifiers Across Domains**|Xuzhao Li et.al.|[2507.09884](http://arxiv.org/abs/2507.09884)|null|
 |**2025-07-13**|**Efficient Molecular Conformer Generation with SO(3)-Averaged Flow Matching and Reflow**|Zhonglin Cao et.al.|[2507.09785](http://arxiv.org/abs/2507.09785)|null|
 |**2025-07-13**|**Designing quantum chemistry algorithms with Just-In-Time compilation**|Xiaojie Wu et.al.|[2507.09772](http://arxiv.org/abs/2507.09772)|null|
 |**2025-07-13**|**Accelerated Hydrogen Exchange Reaction in a Dark Cavity: A Benchmark for Bridging the Gap Between Theory and Experiment**|Victor Berenstein et.al.|[2507.09695](http://arxiv.org/abs/2507.09695)|null|
