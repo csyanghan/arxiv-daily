@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**ROC-n-reroll: How verifier imperfection affects test-time scaling**|Florian E. Dorner et.al.|[2507.12399](http://arxiv.org/abs/2507.12399)|null|
+|**2025-07-16**|**Probing for Arithmetic Errors in Language Models**|Yucheng Sun et.al.|[2507.12379](http://arxiv.org/abs/2507.12379)|null|
+|**2025-07-16**|**Findings of MEGA: Maths Explanation with LLMs using the Socratic Method for Active Learning**|Tosin Adewumi et.al.|[2507.12079](http://arxiv.org/abs/2507.12079)|null|
+|**2025-07-16**|**DAC: A Dynamic Attention-aware Approach for Task-Agnostic Prompt Compression**|Yi Zhao et.al.|[2507.11942](http://arxiv.org/abs/2507.11942)|null|
 |**2025-07-15**|**KisMATH: Do LLMs Have Knowledge of Implicit Structures in Mathematical Reasoning?**|Soumadeep Saha et.al.|[2507.11408](http://arxiv.org/abs/2507.11408)|null|
 |**2025-07-11**|**The AI Language Proficiency Monitor -- Tracking the Progress of LLMs on Multilingual Benchmarks**|David Pomerenke et.al.|[2507.08538](http://arxiv.org/abs/2507.08538)|null|
 |**2025-07-10**|**TruthTorchLM: A Comprehensive Library for Predicting Truthfulness in LLM Outputs**|Duygu Nur Yaldiz et.al.|[2507.08203](http://arxiv.org/abs/2507.08203)|null|
@@ -449,6 +453,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**The role of young and evolved stars in the heating of dust in local galaxies**|Vidhi Tailor et.al.|[2507.12275](http://arxiv.org/abs/2507.12275)|null|
+|**2025-07-16**|**Panchromatic characterization of the Y0 brown dwarf WISEP J173835.52+273258.9 using JWST/MIRI**|Malavika Vasist et.al.|[2507.12264](http://arxiv.org/abs/2507.12264)|null|
+|**2025-07-16**|**What are we talking about when we discuss the Born-Oppenheimer approximation?**|Olimpia Lombardi et.al.|[2507.12223](http://arxiv.org/abs/2507.12223)|null|
+|**2025-07-16**|**Numerical analysis of controlled droplet formation surrounded by shear-thinning fluid in a co-flow microfluidic device**|Manohar Jammula et.al.|[2507.11917](http://arxiv.org/abs/2507.11917)|null|
+|**2025-07-16**|**MOFSimBench: Evaluating Universal Machine Learning Interatomic Potentials In Metal--Organic Framework Molecular Modeling**|Hendrik Kraß et.al.|[2507.11806](http://arxiv.org/abs/2507.11806)|null|
+|**2025-07-15**|**High-throughput computational framework for lattice dynamics and thermal transport including high-order anharmonicity: an application to cubic and tetragonal inorganic compounds**|Zhi Li et.al.|[2507.11750](http://arxiv.org/abs/2507.11750)|null|
+|**2025-07-15**|**Chemical transformation of CO in evolving protoplanetary discs across stellar masses: a route to C-rich inner regions**|Andrew D. Sellek et.al.|[2507.11631](http://arxiv.org/abs/2507.11631)|null|
 |**2025-07-15**|**Omnisoot: an object-oriented process design package for gas-phase synthesis of carbonaceous nanoparticles**|Mohammad Adib et.al.|[2507.10879](http://arxiv.org/abs/2507.10879)|null|
 |**2025-07-14**|**Modeling Atmospheric Alteration on Titan: Hydrodynamics and Shock-Induced Chemistry of Meteoroid Entry**|Ryushi Miyayama et.al.|[2507.10369](http://arxiv.org/abs/2507.10369)|null|
 |**2025-07-14**|**Practical Crystallography with a Transmission Electron Microscope**|Benjamin L. Weare et.al.|[2507.10247](http://arxiv.org/abs/2507.10247)|null|
