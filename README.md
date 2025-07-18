@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**QuestA: Expanding Reasoning Capacity in LLMs via Question Augmentation**|Jiazheng Li et.al.|[2507.13266](http://arxiv.org/abs/2507.13266)|null|
+|**2025-07-17**|**GEMMAS: Graph-based Evaluation Metrics for Multi Agent Systems**|Jisoo Lee et.al.|[2507.13190](http://arxiv.org/abs/2507.13190)|null|
 |**2025-07-16**|**ROC-n-reroll: How verifier imperfection affects test-time scaling**|Florian E. Dorner et.al.|[2507.12399](http://arxiv.org/abs/2507.12399)|null|
 |**2025-07-16**|**Probing for Arithmetic Errors in Language Models**|Yucheng Sun et.al.|[2507.12379](http://arxiv.org/abs/2507.12379)|null|
 |**2025-07-16**|**Findings of MEGA: Maths Explanation with LLMs using the Socratic Method for Active Learning**|Tosin Adewumi et.al.|[2507.12079](http://arxiv.org/abs/2507.12079)|null|
@@ -459,6 +461,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**Plasmonic Color Filters Enable Label-Free Plasmon-Enhanced Array Tomography with sub-diffraction limited resolution**|Kristian Caracciolo et.al.|[2507.12786](http://arxiv.org/abs/2507.12786)|null|
+|**2025-07-16**|**Self-learning Monte Carlo Method: A Review**|Gaopei Pan et.al.|[2507.12554](http://arxiv.org/abs/2507.12554)|null|
 |**2025-07-16**|**The role of young and evolved stars in the heating of dust in local galaxies**|Vidhi Tailor et.al.|[2507.12275](http://arxiv.org/abs/2507.12275)|null|
 |**2025-07-16**|**Panchromatic characterization of the Y0 brown dwarf WISEP J173835.52+273258.9 using JWST/MIRI**|Malavika Vasist et.al.|[2507.12264](http://arxiv.org/abs/2507.12264)|null|
 |**2025-07-16**|**What are we talking about when we discuss the Born-Oppenheimer approximation?**|Olimpia Lombardi et.al.|[2507.12223](http://arxiv.org/abs/2507.12223)|null|
