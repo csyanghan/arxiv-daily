@@ -455,6 +455,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**ChemLog: Making MSOL Viable for Ontological Classification and Learning**|Simon Flügel et.al.|[2507.13987](http://arxiv.org/abs/2507.13987)|null|
+|**2025-07-18**|**Harnessing multi-mode optical structure for chemical reactivity**|Yaling Ke et.al.|[2507.13897](http://arxiv.org/abs/2507.13897)|null|
+|**2025-07-18**|**Enhancing Coherence with a Clock Transition and Dynamical Decoupling in the Cr $_7$ Mn Molecular Nanomagnet**|Guanchu Chen et.al.|[2507.13714](http://arxiv.org/abs/2507.13714)|null|
+|**2025-07-18**|**Spectral Theory of Hypergraphs: A Survey**|Shashwath S Shetty et.al.|[2507.13664](http://arxiv.org/abs/2507.13664)|null|
 |**2025-07-17**|**Plasmonic Color Filters Enable Label-Free Plasmon-Enhanced Array Tomography with sub-diffraction limited resolution**|Kristian Caracciolo et.al.|[2507.12786](http://arxiv.org/abs/2507.12786)|null|
 |**2025-07-16**|**Self-learning Monte Carlo Method: A Review**|Gaopei Pan et.al.|[2507.12554](http://arxiv.org/abs/2507.12554)|null|
 |**2025-07-16**|**The role of young and evolved stars in the heating of dust in local galaxies**|Vidhi Tailor et.al.|[2507.12275](http://arxiv.org/abs/2507.12275)|null|
