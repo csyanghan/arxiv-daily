@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**The Impact of Language Mixing on Bilingual LLM Reasoning**|Yihao Li et.al.|[2507.15849](http://arxiv.org/abs/2507.15849)|null|
+|**2025-07-21**|**P3: Prompts Promote Prompting**|Xinyu Zhang et.al.|[2507.15675](http://arxiv.org/abs/2507.15675)|null|
+|**2025-07-21**|**Data Mixing Agent: Learning to Re-weight Domains for Continual Pre-training**|Kailai Yang et.al.|[2507.15640](http://arxiv.org/abs/2507.15640)|null|
+|**2025-07-21**|**Efficient Routing of Inference Requests across LLM Instances in Cloud-Edge Computing**|Shibo Yu et.al.|[2507.15553](http://arxiv.org/abs/2507.15553)|null|
+|**2025-07-21**|**STITCH: Simultaneous Thinking and Talking with Chunked Reasoning for Spoken Language Models**|Cheng-Han Chiang et.al.|[2507.15375](http://arxiv.org/abs/2507.15375)|null|
+|**2025-07-19**|**MiroMind-M1: An Open-Source Advancement in Mathematical Reasoning via Context-Aware Multi-Stage Policy Optimization**|Xingxuan Li et.al.|[2507.14683](http://arxiv.org/abs/2507.14683)|null|
 |**2025-07-17**|**QuestA: Expanding Reasoning Capacity in LLMs via Question Augmentation**|Jiazheng Li et.al.|[2507.13266](http://arxiv.org/abs/2507.13266)|null|
 |**2025-07-17**|**GEMMAS: Graph-based Evaluation Metrics for Multi Agent Systems**|Jisoo Lee et.al.|[2507.13190](http://arxiv.org/abs/2507.13190)|null|
 |**2025-07-16**|**ROC-n-reroll: How verifier imperfection affects test-time scaling**|Florian E. Dorner et.al.|[2507.12399](http://arxiv.org/abs/2507.12399)|null|
@@ -461,6 +467,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Planted Solutions in Quantum Chemistry: Generating Non-Trivial Hamiltonians with Known Ground States**|Linjun Wang et.al.|[2507.15166](http://arxiv.org/abs/2507.15166)|null|
+|**2025-07-20**|**Ground and excited-state energies with analytic errors and short time evolution on a quantum computer**|Timothy Stroschein et.al.|[2507.15148](http://arxiv.org/abs/2507.15148)|null|
+|**2025-07-20**|**Unraveling the non-equilibrium chemistry of the temperate sub-Neptune K2-18 b**|A. Y. Jaziri et.al.|[2507.14983](http://arxiv.org/abs/2507.14983)|null|
+|**2025-07-20**|**A second-order generalized BDF method for the two-dimensional (modified) Fisher-Kolmogorov-Petrovsky-Piskunov equation**|Lei Ge et.al.|[2507.14939](http://arxiv.org/abs/2507.14939)|null|
+|**2025-07-20**|**Quantum sensing of Lanthandie binding tags with relaxometer of NV center in diamond**|Zibo Gao et.al.|[2507.14886](http://arxiv.org/abs/2507.14886)|null|
+|**2025-07-20**|**Simultaneous determination of multiple low-energy eigenstates of many-body systems on a superconducting quantum processor**|Huili Zhang et.al.|[2507.14880](http://arxiv.org/abs/2507.14880)|null|
+|**2025-07-20**|**Thermodynamically Consistent Modeling and Stable ALE Approximations of Reactive Semi-Permeable Interfaces**|Weidong Shi et.al.|[2507.14774](http://arxiv.org/abs/2507.14774)|null|
+|**2025-07-19**|**Electron impact ro-vibrational transitions and dissociative recombination of H2+ and HD+: Rate coefficients and astrophysical implications**|Riyad Hassaine et.al.|[2507.14602](http://arxiv.org/abs/2507.14602)|null|
+|**2025-07-18**|**MENO: Hybrid Matrix Exponential-based Neural Operator for Stiff ODEs. Application to Thermochemical Kinetics**|Ivan Zanardi et.al.|[2507.14341](http://arxiv.org/abs/2507.14341)|null|
 |**2025-07-18**|**ChemLog: Making MSOL Viable for Ontological Classification and Learning**|Simon Flügel et.al.|[2507.13987](http://arxiv.org/abs/2507.13987)|null|
 |**2025-07-18**|**Harnessing multi-mode optical structure for chemical reactivity**|Yaling Ke et.al.|[2507.13897](http://arxiv.org/abs/2507.13897)|null|
 |**2025-07-18**|**Enhancing Coherence with a Clock Transition and Dynamical Decoupling in the Cr $_7$ Mn Molecular Nanomagnet**|Guanchu Chen et.al.|[2507.13714](http://arxiv.org/abs/2507.13714)|null|
