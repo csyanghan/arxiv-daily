@@ -461,6 +461,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Silicate mineralogy and bulk composition of exoplanetary material in polluted white dwarfs**|Laura K. Rogers et.al.|[2507.16777](http://arxiv.org/abs/2507.16777)|null|
+|**2025-07-22**|**Impact of Ethanol and Methanol on NOx Emissions in Ammonia-Methane Combustion: ReaxFF Simulations and ML-Based Extrapolation**|Amirali Shateri et.al.|[2507.16568](http://arxiv.org/abs/2507.16568)|null|
+|**2025-07-22**|**Adaptive Transition State Refinement with Learned Equilibrium Flows**|Samir Darouich et.al.|[2507.16521](http://arxiv.org/abs/2507.16521)|null|
+|**2025-07-22**|**Elucidating the impact of point defects on the structural, electronic, and mechanical behaviour of chromium nitride**|Barsha Bhattacharjee et.al.|[2507.16312](http://arxiv.org/abs/2507.16312)|null|
+|**2025-07-22**|**Stability by Design: Atomistic Insights into Hydrolysis-Driven MOF Degradation**|Ashok Yacham et.al.|[2507.16197](http://arxiv.org/abs/2507.16197)|null|
+|**2025-07-21**|**Molecules and Chemistry in Red Supergiants**|Lucy M. Ziurys et.al.|[2507.15968](http://arxiv.org/abs/2507.15968)|null|
 |**2025-07-21**|**Planted Solutions in Quantum Chemistry: Generating Non-Trivial Hamiltonians with Known Ground States**|Linjun Wang et.al.|[2507.15166](http://arxiv.org/abs/2507.15166)|null|
 |**2025-07-20**|**Ground and excited-state energies with analytic errors and short time evolution on a quantum computer**|Timothy Stroschein et.al.|[2507.15148](http://arxiv.org/abs/2507.15148)|null|
 |**2025-07-20**|**Unraveling the non-equilibrium chemistry of the temperate sub-Neptune K2-18 b**|A. Y. Jaziri et.al.|[2507.14983](http://arxiv.org/abs/2507.14983)|null|
