@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**MultiNRC: A Challenging and Native Multilingual Reasoning Evaluation Benchmark for LLMs**|Alexander R. Fabbri et.al.|[2507.17476](http://arxiv.org/abs/2507.17476)|null|
+|**2025-07-23**|**R-Stitch: Dynamic Trajectory Stitching for Efficient Reasoning**|Zhuokun Chen et.al.|[2507.17307](http://arxiv.org/abs/2507.17307)|null|
 |**2025-07-21**|**The Impact of Language Mixing on Bilingual LLM Reasoning**|Yihao Li et.al.|[2507.15849](http://arxiv.org/abs/2507.15849)|null|
 |**2025-07-21**|**P3: Prompts Promote Prompting**|Xinyu Zhang et.al.|[2507.15675](http://arxiv.org/abs/2507.15675)|null|
 |**2025-07-21**|**Data Mixing Agent: Learning to Re-weight Domains for Continual Pre-training**|Kailai Yang et.al.|[2507.15640](http://arxiv.org/abs/2507.15640)|null|
@@ -461,6 +463,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Fine-tuning the complex organic molecule formation: sulfur and CO ice as regulators of surface chemistry**|D. Navarro-Almaida et.al.|[2507.17595](http://arxiv.org/abs/2507.17595)|null|
+|**2025-07-23**|**Single-photon loading of polar molecules into an optical trap**|Bart J. Schellenberg et.al.|[2507.17521](http://arxiv.org/abs/2507.17521)|null|
+|**2025-07-22**|**Ionic photofragmentation cross sections of the HS+ H2S+ and HCl+ molecular ions near the 2p threshold**|Jean-Paul Mosnier et.al.|[2507.16993](http://arxiv.org/abs/2507.16993)|null|
+|**2025-07-22**|**Enhancing Mars Life Explorer (MLE) with True Agnostic Life Detection Capabilities**|Gabriella Rizzo et.al.|[2507.16866](http://arxiv.org/abs/2507.16866)|null|
 |**2025-07-22**|**Silicate mineralogy and bulk composition of exoplanetary material in polluted white dwarfs**|Laura K. Rogers et.al.|[2507.16777](http://arxiv.org/abs/2507.16777)|null|
 |**2025-07-22**|**Impact of Ethanol and Methanol on NOx Emissions in Ammonia-Methane Combustion: ReaxFF Simulations and ML-Based Extrapolation**|Amirali Shateri et.al.|[2507.16568](http://arxiv.org/abs/2507.16568)|null|
 |**2025-07-22**|**Adaptive Transition State Refinement with Learned Equilibrium Flows**|Samir Darouich et.al.|[2507.16521](http://arxiv.org/abs/2507.16521)|null|
