@@ -6,6 +6,7 @@ import requests
 import datetime
 from bs4 import BeautifulSoup
 from openai import OpenAI
+import logging
 
 # 配置 - 固定值
 LIST_URL = "https://arxiv.org/list/cs/new"
@@ -13,6 +14,11 @@ TOPICS = ["化学大模型", "质谱结构推理"]
 MODEL = "deepseek-chat"
 HISTORY_PATH = "data/history.json"
 OUTPUT_FILE = "README.md"
+
+logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
+                    datefmt='%m/%d/%Y %H:%M:%S',
+                    level=logging.INFO)
+
 
 def normalize_whitespace(text):
     """清理空白字符"""
@@ -36,7 +42,7 @@ def parse_submitted_date(raw_line):
 
 def fetch_papers():
     """抓取arxiv论文列表"""
-    print(f"正在抓取: {LIST_URL}")
+    logging.info(f"正在抓取: {LIST_URL}")
     resp = requests.get(LIST_URL, timeout=30)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
@@ -81,7 +87,7 @@ def fetch_papers():
             "submitted": submitted
         })
     
-    print(f"抓取到 {len(papers)} 篇论文")
+    logging.info(f"抓取到 {len(papers)} 篇论文")
     return papers
 
 def analyze_papers(papers):
@@ -147,7 +153,7 @@ def analyze_papers(papers):
         # 调用API（带重试）
         for attempt in range(3):
             try:
-                print(f"正在分析第 {i//chunk_size + 1}/{(len(papers)-1)//chunk_size + 1} 批，共 {len(chunk)} 篇...")
+                logging.info(f"正在分析第 {i//chunk_size + 1}/{(len(papers)-1)//chunk_size + 1} 批，共 {len(chunk)} 篇...")
                 
                 response = client.chat.completions.create(
                     model=MODEL,
@@ -172,18 +178,18 @@ def analyze_papers(papers):
                     
                     # 简单检查：如果选中比例过低，提醒但继续
                     if len(results) == 0 and len(chunk) > 10:
-                        print(f"ℹ️ 提示：此批次未选中任何论文")
+                        logging.info(f"ℹ️ 提示：此批次未选中任何论文")
                     
                     all_results.extend(results)
-                    print(f"✅ 此批次筛选出 {len(results)} 篇相关论文")
+                    logging.info(f"✅ 此批次筛选出 {len(results)} 篇相关论文")
                     break
                 else:
-                    print("无法解析模型输出")
+                    logging.info("无法解析模型输出")
                     
             except Exception as e:
-                print(f"调用失败 (尝试 {attempt+1}/3): {e}")
+                logging.error(f"调用失败 (尝试 {attempt+1}/3): {e}")
                 if attempt == 2:
-                    print(f"跳过此批次")
+                    logging.info(f"跳过此批次")
                 else:
                     time.sleep(2 ** attempt)
     
@@ -195,7 +201,7 @@ def analyze_papers(papers):
             seen_ids.add(r["arxiv_id"])
             unique_results.append(r)
     
-    print(f"\n📊 筛选完成，总共找到 {len(unique_results)} 篇相关论文")
+    logging.info(f"\n📊 筛选完成，总共找到 {len(unique_results)} 篇相关论文")
     return unique_results        
 
 def load_history():
@@ -205,9 +211,9 @@ def load_history():
         try:
             with open(HISTORY_PATH, "r", encoding="utf-8") as f:
                 history = json.load(f)
-            print(f"加载历史记录，共 {len(history)} 天")
+            logging.info(f"加载历史记录，共 {len(history)} 天")
         except:
-            print("历史文件不存在或损坏，创建新的历史记录")
+            logging.error("历史文件不存在或损坏，创建新的历史记录")
     return history
 
 def save_history(history):
@@ -219,7 +225,7 @@ def save_history(history):
     with open(HISTORY_PATH, "w", encoding="utf-8") as f:
         json.dump(history, f, ensure_ascii=False, indent=2)
     
-    print(f"历史记录已保存到 {HISTORY_PATH}")
+    logging.info(f"历史记录已保存到 {HISTORY_PATH}")
 
 def generate_readme(today_papers):
     """生成README，当天最新的内容插入到最前面"""
@@ -232,9 +238,9 @@ def generate_readme(today_papers):
         try:
             with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
                 existing_content = f.read()
-            print("读取现有 README 文件")
+            logging.info("读取现有 README 文件")
         except Exception as e:
-            print(f"读取现有 README 失败: {e}")
+            logging.error(f"读取现有 README 失败: {e}")
     
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         # 写入标题和更新时间（始终保留在最上面）
@@ -329,14 +335,14 @@ def generate_readme(today_papers):
             f.write("## 📝 历史记录\n\n")
             f.write("> 暂无历史数据\n\n")
     
-    print(f"README 已更新，今日添加 {len(today_papers)} 篇论文")
+    logging.info(f"README 已更新，今日添加 {len(today_papers)} 篇论文")
 
 def main():
     """主函数"""
     try:
-        print("="*50)
-        print("开始抓取 arXiv 论文")
-        print("="*50)
+        logging.info("="*50)
+        logging.info("开始抓取 arXiv 论文")
+        logging.info("="*50)
         
         # 1. 加载历史记录
         history = load_history()
@@ -346,7 +352,7 @@ def main():
 
         # papers = papers[:100]  # 取前100篇，避免过多无关论文干扰分析
 
-        print(f"抓取到 {len(papers)} 篇论文，准备分析...")
+        logging.info(f"抓取到 {len(papers)} 篇论文，准备分析...")
         
         # 3. 大模型分析
         results = analyze_papers(papers)
@@ -371,16 +377,16 @@ def main():
         # 6. 生成README（最新的在上面）
         generate_readme(today_papers)
         
-        print("="*50)
-        print(f"✅ 运行完成！")
-        print(f"📊 今日抓取: {len(papers)} 篇")
-        print(f"🎯 今日相关: {len(today_papers)} 篇")
-        print(f"📚 累计天数: {len(history)} 天")
-        print(f"📝 README 已更新")
-        print("="*50)
+        logging.info("="*50)
+        logging.info(f"✅ 运行完成！")
+        logging.info(f"📊 今日抓取: {len(papers)} 篇")
+        logging.info(f"🎯 今日相关: {len(today_papers)} 篇")
+        logging.info(f"📚 累计天数: {len(history)} 天")
+        logging.info(f"📝 README 已更新")
+        logging.info("="*50)
         
     except Exception as e:
-        print(f"❌ 运行失败: {e}")
+        logging.error(f"❌ 运行失败: {e}")
         raise
 
 if __name__ == "__main__":
