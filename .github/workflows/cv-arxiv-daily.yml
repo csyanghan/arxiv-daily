@@ -43,8 +43,12 @@ jobs:
           pip install arxiv
           pip install requests
           pip install pyyaml
+          pip install openai
+          pip install beautifulsoup4
           
-      - name: Run daily arxiv 
+      - name: Run daily arxiv
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
         run: |
           python daily_arxiv.py
           
