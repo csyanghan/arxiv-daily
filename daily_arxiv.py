@@ -344,7 +344,7 @@ def main():
         # 2. 抓取论文
         papers = fetch_papers()
 
-        papers = papers[:100]  # 取前100篇，避免过多无关论文干扰分析
+        # papers = papers[:100]  # 取前100篇，避免过多无关论文干扰分析
 
         print(f"抓取到 {len(papers)} 篇论文，准备分析...")
         
