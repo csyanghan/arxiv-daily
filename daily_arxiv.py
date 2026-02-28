@@ -110,6 +110,7 @@ def analyze_papers(papers):
     all_results = []
     
     for i in range(0, len(papers), chunk_size):
+        time.sleep(3)
         chunk = papers[i:i+chunk_size]
         
         # 准备数据
