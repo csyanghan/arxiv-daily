@@ -3,13 +3,363 @@
 > 每天自动更新，关注 **化学大模型, 质谱结构推理** 相关的最新论文
 
 ## 更新时间
-⏰ 2026-03-22 12:36:59
+⏰ 2026-03-23 01:28:45
 
-## 📅 2026-03-22 (今日最新)
+## 📅 2026-03-23 (今日最新)
 
-**相关论文数：69**
+**相关论文数：88**
 
-### 1. [MolRGen: A Training and Evaluation Setting for De Novo Molecular Generation with Reasonning Models](https://arxiv.org/abs/2603.18256)
+### 1. [InfoMamba: An Attention-Free Hybrid Mamba-Transformer Model](https://arxiv.org/abs/2603.18031)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.18031`](https://arxiv.org/abs/2603.18031)
+- 👥 作者: Youjin Wang, Jiaqiao Zhao, Rong Fu 等8人
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18031.pdf)
+
+**💡 相关性分析**
+
+满足标准1：论文提出的InfoMamba混合架构（结合SSM与全局接口）为构建高效、可扩展的化学大模型（如用于分子序列或光谱序列建模）提供了核心的技术思路和模型设计范例。
+
+**📖 中文摘要**
+
+本文提出了InfoMamba，一种无需注意力的混合Mamba-Transformer模型，旨在解决序列建模中细粒度局部建模与长程依赖捕获的平衡问题。该模型用概念瓶颈线性过滤层替代了token级别的自注意力，并通过信息最大化融合（IMF）将其与选择性循环流集成。虽然论文主要关注通用序列建模任务（如分类、密集预测），但其核心架构创新——结合状态空间模型（SSM）与全局接口——为构建高效的化学大模型（例如用于分子序列或光谱序列建模）提供了有前景的技术路径。该工作满足标准1，因为它提出的混合架构是构建高效、可扩展化学大模型的一种潜在核心方法。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+Balancing fine-grained local modeling with long-range dependency capture under computational constraints remains a central challenge in sequence modeling. While Transformers provide strong token mixing, they suffer from quadratic complexity, whereas Mamba-style selective state-space models (SSMs) scale linearly but often struggle to capture high-rank and synchronous global interactions. We present a consistency boundary analysis that characterizes when diagonal short-memory SSMs can approximate causal attention and identifies structural gaps that remain. Motivated by this analysis, we propose InfoMamba, an attention-free hybrid architecture. InfoMamba replaces token-level self-attention with a concept bottleneck linear filtering layer that serves as a minimal-bandwidth global interface and integrates it with a selective recurrent stream through information-maximizing fusion (IMF). IMF dynamically injects global context into the SSM dynamics and encourages complementary information usage through a mutual-information-inspired objective. Extensive experiments on classification, dense prediction, and non-vision tasks show that InfoMamba consistently outperforms strong Transformer and SSM baselines, achieving competitive accuracy-efficiency trade-offs while maintaining near-linear scaling.
+
+</details>
+
+---
+
+### 2. [Adapting Methods for Domain-Specific Japanese Small LMs: Scale, Architecture, and Quantization](https://arxiv.org/abs/2603.18037)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.18037`](https://arxiv.org/abs/2603.18037)
+- 👥 作者: Takato Yasuno
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18037.pdf)
+
+**💡 相关性分析**
+
+满足标准1：论文提出的构建领域特定小语言模型的系统性方法论（包括规模确定、模型选择和量化）可直接应用于化学信息学领域，为构建专业、高效的化学大模型提供了可操作的指导框架。
+
+**📖 中文摘要**
+
+本文提出了一种系统性的方法，使用QLoRA微调来构建领域特定的日语小语言模型。研究探讨了三个核心问题：最佳训练规模、基础模型选择和架构感知量化。虽然论文以日语领域为例，但其方法论（包括规模学习实验、模型比较和量化策略）具有普适性。该框架为在化学信息学等低资源技术领域构建专业、紧凑的化学大模型（例如用于解析日语化学文献或生成特定领域文本）提供了可操作的指导。论文满足标准1，因为它为构建领域特定（可引申至化学领域）的语言模型提供了系统的方法论。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+This paper presents a systematic methodology for building domain-specific Japanese small language models using QLoRA fine-tuning. We address three core questions: optimal training scale, base-model selection, and architecture-aware quantization. Stage 1 (Training scale): Scale-learning experiments (1k--5k samples) identify n=4,000 as optimal, where test-set NLL reaches minimum (1.127) before overfitting at 5k samples. Stage 2 (Compare finetuned SLMs): Comparing four Japanese LLMs shows that Llama-3 models with Japanese continual pre-training (Swallow-8B, ELYZA-JP-8B) outperform multilingual models (Qwen2.5-7B). Stage 3 (Quantization): Llama-3 architectures improve under Q4_K_M quantization, while GQA architectures degrade severely (Qwen2.5: -0.280 points). Production recommendation: Swallow-8B Q4_K_M achieves 2.830/3 score, 8.9 s/question, 4.9 GB size. The methodology generalizes to low-resource technical domains and provides actionable guidance for compact Japanese specialist LMs on consumer hardware.
+
+</details>
+
+---
+
+### 3. [Continually self-improving AI](https://arxiv.org/abs/2603.18073)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.18073`](https://arxiv.org/abs/2603.18073)
+- 👥 作者: Zitong Yang
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18073.pdf)
+
+**💡 相关性分析**
+
+满足标准1：论文的核心研究内容（持续自我改进的AI、合成数据增强、算法空间搜索）直接围绕如何构建和进化更强大的大模型，这些思路对于克服化学大模型面临的数据稀缺、知识获取和算法创新等挑战具有核心指导意义。
+
+**📖 中文摘要**
+
+本文探讨了实现持续自我改进AI的愿景，旨在突破当前语言模型在数据效率、人类数据依赖和训练算法方面的限制。论文提出了三个章节：1）使用合成数据方法从小型语料库中高效获取知识；2）利用固定的人类数据自生成合成数据以引导基础预训练能力；3）通过在算法空间进行测试时搜索，超越人类设计的训练范式。这些研究方向与“化学大模型”的主题高度相关，因为化学领域同样面临高质量数据稀缺、领域知识获取效率低以及需要探索超越人类设计的新型分子生成或性质预测算法等挑战。该工作为化学大模型的持续学习和自我进化提供了前瞻性的研究思路。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+Modern language model-based AI systems are remarkably powerful, yet their capabilities remain fundamentally capped by their human creators in three key ways. First, although a model's weights can be updated via fine-tuning, acquiring new knowledge from small, specialized corpora after pretraining remains highly data-inefficient. Second, the training of these systems relies heavily on finite, human-generated data from across history. Third, the pipelines used to train AI models are confined by the algorithms that human researchers can discover and explore. This thesis takes a small step toward overcoming these inherent limitations, presenting three chapters aimed at breaking these dependencies to create continually self-improving AI. First, to overcome this data-efficiency barrier in knowledge acquisition, we propose a synthetic data approach that diversifies and amplifies small corpora into rich knowledge representations, enabling a model to effectively update its parameters from limited source material. Second, to reduce reliance on human data, we show that given a fixed amount of such data, the model can self-generate synthetic data to bootstrap its fundamental pretraining capabilities without distillation from any off-the-shelf, instruction-tuned LM. Finally, to transcend human-engineered training paradigms, we demonstrate that by scaling search during test time over the space of algorithms, AI can search over a larger space of learning algorithm configurations than human researchers can explore manually.
+
+</details>
+
+---
+
+### 4. [Lightweight Adaptation for LLM-based Technical Service Agent: Latent Logic Augmentation and Robust Noise Reduction](https://arxiv.org/abs/2603.18074)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.18074`](https://arxiv.org/abs/2603.18074)
+- 👥 作者: Yi Yu, Junzhuo Ma, Chenghuang Shen 等18人
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18074.pdf)
+
+**💡 相关性分析**
+
+满足标准1：论文提出的轻量级适配框架（潜在逻辑增强、噪声减少、混合奖励）为解决化学大模型在复杂化学任务（如实验规划、结构推理）中进行领域特定微调时面临的监督模糊、决策逻辑不透明和训练效率问题提供了直接相关的技术方案。
+
+**📖 中文摘要**
+
+本文提出了一个用于技术服务领域大语言模型轻量级适配的框架，以解决人类演示中缺乏显式认知链和有效响应多样性导致的模糊性问题。框架包含三个关键贡献：潜在逻辑增强、鲁棒噪声减少和轻量级适配（混合奖励机制）。虽然应用场景是云服务，但其解决的核心问题——如何让大模型在复杂、模糊的领域任务中内化潜在决策逻辑并实现高效、稳定的对齐——与“化学大模型”的领域适配需求高度一致。例如，让化学大模型学习复杂的实验操作流程或结构解析规则时，同样面临监督信号不明确和响应多样性问题。该框架为化学大模型的领域微调提供了可行的技术方案。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+Adapting Large Language Models in complex technical service domains is constrained by the absence of explicit cognitive chains in human demonstrations and the inherent ambiguity arising from the diversity of valid responses. These limitations severely hinder agents from internalizing latent decision dynamics and generalizing effectively. Moreover, practical adaptation is often impeded by the prohibitive resource and time costs associated with standard training paradigms. To overcome these challenges and guarantee computational efficiency, we propose a lightweight adaptation framework comprising three key contributions. (1) Latent Logic Augmentation: We introduce Planning-Aware Trajectory Modeling and Decision Reasoning Augmentation to bridge the gap between surface-level supervision and latent decision logic. These approaches strengthen the stability of Supervised Fine-Tuning alignment. (2) Robust Noise Reduction: We construct a Multiple Ground Truths dataset through a dual-filtering method to reduce the noise by validating diverse responses, thereby capturing the semantic diversity. (3) Lightweight Adaptation: We design a Hybrid Reward mechanism that fuses an LLM-based judge with a lightweight relevance-based Reranker to distill high-fidelity reward signals while reducing the computational cost compared to standard LLM-as-a-Judge reinforcement learning. Empirical evaluations on real-world Cloud service tasks, conducted across semantically diverse settings, demonstrate that our framework achieves stability and performance gains through Latent Logic Augmentation and Robust Noise Reduction. Concurrently, our Hybrid Reward mechanism achieves alignment comparable to standard LLM-as-a-judge methods with reduced training time, underscoring the practical value for deploying technical service agents.
+
+</details>
+
+---
+
+### 5. [CytoSyn: a Foundation Diffusion Model for Histopathology -- Tech Report](https://arxiv.org/abs/2603.18089)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.18089`](https://arxiv.org/abs/2603.18089)
+- 👥 作者: Thomas Duboudin, Xavier Fontaine, Etienne Andrier 等10人
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18089.pdf)
+
+**💡 相关性分析**
+
+满足标准1：论文的核心工作是构建一个面向特定科学领域（组织病理学）的生成式基础模型。这为在化学领域构建类似的生成式大模型（如用于分子、反应或光谱生成）提供了直接相关的技术范例、训练方法和评估基准。
+
+**📖 中文摘要**
+
+本文介绍了CytoSyn，一个用于组织病理学的最先进基础潜在扩散模型，能够生成高度逼真和多样化的H&E染色图像。该模型在超过10,000张TCGA诊断全切片图像上训练，涵盖32种癌症类型。虽然论文聚焦于医学图像生成，但其核心贡献——构建一个针对特定科学领域（组织病理学）的大规模、高质量生成式基础模型——为“化学大模型”主题提供了一个强有力的范例。在化学领域，类似地可以构建用于生成分子结构、反应路径或光谱数据的生成式基础模型。该工作展示了如何为数据密集的科学领域构建和评估生成式大模型。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+Computational pathology has made significant progress in recent years, fueling advances in both fundamental disease understanding and clinically ready tools. This evolution is driven by the availability of large amounts of digitized slides and specialized deep learning methods and models. Multiple self-supervised foundation feature extractors have been developed, enabling downstream predictive applications from cell segmentation to tumor sub-typing and survival analysis. In contrast, generative foundation models designed specifically for histopathology remain scarce. Such models could address tasks that are beyond the capabilities of feature extractors, such as virtual staining. In this paper, we introduce CytoSyn, a state-of-the-art foundation latent diffusion model that enables the guided generation of highly realistic and diverse histopathology H&E-stained images, as shown in an extensive benchmark. We explored methodological improvements, training set scaling, sampling strategies and slide-level overfitting, culminating in the improved CytoSyn-v2, and compared our work to PixCell, a state-of-the-art model, in an in-depth manner. This comparison highlighted the strong sensitivity of both diffusion models and performance metrics to preprocessing-specific details such as JPEG compression. Our model has been trained on a dataset obtained from more than 10,000 TCGA diagnostic whole-slide images of 32 different cancer types. Despite being trained only on oncology slides, it maintains state-of-the-art performance generating inflammatory bowel disease images. To support the research community, we publicly release CytoSyn's weights, its training and validation datasets, and a sample of synthetic images in this repository: this https URL .
+
+</details>
+
+---
+
+### 6. [MOSS-TTS Technical Report](https://arxiv.org/abs/2603.18090)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.18090`](https://arxiv.org/abs/2603.18090)
+- 👥 作者: Yitian Gong, Botian Jiang, Yiwei Zhao 等26人
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18090.pdf)
+
+**💡 相关性分析**
+
+满足标准1：论文系统性地阐述了一个多模态生成式基础模型（MOSS-TTS）的完整构建方法论，包括tokenization、架构设计和训练策略。这套方法论为构建化学领域的多模态大模型（处理分子、光谱、文本）提供了直接相关的技术蓝图和设计思路。
+
+**📖 中文摘要**
+
+本技术报告介绍了MOSS-TTS，一个基于可扩展配方（离散音频token、自回归建模、大规模预训练）构建的语音生成基础模型。报告详细阐述了其设计、训练方法和经验特性。虽然主题是语音合成，但论文系统性地展示了一个“从tokenizer到生成器”的完整基础模型构建流水线，包括tokenizer设计（MOSS-Audio-Tokenizer）、模型架构选择（强调结构简单性与可扩展性的MOSS-TTS vs. 更高建模效率的MOSS-TTS-Local-Transformer）以及支持的各种控制功能。这套方法论对于构建化学领域的多模态大模型（例如，处理分子结构、光谱和文本）具有重要的参考价值，展示了如何为复杂序列数据设计和训练生成式基础模型。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+This technical report presents MOSS-TTS, a speech generation foundation model built on a scalable recipe: discrete audio tokens, autoregressive modeling, and large-scale pretraining. Built on MOSS-Audio-Tokenizer, a causal Transformer tokenizer that compresses 24 kHz audio to 12.5 fps with variable-bitrate RVQ and unified semantic-acoustic representations, we release two complementary generators: MOSS-TTS, which emphasizes structural simplicity, scalability, and long-context/control-oriented deployment, and MOSS-TTS-Local-Transformer, which introduces a frame-local autoregressive module for higher modeling efficiency, stronger speaker preservation, and a shorter time to first audio. Across multilingual and open-domain settings, MOSS-TTS supports zero-shot voice cloning, token-level duration control, phoneme-/pinyin-level pronunciation control, smooth code-switching, and stable long-form generation. This report summarizes the design, training recipe, and empirical characteristics of the released models.
+
+</details>
+
+---
+
+### 7. [Adaptive Domain Models: Bayesian Evolution, Warm Rotation, and Principled Training for Geometric and Neuromorphic AI](https://arxiv.org/abs/2603.18104)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.18104`](https://arxiv.org/abs/2603.18104)
+- 👥 作者: Houston Haynes
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18104.pdf)
+
+**💡 相关性分析**
+
+满足标准1：论文提出了一种全新的模型训练与部署架构，旨在实现高效、精确且保持领域几何结构（可引申至化学分子结构对称性）的训练。这为构建下一代高性能、低开销且具有可验证性的化学大模型提供了核心的基础设施创新思路。
+
+**📖 中文摘要**
+
+本文提出了一种名为“自适应领域模型”的替代性训练架构，旨在解决传统基于IEEE-754算术和反向模式自动微分的AI训练基础设施带来的内存开销、优化器复杂性和几何属性退化等问题。该架构结合了维度类型系统、确定性内存管理框架、程序超图和b-posit 2026算术标准，实现了深度无关的训练内存占用、保持几何等级的权重更新和精确梯度累积。论文还引入了贝叶斯蒸馏和热旋转等机制。虽然论文涉及几何和神经形态AI，但其核心贡献——一种新的、更高效、更精确且保持领域结构（如化学中的对称性）的模型训练与部署范式——与构建高性能、可验证的化学大模型高度相关。该工作为化学大模型的训练基础设施创新提供了前瞻性方向。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+Prevailing AI training infrastructure assumes reverse-mode automatic differentiation over IEEE-754 arithmetic. The memory overhead of training relative to inference, optimizer complexity, and structural degradation of geometric properties through training are consequences of this arithmetic substrate. This paper develops an alternative training architecture grounded in three prior results: the Dimensional Type System and Deterministic Memory Management framework [6], which establishes stack-eligible gradient allocation and exact quire accumulation as design-time verifiable properties; the Program Hypergraph [8], which establishes grade preservation through geometric algebra computations as a type-level invariant; and the b-posit 2026 standard [10], which makes posit arithmetic tractable across hardware targets conventionally considered inference-only. Their composition enables depth-independent training memory bounded to approximately twice the inference footprint, grade-preserving weight updates, and exact gradient accumulation, applicable uniformly to loss-function-optimized and spike-timing-dependent neuromorphic models. We introduce Bayesian distillation, a mechanism by which the latent prior structure of a general-purpose model is extracted through the ADM training regime, resolving the data-scarcity bootstrapping problem for domain-specific training. For deployment, we introduce warm rotation, an operational pattern in which an updated model transitions into an active inference pathway without service interruption, with structural correctness formalized through PHG certificates and signed version records. The result is a class of domain-specific AI systems that are smaller and more precise than general-purpose models, continuously adaptive, verifiably correct with respect to the physical structure of their domains, and initializable from existing models.
+
+</details>
+
+---
+
+### 8. [A Survey of Neural Network Variational Monte Carlo from a Computing Workload Characterization Perspective](https://arxiv.org/abs/2603.18126)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.18126`](https://arxiv.org/abs/2603.18126)
+- 👥 作者: Zhengze Xiao, Xuanzhe Ding, Yuyang Lou 等5人
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18126.pdf)
+
+**💡 相关性分析**
+
+满足标准1：论文对NNVMC（一种用于量子化学/物理的科学计算大模型）进行了深入的计算工作负载分析。其分析框架、性能瓶颈识别和优化讨论，对于理解和优化用于“质谱结构推理”的复杂概率模型或化学大模型具有直接的相关性和指导意义。
+
+**📖 中文摘要**
+
+本文从计算工作负载特征的角度，对神经网络变分蒙特卡洛方法进行了综述和实证GPU表征分析。NNVMC是解决量子多体问题的一种有前景的范式，它将变分蒙特卡洛与表达性神经网络波函数拟设相结合。论文分析了四种代表性拟设（PauliNet, FermiNet, Psiformer, Orbformer）的模型级运行时/内存趋势和内核级行为。虽然应用领域是量子物理，但NNVMC本质上是一种用于学习高维复杂系统（如分子电子结构）概率分布的深度生成模型。该综述深入剖析了这类科学计算大模型在GPU上的性能瓶颈和优化机会，其分析框架和结论对于理解和优化用于“质谱结构推理”或分子性质预测的类似复杂概率模型具有重要参考价值。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+Neural Network Variational Monte Carlo (NNVMC) has emerged as a promising paradigm for solving quantum many-body problems by combining variational Monte Carlo with expressive neural-network wave-function ansätze. Although NNVMC can achieve competitive accuracy with favorable asymptotic scaling, practical deployment remains limited by high runtime and memory cost on modern graphics processing units (GPUs). Compared with language and vision workloads, NNVMC execution is shaped by physics-specific stages, including Markov-Chain Monte Carlo sampling, wave-function construction, and derivative/Laplacian evaluation, which produce heterogeneous kernel behavior and nontrivial bottlenecks. This paper provides a workload-oriented survey and empirical GPU characterization of four representative ansätze: PauliNet, FermiNet, Psiformer, and Orbformer. Using a unified profiling protocol, we analyze model-level runtime and memory trends and kernel-level behavior through family breakdown, arithmetic intensity, roofline positioning, and hardware utilization counters. The results show that end-to-end performance is often constrained by low-intensity elementwise and data-movement kernels, while the compute/memory balance varies substantially across ansätze and stages. Based on these findings, we discuss algorithm--hardware co-design implications for scalable NNVMC systems, including phase-aware scheduling, memory-centric optimization, and heterogeneous acceleration.
+
+</details>
+
+---
+
+### 9. [How LLMs Distort Our Written Language](https://arxiv.org/abs/2603.18161)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.18161`](https://arxiv.org/abs/2603.18161)
+- 👥 作者: Marwa Abdulhai, Isadora White, Yanming Wan 等7人
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18161.pdf)
+
+**💡 相关性分析**
+
+满足标准3：论文虽然不是专门针对化学大模型的综述，但它包含了对大语言模型如何系统性地影响专业内容生成（如科学写作）的重要讨论和实证分析。这对于思考化学大模型在科研写作、知识记录中的应用伦理和潜在风险具有重要的相关性和展望价值。
+
+**📖 中文摘要**
+
+本文通过用户研究和数据分析，探讨了大语言模型如何扭曲人类的书面语言。研究发现，广泛使用LLM会导致文章在回答主题问题时保持中立的比例大幅增加，并显著改变文本的语义含义。虽然论文主要关注通用写作，但其揭示的LLM对内容语义的系统性影响，对于“化学大模型”的应用具有重要警示意义。在化学领域，使用LLM辅助撰写研究报告、论文或实验记录时，同样需要警惕模型可能引入的偏见、模糊化关键发现或扭曲科学论述的准确性和创造性。该工作从社会技术角度审视了大模型的影响，是相关主题的重要讨论。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+Large language models (LLMs) are used by over a billion people globally, most often to assist with writing. In this work, we demonstrate that LLMs not only alter the voice and tone of human writing, but also consistently alter the intended meaning. First, we conduct a human user study to understand how people actually interact with LLMs when using them for writing. Our findings reveal that extensive LLM use led to a nearly 70% increase in essays that remained neutral in answering the topic question. Significantly more heavy LLM users reported that the writing was less creative and not in their voice. Next, using a dataset of human-written essays that was collected in 2021 before the widespread release of LLMs, we study how asking an LLM to revise the essay based on the human-written feedback in the dataset induces large changes in the resulting content and meaning. We find that even when LLMs are prompted with expert feedback and asked to only make grammar edits, they still change the text in a way that significantly alters its semantic meaning. We then examine LLM-generated text in the wild, specifically focusing on the 21% of AI-generated scientific peer reviews at a recent top AI conference. We find that LLM-generated reviews place significantly less weight on clarity and significance of the research, and assign scores that, on average, are a full point this http URL findings highlight a misalignment between the perceived benefit of AI use and an implicit, consistent effect on the semantics of human writing, motivating future work on how widespread AI writing will affect our cultural and scientific institutions.
+
+</details>
+
+---
+
+### 10. [Modeling the human lexicon under temperature variations: linguistic factors, diversity and typicality in LLM word associations](https://arxiv.org/abs/2603.18171)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.18171`](https://arxiv.org/abs/2603.18171)
+- 👥 作者: Maria Andueza Rodriguez, Marie Candito, Richard Huyghe
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18171.pdf)
+
+**💡 相关性分析**
+
+满足标准3：论文通过系统的实验分析了LLM词汇联想的特性，其研究范式（模型与人类认知对比）和关于模型规模、温度影响输出行为的结论，为评估化学大模型在化学概念空间中的表征质量和生成行为提供了重要的方法论参考和相关讨论。
+
+**📖 中文摘要**
+
+本研究通过比较人类和LLM生成的词汇联想，评估了模型捕捉人类词汇模式的能力。研究使用了SWOW数据集中的英语线索-反应对，并生成了来自三个LLM在不同温度设置下的新联想。论文考察了词频和具体性等词汇因素的影响，以及LLM反应与人类反应相比的变异性和典型性。研究发现，较大的模型倾向于模拟单一的“原型”人类参与者，而较小的模型产生更多变但不太典型的反应。这项研究对于理解大语言模型的内部词汇表征和生成行为具有重要意义。虽然不直接针对化学，但其研究范式（比较模型与人类在特定认知任务上的表现）和关于模型大小、温度对输出特性影响的结论，对于设计和评估“化学大模型”在化学概念联想、术语生成或结构描述等方面的能力具有方法论上的参考价值。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+Large language models (LLMs) achieve impressive results in terms of fluency in text generation, yet the nature of their linguistic knowledge - in particular the human-likeness of their internal lexicon - remains uncertain. This study compares human and LLM-generated word associations to evaluate how accurately models capture human lexical patterns. Using English cue-response pairs from the SWOW dataset and newly generated associations from three LLMs (Mistral-7B, Llama-3.1-8B, and Qwen-2.5-32B) across multiple temperature settings, we examine (i) the influence of lexical factors such as word frequency and concreteness on cue-response pairs, and (ii) the variability and typicality of LLM responses compared to human responses. Results show that all models mirror human trends for frequency and concreteness but differ in response variability and typicality. Larger models such as Qwen tend to emulate a single "prototypical" human participant, generating highly typical but minimally variable responses, while smaller models such as Mistral and Llama produce more variable yet less typical responses. Temperature settings further influence this trade-off, with higher values increasing variability but decreasing typicality. These findings highlight both the similarities and differences between human and LLM lexicons, emphasizing the need to account for model size and temperature when probing LLM lexical representations.
+
+</details>
+
+---
+
+### 11. [GRAFITE: Generative Regression Analysis Framework for Issue Tracking and Evaluation](https://arxiv.org/abs/2603.18173)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.18173`](https://arxiv.org/abs/2603.18173)
+- 👥 作者: Ja Young Lee, Mírian Silva, Mohamed Nasr 等9人
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18173.pdf)
+
+**💡 相关性分析**
+
+满足标准2：论文提出的GRAFITE平台是一个用于持续评估和追踪大模型性能的工具/系统。该平台可作为评估化学大模型在特定化学任务（如结构推理、性质预测）上表现的数据集构建、测试和比较框架，提供了重要的评估资源和方法。
+
+**📖 中文摘要**
+
+本文介绍了GRAFITE，一个通过问题跟踪和评估进行持续LLM评估的平台。该平台旨在解决由于基准数据在训练过程中过度暴露而导致的模型性能虚高风险。GRAFITE允许基于用户反馈随时间构建模型问题库，并提供使用LLM-as-a-judge进行质量保证测试的流水线，以评估LLM针对这些问题的表现。该平台支持多个模型的并排比较，便于检测不同版本之间的回归。虽然平台是通用的，但其核心功能——系统性、持续地评估和追踪大模型在特定问题或任务上的表现——对于“化学大模型”的开发和评估至关重要。化学领域需要评估模型在特定反应预测、性质计算或安全筛查等方面的性能，GRAFITE为此类评估提供了一个可行的技术框架。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+Large language models (LLMs) are largely motivated by their performance on popular topics and benchmarks at the time of their release. However, over time, contamination occurs due to significant exposure of benchmark data during training. This poses a risk of model performance inflation if testing is not carefully executed. To address this challenge, we present GRAFITE, a continuous LLM evaluation platform through a comprehensive system for maintaining and evaluating model issues. Our approach enables building a repository of model problems based on user feedback over time and offers a pipeline for assessing LLMs against these issues through quality assurance (QA) tests using LLM-as-a-judge. The platform enables side-by-side comparison of multiple models, facilitating regression detection across different releases. The platform is available at this https URL . The demo video is available at this http URL .
+
+</details>
+
+---
+
+### 12. [CWoMP: Morpheme Representation Learning for Interlinear Glossing](https://arxiv.org/abs/2603.18184)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.18184`](https://arxiv.org/abs/2603.18184)
+- 👥 作者: Morris Alper, Enora Rice, Bhargav Shandilya 等5人
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18184.pdf)
+
+**💡 相关性分析**
+
+满足标准1：论文提出的CWoMP方法（基于原子单元表示学习和检索的序列生成）与“质谱结构推理”任务的核心挑战（将质谱碎片视为原子单元，推理出分子序列/结构）在方法论上直接相关，为后者提供了一种创新的技术思路。
+
+**📖 中文摘要**
+
+本文提出了CWoMP，一种用于语际注音任务的语素表示学习方法。与将注音视为字符序列的现有方法不同，CWoMP将语素视为具有学习表示的原子的形义单元。该方法使用对比训练的编码器将上下文中的单词与其组成语素在共享嵌入空间中对齐，然后自回归解码器通过从这些嵌入的可变词典中检索条目来生成语素序列。该方法在低资源语言上表现出色，且效率显著更高。虽然应用于语言学，但其核心思想——学习离散的、可解释的原子单元（语素）的表示，并通过检索生成序列——与“质谱结构推理”中学习质谱碎片（作为原子单元）的表示并推理分子结构的过程在方法论上高度相似。该工作为质谱解析提供了一种新颖的、基于表示学习和检索的生成范式灵感。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+Interlinear glossed text (IGT) is a standard notation for language documentation which is linguistically rich but laborious to produce manually. Recent automated IGT methods treat glosses as character sequences, neglecting their compositional structure. We propose CWoMP (Contrastive Word-Morpheme Pretraining), which instead treats morphemes as atomic form-meaning units with learned representations. A contrastively trained encoder aligns words-in-context with their constituent morphemes in a shared embedding space; an autoregressive decoder then generates the morpheme sequence by retrieving entries from a mutable lexicon of these embeddings. Predictions are interpretable--grounded in lexicon entries--and users can improve results at inference time by expanding the lexicon without retraining. We evaluate on diverse low-resource languages, showing that CWoMP outperforms existing methods while being significantly more efficient, with particularly strong gains in extremely low-resource settings.
+
+</details>
+
+---
+
+### 13. [Retrieval-Augmented LLMs for Security Incident Analysis](https://arxiv.org/abs/2603.18196)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.18196`](https://arxiv.org/abs/2603.18196)
+- 👥 作者: Xavier Cadet, Aditya Vikram Singh, Harsh Mamania 等9人
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18196.pdf)
+
+**💡 相关性分析**
+
+满足标准1：论文提出的基于查询过滤和RAG增强LLM推理的安全事件分析框架，其技术架构（特征提取、上下文检索、多步推理、序列重建）与“质谱结构推理”的任务需求（碎片提取、知识检索、结构推导）高度一致，提供了直接相关的系统设计范例。
+
+**📖 中文摘要**
+
+本文提出了一个基于RAG的系统，用于通过基于查询的过滤和LLM语义推理进行安全事件分析。该系统使用带有相关MITRE ATT&CK技术的查询库从原始日志中提取指标，然后检索相关上下文以回答取证问题并重建攻击序列。论文在恶意软件流量事件和多阶段Active Directory攻击上评估了该系统。虽然应用于网络安全，但其技术框架——结合领域特定查询（可引申为化学规则或碎片模式）进行信息提取，并利用RAG增强的LLM进行多步推理和序列重建——与“质谱结构推理”的任务流程高度吻合。质谱解析同样需要从原始数据（质谱图）中提取特征（碎片离子），并基于化学知识库进行多步推理以确定分子结构。该工作为构建基于LLM和RAG的质谱解析系统提供了直接的技术参考。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+Investigating cybersecurity incidents requires collecting and analyzing evidence from multiple log sources, including intrusion detection alerts, network traffic records, and authentication events. This process is labor-intensive: analysts must sift through large volumes of data to identify relevant indicators and piece together what happened. We present a RAG-based system that performs security incident analysis through targeted query-based filtering and LLM semantic reasoning. The system uses a query library with associated MITRE ATT\&CK techniques to extract indicators from raw logs, then retrieves relevant context to answer forensic questions and reconstruct attack sequences. We evaluate the system with five LLM providers on malware traffic incidents and multi-stage Active Directory attacks. We find that LLM models have different performance and tradeoffs, with Claude Sonnet~4 and DeepSeek~V3 achieving 100\% recall across all four malware scenarios, while DeepSeek costs 15$\times$ less (\$0.008 vs.\ \$0.12 per analysis). Attack step detection on Active Directory scenarios reaches 100\% precision and 82\% recall. Ablation studies confirm that a RAG architecture is essential: LLM baselines without RAG-enhanced context correctly identify victim hosts but miss all attack infrastructure including malicious domains and command-and-control servers. These results demonstrate that combining targeted query-based filtering with RAG-based retrieval enables accurate, cost-effective security analysis within LLM context limits.
+
+</details>
+
+---
+
+### 14. [How Psychological Learning Paradigms Shaped and Constrained Artificial Intelligence](https://arxiv.org/abs/2603.18203)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.18203`](https://arxiv.org/abs/2603.18203)
+- 👥 作者: Alex Anvi Eponon, Ildar Batyrshin, Christian E. Maldonado-Sifuentes 等4人
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18203.pdf)
+
+**💡 相关性分析**
+
+满足标准3：论文从认知科学和AI范式演变的角度进行了深入的综述和展望，分析了现有大模型范式的局限性，并提出了新的架构思考。这对于反思和展望“化学大模型”应具备的认知能力、知识表示和推理架构包含了重要的相关讨论和前瞻性观点。
+
+**📖 中文摘要**
+
+本文探讨了心理学学习范式（行为主义、认知主义、建构主义）如何塑造并制约了人工智能的发展，并指出了每种AI范式继承了其心理学理论基础的结构性局限。论文进一步分析了东西方对机械学习理解的差异，并提出了ReSynth三模块框架，将推理、目的和知识分离为架构上独立的组件。虽然是从宏观的AGI和认知科学角度出发，但其对现有AI范式局限性的深刻剖析以及对新架构的思考，对于“化学大模型”的顶层设计具有重要的启发意义。它促使研究者思考：当前用于化学任务的模型是否受限于其底层学习范式？如何设计一个能更好地适应化学领域系统性、组合性推理需求的大模型架构？该工作提供了重要的概念性框架和未来方向展望。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+The dominant paradigms of artificial intelligence were shaped by learning theories from psychology: behaviorism inspired reinforcement learning, cognitivism gave rise to deep learning and memory-augmented architectures, and constructivism influenced curriculum learning and compositional approaches. This paper argues that each AI paradigm inherited not only the strengths but the structural limitations of the psychological theory that inspired it. Reinforcement learning cannot account for the internal structure of knowledge, deep learning compresses representations into opaque parameter spaces resistant to principled update, and current integrative approaches lack a formal account of how new understanding is constructed from existing components. The paper further examines a cross-cultural divergence in the interpretation of rote learning, arguing that the Eastern conception of memorization as a structured, multi-phase precursor to understanding offers an underexploited bridge between psychological theory and AI methodology. Drawing on the systematicity debate and critique of Aizawa of both classicism and connectionism, this paper introduces ReSynth, a trimodular framework that separates reasoning (Intellect), purpose (Identity), and knowledge (Memory) as architecturally independent components. The paper traces the genealogy from psychological paradigm to AI method, diagnoses the inherited limitations at each stage, and argues that adaptability, the central challenge of artificial general intelligence requires a representational architecture in which systematic behavior is a necessary consequence rather than an accidental property.
+
+</details>
+
+---
+
+### 15. [MolRGen: A Training and Evaluation Setting for De Novo Molecular Generation with Reasonning Models](https://arxiv.org/abs/2603.18256)
 
 **基本信息**
 
@@ -19,11 +369,11 @@
 
 **💡 相关性分析**
 
-满足标准1：论文的核心研究内容直接围绕利用基于推理的大语言模型进行化学分子生成（化学大模型的应用）。
+满足标准1：论文的核心研究内容直接围绕化学大模型（用于分子生成的推理LLMs）和分子设计/生成（与质谱结构推理高度相关的任务）展开。
 
 **📖 中文摘要**
 
-本文介绍了MolRGen，一个用于训练和评估基于推理的大语言模型（LLMs）进行从头分子生成的大规模基准和数据集。该工作旨在弥合当前方法在监督需求上的差距，这些方法通常依赖于已知属性修饰的分子对，而这在需要优化期望分数而无需事先了解高分候选分子的从头生成场景中是不可用的。MolRGen提出了一个用于评估和训练从头分子生成和属性预测模型的设置，并引入了一种新颖的多样性感知top-k分数，以同时捕获生成分子的质量和多样性。作者展示了该设置可用于训练LLMs进行分子生成，他们使用强化学习训练了一个240亿参数的LLM，并详细分析了其性能和局限性。这项工作直接针对化学信息学中的“化学大模型”主题，特别是利用推理LLMs进行分子设计。
+本文介绍了MolRGen，这是一个用于训练和评估基于推理的大语言模型（LLMs）进行从头分子生成的大规模基准和数据集。该研究旨在弥补现有方法的空白，这些方法要么侧重于评估，要么依赖于需要已知属性修饰的分子对等真实标签的监督训练。MolRGen提出了一个用于从头分子生成和属性预测的评估和训练设置，其中目标是生成优化期望得分的新分子，而无需事先了解高分候选分子。作者还引入了一种新颖的多样性感知top-k分数，以捕捉生成分子的质量和多样性。他们展示了该设置可用于训练LLMs进行分子生成，使用强化学习训练了一个240亿参数的LLM，并对其性能和局限性进行了详细分析。这项工作直接围绕化学大模型（特别是用于分子设计的LLMs）和分子生成（这是化学信息学和质谱结构推理的核心任务）展开。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -34,7 +384,7 @@ Recent advances in reasoning-based large language models (LLMs) have demonstrate
 
 ---
 
-### 2. [Path-Constrained Mixture-of-Experts](https://arxiv.org/abs/2603.18297)
+### 16. [Path-Constrained Mixture-of-Experts](https://arxiv.org/abs/2603.18297)
 
 **基本信息**
 
@@ -44,11 +394,11 @@ Recent advances in reasoning-based large language models (LLMs) have demonstrate
 
 **💡 相关性分析**
 
-满足标准1：论文的核心研究内容直接围绕从质谱数据中进行分子结构推理（质谱结构推理）。
+满足标准1：论文的核心研究内容直接围绕质谱结构推理，提出了一个名为FlowMS的新框架，用于从质谱进行从头分子结构解析。
 
 **📖 中文摘要**
 
-本文提出了FlowMS，这是首个用于谱图条件从头分子生成的离散流匹配框架。该框架通过概率空间中的迭代精炼生成分子图，同时强制执行化学式约束，并基于预训练的公式Transformer编码器提供的谱图嵌入进行条件生成。FlowMS在NPLIB1基准测试的6个指标中的5个上实现了最先进的性能，包括9.15%的top-1准确率（相对于DiffMS有9.7%的相对改进）和7.96的top-10 MCES（相对于MS-BART有4.2%的改进）。这项工作直接解决了质谱分析中的一个核心挑战——从质谱图中进行从头结构解析，属于“质谱结构推理”主题。
+本文提出了FlowMS，这是首个用于谱图条件从头分子生成的离散流匹配框架。该工作解决了从质谱（MS）进行从头结构解析的挑战。FlowMS通过概率空间中的迭代精炼生成分子图，同时强制执行化学式约束，并以来自预训练公式Transformer编码器的谱图嵌入为条件。该方法在NPLIB1基准测试的6个指标中的5个上实现了最先进的性能，包括9.15%的top-1准确率（相对于DiffMS有9.7%的相对改进）和7.96的top-10 MCES（相对于MS-BART有4.2%的改进）。可视化结果进一步表明，FlowMS生成了结构上合理的候选分子，与真实结构非常相似。这些结果确立了离散流匹配作为基于质谱的结构解析（应用于代谢组学和天然产物发现）的一个有前景的范式。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -59,7 +409,7 @@ Sparse Mixture-of-Experts (MoE) architectures enable efficient scaling by activa
 
 ---
 
-### 3. [Towards Interpretable Framework for Neural Audio Codecs via Sparse Autoencoders: A Case Study on Accent Information](https://arxiv.org/abs/2603.18359)
+### 17. [Towards Interpretable Framework for Neural Audio Codecs via Sparse Autoencoders: A Case Study on Accent Information](https://arxiv.org/abs/2603.18359)
 
 **基本信息**
 
@@ -69,11 +419,11 @@ Sparse Mixture-of-Experts (MoE) architectures enable efficient scaling by activa
 
 **💡 相关性分析**
 
-满足标准1：论文的核心方法论（使用稀疏自编码器进行模型表示的可解释性分析）与理解和解释“化学大模型”的内部机制这一主题高度相关。
+满足标准1：论文的核心方法论（使用稀疏自编码器解释神经模型的内部表示）与理解和解释化学大模型（这是化学信息学和质谱分析中模型发展的关键方面）的研究主题高度相关。
 
 **📖 中文摘要**
 
-本文研究了神经音频编解码器（NACs）如何编码语言和副语言信息（如口音）的问题，并采用稀疏自编码器（SAEs）将密集的NAC表示分解为稀疏、可解释的激活。研究重点是一个具有挑战性的副语言属性——口音，并提出了一个量化NAC可解释性的框架。作者评估了四种NAC模型在16种SAE配置下的表现，使用相对性能指数进行比较。结果表明，声学导向的NAC主要通过稀疏表示的激活幅度编码口音信息，而语音导向的NAC则更依赖激活位置。这项工作虽然主要关注音频，但其核心方法论——使用稀疏自编码器等可解释AI技术来理解和分解复杂模型（如NACs）的内部表示——与化学信息学中理解“化学大模型”内部工作机制的研究目标高度相关。
+本文研究了神经音频编解码器（NACs）如何编码语言和副语言信息，并专注于一个具有挑战性的副语言属性——口音。作者采用稀疏自编码器（SAEs）将密集的NAC表示分解为稀疏、可解释的激活。他们提出了一个量化NAC可解释性的框架，并在16种SAE配置下评估了四种NAC模型。结果表明，声学导向的NACs主要在稀疏表示的激活幅度中编码口音信息，而语音导向的NACs则更多地依赖于激活位置。这项工作通过可解释性方法（SAEs）深入探究了神经编码模型（NACs）的内部表示，这与理解化学大模型（如用于分子表示的模型）的内部工作机制在方法论和精神上高度相关。虽然应用领域是音频，但其核心——分析复杂神经模型如何编码特定信息——与化学信息学中理解模型如何编码分子结构或质谱特征的研究主题直接平行。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -84,32 +434,32 @@ Neural Audio Codecs (NACs) are widely adopted in modern speech systems, yet how 
 
 ---
 
-### 4. [Synthetic Data Generation for Training Diversified Commonsense Reasoning Models](https://arxiv.org/abs/2603.18361)
+### 18. [TENSURE: Fuzzing Sparse Tensor Compilers (Registered Report)](https://arxiv.org/abs/2603.18372)
 
 **基本信息**
 
-- 🔗 arXiv: [`2603.18361`](https://arxiv.org/abs/2603.18361)
-- 👥 作者: Tianhui Zhang, Bei Peng, Danushka Bollegala
-- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18361.pdf)
+- 🔗 arXiv: [`2603.18372`](https://arxiv.org/abs/2603.18372)
+- 👥 作者: Kabilan Mahathevan, Yining Zhang, Muhammad Ali Gulzar 等4人
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18372.pdf)
 
 **💡 相关性分析**
 
-满足标准2：论文提供了用于训练多样化常识推理模型（可视为一种特定的大模型应用）的合成数据集生成方法。
+满足标准2：论文提出了一个用于测试稀疏张量编译器的新框架和基准（TENSURE），稀疏张量是在科学计算和化学信息学中常见的数据结构。该工具和基准可作为相关领域开发和评估计算工具的资源。
 
 **📖 中文摘要**
 
-本文提出了一种两阶段方法，创建了首个用于多样化生成式常识推理（GCR）的合成数据集CommonSyn。由于标注成本高昂，现有的GCR数据集仅涵盖有限的常识场景。为了解决训练资源缺口，作者的方法能够生成大规模、高质量的多样化常识训练数据。在大型语言模型（LLMs）上微调后，模型在生成多样性和质量上均优于基线模型以及在人工标注数据集上微调的模型。这项工作直接涉及利用合成数据来增强和训练大语言模型，以提升其在多样化常识推理任务上的能力，属于“化学大模型”领域外围但相关的基础技术（数据生成与模型训练）。
+本文提出了TENSURE，这是首个专门为测试稀疏张量编译器（STCs）而设计的可扩展黑盒模糊测试框架。STCs是优化高维数据分析和机器学习工作负载的关键基础设施。TENSURE使用爱因斯坦求和（Einsum）符号作为通用输入抽象，能够生成复杂、非常规的张量收缩，以暴露STCs代码生成阶段的边界情况。它提出了一种新颖的基于约束的生成算法，保证合成内核100%的语义有效性，显著优于基线语法模糊测试器约3.3%的有效性率。该框架引入了语义保留的变异操作符，利用代数交换性和存储格式的异质性进行蜕变测试。对TACO和Finch这两个最先进系统的评估揭示了广泛的脆弱性。这项工作为稀疏编译生态系统提供了专门的测试工具。虽然主要关注编译器测试，但其核心是处理和分析“稀疏张量”这种在科学计算（包括化学模拟和可能的大规模化学数据分析）中常见的数据结构。开发用于此类数据结构的工具和基准与化学信息学的基础设施建设相关。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
 
-Conversational agents are required to respond to their users not only with high quality (i.e. commonsense bearing) responses, but also considering multiple plausible alternative scenarios, reflecting the diversity in their responses. Despite the growing need to train diverse commonsense generators, the progress of this line of work has been significantly hindered by the lack of large-scale high-quality diverse commonsense training datasets. Due to the high annotation costs, existing Generative Commonsense Reasoning (GCR) datasets are created using a small number of human annotators, covering only a narrow set of commonsense scenarios. To address this training resource gap, we propose a two-stage method to create the first-ever synthetic dataset CommonSyn for diversified (GCR). The model fine-tuned on our synthetic data jointly increase both generation diversity and quality compared with vanilla models and the model fine-tuned on human-crafted dataset across different size Large Language Models (LLMs)
+Sparse Tensor Compilers (STCs) have emerged as critical infrastructure for optimizing high-dimensional data analytics and machine learning workloads. The STCs must synthesize complex, irregular control flow for various compressed storage formats directly from high-level declarative specifications, thereby making them highly susceptible to subtle correctness defects. Existing testing frameworks, which rely on mutating computation graphs restricted to a standard vocabulary of operators, fail to exercise the arbitrary loop synthesis capabilities of these compilers. Furthermore, generic grammar-based fuzzers struggle to generate valid inputs due to the strict rules governing how indices are reused across multiple tensors. In this paper, we present TENSURE, the first extensible black-box fuzzing framework specifically designed for the testing of STCs. TENSURE leverages Einstein Summation (Einsum) notation as a general input abstraction, enabling the generation of complex, unconventional tensor contractions that expose corner cases in the code-generation phases of STCs. We propose a novel constraint-based generation algorithm that guarantees 100% semantic validity of synthesized kernels, significantly outperforming the ~3.3% validity rate of baseline grammar fuzzers. To enable metamorphic testing without a trusted reference, we introduce a set of semantic-preserving mutation operators that exploit algebraic commutativity and heterogeneity in storage formats. Our evaluation on two state-of-the-art systems, TACO and Finch, reveals widespread fragility, particularly in TACO, where TENSURE exposed crashes or silent miscompilations in a majority of generated test cases. These findings underscore the critical need for specialized testing tools in the sparse compilation ecosystem.
 
 </details>
 
 ---
 
-### 5. [Mathematical Foundations of Deep Learning](https://arxiv.org/abs/2603.18387)
+### 19. [Mathematical Foundations of Deep Learning](https://arxiv.org/abs/2603.18387)
 
 **基本信息**
 
@@ -119,11 +469,11 @@ Conversational agents are required to respond to their users not only with high 
 
 **💡 相关性分析**
 
-满足标准3：论文（书籍草稿）是对深度学习数学基础的综述，其中包含生成模型等重要章节，这些内容是理解和构建“化学大模型”的理论基石。
+满足标准3：论文（书籍草稿）是一份综述性材料，系统地涵盖了生成模型和强化学习等主题，这些是构建化学领域大模型的核心理论基础，因此包含了对关注主题重要的相关讨论。
 
 **📖 中文摘要**
 
-这份书籍草稿提供了对现代深度学习数学原理的全面而严谨的论述。书籍涵盖了核心理论主题，从深度神经网络的近似能力、最优控制和强化学习的理论与算法（与深度学习技术相结合），到推动当今人工智能进步的当代生成模型。虽然不专门针对化学，但该书系统地阐述了深度学习（包括生成模型）的数学基础，这些是构建和理解“化学大模型”（如用于分子生成的扩散模型或流匹配模型）所必需的理论工具。对于从事化学信息学和质谱分析中复杂模型开发的研究人员来说，这是一份重要的理论基础资源。
+本文是一本关于深度学习数学原理的书籍草稿。它提供了对现代深度学习背后数学原理的全面而严谨的处理。该书涵盖了核心理论主题，从深度神经网络的近似能力、最优控制和强化学习的理论与算法（与深度学习技术相结合），到推动当今人工智能进步的当代生成模型。虽然不专门针对化学，但该书系统地涵盖了生成模型和强化学习等主题，这些正是构建“化学大模型”（例如用于分子生成的生成模型或用于逆合成的强化学习智能体）所依赖的核心数学和算法基础。对于在化学信息学领域从事大模型研究和开发的研究人员来说，这是一份宝贵的教育资源。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -134,7 +484,107 @@ This draft book offers a comprehensive and rigorous treatment of the mathematica
 
 ---
 
-### 6. [From Snapshots to Symphonies: The Evolution of Protein Prediction from Static Structures to Generative Dynamics and Multimodal Interactions](https://arxiv.org/abs/2603.18505)
+### 20. [Seeking Universal Shot Language Understanding Solutions](https://arxiv.org/abs/2603.18448)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.18448`](https://arxiv.org/abs/2603.18448)
+- 👥 作者: Haoxin Liu, Harshavardhan Kamarthi, Zhiyuan Zhao 等5人
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18448.pdf)
+
+**💡 相关性分析**
+
+满足标准1：论文的核心研究内容是构建一个用于评估和提升视觉语言模型在复杂、主观的视觉语言理解任务（镜头语言理解）上性能的基准和解决方案。这与“化学大模型”主题中关于构建和评估能够处理复杂科学数据（如质谱、分子结构）的通用或领域大模型的研究目标直接相关，都涉及模型能力评估、数据构建和性能提升。
+
+**📖 中文摘要**
+
+这篇论文提出了SLU-SUITE，一个用于镜头语言理解（SLU）的综合训练和评估套件，包含33个任务、跨越六个电影维度的49万个人工标注的问答对。论文旨在解决视觉语言模型（VLMs）在SLU任务上与电影专家判断存在差异的问题。研究从模型和数据两个角度分析了VLM在SLU中的瓶颈，并提出了两种互补的通用SLU解决方案：UniShot（一个通过动态平衡数据混合训练的通用模型）和AgentShots（一个最大化各维度性能的专家集群）。这项工作为理解和提升模型在复杂视觉语言任务（如电影分析）上的能力提供了重要的数据集、基准和分析框架，与构建更强大的、能够处理复杂语义的“化学大模型”在方法论和挑战上具有高度相关性。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+Shot language understanding (SLU) is crucial for cinematic analysis but remains challenging due to its diverse cinematographic dimensions and subjective expert judgment. While vision-language models (VLMs) have shown strong ability in general visual understanding, recent studies reveal judgment discrepancies between VLMs and film experts on SLU tasks. To address this gap, we introduce SLU-SUITE, a comprehensive training and evaluation suite containing 490K human-annotated QA pairs across 33 tasks spanning six film-grounded dimensions. Using SLU-SUITE, we originally observe two insights into VLM-based SLU from: the model side, which diagnoses key bottlenecks of modules; the data side, which quantifies cross-dimensional influences among tasks. These findings motivate our universal SLU solutions from two complementary paradigms: UniShot, a balanced one-for-all generalist trained via dynamic-balanced data mixing, and AgentShots, a prompt-routed expert cluster that maximizes peak dimension performance. Extensive experiments show that our models outperform task-specific ensembles on in-domain tasks and surpass leading commercial VLMs by 22% on out-of-domain tasks.
+
+</details>
+
+---
+
+### 21. [Cell-Type Prototype-Informed Neural Network for Gene Expression Estimation from Pathology Images](https://arxiv.org/abs/2603.18461)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.18461`](https://arxiv.org/abs/2603.18461)
+- 👥 作者: Kazuya Nishimura, Ryoma Bise, Shinnosuke Matsuo 等5人
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18461.pdf)
+
+**💡 相关性分析**
+
+满足标准1：论文的核心研究内容是开发一种结合了生物学先验知识（细胞类型原型）和深度学习的方法，从图像中预测分子水平的信息（基因表达）。这与“质谱结构推理”主题高度相关，因为两者都属于“从复杂数据中推断分子或化学结构/属性”这一核心问题。CPNN利用外部结构化生物数据（单细胞RNA-seq）来指导模型预测的思路，与质谱分析中利用已知质谱库或化学规则来辅助结构解析的理念相通。
+
+**📖 中文摘要**
+
+该论文提出了一种细胞类型原型信息神经网络（CPNN），用于从病理学图像中估计基因表达谱。该方法的关键创新在于利用公开可用的单细胞RNA测序数据集来估计细胞类型原型（即反映稳定基因共变关系的平均表达谱）。CPNN直接从图像中学习细胞类型组成权重，并建模原型与观测到的批量或空间表达之间的关系，从而提供了一个有生物学基础且结构正则化的预测框架。论文在三个切片级数据集和三个斑块级空间转录组数据集上进行了评估，结果表明CPNN在斯皮尔曼相关性方面达到了最高性能。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+Estimating slide- and patch-level gene expression profiles from pathology images enables rapid and low-cost molecular analysis with broad clinical impact. Despite strong results, existing approaches treat gene expression as a mere slide- or spot-level signal and do not incorporate the fact that the measured expression arises from the aggregation of underlying cell-level expression. To explicitly introduce this missing cell-resolved guidance, we propose a Cell-type Prototype-informed Neural Network (CPNN) that leverages publicly available single-cell RNA-sequencing datasets. Since single-cell measurements are noisy and not paired with histology images, we first estimate cell-type prototypes-mean expression profiles that reflect stable gene-gene co-variation this http URL then learns cell-type compositional weights directly from images and models the relationship between prototypes and observed bulk or spatial expression, providing a biologically grounded and structurally regularized prediction framework. We evaluate CPNN on three slide-level datasets and three patch-level spatial transcriptomics datasets. Across all settings, CPNN achieves the highest performance in terms of Spearman correlation. Moreover, by visualizing the inferred compositional weights, our framework provides interpretable insights into which cell types drive the predicted expression. Code is publicly available at this https URL .
+
+</details>
+
+---
+
+### 22. [A Faster Deterministic Algorithm for Kidney Exchange via Representative Set](https://arxiv.org/abs/2603.18471)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.18471`](https://arxiv.org/abs/2603.18471)
+- 👥 作者: Kangyi Tian, Mingyu Xiao
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18471.pdf)
+
+**💡 相关性分析**
+
+满足标准2：论文提出了一个名为CAPSUL的新基准数据集，该数据集整合了蛋白质的3D结构信息和详细的亚细胞定位注释。这为开发能够利用结构信息进行生物分子属性预测的模型（可视为生物领域的“大模型”）提供了重要的数据资源。虽然领域是生物信息学，但其“整合多模态数据（序列、结构、注释）构建基准以推动模型发展”的核心范式，与化学信息学中构建用于分子性质预测或质谱解析的基准数据集的目标完全一致。
+
+**📖 中文摘要**
+
+这篇论文介绍了CAPSUL，一个用于蛋白质亚细胞定位的综合人类蛋白质基准。该基准的数据集整合了多样化的3D结构表示和由领域专家精心策划的细粒度亚细胞定位注释。论文评估了多种最先进的基于序列和基于结构的模型，展示了结构特征在此任务中的重要性。此外，论文还探索了重加权和单标签分类策略，以促进未来基于结构的方法研究。通过一个关于高尔基体的案例研究，展示了基于结构的方法强大的可解释性，发现了一个决定性的定位模式α-螺旋。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+The Kidney Exchange Problem is a prominent challenge in healthcare and economics, arising in the context of organ transplantation. It has been extensively studied in artificial intelligence and optimization. In a kidney exchange, a set of donor-recipient pairs and altruistic donors are considered, with the goal of identifying a sequence of exchange -- comprising cycles or chains starting from altruistic donors -- such that each donor provides a kidney to the compatible recipient in the next donor-recipient pair. Due to constraints in medical resources, some limits are often imposed on the lengths of these cycles and chains. These exchanges create a network of transplants aimed at maximizing the total number, $t$, of successful transplants. Recently, this problem was deterministically solved in $O^*(14.34^t)$ time (IJCAI 2024). In this paper, we introduce the representative set technique for the Kidney Exchange Problem, showing that the problem can be deterministically solved in $O^*(6.855^t)$ time.
+
+</details>
+
+---
+
+### 23. [Leveraging Large Language Models for Generalizing Peephole Optimizations](https://arxiv.org/abs/2603.18477)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.18477`](https://arxiv.org/abs/2603.18477)
+- 👥 作者: Chunhao Liao, Hongxu Xu, Xintong Zhou 等5人
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18477.pdf)
+
+**💡 相关性分析**
+
+满足标准1：论文的核心研究内容是探索并利用大语言模型（LLMs）的语义抽象和探索推理能力，来自动化并改进一个特定领域（编译器优化）的复杂规则生成任务。这直接体现了“化学大模型”主题的一个核心应用方向：利用大模型的高级语义理解和生成能力，辅助或自动化化学领域的复杂任务，例如反应条件优化、合成路线设计或质谱解析规则的生成。论文展示了LLM在结构化、逻辑严密的领域内进行推理和生成的潜力。
+
+**📖 中文摘要**
+
+论文提出了LPG（大语言模型辅助的窥孔优化泛化）框架，该框架利用大语言模型（LLMs）来泛化编译器中的窥孔优化。LPG采用一个闭环工作流程，集成了LLM驱动的符号常量泛化、结构泛化、约束松弛和位宽/精度泛化，并辅以语法验证、语义验证和盈利性检查的反馈。论文在从LLVM生态系统中提取的真实世界窥孔优化问题上进行了评估，LPG成功泛化了102个优化中的90个。在可与Hydra直接比较的整数优化子集上，LPG泛化了81个中的74个，而Hydra仅泛化了35个。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+Peephole optimizations are a core component of modern optimizing compilers. It rewrites specific instruction into semantically equivalent but more efficient forms. In practice, creating a new peephole optimization often starts from a concrete optimization instance and requires lifting it into a more general rewrite rule that matches a wider range of instruction patterns. This generalization step is critical to optimization effectiveness, but it is also difficult: producing rules that are both correct and sufficiently general typically demands substantial manual effort and domain expertise. Existing approaches such as Hydra attempt to automate this task with program synthesis, but their generalization capability is often limited by search-space explosion, under-generalization, and restricted support for diverse instruction domains. We present LPG, large language model aided peephole optimization generalization, a framework that uses large language models (LLMs) to generalize peephole optimizations. The design of LPG is motivated by the observation that LLMs are effective at semantic abstraction and exploratory reasoning, while formal analyses are necessary to ensure that generated rules are sound and profitable. Based on this observation, LPG adopts a closed-loop workflow that integrates LLM-driven symbolic constant generalization, structural generalization, constraint relaxation, and bitwidth/precision generalization with feedback from syntactic validation, semantic verification, and profitability checking. We evaluate LPG on real-world peephole optimization issues drawn from the LLVM ecosystem. Overall, LPG successfully generalizes 90 out of 102 optimizations. On the integer-focused subset that is directly comparable to Hydra, LPG generalizes 74 out of 81 optimizations, whereas Hydra generalizes 35.
+
+</details>
+
+---
+
+### 24. [From Snapshots to Symphonies: The Evolution of Protein Prediction from Static Structures to Generative Dynamics and Multimodal Interactions](https://arxiv.org/abs/2603.18505)
 
 **基本信息**
 
@@ -144,11 +594,11 @@ This draft book offers a comprehensive and rigorous treatment of the mathematica
 
 **💡 相关性分析**
 
-满足标准3：论文是针对蛋白质科学中AI模型（包括生成模型和结构推理模型）演进的一篇综合性综述，包含了对化学大模型和结构推理相关主题的重要讨论和展望。
+满足标准3：论文是一篇针对AI驱动蛋白质科学发展的全面综述，特别强调了从静态结构预测到生成动态构象和复杂相互作用的范式转变。其中关于“生成框架”（包括扩散模型和流匹配）捕获与热力学系综一致的构象分布，以及“统一多模态表示”整合序列、几何和文本知识等内容，与“化学大模型”和“质谱结构推理”主题高度相关。它为化学领域类似的研究（如生成式分子设计、从光谱数据推断动态分子结构）提供了重要的跨领域见解、方法学参考和未来展望。
 
 **📖 中文摘要**
 
-这篇综述论文系统地审视了人工智能驱动的蛋白质科学范式的转变，涵盖了从静态结构预测到动态构象集合和复杂生物分子相互作用建模的演进。论文重点讨论了五个相互关联的维度，其中特别强调了生成式框架（包括扩散模型和流匹配）在捕获与热力学集合一致的构象分布方面的应用。这直接与“化学大模型”的主题相关，因为它深入探讨了用于模拟复杂化学/生物分子系统（如蛋白质）动态行为的生成式AI模型。此外，论文还讨论了用于蛋白质-配体、蛋白质-核酸和蛋白质-蛋白质复合物等异质相互作用预测的模型，这涉及到从结构数据（可视为一种特殊形式的“质谱结构推理”的扩展，即从相互作用数据推断分子结构和功能）中进行推理。因此，该论文是对化学和生物分子AI模型（包括生成模型和结构推理模型）当前进展和未来方向的全面展望。
+这篇综述论文系统地审视了人工智能驱动的蛋白质科学在五个相互关联的维度上的范式转变：统一的多模态表示、静态预测的改进、生成框架、异质相互作用的预测以及功能推断。论文批判性地分析了当前的瓶颈，包括数据分布偏差、有限的机制可解释性以及几何指标与生物物理现实之间的脱节，同时确定了未来朝向物理一致的生成模型、多模态基础架构和实验闭环系统的方向。这篇综述标志着人工智能从结构分析工具向能够理解并最终重写生命动态语言的通用模拟器的转变。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -159,7 +609,7 @@ The protein folding problem has been fundamentally transformed by artificial int
 
 ---
 
-### 7. [SINDy-KANs: Sparse identification of non-linear dynamics through Kolmogorov-Arnold networks](https://arxiv.org/abs/2603.18548)
+### 25. [SINDy-KANs: Sparse identification of non-linear dynamics through Kolmogorov-Arnold networks](https://arxiv.org/abs/2603.18548)
 
 **基本信息**
 
@@ -169,11 +619,11 @@ The protein folding problem has been fundamentally transformed by artificial int
 
 **💡 相关性分析**
 
-满足标准1和2：论文的核心研究内容是开发一种结合SINDy和KANs的新方法，用于从数据中发现可解释的符号方程（核心主题相关：化学系统的动力学建模与推理）。同时，该方法本身是一个可用于化学/质谱数据分析和模型构建的工具（数据资源/工具相关）。
+满足标准1：论文的核心研究内容是开发一种结合了可解释神经网络（KAN）和符号回归（SINDy）的新方法，用于从数据中发现可解释的、稀疏的动力学方程。这直接与“化学大模型”中追求模型可解释性和从数据中发现物理/化学规律的研究方向相关。在质谱分析中，从复杂光谱数据中推导出反映分子碎裂规律的解析表达式或简化模型也是一个重要的目标，因此该方法论具有潜在的相关性。
 
 **📖 中文摘要**
 
-本文提出了SINDy-KANs方法，将稀疏识别非线性动力学（SINDy）与Kolmogorov-Arnold网络（KANs）相结合，用于从数据中发现符号方程。SINDy本身是一种从时间序列数据中学习稀疏、可解释微分方程模型的方法，广泛应用于物理、化学和生物系统的动力学建模。KANs是一种新型的、理论上更具可解释性的神经网络架构。SINDy-KANs在KAN的每个激活函数层面应用SINDy式的表示，旨在提高KAN表示的可解释性（稀疏性），同时保持深度KAN可能实现的函数组合能力。该方法应用于包括动力学系统在内的多个符号回归任务，展示了在不同系统中进行准确方程发现的能力。这项工作与“化学大模型”和“质谱结构推理”相关，因为它提供了一种从观测数据（例如，来自动力学实验或光谱时间序列）中学习可解释的化学系统模型的新框架。质谱数据解析和分子结构推理本质上可以视为从高维光谱数据中推断底层化学动力学或结构模型的问题，SINDy-KANs为此类推理任务提供了一种潜在的、可解释的机器学习工具。
+本文提出了SINDy-KANs方法，该方法同时训练一个Kolmogorov-Arnold网络（KAN）和一个类似SINDy（非线性动力学稀疏识别）的表征，以提高KAN表征的可解释性。SINDy应用于每个激活函数的层面，同时保持通过深度KAN实现的函数组合能力。作者将方法应用于一系列符号回归任务，包括动力系统，以展示在不同系统中准确的方程发现能力。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -184,32 +634,7 @@ Kolmogorov-Arnold networks (KANs) have arisen as a potential way to enhance the 
 
 ---
 
-### 8. [CAPSUL: A Comprehensive Human Protein Benchmark for Subcellular Localization](https://arxiv.org/abs/2603.18571)
-
-**基本信息**
-
-- 🔗 arXiv: [`2603.18571`](https://arxiv.org/abs/2603.18571)
-- 👥 作者: Yicheng Hu, Xinyu Lin, Shulin Li 等6人
-- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18571.pdf)
-
-**💡 相关性分析**
-
-满足标准2：论文提出了一个包含蛋白质3D结构信息和亚细胞定位注释的综合基准数据集（CAPSUL），该资源可直接用于训练和评估化学/生物大模型在结构相关的推理任务（如亚细胞定位，可类比质谱数据解析）上的性能。
-
-**📖 中文摘要**
-
-本文介绍了CAPSUL，一个用于蛋白质亚细胞定位任务的新基准数据集。亚细胞定位是药物靶点识别和功能注释的关键生物学任务。该基准的独特之处在于，它首次整合了多样化的3D结构表示与由领域专家精心策划的细粒度亚细胞定位注释。作者评估了多种最先进的基于序列和基于结构的模型在该基准上的表现，展示了结构特征在此任务中的重要性。这项工作与“化学大模型”和“质谱结构推理”高度相关。首先，蛋白质的3D结构是其化学性质和功能的核心，基于结构的模型（如图神经网络、Transformer等）是当前化学和生物信息学中大模型的重要分支。其次，质谱技术（如空间转录组学、蛋白质组学）常被用于研究蛋白质的表达和定位，从质谱数据中推断蛋白质的亚细胞定位本身就是一个“结构推理”问题（从光谱信号推理生物空间分布）。CAPSUL基准为开发和应用能够处理3D结构信息的大模型（化学大模型）解决此类生物医学推理任务提供了高质量的数据资源和评估平台。
-
-<details>
-<summary><b>🔍 查看原文摘要</b></summary>
-
-Subcellular localization is a crucial biological task for drug target identification and function annotation. Although it has been biologically realized that subcellular localization is closely associated with protein structure, no existing dataset offers comprehensive 3D structural information with detailed subcellular localization annotations, thus severely hindering the application of promising structure-based models on this task. To address this gap, we introduce a new benchmark called $\mathbf{CAPSUL}$, a $\mathbf{C}$omprehensive hum$\mathbf{A}$n $\mathbf{P}$rotein benchmark for $\mathbf{SU}$bcellular $\mathbf{L}$ocalization. It features a dataset that integrates diverse 3D structural representations with fine-grained subcellular localization annotations carefully curated by domain experts. We evaluate this benchmark using a variety of state-of-the-art sequence-based and structure-based models, showcasing the importance of involving structural features in this task. Furthermore, we explore reweighting and single-label classification strategies to facilitate future investigation on structure-based methods for this task. Lastly, we showcase the powerful interpretability of structure-based methods through a case study on the Golgi apparatus, where we discover a decisive localization pattern $\alpha$-helix from attention mechanisms, demonstrating the potential for bridging the gap with intuitive biological interpretability and paving the way for data-driven discoveries in cell biology.
-
-</details>
-
----
-
-### 9. [Elastic Weight Consolidation Done Right for Continual Learning](https://arxiv.org/abs/2603.18596)
+### 26. [Elastic Weight Consolidation Done Right for Continual Learning](https://arxiv.org/abs/2603.18596)
 
 **基本信息**
 
@@ -219,11 +644,11 @@ Subcellular localization is a crucial biological task for drug target identifica
 
 **💡 相关性分析**
 
-满足标准1：论文的核心研究内容围绕模型训练、优化和重要性估计方法展开。虽然未直接提及化学或质谱，但其对梯度、FIM和模型权重正则化的系统性分析，为构建和优化复杂的“化学大模型”提供了重要的方法论参考和理论基础。
+满足标准1：论文的核心研究内容围绕模型权重重要性估计和修正方法展开，该方法论对于构建、理解和优化复杂的“化学大模型”（如用于性质预测、反应生成的深度学习模型）具有直接的相关性，涉及模型的可解释性、稳定性和知识迁移。
 
 **📖 中文摘要**
 
-本文对持续学习中的权重正则化方法进行了系统性分析，重点关注了基于梯度的权重重要性估计。论文的核心是分析弹性权重巩固（EWC）及其变体在估计权重重要性时存在的根本性错位问题，并提出了Logits Reversal（LR）操作来修正EWC的重要性估计。虽然论文主要关注通用机器学习模型的持续学习，但其对梯度、Fisher信息矩阵（FIM）和权重重要性的系统性分析，为理解和改进任何基于梯度的模型（包括潜在的化学大模型）的训练和优化过程提供了理论基础和方法论。提出的LR操作作为一种简单有效的修改，可以防止梯度消失和冗余保护，这种优化思想可能迁移到化学大模型的训练中，以提高其学习效率和稳定性。
+本文对持续学习中的权重正则化方法进行了系统性分析，重点关注了基于梯度的权重重要性估计方法，如弹性权重巩固（EWC）。作者发现EWC及其变体在估计权重重要性时存在根本性的错位，导致性能不佳。为此，他们提出了一种名为Logits Reversal（LR）的简单而有效的修改，以纠正EWC的重要性估计。该研究通过在各种持续学习任务和数据集上的广泛实验，验证了所提方法的有效性。虽然论文主要关注持续学习中的权重正则化，但其核心方法——通过分析模型梯度（Fisher信息矩阵）来理解和修正模型行为——与化学信息学中构建和理解“化学大模型”时面临的模型可解释性、稳定性及知识保留等挑战在方法论上高度相关。该论文提出的梯度分析和修正框架，为开发和优化复杂的、需要持续适应新数据或任务的化学大模型提供了潜在的技术思路和工具。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -234,32 +659,7 @@ Weight regularization methods in continual learning (CL) alleviate catastrophic 
 
 ---
 
-### 10. [myMNIST: Benchmark of PETNN, KAN, and Classical Deep Learning Models for Burmese Handwritten Digit Recognition](https://arxiv.org/abs/2603.18597)
-
-**基本信息**
-
-- 🔗 arXiv: [`2603.18597`](https://arxiv.org/abs/2603.18597)
-- 👥 作者: Ye Kyaw Thu, Thazin Myint Oo, Thepchai Supnithi
-- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18597.pdf)
-
-**💡 相关性分析**
-
-满足标准1：论文评估了物理启发的PETNN模型，这是一种受科学原理（物理学）启发的新型神经网络架构。这种“科学启发式”或“物理信息”的模型设计思路与“化学大模型”的构建理念高度相关，后者同样旨在将化学领域的先验知识（如分子力场、量子化学原理）嵌入到机器学习模型中。论文为这类模型的性能评估提供了方法论参考。
-
-**📖 中文摘要**
-
-本文对缅甸手写数字数据集myMNIST进行了系统性的基准测试，评估了包括经典深度学习模型、近期替代模型（如KAN）以及物理启发的PETNN变体在内的十一种架构。论文特别评估了PETNN（一种物理启发神经网络）在数字识别任务上的性能，发现其表现优异，紧随CNN之后，并超越了LSTM、GRU、Transformer和KAN变体。同时，论文还将PETNN与真正的基于能量的模型（JEM）进行了性能比较。这项工作为评估新兴架构（包括受物理或化学原理启发的模型）在特定任务上的表现建立了一个可复现的基准框架。
-
-<details>
-<summary><b>🔍 查看原文摘要</b></summary>
-
-We present the first systematic benchmark on myMNIST (formerly BHDD), a publicly available Burmese handwritten digit dataset important for Myanmar NLP/AI research. We evaluate eleven architectures spanning classical deep learning models (Multi-Layer Perceptron, Convolutional Neural Network, Long Short-Term Memory, Gated Recurrent Unit, Transformer), recent alternatives (FastKAN, EfficientKAN), an energy-based model (JEM), and physics-inspired PETNN variants (Sigmoid, GELU, SiLU). Using Precision, Recall, F1-Score, and Accuracy as evaluation metrics, our results show that the CNN remains a strong baseline, achieving the best overall scores (F1 = 0.9959, Accuracy = 0.9970). The PETNN (GELU) model closely follows (F1 = 0.9955, Accuracy = 0.9966), outperforming LSTM, GRU, Transformer, and KAN variants. JEM, representing energy-based modeling, performs competitively (F1 = 0.9944, Accuracy = 0.9958). KAN-based models (FastKAN, EfficientKAN) trail the top performers but provide a meaningful alternative baseline (Accuracy ~0.992). These findings (i) establish reproducible baselines for myMNIST across diverse modeling paradigms, (ii) highlight PETNN's strong performance relative to classical and Transformer-based models, and (iii) quantify the gap between energy-inspired PETNNs and a true energy-based model (JEM). We release this benchmark to facilitate future research on Myanmar digit recognition and to encourage broader evaluation of emerging architectures on regional scripts.
-
-</details>
-
----
-
-### 11. [GEAR: Geography-knowledge Enhanced Analog Recognition Framework in Extreme Environments](https://arxiv.org/abs/2603.18626)
+### 27. [GEAR: Geography-knowledge Enhanced Analog Recognition Framework in Extreme Environments](https://arxiv.org/abs/2603.18626)
 
 **基本信息**
 
@@ -269,11 +669,11 @@ We present the first systematic benchmark on myMNIST (formerly BHDD), a publicly
 
 **💡 相关性分析**
 
-满足标准1：论文提出的MSG-Net是一种专门用于处理复杂结构关系（地形形态）并进行跨域关联的图神经网络方法。这种方法论与“质谱结构推理”任务高度相关，后者同样需要利用神经网络（尤其是图神经网络）从复杂的质谱信号中推理出分子的图结构。论文为结构推理任务提供了一种可借鉴的神经网络架构设计思路。
+满足标准1：论文提出的形态集成孪生图网络（MSG-Net）是一种用于处理复杂结构数据的图神经网络方法。该方法可直接应用于“质谱结构推理”任务，因为分子结构推理本质上是将质谱数据映射到分子图结构，图神经网络是该领域的核心模型范式。
 
 **📖 中文摘要**
 
-本文提出了GEAR框架，用于从青藏高原高效检索与马里亚纳海沟结构同源的陆地类似物。该框架的核心创新之一是设计了一个基于地貌学指标的形态集成孪生图网络（MSG-Net）。论文使用MSG-Net提取的特征，发现了与生物数据的显著相关性，这为未来的生物分析提供了证据。虽然研究背景是地理学和生物学，但其核心方法——设计专门的图神经网络（MSG-Net）来处理具有复杂结构关系（如地形形态）的数据，并建立跨域（地形到生物）的关联——与“质谱结构推理”中利用图神经网络从质谱数据推断分子结构（另一种复杂的结构关系）的研究范式高度相似。
+本文提出了GEAR框架，用于在极端环境（如马里亚纳海沟和青藏高原）中进行跨域地形相似性检索，以识别结构同源的陆地类似物。该框架的核心创新之一是设计了一种基于图神经网络的模型——形态集成孪生图网络（MSG-Net）。该模型利用地貌学指标进行精细识别。实验表明，MSG-Net提取的特征与生物数据存在显著相关性，为未来的生物分析提供了证据。虽然论文的应用场景是地理学，但其核心技术——使用图神经网络（GNN）处理具有复杂结构和关系的科学数据（此处为地形数据）——与“质谱结构推理”高度相关。在质谱分析中，分子结构可以自然地表示为图（原子为节点，化学键为边），图神经网络正是当前进行质谱谱图到分子结构推理的最先进和核心方法之一。因此，该论文提出的MSG-Net架构及其在复杂科学数据上的应用，为质谱结构推理任务提供了新的模型设计思路和验证案例。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -284,7 +684,7 @@ The Mariana Trench and the Qinghai-Tibet Plateau exhibit significant similaritie
 
 ---
 
-### 12. [Multimodal Model for Computational Pathology:Representation Learning and Image Compression](https://arxiv.org/abs/2603.18660)
+### 28. [Multimodal Model for Computational Pathology:Representation Learning and Image Compression](https://arxiv.org/abs/2603.18660)
 
 **基本信息**
 
@@ -294,11 +694,11 @@ The Mariana Trench and the Qinghai-Tibet Plateau exhibit significant similaritie
 
 **💡 相关性分析**
 
-满足标准3：论文是一篇针对多模态计算病理学的综述，其中包含了对自监督表示学习、令牌压缩（用于处理高维数据）以及多智能体推理机制等重要技术的深入讨论。这些技术对于构建能够处理高维、复杂科学数据（如质谱）的“化学大模型”或“结构推理模型”具有重要的参考价值和前瞻性指导意义。
+满足标准3：论文是一篇针对多模态计算病理学的综述，其中包含对自监督表示学习和令牌压缩等重要技术的深入讨论。这些技术是构建“化学大模型”（如分子预训练模型）和进行“质谱结构推理”（如谱图表征学习）的核心方法论，因此提供了重要的相关讨论和展望。
 
 **📖 中文摘要**
 
-本文全面综述了多模态计算病理学的最新进展。论文系统分析了四个研究方向，其中第一个方向就是“全切片图像的自监督表示学习和结构感知的令牌压缩”。文章特别探讨了如何通过令牌压缩实现跨尺度建模，以及多智能体机制如何模拟病理学家在不同放大倍数下的“思维链”，以实现不确定性感知的证据融合。这篇综述深入讨论了在超高分辨率医学图像上，如何利用自监督学习、令牌压缩和高级推理机制来学习有效的表示并进行诊断，这些技术挑战和解决方案与处理复杂科学数据（如质谱或化学结构数据）有共通之处。
+本文是一篇关于多模态计算病理学的综述性文章，系统性地分析了该领域的四个研究方向。其中，第一个方向专门讨论了全切片图像（WSI）的自监督表示学习和结构感知的令牌压缩技术。文章指出，WSI的极高分辨率给视觉学习带来了计算挑战，而有限的专家标注约束了监督方法的发展。因此，自监督学习在从海量无标注病理图像中学习通用表示方面至关重要。同时，为了处理千兆像素的图像，需要对图像令牌进行压缩以进行跨尺度建模。这些技术挑战和解决方案（自监督表示学习、令牌压缩）与“化学大模型”和“质谱结构推理”领域面临的问题高度相似。在化学信息学中，构建大模型同样需要从海量无标注分子数据（如SMILES、分子图、质谱谱图）中进行自监督预训练，并且需要高效处理高维、序列或图结构的数据表示。该综述为化学领域开发类似的基础模型提供了可借鉴的技术路线和分析框架。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -309,7 +709,7 @@ Whole slide imaging (WSI) has transformed digital pathology by enabling computat
 
 ---
 
-### 13. [STEP: Scientific Time-Series Encoder Pretraining via Cross-Domain Distillation](https://arxiv.org/abs/2603.18688)
+### 29. [STEP: Scientific Time-Series Encoder Pretraining via Cross-Domain Distillation](https://arxiv.org/abs/2603.18688)
 
 **基本信息**
 
@@ -319,11 +719,11 @@ Whole slide imaging (WSI) has transformed digital pathology by enabling computat
 
 **💡 相关性分析**
 
-满足标准1和2：1) 论文核心研究内容是针对“科学时间序列”设计统一的表示学习框架，这与为化学数据（如质谱、分子序列）构建通用表示学习模型的“化学大模型”目标高度一致。2) 论文提出的STEP框架本身是一种用于科学数据表示学习的“工具”或“方法”，其跨域蒸馏、自适应分块等设计思想，可直接为化学信息学领域构建预训练模型提供技术参考和解决方案。
+满足标准1和2：论文的核心研究内容是针对科学时间序列的预训练表示学习框架（STEP）。这直接与“化学大模型”的主题相关，因为质谱数据是一种重要的科学时间序列，该框架为构建质谱预训练模型提供了方法论。同时，该框架本身可被视为一种用于科学数据（包括质谱）表示学习的“工具”或“资源”。
 
 **📖 中文摘要**
 
-本文提出了STEP框架，一个通过跨域蒸馏进行科学时间序列编码器预训练的框架。STEP旨在解决科学时间序列数据稀疏、异构且规模有限的问题，通过整合来自相关领域（如音频、通用时间序列、脑信号）的多个基础模型的知识，学习适用于科学信号的通用且可迁移的特征。该框架引入了自适应分块来处理极长序列，以及统计补偿方案来适应不同的数值尺度。论文在七个科学时间序列任务上进行了实验验证。
+本文提出了STEP框架，一个用于科学时间序列编码器预训练的跨域蒸馏框架。科学时间序列通常具有稀疏、高度异构和数据规模有限的特点，使得统一的表示学习面临挑战。STEP框架通过自适应分块处理极长序列，利用统计补偿方案适应不同的数值尺度，并关键地通过跨域蒸馏整合来自多个相关领域（如音频、通用时间序列、脑信号）基础模型的知识，以学习适用于科学信号的通用、可迁移特征。该研究在七个科学时间序列任务上进行了实验验证。虽然应用领域不同，但STEP框架解决的核心问题——如何利用有限、异构的科学数据训练出强大的表示学习模型——与化学信息学中构建“化学大模型”和进行“质谱结构推理”所面临的挑战完全一致。质谱数据本身就是一种特殊的时间序列/频谱序列，STEP中处理序列长度、数值尺度异构性以及利用预训练模型进行知识迁移的方法，为开发针对质谱数据的预训练模型提供了直接且宝贵的技术蓝图和思路。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -334,57 +734,132 @@ Scientific time series are central to scientific AI but are typically sparse, hi
 
 ---
 
-### 14. [WeNLEX: Weakly Supervised Natural Language Explanations for Multilabel Chest X-ray Classification](https://arxiv.org/abs/2603.18752)
+### 30. [CausalRM: Causal-Theoretic Reward Modeling for RLHF from Observational User Feedbacks](https://arxiv.org/abs/2603.18736)
 
 **基本信息**
 
-- 🔗 arXiv: [`2603.18752`](https://arxiv.org/abs/2603.18752)
-- 👥 作者: Isabel Rio-Torto, Jaime S. Cardoso, Luís F. Teixeira
-- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18752.pdf)
+- 🔗 arXiv: [`2603.18736`](https://arxiv.org/abs/2603.18736)
+- 👥 作者: Hao Wang, Licheng Pan, Zhichao Chen 等10人
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18736.pdf)
 
 **💡 相关性分析**
 
-满足标准1：论文的核心研究内容是开发能够为黑盒模型（深度学习分类器）生成忠实且合理的自然语言解释的方法。这种“可解释人工智能（XAI）”技术对于构建可信的“化学大模型”或“质谱结构推理”系统至关重要。例如，在质谱结构推理中，模型不仅需要预测分子结构，还需要提供其预测的推理依据或关键谱图特征，这与WeNLEX的目标高度相似。论文的方法论为化学AI模型的可解释性研究提供了参考。
+满足标准1：论文的核心研究内容是针对有噪声和偏差的观测数据设计无偏的模型学习框架（CausalRM）。该方法论对于利用真实世界中存在噪声和系统偏差的化学数据（如质谱数据、生物测定数据）来训练“化学大模型”或“质谱结构推理”模型具有直接的相关性和应用潜力。
 
 **📖 中文摘要**
 
-本文提出了WeNLEX，一个用于多标签胸部X光分类的弱监督自然语言解释生成模型。该模型通过确保从自然语言解释生成的图像与原始图像在黑盒模型特征空间中匹配来保证解释的忠实性，并通过与少量临床医生标注的解释数据库进行分布对齐来保持解释的合理性。论文在多个评估忠实性、可模拟性、多样性和合理性的指标上进行了验证。
+本文提出了CausalRM，一个基于因果理论的奖励建模框架，用于从观测性用户反馈（如点击、复制、点赞）中进行强化学习人类反馈（RLHF）。论文指出了当前从观测反馈学习奖励模型的两个根本挑战：反馈噪声和用户偏好偏差。CausalRM通过显式建模标注错误生成过程来设计噪声感知的代理损失项，并利用倾向得分对训练样本进行重新加权以消除用户偏好偏差。该框架旨在从有噪声和有偏的观测数据中学习无偏的奖励模型。这项研究虽然针对的是NLP中的RLHF，但其核心方法论——使用因果推理和倾向得分校正来处理有噪声、有偏的观测数据以学习更准确的模型——与化学信息学和质谱分析中的关键问题高度相关。例如，在质谱结构推理中，训练数据可能来自不同仪器、不同实验条件，存在系统偏差和噪声；在构建化学大模型时，使用的生物活性数据等也可能存在类似的观测偏差。CausalRM提供了一种严谨的数学框架来应对这些挑战，为改进化学领域的模型训练和数据利用提供了重要的技术参考。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
 
-Natural language explanations provide an inherently human-understandable way to explain black-box models, closely reflecting how radiologists convey their diagnoses in textual reports. Most works explicitly supervise the explanation generation process using datasets annotated with explanations. Thus, though plausible, the generated explanations are not faithful to the model's reasoning. In this work, we propose WeNLEX, a weakly supervised model for the generation of natural language explanations for multilabel chest X-ray classification. Faithfulness is ensured by matching images generated from their corresponding natural language explanations with original images, in the black-box model's feature space. Plausibility is maintained via distribution alignment with a small database of clinician-annotated explanations. We empirically demonstrate, through extensive validation on multiple metrics to assess faithfulness, simulatability, diversity, and plausibility, that WeNLEX is able to produce faithful and plausible explanations, using as little as 5 ground-truth explanations per diagnosis. Furthermore, WeNLEX can operate in both post-hoc and in-model settings. In the latter, i.e., when the multilabel classifier is trained together with the rest of the network, WeNLEX improves the classification AUC of the standalone classifier by 2.21%, thus showing that adding interpretability to the training process can actually increase the downstream task performance. Additionally, simply by changing the database, WeNLEX explanations are adaptable to any target audience, and we showcase this flexibility by training a layman version of WeNLEX, where explanations are simplified for non-medical users.
+Despite the success of reinforcement learning from human feedback (RLHF) in aligning language models, current reward modeling heavily relies on experimental feedback data collected from human annotators under controlled and costly conditions. In this work, we introduce observational reward modeling -- learning reward models with observational user feedback (e.g., clicks, copies, and upvotes) -- as a scalable and cost-effective alternative. We identify two fundamental challenges in this setting: (1) observational feedback is noisy due to annotation errors, which deviates it from true user preference; (2) observational feedback is biased by user preference, where users preferentially provide feedback on responses they feel strongly about, which creats a distribution shift between training and inference data. To address these challenges, we propose CausalRM, a causal-theoretic reward modeling framework that aims to learn unbiased reward models from observational feedback. To tackle challenge (1), CausalRM introduces a noise-aware surrogate loss term that is provably equivalent to the primal loss under noise-free conditions by explicitly modeling the annotation error generation process. To tackle challenge (2), CausalRM uses propensity scores -- the probability of a user providing feedback for a given response -- to reweight training samples, yielding a loss function that eliminates user preference bias. Extensive experiments across diverse LLM backbones and benchmark datasets validate that CausalRM effectively learns accurate reward signals from noisy and biased observational feedback and delivers substantial performance improvements on downstream RLHF tasks -- including a 49.2% gain on WildGuardMix and a 32.7% improvement on HarmBench. Code is available on our project website.
 
 </details>
 
 ---
 
-### 15. [Enhancing the Parameterization of Reservoir Properties for Data Assimilation Using Deep VAE-GAN](https://arxiv.org/abs/2603.18766)
+### 31. [dTRPO: Trajectory Reduction in Policy Optimization of Diffusion Large Language Models](https://arxiv.org/abs/2603.18806)
 
 **基本信息**
 
-- 🔗 arXiv: [`2603.18766`](https://arxiv.org/abs/2603.18766)
-- 👥 作者: Marcio Augusto Sampaio, Paulo Henrique Ranazzi, Martin Julian Blunt
-- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18766.pdf)
+- 🔗 arXiv: [`2603.18806`](https://arxiv.org/abs/2603.18806)
+- 👥 作者: Wenxuan Zhang, Lemeng Wu, Changsheng Zhao 等14人
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18806.pdf)
 
 **💡 相关性分析**
 
-满足标准1：论文核心研究内容是使用深度生成模型（VAE-GAN）对复杂的、非高斯分布的科学数据进行参数化和表示学习，以优化基于物理的模拟过程。这种利用生成模型学习科学数据底层分布并用于后续推理和优化的范式，与“化学大模型”中利用生成模型学习分子或材料空间分布，并用于性质预测或结构生成的思路完全一致。论文为在科学领域应用复杂的生成模型提供了具体案例和方法细节。
+满足标准1：论文的核心研究内容围绕扩散大语言模型（dLLMs）的策略优化，这属于生成式大模型的一种。其提出的dTRPO方法旨在改进这类模型的生成质量和效率，与“化学大模型”主题中利用生成模型进行化学任务（如分子生成、性质预测）的研究直接相关。
 
 **📖 中文摘要**
 
-本文提出将变分自编码器生成对抗网络（VAE-GAN）这一深度学习模型与集合平滑器多重数据同化（ESMDA）方法相结合，用于石油储层模拟中的历史拟合。该方法旨在对非高斯分布的储层属性（如渗透率）进行参数化，即将非高斯参数映射到高斯场进行更新，然后再映射回原始域。论文通过两个案例研究（一个分类案例，一个连续渗透率案例）验证了该方法能够同时获得高质量的储层描述（像GAN一样）和良好的生产曲线历史匹配（像VAE一样）。
+本文提出了一种名为dTRPO（轨迹缩减策略优化）的新方法，旨在改进扩散大语言模型（dLLMs）的策略优化。论文的核心是解决dLLMs与人类偏好对齐的挑战，通过理论证明和算法设计，显著降低了轨迹概率计算的开销，从而实现了可扩展的离线策略训练。该方法在指令跟随和推理基准测试中，显著提升了dLLMs的核心性能（例如在STEM任务上提升高达9.6%）。虽然论文主要关注语言模型，但其核心方法——对扩散模型（一种生成模型）进行策略优化以改进其输出——与“化学大模型”主题中利用生成模型（如扩散模型）进行分子设计或性质预测的研究范式高度相关。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
 
-Currently, the methods called Iterative Ensemble Smoothers, especially the method called Ensemble Smoother with Multiple Data Assimilation (ESMDA) can be considered state-of-the-art for history matching in petroleum reservoir simulation. However, this approach has two important limitations: the use of an ensemble with finite size to represent the distributions and the Gaussian assumption in parameter and data uncertainties. This latter is particularly important because many reservoir properties have non-Gaussian distributions. Parameterization involves mapping non-Gaussian parameters to a Gaussian field before the update and then mapping them back to the original domain to forward the ensemble through the reservoir simulator. A promising approach to perform parameterization is through deep learning models. Recent studies have shown that Generative Adversarial Networks (GAN) performed poorly concerning data assimilation, but generated more geologically plausible realizations of the reservoir, while the Variational Autoencoder (VAE) performed better than the GAN in data assimilation, but generated less geologically realistic models. This work is innovative in combining the strengths of both to implement a deep learning model called Variational Autoencoder Generative Adversarial Network (VAE-GAN) integrated with ESMDA. The methodology was applied in two case studies, one case being categorical and the other with continuous values of permeability. Our findings demonstrate that by applying the VAE-GAN model we can obtain high quality reservoir descriptions (just like GANs) and a good history matching on the production curves (just like VAEs) simultaneously.
+Diffusion Large Language Models (dLLMs) introduce a new paradigm for language generation, which in turn presents new challenges for aligning them with human preferences. In this work, we aim to improve the policy optimization for dLLMs by reducing the cost of the trajectory probability calculation, thereby enabling scaled-up offline policy training. We prove that: (i) under reference policy regularization, the probability ratio of the newly unmasked tokens is an unbiased estimate of that of intermediate diffusion states, and (ii) the probability of the full trajectory can be effectively estimated with a single forward pass of a re-masked final state. By integrating these two trajectory reduction strategies into a policy optimization objective, we propose Trajectory Reduction Policy Optimization (dTRPO). We evaluate dTRPO on 7B dLLMs across instruction-following and reasoning benchmarks. Results show that it substantially improves the core performance of state-of-the-art dLLMs, achieving gains of up to 9.6% on STEM tasks, up to 4.3% on coding tasks, and up to 3.0% on instruction-following tasks. Moreover, dTRPO exhibits strong training efficiency due to its offline, single-forward nature, and achieves improved generation efficiency through high-quality outputs.
 
 </details>
 
 ---
 
-### 16. [Pore-scale modeling of capillary-driven binder migration during battery electrode drying](https://arxiv.org/abs/2603.18860)
+### 32. [Seasoning Generative Models for a Generalization Aftertaste](https://arxiv.org/abs/2603.18817)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.18817`](https://arxiv.org/abs/2603.18817)
+- 👥 作者: Hisham Husain, Valentin De Bortoli, Richard Nock
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18817.pdf)
+
+**💡 相关性分析**
+
+满足标准1：论文的核心研究内容是关于生成模型（包括扩散模型）的泛化理论和方法改进。虽然未直接应用于化学领域，但其研究的生成模型精炼和泛化理论是构建和优化“化学大模型”（尤其是基于扩散模型的分子生成器）的重要理论基础。
+
+**📖 中文摘要**
+
+本文探讨了使用判别器来训练或微调生成模型的理论框架。论文扩展了与f-散度相关的强对偶性结果，提出了一种判别器引导的通用方法，可以用于“精炼”任何生成模型。作者证明，经过这种精炼的生成模型在泛化能力上相比其未精炼的版本有可证明的提升。论文的分析揭示了泛化能力的提升基于用于精炼的判别器集合的Rademacher复杂度。该工作为包括基于分数的扩散方法在内的现有经验成功方法提供了理论验证。这为理解和改进生成模型（包括扩散模型）的泛化性能提供了理论基础。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+The use of discriminators to train or fine-tune generative models has proven to be a rather successful framework. A notable example is Generative Adversarial Networks (GANs) that minimize a loss incurred by training discriminators along with other paradigms that boost generative models via discriminators that satisfy weak learner constraints. More recently, even diffusion models have shown advantages with some kind of discriminator guidance. In this work, we extend a strong-duality result related to $f$-divergences which gives rise to a discriminator-guided recipe that allows us to \textit{refine} any generative model. We then show that the refined generative models provably improve generalization, compared to its non-refined counterpart. In particular, our analysis reveals that the gap in generalization is improved based on the Rademacher complexity of the discriminator set used for refinement. Our recipe subsumes a recently introduced score-based diffusion approach (Kim et al., 2022) that has shown great empirical success, however allows us to shed light on the generalization guarantees of this method by virtue of our analysis. Thus, our work provides a theoretical validation for existing work, suggests avenues for new algorithms, and contributes to our understanding of generalization in generative models at large.
+
+</details>
+
+---
+
+### 33. [Student views in AI Ethics and Social Impact](https://arxiv.org/abs/2603.18827)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.18827`](https://arxiv.org/abs/2603.18827)
+- 👥 作者: Tudor-Dan Mihoc, Manuela-Andreea Petrescu, Emilia-Loredana Pop
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18827.pdf)
+
+**💡 相关性分析**
+
+满足标准1：论文的核心研究内容是开发一个用于预测的机器学习模型集成框架。虽然应用于金融领域，但其方法论——集成多种模型、优化超参数、特征分析——与构建用于化学信息学预测任务（如分子性质预测、活性分类）的“化学大模型”或模型集成策略在技术路线上高度相关。
+
+**📖 中文摘要**
+
+本文提出了一种优化的贪婪加权集成框架，用于金融贷款违约预测。该框架集成了多种机器学习分类器（如LightGBM、XGBoost等），首先使用粒子群优化算法优化超参数，然后通过正则化贪婪加权机制和基于神经网络的元学习器（堆叠集成）来组合模型预测。在Lending Club数据集上的实验表明，该框架相比单一分类器提升了预测性能。特征分析使用递归特征消除法识别出最具影响力的预测因子。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+An investigation, from a gender perspective, of how students view the ethical implications and societal effects of artificial intelligence is conducted, examining concepts that could have a big influence on how artificial intelligence may be taught in the future. For this, we conducted a survey on a cohort of 230 second year computer science students to reveal their opinions. The results revealed that AI, from the students' perspective, will significantly impact daily life, particularly in areas such as medicine, education, or media. Men are more aware of potential changes in Computer Science, autonomous driving, image and video processing, and chatbot usage, while women mention more the impact on social media. Both men and women perceive potential threats in the same manner, with men more aware of war, AI controlled drones, terrain recognition, and information war. Women seem to have a stronger tendency towards ethical considerations and helping others.
+
+</details>
+
+---
+
+### 34. [Statistical Characteristic-Guided Denoising for Rapid High-Resolution Transmission Electron Microscopy Imaging](https://arxiv.org/abs/2603.18834)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.18834`](https://arxiv.org/abs/2603.18834)
+- 👥 作者: Hesong Li, Ziqi Wu, Ruiwen Shao 等4人
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18834.pdf)
+
+**💡 相关性分析**
+
+满足标准2：论文提供了专门针对HRTEM成像的去噪方法和生成的数据集。虽然主要应用于材料科学成像，但HRTEM是分析材料结构（包括一些化学物质）的关键工具。其提出的去噪方法和数据集可作为“质谱结构推理”或更广泛的“光谱/谱图分析”领域的有价值资源或工具，因为处理噪声、从复杂信号中提取清晰结构信息是这些领域的共同挑战。
+
+**📖 中文摘要**
+
+本文提出了一种统计特征引导的去噪网络，用于快速高分辨率透射电子显微镜（HRTEM）成像。该方法利用统计特征在空间域和频域引导去噪过程，以解决原子尺度成核动力学观测中因快速成像导致的严重噪声问题。论文还开发了一种HRTEM专用的噪声校准方法，并生成了一个包含无序结构和真实HRTEM图像噪声的数据集，以确保模型在真实图像上的去噪性能。实验表明，该方法在HRTEM图像去噪和下游定位任务中优于现有技术。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+High-Resolution Transmission Electron Microscopy (HRTEM) enables atomic-scale observation of nucleation dynamics, which boosts the studies of advanced solid materials. Nonetheless, due to the millisecond-scale rapid change of nucleation, it requires short-exposure rapid imaging, leading to severe noise that obscures atomic positions. In this work, we propose a statistical characteristic-guided denoising network, which utilizes statistical characteristics to guide the denoising process in both spatial and frequency domains. In the spatial domain, we present spatial deviation-guided weighting to select appropriate convolution operations for each spatial position based on deviation characteristic. In the frequency domain, we present frequency band-guided weighting to enhance signals and suppress noise based on band characteristics. We also develop an HRTEM-specific noise calibration method and generate a dataset with disordered structures and realistic HRTEM image noises. It can ensure the denoising performance of models on real images for nucleation observation. Experiments on synthetic and real data show our method outperforms the state-of-the-art methods in HRTEM image denoising, with effectiveness in the localization downstream task. Code will be available at this https URL .
+
+</details>
+
+---
+
+### 35. [Pore-scale modeling of capillary-driven binder migration during battery electrode drying](https://arxiv.org/abs/2603.18860)
 
 **基本信息**
 
@@ -394,11 +869,11 @@ Currently, the methods called Iterative Ensemble Smoothers, especially the metho
 
 **💡 相关性分析**
 
-满足标准2：论文提出的孔隙尺度毛细管驱动粘合剂迁移模型，为化学大模型（特别是涉及多相传输和材料结构的模型）的开发和验证提供了物理机理明确的模拟框架和潜在的数据生成工具。
+满足标准1：论文的核心研究内容是使用计算模型（孔隙尺度连续体模型）模拟电池电极制造过程中的化学物理过程（粘结剂迁移）。这属于计算化学和材料模拟的范畴，与利用“化学大模型”或计算模型来理解和优化化学材料制备过程的研究主题相关。
 
 **📖 中文摘要**
 
-本文提出了一种孔隙尺度连续介质模型，用于模拟钠离子电池硬碳电极干燥过程中的毛细管驱动粘合剂迁移。该研究通过空间分辨的微观结构模拟，揭示了颗粒尺寸、蒸发速率和表面张力对粘合剂分布均匀性的影响。这项工作为电极制造过程的优化提供了物理上一致的预测工具。虽然论文核心是电化学制造过程模拟，但其提出的毛细管驱动传输模型和微观结构效应分析，为化学信息学中复杂多相系统的建模提供了方法论和数据生成工具，可用于训练或验证化学大模型（特别是涉及流体传输和材料结构的模型）。
+本文提出了一个孔隙尺度连续体模型，用于模拟钠离子电池硬碳电极干燥过程中毛细管驱动的粘结剂迁移。该模型明确描述了孔隙排空过程中的毛细管驱动传输，并应用于具有不同平均粒径的硬碳微观结构。模拟揭示了颗粒尺寸、蒸发速率和表面张力等因素对粘结剂分布均匀性的影响。该工作强调了显式描述毛细管传输和微观结构效应对于准确预测粘结剂迁移的重要性，为优化电极干燥工艺提供了基础。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -409,7 +884,132 @@ Sodium-ion batteries employing hard carbon electrodes are considered a drop-in t
 
 ---
 
-### 17. [BVSIMC: Bayesian Variable Selection-Guided Inductive Matrix Completion for Improved and Interpretable Drug Discovery](https://arxiv.org/abs/2603.18957)
+### 36. [RadioDiff-FS: Physics-Informed Manifold Alignment in Few-Shot Diffusion Models for High-Fidelity Radio Map Construction](https://arxiv.org/abs/2603.18865)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.18865`](https://arxiv.org/abs/2603.18865)
+- 👥 作者: Xiucheng Wang, Zixuan Guo, Nan Cheng
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18865.pdf)
+
+**💡 相关性分析**
+
+满足标准1：论文的核心研究内容是开发一个基于扩散模型的生成框架（RadioDiff-FS），用于生成复杂的物理场数据（无线电地图）。扩散模型是当前“化学大模型”中用于分子生成和谱图预测的重要技术之一。该工作展示了扩散模型在生成具有物理约束的结构化数据方面的应用，其方法论对构建用于“质谱结构推理”的生成模型具有参考价值。
+
+**📖 中文摘要**
+
+本文提出了RadioDiff-FS，一个基于扩散模型的少样本学习框架，用于高保真无线电地图（RM）构建。该框架将预训练的主路径生成器适配到多径丰富的目标域，仅需少量高保真样本。其理论依据是将多径RM分解为主导的主路径分量和方向稀疏的残差，并引入了方向一致性损失（DCL）来约束扩散分数沿着物理上合理的传播方向更新。实验表明，该方法在静态和动态RM上显著降低了归一化均方误差（NMSE）。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+Radio maps (RMs) provide spatially continuous propagation characterizations essential for 6G network planning, but high-fidelity RM construction remains challenging. Rigorous electromagnetic solvers incur prohibitive computational latency, while data-driven models demand massive labeled datasets and generalize poorly from simplified simulations to complex multipath environments. This paper proposes RadioDiff-FS, a few-shot diffusion framework that adapts a pre-trained main-path generator to multipath-rich target domains with only a small number of high-fidelity samples. The adaptation is grounded in a theoretical decomposition of the multipath RM into a dominant main-path component and a directionally sparse residual. This decomposition shows that the cross-domain shift corresponds to a bounded and geometrically structured feature translation rather than an arbitrary distribution change. A Direction-Consistency Loss (DCL) is then introduced to constrain diffusion score updates along physically plausible propagation directions, suppressing phase-inconsistent artifacts that arise in the low-data regime. Experiments show that RadioDiff-FS reduces NMSE by 59.5% on static RMs and by 74.0% on dynamic RMs relative to the vanilla diffusion baseline, achieving an SSIM of 0.9752 and a PSNR of 36.37 dB under severely limited supervision.
+
+</details>
+
+---
+
+### 37. [MultihopSpatial: Multi-hop Compositional Spatial Reasoning Benchmark for Vision-Language Model](https://arxiv.org/abs/2603.18892)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.18892`](https://arxiv.org/abs/2603.18892)
+- 👥 作者: Youngwan Lee, Soojin Jang, Yoorhim Cho 等6人
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18892.pdf)
+
+**💡 相关性分析**
+
+满足标准2：论文提出了一个用于评估和训练视觉-语言模型空间推理能力的基准（MultihopSpatial）和训练语料库（MultihopSpatial-Train）。虽然应用于视觉领域，但其核心——构建复杂推理任务的数据集和评估框架——与开发用于“化学大模型”或“质谱结构推理”的评估基准和方法论在理念上相通，都是为AI模型在特定领域的复杂推理能力提供数据和测试标准。
+
+**📖 中文摘要**
+
+本文提出了MultihopSpatial，一个用于评估视觉-语言模型（VLMs）多跳组合空间推理能力的综合基准。该基准包含1至3跳的复杂查询，并引入了Acc@50IoU指标，同时评估推理能力和精确的视觉定位（边界框预测）。此外，论文还提供了MultihopSpatial-Train，一个用于培养空间智能的大规模训练语料库。对37个最先进VLM的评估表明，组合空间推理仍然是一个巨大的挑战。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+Spatial reasoning is foundational for Vision-Language Models (VLMs), particularly when deployed as Vision-Language-Action (VLA) agents in physical environments. However, existing benchmarks predominantly focus on elementary, single-hop relations, neglecting the multi-hop compositional reasoning and precise visual grounding essential for real-world scenarios. To address this, we introduce MultihopSpatial, offering three key contributions: (1) A comprehensive benchmark designed for multi-hop and compositional spatial reasoning, featuring 1- to 3-hop complex queries across diverse spatial perspectives. (2) Acc@50IoU, a complementary metric that simultaneously evaluates reasoning and visual grounding by requiring both answer selection and precise bounding box prediction - capabilities vital for robust VLA deployment. (3) MultihopSpatial-Train, a dedicated large-scale training corpus to foster spatial intelligence. Extensive evaluation of 37 state-of-the-art VLMs yields eight key insights, revealing that compositional spatial reasoning remains a formidable challenge. Finally, we demonstrate that reinforcement learning post-training on our corpus enhances both intrinsic VLM spatial reasoning and downstream embodied manipulation performance.
+
+</details>
+
+---
+
+### 38. [Translating MRI to PET through Conditional Diffusion Models with Enhanced Pathology Awareness](https://arxiv.org/abs/2603.18896)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.18896`](https://arxiv.org/abs/2603.18896)
+- 👥 作者: Yitong Li, Igor Yakushev, Dennis M. Hedderich 等4人
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18896.pdf)
+
+**💡 相关性分析**
+
+满足标准1：论文的核心研究内容是开发一个基于条件扩散模型的跨模态医学图像生成框架（PASTA）。扩散模型是生成式AI和“化学大模型”中的关键技术。该工作展示了如何利用扩散模型从一种模态数据（MRI）生成另一种富含化学/功能信息的模态数据（PET），这种“从A推理B”的模式与“质谱结构推理”（从质谱数据推理分子结构）在问题形式上高度相似，都是基于某种信号/数据生成或推断出具有丰富化学信息的结构/图像。
+
+**📖 中文摘要**
+
+本文提出了PASTA，一个基于条件扩散模型的新型图像翻译框架，用于从磁共振成像（MRI）生成合成正电子发射断层扫描（PET）图像，特别增强了其对病理信息的感知能力。PASTA通过其高度交互的双臂架构和多模态条件集成，保留了结构和病理细节。此外，引入了循环交换一致性和体积生成策略，显著提升了生成高质量3D PET图像的能力。定性和定量结果表明，合成的PET扫描具有高质量和病理感知能力，用于阿尔茨海默病诊断时，其性能比MRI提升了4%，几乎达到真实PET的水平。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+Positron emission tomography (PET) is a widely recognized technique for diagnosing neurodegenerative diseases, offering critical functional insights. However, its high costs and radiation exposure hinder its widespread use. In contrast, magnetic resonance imaging (MRI) does not involve such limitations. While MRI also detects neurodegenerative changes, it is less sensitive for diagnosis compared to PET. To overcome such limitations, one approach is to generate synthetic PET from MRI. Recent advances in generative models have paved the way for cross-modality medical image translation; however, existing methods largely emphasize structural preservation while neglecting the critical need for pathology awareness. To address this gap, we propose PASTA, a novel image translation framework built on conditional diffusion models with enhanced pathology awareness. PASTA surpasses state-of-the-art methods by preserving both structural and pathological details through its highly interactive dual-arm architecture and multi-modal condition integration. Additionally, we introduce a novel cycle exchange consistency and volumetric generation strategy that significantly enhances PASTA's ability to produce high-quality 3D PET images. Our qualitative and quantitative results demonstrate the high quality and pathology awareness of the synthesized PET scans. For Alzheimer's diagnosis, the performance of these synthesized scans improves over MRI by 4%, almost reaching the performance of actual PET. Our code is available at this https URL .
+
+</details>
+
+---
+
+### 39. [Neural Galerkin Normalizing Flow for Transition Probability Density Functions of Diffusion Models](https://arxiv.org/abs/2603.18907)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.18907`](https://arxiv.org/abs/2603.18907)
+- 👥 作者: Riccardo Saporiti, Fabio Nobile
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18907.pdf)
+
+**💡 相关性分析**
+
+满足标准1：论文的核心研究内容是开发一种基于归一化流（一种生成模型）和神经伽辽金方法的框架，用于求解描述扩散过程的Fokker-Planck方程并近似其转移概率密度。归一化流是生成模型的一种，常用于密度估计和生成。该工作将生成模型（归一化流）与物理方程求解相结合，属于科学机器学习（AI for Science）的范畴，与利用“化学大模型”解决化学动力学、分子模拟等问题的研究范式直接相关。
+
+**📖 中文摘要**
+
+本文提出了一种新的神经伽辽金归一化流框架，用于近似参数化初始质量位置的扩散过程的转移概率密度函数（通过求解相应的Fokker-Planck方程）。该框架通过使用归一化流，将解表示为参考随机过程转移概率密度函数的变换，从而确保近似是结构保持的，并自动满足正性和质量守恒约束。通过将神经伽辽金方案扩展到归一化流的背景中，推导出了归一流参数时间演化的常微分方程组。自适应采样用于在有意义的位置评估Fokker-Planck残差。该方法可作为随机微分方程相关许多查询问题（如贝叶斯推断、模拟）的有前途的代理模型。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+We propose a new Neural Galerkin Normalizing Flow framework to approximate the transition probability density function of a diffusion process by solving the corresponding Fokker-Planck equation with an atomic initial distribution, parametrically with respect to the location of the initial mass. By using Normalizing Flows, we look for the solution as a transformation of the transition probability density function of a reference stochastic process, ensuring that our approximation is structure-preserving and automatically satisfies positivity and mass conservation constraints. By extending Neural Galerkin schemes to the context of Normalizing Flows, we derive a system of ODEs for the time evolution of the Normalizing Flow's parameters. Adaptive sampling routines are used to evaluate the Fokker-Planck residual in meaningful locations, which is of vital importance to address high-dimensional PDEs. Numerical results show that this strategy captures key features of the true solution and enforces the causal relationship between the initial datum and the density function at subsequent times. After completing an offline training phase, online evaluation becomes significantly more cost-effective than solving the PDE from scratch. The proposed method serves as a promising surrogate model, which could be deployed in many-query problems associated with stochastic differential equations, like Bayesian inference, simulation, and diffusion bridge generation.
+
+</details>
+
+---
+
+### 40. [Theoretical Analyses of Detectors for Additive Noise Channels with Mean-Variance Uncertainty under Nonlinear Expectation Theory](https://arxiv.org/abs/2603.18937)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.18937`](https://arxiv.org/abs/2603.18937)
+- 👥 作者: Wen-Xuan Lang, Guiying Yan, Zhi-Ming Ma
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18937.pdf)
+
+**💡 相关性分析**
+
+满足标准1：论文的核心研究内容是在模型不确定性下，为加性噪声信道开发最优检测器。虽然应用于通信领域，但其处理信号、噪声和不确定性的数学框架与“质谱结构推理”中从噪声质谱数据中检测和识别分子信号（即“检测”分子结构）所面临的核心挑战在本质上相似。两者都需要在噪声和模型不确定性的条件下进行最优决策或推断。
+
+**📖 中文摘要**
+
+本文在非线性期望理论下，将加性噪声信道检测器的分析扩展到概率模型不确定的情况。论文考虑了两种分布不确定性：一种具有均值不确定性但具有方差不确定性，另一种同时具有均值和方差不确定性。推导了在这两种场景下，二元输入加性噪声信道在非线性期望最优准则下的最优检测器，并给出了其显式形式。研究发现，均值不确定性显著影响最优检测器的形式，而方差不确定性则不影响。此外，提出了一种信道噪声不确定参数的估计方法。最后，给出了新推导的最优检测器的理论分析和模拟性能结果，并与基于确定性概率模型的经典信息论最优检测器性能进行了比较。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+In classical information theory, both the form and performance of the optimal detector for additive noise channels can be precisely derived, based on the assumption that the channel noise follows a specific probability distribution or a mixture of known distributions, or that the exact distribution exists but is unknown. In this paper, we extend the analyses of detectors for additive noise channel to the situation where the probability model for analyzing channels is uncertain, utilizing nonlinear expectation theory. We consider two types of distribution uncertainties: one with no mean uncertainty but with variance uncertainty, and another with both mean and variance uncertainties. We derive the optimal detectors for binary input additive noise channel under the nonlinear expectation optimal criterion for both scenarios and provide their explicit forms. Our findings reveal that mean uncertainty significantly influences the form of the optimal detector, whereas variance uncertainty does not. Additionally, we propose an estimation method for the uncertain parameters of the channel noise. Finally, we present theoretical analyses and simulated performance results of the newly derived optimal detectors, and compare these results with the performance of optimal detector under classical information theory, which assumes a deterministic probability model. The results of experiments show that our new detection methods outperform conventional methods in most scenarios with uncertain probability models, showing the practical relevance of our theoretical contributions.
+
+</details>
+
+---
+
+### 41. [BVSIMC: Bayesian Variable Selection-Guided Inductive Matrix Completion for Improved and Interpretable Drug Discovery](https://arxiv.org/abs/2603.18957)
 
 **基本信息**
 
@@ -419,11 +1019,11 @@ Sodium-ion batteries employing hard carbon electrodes are considered a drop-in t
 
 **💡 相关性分析**
 
-满足标准1和2：论文的核心研究内容直接围绕化学信息学中的关键问题——药物发现，提出了一种结合变量选择的新模型。同时，该方法通过利用化学和基因组侧信息进行预测，为化学大模型（特别是用于药物属性预测和关联推断的模型）提供了新的算法框架和可解释性工具。
+满足标准1：论文的核心研究内容是开发一种新的机器学习模型（BVSIMC），用于药物发现中的预测任务（耐药性预测、药物-疾病关联预测），并集成了侧边特征（化学性质、基因组信息）和变量选择。这直接属于“化学信息学”和“AI辅助药物发现”领域，是构建用于化学和生物医学预测的“化学大模型”或预测模型的具体实践。
 
 **📖 中文摘要**
 
-本文提出了一种贝叶斯变量选择引导的归纳矩阵补全（BVSIMC）方法，用于改进药物发现中的预测性能和可解释性。该方法通过从药物和疾病的侧信息（如化学性质和基因组信息）中进行变量选择，学习稀疏的潜在嵌入。研究在两个药物发现应用中得到验证：1) 结核分枝杆菌的药物耐药性预测；2) 计算药物重定位中的新药-疾病关联预测。BVSIMC在预测准确性上优于其他最先进的方法，并揭示了最具临床意义的侧信息特征。
+本文提出了BVSIMC（贝叶斯变量选择引导的归纳矩阵补全），一种新的贝叶斯模型，用于在药物发现中从侧边特征（如药物的化学性质和疾病的基因组信息）进行变量选择。通过学习稀疏的潜在嵌入，BVSIMC提高了预测准确性和可解释性。通过模拟研究和两个药物发现应用验证了该方法：1) 预测结核分枝杆菌的耐药性，2) 预测计算药物重定位中的新药-疾病关联。在合成和真实数据上，BVSIMC在预测方面优于其他几种最先进的方法。在两个真实例子中，BVSIMC进一步揭示了最具临床意义的侧边特征。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -434,7 +1034,32 @@ Recent advances in drug discovery have demonstrated that incorporating side info
 
 ---
 
-### 18. [Foundations of Schrödinger Bridges for Generative Modeling](https://arxiv.org/abs/2603.18992)
+### 42. [CRAFT: Aligning Diffusion Models with Fine-Tuning Is Easier Than You Think](https://arxiv.org/abs/2603.18991)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.18991`](https://arxiv.org/abs/2603.18991)
+- 👥 作者: Zening Sun, Zhengpeng Xie, Lichen Bai 等6人
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18991.pdf)
+
+**💡 相关性分析**
+
+满足标准1：论文的核心研究内容是针对扩散模型（一种重要的生成模型）提出了一种新的、高效的微调对齐方法（CRAFT）。扩散模型是“化学大模型”中用于分子生成和性质预测的关键技术之一。改进扩散模型的微调效率和质量，直接有助于构建更优的化学领域生成模型。
+
+**📖 中文摘要**
+
+本文提出了CRAFT（复合奖励辅助微调），一种轻量级但强大的扩散模型微调范式。它首先利用复合奖励过滤（CRF）技术构建高质量且一致的训练数据集，然后执行增强版的监督微调（SFT）。论文还从理论上证明，CRAFT实际上优化了基于组的强化学习的下界，从而在选定数据的SFT和强化学习之间建立了原则性的联系。大量实验结果表明，仅使用100个样本的CRAFT可以轻松超越使用数千个偏好配对样本的最新偏好优化方法，并且收敛速度比基线偏好优化方法快11-220倍。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+Aligning Diffusion models has achieved remarkable breakthroughs in generating high-quality, human preference-aligned images. Existing techniques, such as supervised fine-tuning (SFT) and DPO-style preference optimization, have become principled tools for fine-tuning diffusion models. However, SFT relies on high-quality images that are costly to obtain, while DPO-style methods depend on large-scale preference datasets, which are often inconsistent in quality. Beyond data dependency, these methods are further constrained by computational inefficiency. To address these two challenges, we propose Composite Reward Assisted Fine-Tuning (CRAFT), a lightweight yet powerful fine-tuning paradigm that requires significantly reduced training data while maintaining computational efficiency. It first leverages a Composite Reward Filtering (CRF) technique to construct a high-quality and consistent training dataset and then perform an enhanced variant of SFT. We also theoretically prove that CRAFT actually optimizes the lower bound of group-based reinforcement learning, establishing a principled connection between SFT with selected data and reinforcement learning. Our extensive empirical results demonstrate that CRAFT with only 100 samples can easily outperform recent SOTA preference optimization methods with thousands of preference-paired samples. Moreover, CRAFT can even achieve 11-220$\times$ faster convergences than the baseline preference optimization methods, highlighting its extremely high efficiency.
+
+</details>
+
+---
+
+### 43. [Foundations of Schrödinger Bridges for Generative Modeling](https://arxiv.org/abs/2603.18992)
 
 **基本信息**
 
@@ -444,11 +1069,11 @@ Recent advances in drug discovery have demonstrated that incorporating side info
 
 **💡 相关性分析**
 
-满足标准1和3：论文的核心内容是生成模型（包括扩散模型）的统一数学原理，这与构建“化学大模型”（尤其是基于扩散或流的分子生成模型）的理论基础直接相关。同时，论文具有综述和展望性质，系统性地梳理了生成模型的理论框架，为相关领域的研究提供了重要的理论讨论和方向指引。
+满足标准3：论文是一篇关于薛定谔桥数学基础及其与生成模型（包括扩散模型）联系的系统性阐述。薛定谔桥是理解扩散模型等生成模型的理论基础之一。因此，这篇论文属于针对生成模型（“化学大模型”的核心技术之一）的理论综述和展望，提供了重要的相关讨论和理论基础。
 
 **📖 中文摘要**
 
-本文系统阐述了生成建模框架（如扩散模型、基于分数的模型和流匹配）背后的数学基础——薛定谔桥问题。它将生成过程视为在概率空间中连接先验分布和目标分布的最优随机桥问题。论文从最优传输、随机控制和路径空间优化等角度构建了薛定谔桥问题的数学工具包，并展示了其与现代生成建模的直接联系。这些构造产生了广义的、针对特定任务的计算方法。
+本文系统性地阐述了薛定谔桥问题的数学基础，并将其与现代生成建模（包括扩散模型、基于分数的模型和流匹配）联系起来。薛定谔桥为这些方法提供了一个统一的原则，将问题框架化为在边际分布约束下确定一个最优的随机桥，使其与预定义的参考过程的熵偏差最小。论文从最优传输、随机控制和路径空间优化等角度出发，重点介绍了其动态公式及其与现代生成建模的直接联系，并构建了一个从第一性原理构建薛定谔桥的综合工具包。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -459,32 +1084,7 @@ At the core of modern generative modeling frameworks, including diffusion models
 
 ---
 
-### 19. [Unleashing the Power of Simplicity: A Minimalist Strategy for State-of-the-Art Fingerprint Enhancement](https://arxiv.org/abs/2603.19004)
-
-**基本信息**
-
-- 🔗 arXiv: [`2603.19004`](https://arxiv.org/abs/2603.19004)
-- 👥 作者: Raffaele Cappelli
-- 📄 PDF: [下载](https://arxiv.org/pdf/2603.19004.pdf)
-
-**💡 相关性分析**
-
-满足标准2：论文提出的指纹图像增强方法，特别是其基于学习的方法和开源实现，为化学信息学和质谱分析领域提供了一个潜在的、可用于信号预处理或图像式谱图增强的工具或算法参考。虽然应用领域不同，但信号/图像增强的核心技术具有跨领域迁移的潜力。
-
-**📖 中文摘要**
-
-本文提出了一种极简主义的指纹增强方法，旨在提高指纹识别系统中关键点提取的准确性。论文引入了两种新方法：上下文过滤方法和基于学习的方法。这些方法在具有挑战性的潜指纹数据库上得到验证， consistently outperforms 复杂的现有方法，产生更清晰、更准确、噪声更少的图像。研究强调了简单性在实现高质量指纹增强中的重要性。
-
-<details>
-<summary><b>🔍 查看原文摘要</b></summary>
-
-Fingerprint recognition systems, which rely on the unique characteristics of human fingerprints, are essential in modern security and verification applications. Accurate minutiae extraction, a critical step in these systems, depends on the quality of fingerprint images. Despite recent improvements in fingerprint enhancement techniques, state-of-the-art methods often struggle with low-quality fingerprints and can be computationally demanding. This paper presents a minimalist approach to fingerprint enhancement, prioritizing simplicity and effectiveness. Two novel methods are introduced: a contextual filtering method and a learning-based method. These techniques consistently outperform complex state-of-the-art methods, producing clearer, more accurate, and less noisy images. The effectiveness of these methods is validated using a challenging latent fingerprint database. The open-source implementation of these techniques not only fosters reproducibility but also encourages further advancements in the field. The findings underscore the importance of simplicity in achieving high-quality fingerprint enhancement and suggest that future research should balance complexity and practical benefits.
-
-</details>
-
----
-
-### 20. [SHAPCA: Consistent and Interpretable Explanations for Machine Learning Models on Spectroscopy Data](https://arxiv.org/abs/2603.19141)
+### 44. [SHAPCA: Consistent and Interpretable Explanations for Machine Learning Models on Spectroscopy Data](https://arxiv.org/abs/2603.19141)
 
 **基本信息**
 
@@ -494,11 +1094,11 @@ Fingerprint recognition systems, which rely on the unique characteristics of hum
 
 **💡 相关性分析**
 
-满足标准2：论文提出了一种专门用于光谱数据分析的可解释机器学习流程（SHAPCA），这为化学信息学领域（质谱分析是光谱分析的一种）提供了可用于模型解释和分析的工具资源。
+满足标准2：论文提出的SHAPCA框架专门用于处理和分析光谱数据（如化学或生物医学光谱），这是一种典型的化学信息学数据类型。该框架提供了从高维光谱数据中提取稳定、可解释特征的工具和方法，这些工具和方法可直接应用于化学信息学领域，用于构建和理解基于机器学习的化学分析模型。
 
 **📖 中文摘要**
 
-本文提出了一种名为SHAPCA的可解释机器学习流程，用于分析光谱数据。该流程结合了主成分分析（PCA）进行降维和SHAP（Shapley Additive exPlanations）进行事后解释，旨在为化学和生物医学分析中的光谱数据集提供稳定、一致且可解释的模型预测解释。文章指出，光谱数据固有的高维度和强共线性对模型的可解释性构成了根本挑战，容易导致特征重要性在不同训练轮次中波动。SHAPCA框架通过将解释映射回原始输入空间，使从业者能够将预测与生物成分联系起来，从而从全局和局部两个角度进行分析。这项工作直接面向化学信息学领域（特别是光谱分析）的机器学习应用，解决了该领域模型可解释性的关键需求。
+本文提出了一种名为SHAPCA的可解释机器学习流程，用于处理高维、强共线性的光谱数据（如化学或生物医学光谱）。该流程结合了主成分分析（PCA）进行降维和SHAP（Shapley Additive exPlanations）进行事后解释，旨在为模型预测提供稳定、一致且可解释的特征重要性分析。SHAPCA能够将解释映射回原始输入空间（即光谱波段），使研究人员和从业者能够将模型决策与潜在的生物或化学组分联系起来。该研究通过数值分析证明了该方法在多次运行中具有更高的解释一致性和稳定性。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -509,82 +1109,7 @@ In recent years, machine learning models have been increasingly applied to spect
 
 ---
 
-### 21. [Sparse Autoencoders Reveal Interpretable and Steerable Features in VLA Models](https://arxiv.org/abs/2603.19183)
-
-**基本信息**
-
-- 🔗 arXiv: [`2603.19183`](https://arxiv.org/abs/2603.19183)
-- 👥 作者: Aiden Swann, Lachlain McGranahan, Hugo Buurmeijer 等5人
-- 📄 PDF: [下载](https://arxiv.org/pdf/2603.19183.pdf)
-
-**💡 相关性分析**
-
-满足标准1：论文的核心研究内容是应用机制可解释性技术（稀疏自编码器）来分析和理解视觉-语言-动作（VLA）模型的内部表征与泛化能力。VLA模型是化学大模型（特别是多模态大模型）在机器人领域的具体应用和延伸，其内部表征学习的研究对于理解大模型的工作原理具有普遍意义。
-
-**📖 中文摘要**
-
-本文研究了视觉-语言-动作（VLA）模型在机器人操作中的内部工作机制。作者应用机制可解释性技术，特别是稀疏自编码器（SAEs），来分析和理解VLA模型的内部表征。研究发现，大多数提取的SAE特征对应于特定训练演示的记忆序列，但也有一些特征对应于可解释、通用且可引导的运动基元和语义属性。作者提出了一个指标来根据特征是代表可泛化的可迁移基元还是特定情节的记忆来对特征进行分类。通过在LIBERO基准测试上的引导实验，验证了单个SAE特征可以因果性地影响机器人行为。这项工作为VLA模型能够跨任务和场景学习可泛化特征提供了首个机制性证据，并讨论了不同训练数据策略（如监督微调与在更大、更多样化数据集上训练）对特征泛化性的影响。
-
-<details>
-<summary><b>🔍 查看原文摘要</b></summary>
-
-Vision-Language-Action (VLA) models have emerged as a promising approach for general-purpose robot manipulation. However, their generalization is inconsistent: while these models can perform impressively in some settings, fine-tuned variants often fail on novel objects, scenes, and instructions. We apply mechanistic interpretability techniques to better understand the inner workings of VLA models. To probe internal representations, we train Sparse Autoencoders (SAEs) on hidden layer activations of the VLA. SAEs learn a sparse dictionary whose features act as a compact, interpretable basis for the model's computation. We find that the large majority of extracted SAE features correspond to memorized sequences from specific training demonstrations. However, some features correspond to interpretable, general, and steerable motion primitives and semantic properties, offering a promising glimpse toward VLA generalizability. We propose a metric to categorize features according to whether they represent generalizable transferable primitives or episode-specific memorization. We validate these findings through steering experiments on the LIBERO benchmark. We show that individual SAE features causally influence robot behavior. Steering general features induces behaviors consistent with their semantic meaning and can be applied across tasks and scenes. This work provides the first mechanistic evidence that VLAs can learn generalizable features across tasks and scenes. We observe that supervised fine-tuning on small robotics datasets disproportionately amplifies memorization. In contrast, training on larger, more diverse datasets (e.g., DROID) or using knowledge insulation promotes more general features. We provide an open-source codebase and user-friendly interface for activation collection, SAE training, and feature steering. Our project page is located at this http URL
-
-</details>
-
----
-
-### 22. [MIDST Challenge at SaTML 2025: Membership Inference over Diffusion-models-based Synthetic Tabular data](https://arxiv.org/abs/2603.19185)
-
-**基本信息**
-
-- 🔗 arXiv: [`2603.19185`](https://arxiv.org/abs/2603.19185)
-- 👥 作者: Masoumeh Shafieinejad, Xi He, Mahshid Alinoori 等9人
-- 📄 PDF: [下载](https://arxiv.org/pdf/2603.19185.pdf)
-
-**💡 相关性分析**
-
-满足标准1和2：论文核心研究内容围绕评估扩散模型（一种生成式大模型）生成的合成数据的隐私性，这直接关联到“化学大模型”在生成化学数据时可能面临的隐私和安全评估问题。同时，该挑战赛催生了新的攻击方法并建立了评估基准，为相关领域提供了工具和资源。
-
-**📖 中文摘要**
-
-本文介绍了MIDST挑战赛，该挑战赛旨在定量评估由扩散模型生成的合成表格数据的隐私增益，特别关注其对成员推理攻击（MIAs）的抵抗力。鉴于表格数据的异质性和复杂性，挑战赛探索了多种目标模型进行MIA，包括用于混合数据类型单表的扩散模型和具有互连约束的多关系表。MIDST挑战赛的一个关键成果是启发了针对这些目标扩散模型的新型黑盒和白盒MIA的开发，从而能够全面评估其隐私效力。该工作聚焦于扩散模型在生成合成数据时的隐私问题，虽然主要背景是表格数据，但其核心——评估生成模型（扩散模型）的隐私弹性——与构建和评估化学信息学中用于数据生成或增强的“化学大模型”所面临的挑战（如数据隐私、生成质量评估）在方法论上高度相关。
-
-<details>
-<summary><b>🔍 查看原文摘要</b></summary>
-
-Synthetic data is often perceived as a silver-bullet solution to data anonymization and privacy-preserving data publishing. Drawn from generative models like diffusion models, synthetic data is expected to preserve the statistical properties of the original dataset while remaining resilient to privacy attacks. Recent developments of diffusion models have been effective on a wide range of data types, but their privacy resilience, particularly for tabular formats, remains largely unexplored. MIDST challenge sought a quantitative evaluation of the privacy gain of synthetic tabular data generated by diffusion models, with a specific focus on its resistance to membership inference attacks (MIAs). Given the heterogeneity and complexity of tabular data, multiple target models were explored for MIAs, including diffusion models for single tables of mixed data types and multi-relational tables with interconnected constraints. MIDST inspired the development of novel black-box and white-box MIAs tailored to these target diffusion models as a key outcome, enabling a comprehensive evaluation of their privacy efficacy. The MIDST GitHub repository is available at this https URL
-
-</details>
-
----
-
-### 23. [RPiAE: A Representation-Pivoted Autoencoder Enhancing Both Image Generation and Editing](https://arxiv.org/abs/2603.19206)
-
-**基本信息**
-
-- 🔗 arXiv: [`2603.19206`](https://arxiv.org/abs/2603.19206)
-- 👥 作者: Yue Gong, Hongyu Li, Shanyuan Liu 等11人
-- 📄 PDF: [下载](https://arxiv.org/pdf/2603.19206.pdf)
-
-**💡 相关性分析**
-
-满足标准1：论文的核心研究内容是改进扩散模型的视觉表示学习与标记化方法（RPiAE）。这是构建和理解多模态大模型（可视为“化学大模型”在视觉模态上的技术基础）底层架构和表征能力的重要研究方向。
-
-**📖 中文摘要**
-
-本文提出了Representation-Pivoted AutoEncoder（RPiAE），一种基于表示的标记器，旨在同时改进图像生成和编辑。该方法针对潜在扩散模型中标记器的局限性，引入了一种训练策略（Representation-Pivot Regularization），使经过表示初始化的编码器能够在微调以进行重建的同时，保留预训练表示空间的语义结构。随后通过一个变分桥将潜在空间压缩为一个更紧凑的空间，以利于扩散建模。采用分阶段训练策略，依次优化生成可处理性和重建保真度目标。实验表明，RPiAE在文本到图像生成和图像编辑方面优于其他视觉标记器，同时在基于表示的标记器中提供了最佳的重建保真度。这项工作专注于改进扩散模型的视觉编码/标记化部分，这是构建高性能多模态大模型（包括可能的化学大模型）的关键组件之一。
-
-<details>
-<summary><b>🔍 查看原文摘要</b></summary>
-
-Diffusion models have become the dominant paradigm for image generation and editing, with latent diffusion models shifting denoising to a compact latent space for efficiency and scalability. Recent attempts to leverage pretrained visual representation models as tokenizer priors either align diffusion features to representation features or directly reuse representation encoders as frozen tokenizers. Although such approaches can improve generation metrics, they often suffer from limited reconstruction fidelity due to frozen encoders, which in turn degrades editing quality, as well as overly high-dimensional latents that make diffusion modeling difficult. To address these limitations, We propose Representation-Pivoted AutoEncoder, a representation-based tokenizer that improves both generation and editing. We introduce Representation-Pivot Regularization, a training strategy that enables a representation-initialized encoder to be fine-tuned for reconstruction while preserving the semantic structure of the pretrained representation space, followed by a variational bridge which compress latent space into a compact one for better diffusion modeling. We adopt an objective-decoupled stage-wise training strategy that sequentially optimizes generative tractability and reconstruction-fidelity objectives. Together, these components yield a tokenizer that preserves strong semantics, reconstructs faithfully, and produces latents with reduced diffusion modeling complexity. Experiments demonstrate that RPiAE outperforms other visual tokenizers on text-to-image generation and image editing, while delivering the best reconstruction fidelity among representation-based tokenizers.
-
-</details>
-
----
-
-### 24. [Generative Replica-Exchange: A Flow-based Framework for Accelerating Replica Exchange Simulations](https://arxiv.org/abs/2603.18076)
+### 45. [Generative Replica-Exchange: A Flow-based Framework for Accelerating Replica Exchange Simulations](https://arxiv.org/abs/2603.18076)
 
 **基本信息**
 
@@ -594,11 +1119,11 @@ Diffusion models have become the dominant paradigm for image generation and edit
 
 **💡 相关性分析**
 
-满足标准1：论文的核心研究内容是利用深度生成模型（归一化流）来加速分子模拟采样。这直接属于化学信息学中利用机器学习/生成模型解决化学和分子科学问题的范畴，可视为一种面向化学领域的“大模型”应用。
+满足标准1：论文的核心研究内容围绕开发一种用于加速分子模拟的生成模型（GREX），这直接属于“化学大模型”主题，旨在解决计算化学中的采样挑战。
 
 **📖 中文摘要**
 
-本文提出了一种生成式副本交换（GREX）方法，将深度生成模型（特别是归一化流）集成到副本交换分子动力学（REX）框架中，以加速分子模拟采样。该方法利用训练好的归一化流按需生成高温构型，并通过势能约束将其直接映射到目标分布，从而消除了对大量中间温度副本的需求，将生产模拟简化为目标温度下的单个副本。该方法在三个复杂度递增的基准系统上进行了验证，证明了其在分子模拟中的优越效率和实际适用性。
+本文提出了生成式副本交换（GREX），这是一种将深度生成模型（特别是归一化流）集成到副本交换（REX）模拟框架中的新方法。GREX旨在通过消除对大量中间温度副本的需求来加速分子模拟。该方法利用训练好的归一化流按需生成高温构型，并使用势能作为约束将其直接映射到目标分布。这项工作与化学信息学中开发用于加速分子模拟和采样的新型生成模型（化学大模型）高度相关。它展示了一个将生成式AI与物理驱动模拟相结合的框架，可用于探索分子构象空间和自由能景观。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -609,7 +1134,7 @@ Replica exchange (REX) is one of the most widely used enhanced sampling methodol
 
 ---
 
-### 25. [Tackling the Sign Problem in the Doped Hubbard Model with Normalizing Flows](https://arxiv.org/abs/2603.18205)
+### 46. [Tackling the Sign Problem in the Doped Hubbard Model with Normalizing Flows](https://arxiv.org/abs/2603.18205)
 
 **基本信息**
 
@@ -619,11 +1144,11 @@ Replica exchange (REX) is one of the most widely used enhanced sampling methodol
 
 **💡 相关性分析**
 
-满足标准1：论文的核心研究内容是使用归一化流（一种生成模型）来解决量子化学/凝聚态物理中具有挑战性的计算问题（哈伯德模型模拟）。这属于化学信息学和计算化学中利用先进机器学习模型（大模型）进行模拟和推理的范畴。
+满足标准1：论文的核心研究内容是应用归一化流（一种生成模型/化学大模型）来解决量子化学和凝聚态物理中一个基础且具有挑战性的问题（哈伯德模型的符号问题），属于化学大模型在基础科学计算中的应用。
 
 **📖 中文摘要**
 
-本文研究了掺杂哈伯德模型在有限化学势下的模拟问题，该模型是理解掺杂关联系统的基石，但模拟受到符号问题的严重限制。作者扩展了在零掺杂（半填充）情况下使用归一化流的最新进展，通过引入退火方案实现遍历采样，将其应用于有限化学势情况。与在电荷基中采用的最先进的混合蒙特卡罗方法相比，该方法能准确再现精确对角化结果，同时将统计不确定性降低一个数量级，为模拟掺杂关联系统开辟了新途径。
+本文解决了掺杂哈伯德模型在有限化学势下的符号问题，这是理解掺杂相关系统的基石。作者扩展了在零掺杂（半填充）情况下使用归一化流的最新进展，通过引入退火方案实现对有限化学势情况的遍历采样。与在电荷基中使用的混合蒙特卡罗方法相比，该方法在减少统计不确定性的同时，能准确再现精确对角化结果。这项工作展示了归一化流（一种生成模型）在解决量子多体物理中关键计算瓶颈方面的应用。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -634,7 +1159,7 @@ The Hubbard model at finite chemical potential is a cornerstone for understandin
 
 ---
 
-### 26. [A Hybrid Conditional Diffusion-DeepONet Framework for High-Fidelity Stress Prediction in Hyperelastic Materials](https://arxiv.org/abs/2603.18225)
+### 47. [A Hybrid Conditional Diffusion-DeepONet Framework for High-Fidelity Stress Prediction in Hyperelastic Materials](https://arxiv.org/abs/2603.18225)
 
 **基本信息**
 
@@ -644,11 +1169,11 @@ The Hubbard model at finite chemical potential is a cornerstone for understandin
 
 **💡 相关性分析**
 
-满足标准1：论文的核心研究内容是开发一种结合了条件扩散模型（cDDPM）和神经算子（DeepONet）的混合生成模型框架，用于解决材料科学中的物理场预测问题。这属于利用生成式人工智能（化学/材料领域的大模型）进行科学计算和推理的范畴。
+满足标准1：论文的核心方法依赖于条件扩散模型（cDDPM），这是一种生成模型，用于解决材料科学中的物理场预测问题。这属于生成模型（大模型）在科学计算和化学/材料建模中的应用范畴。
 
 **📖 中文摘要**
 
-本文提出了一种混合条件扩散-DeepONet框架（cDDPM-DeepONet），用于超弹性材料中复杂微结构的高保真应力预测。该框架将应力形态与幅值解耦：一个基于UNet主干的条件去噪扩散概率模型（cDDPM）生成以几何和载荷为条件的归一化冯·米塞斯应力场；同时，一个改进的DeepONet预测全局缩放参数（最小和最大应力），从而重建全分辨率物理应力图。这种分离使扩散模型专注于空间结构，而算子网络校正全局幅值，减轻了光谱和缩放偏差。
+本文提出了一种混合条件扩散-DeepONet框架（cDDPM-DeepONet），用于超弹性材料中高保真应力预测。该框架将应力形态与幅值解耦：一个基于UNet的条件去噪扩散概率模型（cDDPM）生成归一化的冯·米塞斯应力场，而一个改进的DeepONet预测全局缩放参数。这种方法允许扩散模型专注于空间结构，同时算子网络校正全局幅度，从而减轻光谱和缩放偏差。该工作展示了扩散模型（一种强大的生成模型）与神经算子相结合，用于解决具有复杂微观结构的材料中的物理场预测问题。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -659,32 +1184,32 @@ Predicting stress fields in hyperelastic materials with complex microstructures 
 
 ---
 
-### 27. [Impact of automatic speech recognition quality on Alzheimer's disease detection from spontaneous speech: a reproducible benchmark study with lexical modeling and statistical validation](https://arxiv.org/abs/2603.18239)
+### 48. [Nonlinear Incompressible Shear Wave Models in Hyperelasticity and Viscoelasticity Frameworks, with Applications to Love Waves](https://arxiv.org/abs/2603.18296)
 
 **基本信息**
 
-- 🔗 arXiv: [`2603.18239`](https://arxiv.org/abs/2603.18239)
-- 👥 作者: Himadri Samanta
-- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18239.pdf)
+- 🔗 arXiv: [`2603.18296`](https://arxiv.org/abs/2603.18296)
+- 👥 作者: Shawn Samuel Carl McAdam, Samuel Opoku Agyemang, Alexei Cheviakov
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.18296.pdf)
 
 **💡 相关性分析**
 
-满足标准1：论文的核心研究内容是评估和利用大规模预训练模型（Whisper ASR）的输出（转录本）作为特征，来构建和优化下游的疾病检测模型。这涉及使用大模型（Whisper）作为特征提取器或数据处理工具，属于化学信息学/生物信息学中利用AI模型进行生物标志物发现和推理的广义范畴。
+满足标准1：论文的核心研究内容围绕为一大类材料（包括超粘弹性材料）建立通用的波传播模型。虽然不直接使用“大模型”，但其对材料本构关系的建模是计算化学和材料科学中物理信息模型的基础，与基于物理的化学信息学模型相关。
 
 **📖 中文摘要**
 
-本研究调查了自动语音识别（ASR）质量对基于自发语音的阿尔茨海默病检测中下游临床语言建模的影响。研究使用Whisper ASR转录本在ADReSSo 2021诊断数据集上提取词汇特征，并评估可解释的机器学习模型（如逻辑回归和线性支持向量机）。结果表明，转录质量对分类性能有统计学上的显著影响。使用Whisper-small转录本训练的模型 consistently outperforms those using Whisper-base transcripts。特征分析揭示了认知正常说话者和阿尔茨海默病患者在语言模式上的差异。这些发现表明，高质量的ASR可以使简单、可解释的词汇模型在不进行显式声学建模的情况下实现有竞争力的阿尔茨海默病检测性能。
+本文提出了不可压缩超弹性材料中剪切位移的通用方程，并将其应用于描述在具有不同机械性能的材料界面上传播的非线性Love型波。该模型适用于一大类超粘弹性材料。对于三次Yeoh模型，剪切波方程包含三次和五次微分多项式项，以及以材料位移的混合导数项形式出现的粘弹性贡献。这项工作为理解和模拟复杂材料（如生物组织或聚合物）中的波传播提供了理论基础，这些材料的力学响应通常通过超弹性本构模型来描述。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
 
-Early detection of Alzheimer's disease from spontaneous speech has emerged as a promising non-invasive screening approach. However, the influence of automatic speech recognition (ASR) quality on downstream clinical language modeling remains insufficiently understood. In this study, we investigate Alzheimer's disease detection using lexical features derived from Whisper ASR transcripts on the ADReSSo 2021 diagnosis dataset. We evaluate interpretable machine-learning models, including Logistic Regression and Linear Support Vector Machines, using TF-IDF text representations under repeated 5x5 stratified cross-validation. Our results demonstrate that transcript quality has a statistically significant impact on classification performance. Models trained on Whisper-small transcripts consistently outperform those using Whisper-base transcripts, achieving balanced accuracy above 0.7850 with Linear SVM. Paired statistical testing confirms that the observed improvements are significant. Importantly, classifier complexity contributes less to performance variation than ASR transcription quality. Feature analysis reveals that cognitively normal speakers produce more semantically precise object- and scene-descriptive language, whereas Alzheimer's speech is characterized by vagueness, discourse markers, and increased hesitation patterns. These findings suggest that high-quality ASR can enable simple, interpretable lexical models to achieve competitive Alzheimer's detection performance without explicit acoustic modeling. The study provides a reproducible benchmark pipeline and highlights ASR selection as a critical modeling decision in clinical speech-based artificial intelligence systems.
+General equations describing shear displacements in incompressible hyperelastic materials, holding for an arbitrary form of strain energy density function, are presented and applied to the description of nonlinear Love-type waves propagating on an interface between materials with different mechanical properties. The model is valid for a broad class of hyper-viscoelastic materials. For a cubic Yeoh model, shear wave equations contain cubic and quintic differential polynomial terms, including viscoelasticity contributions in terms of dispersion terms that include mixed derivatives $u_{xxt}$ of the material displacement. Full (2+1)-dimensional numerical simulations of waves propagating in the bulk of a two-layered solid are undertaken and analyzed with respect to the source position and mechanical properties of the layers. Interfacial nonlinear Love waves and free upper surface shear waves are tracked; it is demonstrated that in the fully nonlinear case, the variable wave speed of interface and surface waves generally satisfies the linear Love wave existence condition $c_1 < \abs{v} < c_2$, while tending to the larger material wave speed $c_1$ or $c_2$ for large times.
 
 </details>
 
 ---
 
-### 28. [An SO(3)-equivariant reciprocal-space neural potential for long-range interactions](https://arxiv.org/abs/2603.18389)
+### 49. [An SO(3)-equivariant reciprocal-space neural potential for long-range interactions](https://arxiv.org/abs/2603.18389)
 
 **基本信息**
 
@@ -694,11 +1219,11 @@ Early detection of Alzheimer's disease from spontaneous speech has emerged as a 
 
 **💡 相关性分析**
 
-满足标准1：论文的核心研究内容是开发一种新的、具有物理原则的机器学习原子间势（MLIP），专门设计用于捕获分子和凝聚相系统中的长程相互作用。这直接属于化学信息学和计算化学中利用等变神经网络（可视为一种特定领域的“大模型”）进行高精度分子模拟和性质预测的范畴。
+满足标准1：论文的核心研究内容是开发一种新的等变神经原子间势（EquiEwald），这是一种专门用于分子和材料模拟的机器学习模型（化学大模型）。它直接解决了当前模型在捕获长程相互作用方面的局限性，是化学大模型领域的前沿工作。
 
 **📖 中文摘要**
 
-本文介绍了EquiEwald，一种统一的神经原子间势，将受Ewald启发的倒空间公式嵌入到不可约SO(3)-等变框架中。通过在倒空间中进行等变消息传递（使用学习到的等变k空间滤波器和等变逆变换），EquiEwald能够捕获各向异性、张量化的长程关联，而不牺牲物理一致性。在周期和非周期基准测试中，EquiEwald捕获了与从头算参考数据一致的长程静电行为，并 consistently improves energy and force accuracy, data efficiency, and long-range extrapolation。
+本文介绍了EquiEwald，一种统一的神经原子间势，它将受Ewald启发的倒空间公式嵌入到不可约SO(3)等变框架中。通过学习的等变k空间滤波器和等变逆变换在倒空间中进行等变消息传递，EquiEwald能够捕获各向异性、张量化的长程关联，同时不牺牲物理一致性。在周期性和非周期性基准测试中，EquiEwald捕获了与从头算参考数据一致的长程静电行为，并持续提高了能量和力的准确性、数据效率以及长程外推能力。这项工作代表了机器学习原子间势（MLIPs）发展的一个重要进步，MLIPs是化学信息学和计算材料科学中“化学大模型”的核心组成部分。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -709,7 +1234,7 @@ Long-range electrostatic and polarization interactions play a central role in mo
 
 ---
 
-### 29. [Multi-Domain Causal Empirical Bayes Under Linear Mixing](https://arxiv.org/abs/2603.18404)
+### 50. [Multi-Domain Causal Empirical Bayes Under Linear Mixing](https://arxiv.org/abs/2603.18404)
 
 **基本信息**
 
@@ -719,11 +1244,11 @@ Long-range electrostatic and polarization interactions play a central role in mo
 
 **💡 相关性分析**
 
-满足标准1：论文的核心研究内容是因果表示学习（CRL），旨在从高维观察中学习低维因果潜变量。这属于机器学习的基础研究，但其方法论（特别是涉及多领域数据和经验贝叶斯）对于构建能够进行因果推理的“化学大模型”或任何科学领域的分析模型具有核心意义。
+满足标准1：论文的核心研究内容是因果表示学习，这是一种从观测数据中推断潜在变量（如分子结构或性质）之间因果关系的方法论。这与“质谱结构推理”中从质谱数据推断分子结构的逆问题在本质上相似，都是基于数据的结构推断。
 
 **📖 中文摘要**
 
-本文探讨了使用经验贝叶斯（EB）来估计因果表示。具体而言，考虑了从多个领域的数据中学习的问题，其中领域间的差异通过共享底层因果模型中的干预来建模。多领域因果表示学习自然地提出了一个同时推理问题，而经验贝叶斯正是为解决此类问题而设计的。作者提出了一种EB f-建模算法，通过利用领域内和领域间的不变结构来提高学习到的因果变量的质量。具体考虑了一个线性测量模型和由共享无环结构因果模型产生的干预先验。
+本文探讨了使用经验贝叶斯（EB）从多领域数据中估计因果表示。具体考虑了多个领域的数据，其中领域间的差异通过共享底层因果模型中的干预来建模。多领域因果表示学习自然提出了一个同时推理的问题，而经验贝叶斯正是为解决此类问题而设计的。作者提出了一种EB f-建模算法，通过利用领域内和领域间的不变结构来提高学习到的因果变量的质量。具体考虑了一个线性测量模型和由共享无环结构因果模型产生的干预先验。这项工作与从观测数据中推断分子结构或反应网络等化学信息学问题在方法论上相关，都属于从数据中学习因果关系的范畴。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -734,7 +1259,7 @@ Causal representation learning (CRL) aims to learn low-dimensional causal latent
 
 ---
 
-### 30. [Recovering Sparse Neural Connectivity from Partial Measurements: A Covariance-Based Approach with Granger-Causality Refinement](https://arxiv.org/abs/2603.18497)
+### 51. [Recovering Sparse Neural Connectivity from Partial Measurements: A Covariance-Based Approach with Granger-Causality Refinement](https://arxiv.org/abs/2603.18497)
 
 **基本信息**
 
@@ -744,11 +1269,11 @@ Causal representation learning (CRL) aims to learn low-dimensional causal latent
 
 **💡 相关性分析**
 
-满足标准1：论文的核心研究内容是开发一种从部分观测数据中推断神经网络连接性（即结构）的算法。虽然应用背景是神经科学，但其核心问题——从观测数据中推理底层结构——与质谱结构推理（从质谱数据推断分子结构）在方法论上高度相似，都属于从复杂数据中逆向工程生成模型的参数或结构。
+满足标准1：论文提出了一种从部分观测数据中推断网络（图）结构的方法。这与“质谱结构推理”的核心挑战——从质谱信号（部分观测）推断分子图结构（原子连接性）——在问题形式上高度相关，都属于基于数据的图结构逆推问题。
 
 **📖 中文摘要**
 
-本文提出了一种基于协方差的方法，用于从跨多个记录会话的稀疏、部分观测中估计递归神经网络的权重矩阵。通过累积不同神经元子集被观测到的会话中的成对协方差估计，无需同时记录所有神经元即可重建完整的连接矩阵。一个基于投影梯度下降的格兰杰因果细化步骤通过生物物理约束来增强估计。通过在模拟小脑回路合成网络上的系统实验，作者描述了一个基本的控制-估计权衡：刺激有助于可识别性但会破坏内在动力学，其最佳水平取决于测量密度。
+本文提出了一种基于协方差的方法，用于从跨多个记录会话的稀疏、部分观测中估计递归神经网络的权重矩阵。通过积累不同神经元子集被观测到的会话间的成对协方差估计，可以在不需要同时记录所有神经元的情况下重建完整的连接矩阵。一个格兰杰因果细化步骤通过投影梯度下降强制执行生物学约束。这项工作为从神经活动数据中推断网络连接性提供了一个计算框架。虽然应用于神经科学，但其从部分、多会话观测中推断网络结构的核心方法论与从碎片化质谱数据（如MS/MS谱图）中推断分子连接性（化学结构）的问题具有概念上的相似性。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -759,7 +1284,7 @@ Inferring the connectivity of neural circuits from incomplete observations is a 
 
 ---
 
-### 31. [End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration](https://arxiv.org/abs/2603.18554)
+### 52. [End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration](https://arxiv.org/abs/2603.18554)
 
 **基本信息**
 
@@ -769,11 +1294,11 @@ Inferring the connectivity of neural circuits from incomplete observations is a 
 
 **💡 相关性分析**
 
-满足标准1：论文的核心研究内容是量子生成对抗网络（QGAN），这是一种用于在量子设备上学习数据分布的生成模型。这属于利用新兴计算范式（量子计算）构建生成模型（“大模型”的一种形式）的前沿研究，与化学信息学中探索量子机器学习用于分子生成的兴趣点相关。
+满足标准1：论文的核心研究内容是量子生成对抗网络（QGAN），这是生成模型（大模型）在量子计算硬件上的实现。虽然应用是图像生成，但其框架和方法对将来开发用于分子或材料设计的量子化学大模型具有启发性。
 
 **📖 中文摘要**
 
-本文提出了ReQGAN，一个用于图像合成的端到端量子生成对抗网络框架。该框架使用单个D量子电路合成整个N=2^D像素的图像，克服了阻碍直接像素生成的两个基本瓶颈：（1）僵化的经典到量子噪声接口，以及（2）归一化量子统计量与所需像素强度空间之间的输出失配。作者引入了可学习的神经噪声编码器用于自适应状态准备，以及可微分的强度校准模块，将测量结果映射到稳定、视觉有意义的像素域。在MNIST和Fashion-MNIST上的实验表明，ReQGAN在严格的量子比特预算下实现了稳定的训练和有效的图像合成。
+本文提出了ReQGAN，一个用于图像合成的端到端量子生成对抗网络框架。ReQGAN使用单个D量子电路合成整个N=2^D像素的图像，克服了阻碍直接像素生成的两个基本瓶颈：1）僵化的经典到量子噪声接口；2）归一化量子统计量与所需像素强度空间之间的输出失配。作者引入了可学习的神经噪声编码器用于自适应状态准备，以及可微强度校准模块以将测量结果映射到稳定、视觉有意义的像素域。这项工作代表了量子机器学习在生成建模方面的探索，是“化学大模型”在量子计算范式下的一个潜在实例，未来可能应用于生成分子结构或材料。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -784,7 +1309,7 @@ Quantum Generative Adversarial Networks (QGANs) offer a promising path for learn
 
 ---
 
-### 32. [DeePAW: A universal machine learning model for orbital-free ab initio calculations](https://arxiv.org/abs/2603.18650)
+### 53. [DeePAW: A universal machine learning model for orbital-free ab initio calculations](https://arxiv.org/abs/2603.18650)
 
 **基本信息**
 
@@ -794,11 +1319,11 @@ Quantum Generative Adversarial Networks (QGANs) offer a promising path for learn
 
 **💡 相关性分析**
 
-满足标准1：论文的核心研究内容是开发一种通用的、覆盖多元素的机器学习原子间势（MLIP），用于高精度、高效率的无轨道密度泛函理论计算。这直接是化学信息学和计算材料学中“大模型”的典范：一个单一模型能够处理多种元素和结构，进行电子密度和能量预测，是替代传统量子化学计算的有力工具。
+满足标准1：论文的核心研究内容是开发DeePAW，一种用于无轨道密度泛函理论的通用机器学习势能模型。这是化学信息学和计算材料科学中“化学大模型”的典型代表，旨在用AI替代或加速传统的量子化学计算。
 
 **📖 中文摘要**
 
-本文提出了深度增强波模型（DeePAW），这是一种用于无轨道（OF）从头算计算的通用机器学习模型，基于密度泛函理论（DFT）。DeePAW是目前最好的OFDFT ML模型，覆盖了最大数量的元素，具有最广泛的不同晶体结构应用能力，并且在不进行进一步微调的情况下实现了最高的预测精度。DeePAW的科学优点和创新源于新颖的SE(3)-等变双消息传递神经网络。除了预测电子密度分布外，DeePAW还能预测晶体的形成能，从而为超越传统电子结构计算方法的跨尺度材料建模开辟了一条高效途径。
+本文提出了深度增强方式模型（DeePAW），这是一种用于无轨道（OF）从头算计算的通用机器学习模型，基于密度泛函理论（DFT）。DeePAW是目前最好的OFDFT ML模型，覆盖元素数量最多，对多样晶体结构的应用能力最广，并且在不进一步微调的情况下实现了最高的预测精度。DeePAW的科学优点和创新源于新颖的SE(3)-等变双消息传递神经网络。除了预测电子密度分布，DeePAW还能预测晶体的形成能。这项工作为多尺度材料建模开辟了一条超越传统电子结构计算方法的有效途径。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -809,7 +1334,7 @@ Developing universal machine learning models for ab initio calculations is the f
 
 ---
 
-### 33. [Data-driven construction of machine-learning-based interatomic potentials for gas-surface scattering dynamics: the case of NO on graphite](https://arxiv.org/abs/2603.18864)
+### 54. [Data-driven construction of machine-learning-based interatomic potentials for gas-surface scattering dynamics: the case of NO on graphite](https://arxiv.org/abs/2603.18864)
 
 **基本信息**
 
@@ -819,11 +1344,11 @@ Developing universal machine learning models for ab initio calculations is the f
 
 **💡 相关性分析**
 
-满足标准1：论文的核心研究内容是针对一个具体的化学物理问题（气体-表面散射），构建一个专用的机器学习原子间势（MLIP）。这体现了化学信息学中“针对特定问题定制大模型”的研究范式，涉及描述符工程、主动学习等关键化学信息学技术，用于实现高精度、高效率的分子动力学模拟。
+满足标准1：论文的核心研究内容是为气-表面散射系统开发机器学习原子间势（MLIP）。MLIP是化学大模型在分子动力学模拟中的关键应用。此外，其数据驱动的工作流程（描述符分析、主动学习）是构建高质量化学大模型的代表性方法。
 
 **📖 中文摘要**
 
-本文开发了一种数据驱动的工作流程，用于构建专门针对气体-表面散射动力学的机器学习原子间势（MLIP），以一氧化氮（NO）在高度取向热解石墨（HOPG）上的散射作为基准系统。工作流程从初始的从头算分子动力学数据集开始，使用SOAP描述符描述局部原子环境，并通过主成分分析在降维特征空间中进行分析。然后使用最远点采样构建紧凑的训练集，并通过基于委员会的主动学习策略，利用从扩展入射能量和表面温度范围的分子动力学模拟中提取的额外构型来细化得到的深度势模型。最终的MLIP以远低于AIMD的计算成本，实现了对NO在石墨上散射的大规模分子动力学模拟。
+本文为气-表面散射动力学构建了一个数据驱动的工作流程，用于构建机器学习原子间势（MLIP），以一氧化氮（NO）在石墨上的散射作为基准系统。该工作流程从初始的从头算分子动力学数据集开始，使用SOAP描述符描述局部原子环境，并通过主成分分析在降维的特征空间中进行分析。然后使用最远点采样构建紧凑的训练集，并通过基于委员会的主动学习策略，利用从扩展入射能量和表面温度范围的分子动力学模拟中提取的额外构型来细化最终的深度势能模型。最终的MLIP以远低于AIMD的计算成本实现了大规模NO散射分子动力学模拟。这项工作展示了为气-表面相互作用构建MLIP的高效且可转移的策略。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -834,7 +1359,7 @@ Accurate atomistic simulations of gas-surface scattering require potential energ
 
 ---
 
-### 34. [Improving moment tensor solutions under Earth structure uncertainty with simulation-based inference](https://arxiv.org/abs/2603.18925)
+### 55. [Improving moment tensor solutions under Earth structure uncertainty with simulation-based inference](https://arxiv.org/abs/2603.18925)
 
 **基本信息**
 
@@ -844,11 +1369,7 @@ Accurate atomistic simulations of gas-surface scattering require potential energ
 
 **💡 相关性分析**
 
-满足标准1：论文的核心研究内容是使用模拟推理（SBI，一种基于生成模型/似然自由推理的机器学习方法）来改进地球物理中的矩张量反演。这属于利用先进的生成式AI方法（大模型推理技术）解决科学中的逆问题，其方法论与从复杂数据（如质谱）中推断底层参数（如分子结构）的“推理”问题在本质上相通。
-
-**📖 中文摘要**
-
-本文介绍了一种利用模拟推理（SBI）处理理论误差的稳健方法，用于全波形矩张量反演。SBI是一种机器学习方法，可以凭经验建模理论误差对观测的影响。该框架保留了贝叶斯推理的严谨性，同时避免了对不确定性函数形式的限制性假设。作者首先证明了在轻微（1-3%）的一维地球模型不确定性下，理论误差的常见高斯参数化会失效。为了解决这个问题，他们开发了两种利用SBI来提高矩张量解质量的形式：一种基于对理论误差的物理洞察，另一种利用端到端的深度学习算法。结果表明，高斯假设会导致偏差并显著低估矩张量的不确定性，而SBI则能产生更可靠、校准更好的地震源机制后验分布。
+满足标准1：论文的核心方法是利用模拟推理（SBI）这一机器学习技术来解决地球物理学中的逆问题（矩张量反演）。这与“质谱结构推理”同属基于数据的逆问题求解范畴，方法论上具有参考价值。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -859,7 +1380,7 @@ Bayesian inference represents a principled way to incorporate Earth structure un
 
 ---
 
-### 35. [BSTModelKit.jl: A Julia Package for Constructing, Solving, and Analyzing Biochemical Systems Theory Models](https://arxiv.org/abs/2603.19115)
+### 56. [BSTModelKit.jl: A Julia Package for Constructing, Solving, and Analyzing Biochemical Systems Theory Models](https://arxiv.org/abs/2603.19115)
 
 **基本信息**
 
@@ -869,11 +1390,11 @@ Bayesian inference represents a principled way to incorporate Earth structure un
 
 **💡 相关性分析**
 
-满足标准2：论文的核心内容是发布了一个用于生化系统建模和模拟的软件工具包（BSTModelKit.jl）。该工具提供了构建和分析BST模型（一种用于代谢网络的数学模型）的资源，可用于生成模拟数据或作为更大建模管道的一部分。这为化学信息学和系统生物学领域的研究人员提供了可直接使用的数据和工具资源。
+满足标准2：论文介绍了一个用于构建和分析生化系统理论模型的软件包（BSTModelKit.jl）。这提供了可用于化学信息学和系统生物学研究的数据处理、模型构建和模拟工具，符合“数据资源相关”标准。
 
 **📖 中文摘要**
 
-本文介绍了BSTModelKit.jl，一个用于构建、求解和分析生化系统理论（BST）模型的开源Julia软件包。该包实现了S-system表示法，这是一种用于建模代谢和调控网络的规范幂律形式主义。BSTModelKit.jl提供了声明式模型规范格式、通过常微分方程（ODE）积分进行动态模拟、稳态计算以及使用Morris和Sobol方法进行全局敏感性分析。该包利用Julia科学计算生态系统，特别是SciML微分方程求解器套件，提供高效灵活的模型分析工具。
+本文介绍了BSTModelKit.jl，一个用于构建、求解和分析生化系统理论（BST）模型的开源Julia软件包。该包实现了S-system表示法，这是一种用于建模代谢和调控网络的规范幂律形式主义。BSTModelKit.jl提供了声明式模型规范格式、通过常微分方程（ODE）积分的动态模拟、稳态计算以及使用Morris和Sobol方法的全局敏感性分析。该软件包利用Julia科学计算生态系统，特别是SciML微分方程求解器套件，提供高效灵活的模型分析工具。生化系统理论模型是系统生物学中用于建模生化网络的一类重要模型，属于化学信息学中计算模型的一个分支。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -884,7 +1405,7 @@ We present this http URL , an open-source Julia package for constructing, solvin
 
 ---
 
-### 36. [Variational and Annealing-Based Approaches to Quantum Combinatorial Optimization](https://arxiv.org/abs/2603.19117)
+### 57. [Variational and Annealing-Based Approaches to Quantum Combinatorial Optimization](https://arxiv.org/abs/2603.19117)
 
 **基本信息**
 
@@ -894,11 +1415,11 @@ We present this http URL , an open-source Julia package for constructing, solvin
 
 **💡 相关性分析**
 
-满足标准3：论文是一篇综述/展望性文章，系统地回顾和比较了用于组合优化的各类量子算法（包括量子生成模型QGM），并讨论了它们的工业应用前景。这直接涉及对“量子生成模型”这一特定类型大模型的现状和未来的讨论，属于对前沿AI/量子计算模型在优化问题中应用的综述。
+满足标准3：论文是一篇综述/展望性文章，系统回顾了量子计算在组合优化中的应用，包括量子退火、QAOA、QRL和QGM等多种算法。这为化学信息学领域的研究者提供了关于如何利用新兴量子算法解决化学中优化问题的前瞻性视角和讨论。
 
 **📖 中文摘要**
 
-本文回顾了用于组合优化的量子方法，旨在连接理论发展和工业相关性。首先综述了主要的量子算法家族，包括量子退火、量子近似优化算法（QAOA）、量子强化学习（QRL）和量子生成建模（QGM）。然后考察了量子技术目前显示出量子优势证据的问题类别，借鉴了QOBLIB、QUARK、QASMBench和QED-C等已建立的基准测试计划。这些 problem classes 随后被映射到代表性的工业领域，包括物流、金融和电信。分析表明，量子退火目前展现出最高的操作成熟度，而QAOA在NISQ时代的硬件上显示出有希望的潜力。相比之下，QRL和QGM则成为具有未来重大工业潜力的长期研究方向。
+本文回顾了用于组合优化的量子方法，旨在连接理论发展和工业相关性。首先调查了主要的量子算法家族，包括量子退火、量子近似优化算法（QAOA）、量子强化学习（QRL）和量子生成建模（QGM）。然后检查了量子技术目前显示出量子优势证据的问题类别，并借鉴了QOBLIB、QUARK、QASMBench和QED-C等已建立的基准测试计划。这些工作展示了量子计算在解决优化问题方面的潜力，而优化问题在化学信息学中广泛存在，如分子构象搜索、反应路径优化和材料设计。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -909,7 +1430,7 @@ In this work, we review quantum approaches to combinatorial optimization, with t
 
 ---
 
-### 37. [Quantum block encoding for semiseparable matrices](https://arxiv.org/abs/2603.19130)
+### 58. [Quantum block encoding for semiseparable matrices](https://arxiv.org/abs/2603.19130)
 
 **基本信息**
 
@@ -919,11 +1440,11 @@ In this work, we review quantum approaches to combinatorial optimization, with t
 
 **💡 相关性分析**
 
-满足标准1：论文的核心研究内容是针对一类特定结构矩阵（半可分离矩阵）设计高效的量子块编码算法。量子块编码是许多量子机器学习算法（包括可能用于化学模拟的量子线性系统求解器、量子主成分分析等）的基础模块。这项工作属于为量子机器学习（可视为下一代“大模型”的计算基础）开发核心组件的范畴。
+满足标准1：论文的核心研究内容是针对特定结构矩阵（一对半可分矩阵）设计高效的量子块编码方案。量子块编码是实现量子线性代数算法（可用于量子机器学习、量子化学模拟等）的基础组件，属于支撑未来“化学大模型”在量子计算机上运行的底层技术。
 
 **📖 中文摘要**
 
-量子块编码（QBE）是大多数量子算法开发中的关键步骤，因为它将给定矩阵嵌入到合适的更大酉矩阵中。历史上，高效QBE技术的发展主要集中在稀疏矩阵上；对数据稀疏（例如，秩结构）矩阵投入的努力较少。在这项工作中，我们研究了一种特殊的秩结构情况，即一对半可分离矩阵。我们提出了一种新的块编码方法，该方法依赖于将给定矩阵适当地分解为三角因子和对角因子的乘积。为了编码矩阵，该算法需要2log(N)+7个辅助量子比特。这个过程需要多对数时间，并且具有O(N^2)的误差，其中N是矩阵大小。
+量子块编码（QBE）是大多数量子算法开发的关键步骤，因为它将给定矩阵嵌入到合适的更大酉矩阵中。历史上，高效QBE技术的发展主要集中在稀疏矩阵上；较少努力投入到数据稀疏（例如，秩结构）矩阵。在这项工作中，我们研究了一种特殊的秩结构情况，即一对半可分矩阵。我们提出了一种新的块编码方法，该方法依赖于将给定矩阵因式分解为三角因子和对角因子的乘积。为了编码矩阵，该算法需要2log(N)+7个辅助量子比特。这个过程需要多对数时间，并且误差为O(N^2)，其中N是矩阵大小。量子块编码是量子线性代数算法的基础，这些算法在量子机器学习、量子化学模拟中具有潜在应用。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -934,32 +1455,7 @@ Quantum block encoding (QBE) is a crucial step in the development of most quantu
 
 ---
 
-### 38. [How Auditory Knowledge in LLM Backbones Shapes Audio Language Models: A Holistic Evaluation](https://arxiv.org/abs/2603.19195)
-
-**基本信息**
-
-- 🔗 arXiv: [`2603.19195`](https://arxiv.org/abs/2603.19195)
-- 👥 作者: Ke-Han Lu, Szu-Wei Fu, Chao-Han Huck Yang 等16人
-- 📄 PDF: [下载](https://arxiv.org/pdf/2603.19195.pdf)
-
-**💡 相关性分析**
-
-满足标准1：论文的核心研究内容是评估和比较不同大语言模型（LLMs）中编码的听觉知识，并研究这些知识如何转移到音频任务中。这直接涉及对“大模型”（LLMs）内部表示和知识迁移能力的研究，属于大模型能力评估和理解的范畴。
-
-**📖 中文摘要**
-
-本文研究了大型语言模型（LLMs）作为大型音频语言模型（LALMs）知识骨干时，它们通过纯文本预训练编码了多少听觉知识，以及这如何影响下游性能。作者通过比较不同LLM在两种纯文本和一种音频接地设置下的表现来研究这一差距：（1）在AKB-2000（一个用于测试听觉知识广度和深度的精选基准）上进行直接探测；（2）级联评估，其中LLMs对来自音频描述器的文本描述进行推理；（3）音频接地评估，其中每个LLM通过音频编码器微调成大型音频语言模型（LALM）。研究结果表明，不同模型家族间的听觉知识差异很大，纯文本结果与音频性能 strongly correlated。
-
-<details>
-<summary><b>🔍 查看原文摘要</b></summary>
-
-Large language models (LLMs) have been widely used as knowledge backbones of Large Audio Language Models (LALMs), yet how much auditory knowledge they encode through text-only pre-training and how this affects downstream performance remains unclear. We study this gap by comparing different LLMs under two text-only and one audio-grounded setting: (1) direct probing on AKB-2000, a curated benchmark testing the breadth and depth of auditory knowledge; (2) cascade evaluation, where LLMs reason over text descriptions from an audio captioner; and (3) audio-grounded evaluation, where each LLM is fine-tuned into a Large Audio Language Model (LALM) with an audio encoder. Our findings reveal that auditory knowledge varies substantially across families, and text-only results are strongly correlated with audio performance. Our work provides empirical grounding for a comprehensive understanding of LLMs in audio research.
-
-</details>
-
----
-
-### 39. [CADGL: Context-Aware Deep Graph Learning for Predicting Drug-Drug Interactions](https://arxiv.org/abs/2403.17210)
+### 59. [CADGL: Context-Aware Deep Graph Learning for Predicting Drug-Drug Interactions](https://arxiv.org/abs/2403.17210)
 
 **基本信息**
 
@@ -969,11 +1465,11 @@ Large language models (LLMs) have been widely used as knowledge backbones of Lar
 
 **💡 相关性分析**
 
-满足标准1：论文的核心研究内容是开发一种新的深度学习框架（CADGL），用于预测药物-药物相互作用。这直接属于化学信息学和药物发现的核心领域，利用图神经网络等先进模型（可视为针对化学图的“大模型”）进行分子性质预测和关系推理。
+满足标准1：论文的核心研究内容是开发一种新的深度图学习框架（CADGL）用于药物-药物相互作用预测。图神经网络是处理分子图结构数据的核心模型，属于化学信息学中“化学大模型”的重要分支。
 
 **📖 中文摘要**
 
-本文提出了一个名为CADGL的新型框架，用于药物-药物相互作用（DDI）预测。CADGL基于定制的变分图自编码器（VGAE），使用两个上下文预处理器从两个不同角度（局部邻域和分子上下文）在异质图结构中提取关键的结构和物理化学信息。定制的VGAE由图形编码器、潜在信息编码器和MLP解码器组成。CADGL超越了其他最先进的DDI预测模型，在预测具有临床价值的新型DDI方面表现出色，并得到了严谨的案例研究支持。
+本文提出了CADGL，一个用于预测药物-药物相互作用（DDIs）的情境感知深度图学习框架。DDIs研究是药物开发过程中的关键环节。CADGL基于定制的变分图自编码器（VGAE），使用两个情境预处理器从两个不同角度（局部邻域和分子情境）在异质图结构中提取特征。我们定制的VGAE由图像编码器、潜在信息编码器和MLP解码器组成。CADGL超越了其他最先进的DDI预测模型，擅长预测具有临床价值的新型DDIs。这项工作展示了图神经网络（一种重要的深度学习架构）在化学信息学核心任务——药物相互作用预测中的应用。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -984,7 +1480,7 @@ Examining Drug-Drug Interactions (DDIs) is a pivotal element in the process of d
 
 ---
 
-### 40. [Modeling Inverse Ellipsometry Problem via Flow Matching with a Large-Scale Dataset](https://arxiv.org/abs/2407.17869)
+### 60. [Modeling Inverse Ellipsometry Problem via Flow Matching with a Large-Scale Dataset](https://arxiv.org/abs/2407.17869)
 
 **基本信息**
 
@@ -994,11 +1490,11 @@ Examining Drug-Drug Interactions (DDIs) is a pivotal element in the process of d
 
 **💡 相关性分析**
 
-满足标准2：论文的核心贡献之一是构建并发布了EllipBench，一个用于逆椭圆偏振问题的大规模、高精度数据集。该数据集专为训练和评估机器学习模型（包括提出的DCFM生成模型）而设计，为光学常数和薄膜厚度的数据驱动推理提供了宝贵的资源。同时，论文提出的DCFM框架本身也是一种用于解决逆问题的生成模型。
+满足标准1：论文的核心研究内容是使用生成模型（流匹配）解决逆椭圆偏振问题，这是一个从测量信号反推材料参数的逆问题。其问题范式（不适定逆问题、需要物理约束、使用生成模型）与“质谱结构推理”（从质谱信号反推分子结构）在方法论和挑战上高度相似，属于同一类科学逆问题求解。
 
 **📖 中文摘要**
 
-本文针对逆椭圆偏振问题（即从测量的相位差Δ和振幅比Ψ重建光学常数和薄膜厚度）提出了解决方案。为了弥补大规模数据集的缺乏，作者引入了EllipBench，一个包含超过800万个高精度样本的综合基准，涵盖98种薄膜材料和5种基底。在此基础上，作者系统评估了包括传统机器学习模型、深度神经网络和物理信息神经网络在内的多种方法。为了更好捕捉其固有的模糊性，作者进一步提出了一种新颖的解耦条件流匹配（DCFM）框架。DCFM将几何薄膜厚度解耦，并将其作为稳健的物理条件来指导一个连续向量场，用于建模波长相关光学常数的逆概率分布。
+逆椭圆偏振法，即从测量的相位差Δ和振幅比Ψ重建光学常数和薄膜厚度，是一个本质上不适定的问题。传统解决方案依赖于缓慢的、专家驱动的迭代拟合，而机器学习方法的发展由于缺乏大规模、物理一致的数据集而受到严重限制。为了弥补这一差距，作者引入了EllipBench，一个包含超过800万个高精度样本的综合基准，涵盖98种薄膜材料和5种基底。在此基准之上，作者系统地评估了广泛的方法，并进一步提出了解耦条件流匹配（DCFM）框架。DCFM明确解耦了几何薄膜厚度，并将其作为稳健的物理条件来指导一个连续的向量场，用于建模波长相关光学常数的逆概率分布。这项工作展示了生成模型（流匹配）在解决材料表征逆问题中的应用。虽然应用领域是光学测量，但其“从测量数据反推材料参数”的逆问题范式与“质谱结构推理”高度一致。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -1009,7 +1505,7 @@ Inverse ellipsometry, i.e., reconstructing optical constants and film thickness 
 
 ---
 
-### 41. [Biased AI can Influence Political Decision-Making](https://arxiv.org/abs/2410.06415)
+### 61. [Biased AI can Influence Political Decision-Making](https://arxiv.org/abs/2410.06415)
 
 **基本信息**
 
@@ -1019,11 +1515,11 @@ Inverse ellipsometry, i.e., reconstructing optical constants and film thickness 
 
 **💡 相关性分析**
 
-满足标准1：论文的核心研究内容（用于设计问题的模型优化）直接应用于化学设计任务，这是化学信息学和化学大模型（用于分子发现与优化）的核心应用场景。
+满足标准1：论文的核心研究内容（Cliqueformer架构）在化学设计任务上进行了应用和验证，直接关联到利用大模型（Transformer）进行化学空间探索和优化的‘化学大模型’主题。
 
 **📖 中文摘要**
 
-论文《Cliqueformer: Model-Based Optimization with Structured Transformers》提出了一种基于Transformer的架构Cliqueformer，用于解决基于模型的离线优化（MBO）问题。该模型通过学习黑盒函数的结构（通过功能图模型）来处理分布偏移，而无需依赖显式的保守方法。论文在多个领域（包括化学和遗传设计任务）中展示了其性能优于现有方法。虽然论文主要关注通用的MBO框架，但其明确将化学设计任务作为应用领域之一。化学设计（如分子发现）是化学信息学的核心问题，通常涉及构建和优化化学大模型（如用于性质预测或生成的模型）来指导搜索。因此，该工作与“化学大模型”主题在核心应用层面相关。
+论文《Cliqueformer: Model-Based Optimization with Structured Transformers》提出了一种基于Transformer的架构Cliqueformer，用于解决基于模型的优化（MBO）问题。该架构通过学习黑盒函数的结构（通过功能图模型）来处理分布偏移，而无需依赖显式的保守方法。论文在多个领域（包括化学和遗传设计任务）中展示了其性能优于现有方法。虽然论文主要关注通用的MBO框架，但其明确将化学设计任务作为关键应用领域之一。这表明Cliqueformer所代表的结构化Transformer方法可以应用于化学空间的探索和优化，这与“化学大模型”主题中利用先进机器学习模型（如Transformer）解决化学问题的研究方向高度相关。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -1034,82 +1530,57 @@ As modern large language models (LLMs) become integral to everyday tasks, concer
 
 ---
 
-### 42. [Enhancing a Hierarchical Graph Rewriting Language based on MELL Cut Elimination](https://arxiv.org/abs/2411.14802)
+### 62. [Degrees of Freedom of Cache-Aided Interference Channels Assisted by Active Intelligent Reflecting Surfaces](https://arxiv.org/abs/2411.17559)
 
 **基本信息**
 
-- 🔗 arXiv: [`2411.14802`](https://arxiv.org/abs/2411.14802)
-- 👥 作者: Kento Takyu, Kazunori Ueda
-- 📄 PDF: [下载](https://arxiv.org/pdf/2411.14802.pdf)
+- 🔗 arXiv: [`2411.17559`](https://arxiv.org/abs/2411.17559)
+- 👥 作者: Abolfazl Changizi, Ali H. Abdollahi Bafghi, Mahtab Mirmohseni 等4人
+- 📄 PDF: [下载](https://arxiv.org/pdf/2411.17559.pdf)
 
 **💡 相关性分析**
 
-满足标准2：论文提出的基于分层图重写的增强型语言和工具链，为化学结构的表示、操作和推理（这是质谱结构推理和化学大模型构建的关键环节）提供了潜在的数据处理框架和工具资源。
+不相关。论文核心是无线通信理论，与化学信息学或质谱分析无直接关联。其优化方法虽具一般性，但未应用于或讨论目标领域，不符合任何相关性标准。
 
 **📖 中文摘要**
 
-论文《Enhancing a Hierarchical Graph Rewriting Language based on MELL Cut Elimination》基于分层图重写和线性逻辑，扩展了声明式语言LMNtal。虽然论文本身属于形式化方法和编程语言领域，但其核心技术——分层图重写——是表示和操作化学结构的强大工具。在化学信息学中，分子通常被表示为图（原子为节点，化学键为边），而图重写规则是模拟化学反应、进行分子结构枚举和推理的基础。因此，该论文提出的增强型图重写语言框架，为化学结构（包括可能从质谱数据中推理出的结构）的表示、转换和计算提供了潜在的理论和工具基础。
+论文《Degrees of Freedom of Cache-Aided Interference Channels Assisted by Active Intelligent Reflecting Surfaces》研究无线通信网络中缓存辅助的干扰信道。虽然论文主题是通信和信息论，但其核心方法涉及联合设计内容放置、传输阶段和智能反射面系数。这种对系统状态（缓存内容、信道条件）进行联合优化以最大化性能（自由度）的框架，在方法论上与“化学大模型”和“质谱结构推理”中可能涉及的复杂系统建模与优化有抽象层面的相似性。然而，这种关联性较弱且间接。论文并未直接提供化学或质谱数据、工具，也未讨论相关主题。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
 
-Hierarchical graph rewriting is a highly expressive computational formalism that manipulates graphs enhanced with box structures for representing hierarchies. It has provided the foundations of various graph-based modeling tools, but the design of high-level declarative languages based on hierarchical graph rewriting is still a challenge. For a solid design choice, well-established formalisms with backgrounds other than graph rewriting would provide useful guidelines. Proof nets of Multiplicative Exponential Linear Logic (MELL) is such a framework because its original formulation of cut elimination is essentially graph rewriting involving box structures, where so-called Promotion Boxes with an indefinite number of non-local edges may be cloned, migrated and deleted. This work builds on LMNtal as a declarative language based on hierarchical (port) graph rewriting, and discusses how it can be extended to support the above operations on Promotion Boxes of MELL proof nets. LMNtal thus extended turns out to be a practical graph rewriting language that has strong affinity with MELL proof nets. The language features provided are general enough to encode other well-established models of concurrency. Using the toolchain of LMNtal that provides state-space search and model checking, we implemented cut elimination rules of MELL proof nets in extended LMNtal and demonstrated that the platform could serve as a useful workbench for proof nets.
+This paper studies cache-aided wireless networks in the presence of active intelligent reflecting surfaces (IRSs) from an information-theoretic perspective. Specifically, we investigate interference management in a cache-aided wireless network assisted by an active IRS to enhance the achievable degrees of freedom (DoF). To this end, we jointly design the content placement, delivery phase, and IRS coefficients, and propose a one-shot achievability scheme. Our scheme exploits transmitters' cooperation, cache contents, interference alignment, and IRS capabilities, based on the network parameters. We derive the achievable one-shot sum-DoF for different cache sizes, network configurations, and numbers of IRS elements, followed by an upper bound. Our results highlight the potential of deploying an IRS in cache-aided wireless communication systems. In particular, they underscore the enhancement of achievable DoF for various parameter regimes, especially when cache sizes are inadequate. Notably, we show that access to an IRS with a sufficient number of elements enables the achievement of the maximum possible DoF for various parameter regimes of interest.
 
 </details>
 
 ---
 
-### 43. [Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment](https://arxiv.org/abs/2502.03714)
+### 63. [Is Contrastive Distillation Enough for Learning Comprehensive 3D Representations?](https://arxiv.org/abs/2412.08973)
 
 **基本信息**
 
-- 🔗 arXiv: [`2502.03714`](https://arxiv.org/abs/2502.03714)
-- 👥 作者: Harrish Thasarathan, Julian Forsyth, Thomas Fel 等5人
-- 📄 PDF: [下载](https://arxiv.org/pdf/2502.03714.pdf)
+- 🔗 arXiv: [`2412.08973`](https://arxiv.org/abs/2412.08973)
+- 👥 作者: Yifan Zhang, Junhui Hou
+- 📄 PDF: [下载](https://arxiv.org/pdf/2412.08973.pdf)
 
 **💡 相关性分析**
 
-满足标准1：论文提出的跨模型可解释概念对齐框架，其核心方法论直接适用于分析和理解化学大模型（如分子表征模型）学到的内部表示和化学概念，提升模型的可解释性和可比性。
+不相关。论文专注于计算机视觉中的3D表示学习，其方法、任务和评估均围绕视觉数据展开，与化学信息学或质谱分析无直接联系。
 
 **📖 中文摘要**
 
-论文《Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment》提出了通用稀疏自编码器（USAE）框架，用于发现和对齐多个预训练深度神经网络中的可解释概念。该框架学习一个通用的概念空间，可以重建和解释多个模型的内部激活。虽然论文以视觉模型为例，但其核心方法——学习跨模型的稀疏、可解释表示——与构建和理解“化学大模型”高度相关。在化学领域，可解释的表示学习对于理解分子表征模型（如图神经网络、Transformer）学到的化学概念（官能团、子结构等）至关重要。USAE提供了一种将不同化学模型（如不同架构或在不同数据集上训练的模型）的内部表示对齐到统一概念空间的方法，这有助于模型比较、知识迁移和提升化学大模型的可解释性。
+论文《Is Contrastive Distillation Enough for Learning Comprehensive 3D Representations?》提出了一种新的跨模态全面表示学习框架CMCR，用于3D表示学习。该框架通过引入掩码图像建模和占用估计任务来学习更全面的模态特定特征，并提出了一个新颖的多模态统一码本。虽然论文主要关注3D视觉（如图像到LiDAR），但其核心思想——通过改进的对比学习和多模态融合来学习更全面、更有效的表示——在方法论上与“化学大模型”中学习分子或材料的稳健表示有潜在相通之处。然而，论文并未在化学或质谱领域进行任何应用或讨论。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
 
-We present Universal Sparse Autoencoders (USAEs), a framework for uncovering and aligning interpretable concepts spanning multiple pretrained deep neural networks. Unlike existing concept-based interpretability methods, which focus on a single model, USAEs jointly learn a universal concept space that can reconstruct and interpret the internal activations of multiple models at once. Our core insight is to train a single, overcomplete sparse autoencoder (SAE) that ingests activations from any model and decodes them to approximate the activations of any other model under consideration. By optimizing a shared objective, the learned dictionary captures common factors of variation-concepts-across different tasks, architectures, and datasets. We show that USAEs discover semantically coherent and important universal concepts across vision models; ranging from low-level features (e.g., colors and textures) to higher-level structures (e.g., parts and objects). Overall, USAEs provide a powerful new method for interpretable cross-model analysis and offers novel applications, such as coordinated activation maximization, that open avenues for deeper insights in multi-model AI systems
+Cross-modal contrastive distillation has recently been explored for learning effective 3D representations. However, existing methods focus primarily on modality-shared features, neglecting the modality-specific features during the pre-training process, which leads to suboptimal representations. In this paper, we theoretically analyze the limitations of current contrastive methods for 3D representation learning and propose a new framework, namely CMCR (Cross-Modal Comprehensive Representation Learning), to address these shortcomings. Our approach improves upon traditional methods by better integrating both modality-shared and modality-specific features. Specifically, we introduce masked image modeling and occupancy estimation tasks to guide the network in learning more comprehensive modality-specific features. Furthermore, we propose a novel multi-modal unified codebook that learns an embedding space shared across different modalities. Besides, we introduce geometry-enhanced masked image modeling to further boost 3D representation learning. Extensive experiments demonstrate that our method mitigates the challenges faced by traditional approaches and consistently outperforms existing image-to-LiDAR contrastive distillation methods in downstream tasks. Code will be available at this https URL .
 
 </details>
 
 ---
 
-### 44. [This looks like what? Challenges and Future Research Directions for Part-Prototype Models](https://arxiv.org/abs/2502.09340)
-
-**基本信息**
-
-- 🔗 arXiv: [`2502.09340`](https://arxiv.org/abs/2502.09340)
-- 👥 作者: Khawla Elhadri, Tomasz Michalski, Adam Wróbel 等6人
-- 📄 PDF: [下载](https://arxiv.org/pdf/2502.09340.pdf)
-
-**💡 相关性分析**
-
-满足标准3：论文是针对内置可解释性模型（部件-原型模型）的综述，其讨论的挑战和未来方向对设计和评估具有可解释性的化学大模型具有重要的参考和展望价值。
-
-**📖 中文摘要**
-
-论文《This looks like what? Challenges and Future Research Directions for Part-Prototype Models》是一篇关于“部件-原型模型”（PPMs）的综述。PPMs通过将输入与学习的原型进行比较来进行分类，并提供“这个看起来像那个”形式的人类可理解解释。虽然综述主要关注计算机视觉中的PPMs，但其讨论的核心主题——内置可解释性模型的设计、挑战和未来方向——与“化学大模型”的研究高度相关。在化学信息学中，开发可解释的分子性质预测、反应结果预测或分子生成模型是一个重要趋势。理解PPMs的局限性（如原型质量、泛化能力）和前沿研究方向，可以为设计下一代可解释的化学人工智能模型提供宝贵的见解和跨领域启发。
-
-<details>
-<summary><b>🔍 查看原文摘要</b></summary>
-
-The growing interest in eXplainable Artificial Intelligence (XAI) has stimulated research on models with built-in interpretability, among which part-prototype models are particularly prominent. Part-Prototype Models (PPMs) classify inputs by comparing them to learned prototypes and provide human-understandable explanations of the form "this looks like that". Despite this intrinsic interpretability, PPMs have not yet emerged as a competitive alternative to post-hoc explanation methods. This survey reviews work published between 2019 and 2025 and derives a taxonomy of the challenges faced by current PPMs. The analysis reveals a diverse set of open problems. The main issue concerns the quality and number of learned prototypes. Further challenges include limited generalization across tasks and contexts, as well as methodological shortcomings such as non-standardized evaluation. Five broad research directions are identified: improving predictive performance, developing theoretically grounded architectures, establishing frameworks for human-AI collaboration, aligning models with human concepts, and defining robust metrics and benchmarks for evaluation. The survey aims to stimulate further research and promote intrinsically interpretable models for practical applications. A curated list of the surveyed papers is available at this https URL .
-
-</details>
-
----
-
-### 45. [DynamicVis: Dynamic Visual Perception for Efficient Remote Sensing Foundation Models](https://arxiv.org/abs/2503.16426)
+### 64. [DynamicVis: Dynamic Visual Perception for Efficient Remote Sensing Foundation Models](https://arxiv.org/abs/2503.16426)
 
 **基本信息**
 
@@ -1119,11 +1590,11 @@ The growing interest in eXplainable Artificial Intelligence (XAI) has stimulated
 
 **💡 相关性分析**
 
-满足标准1：论文核心研究的高效稀疏目标感知与建模方法论，与“质谱结构推理”中从复杂、高维数据中提取关键稀疏特征（谱峰）以推断分子结构的核心挑战在问题本质上高度相关，提供了可借鉴的技术思路。
+不相关。论文的研究领域是遥感图像处理，其提出的模型架构和预训练方法专门针对地理空间图像的特性，与化学信息学或质谱分析的主题无关。
 
 **📖 中文摘要**
 
-论文《DynamicVis: Dynamic Visual Perception for Efficient Remote Sensing Foundation Models》提出了一种为遥感图像定制的视觉基础模型DynamicVis，采用动态区域感知的状态空间模型（SSM）来高效处理超长序列的视觉令牌。虽然应用领域是遥感，但其核心技术创新——针对稀疏目标（在图像中占比极小）进行自适应计算和表示学习——与“质谱结构推理”面临的核心挑战有方法论上的相似性。在质谱分析中，需要从复杂的质谱信号（背景化学噪声）中识别出代表特定化合物结构的特征峰（稀疏但关键的目标）。论文中处理极端空间冗余和稀疏目标的技术思路（如自适应路由、增量建模、区域级元嵌入多实例学习预训练范式）为解决质谱数据中从高维、噪声信号中推理稀疏但决定性的结构信息这一问题提供了新颖的计算视角和潜在的技术借鉴。
+论文《DynamicVis: Dynamic Visual Perception for Efficient Remote Sensing Foundation Models》提出了一种为遥感图像定制的视觉基础模型DynamicVis。它采用动态区域感知的状态空间模型（SSM）来自适应地处理相关令牌，大幅减少计算复杂度。其预训练范式旨在从密集背景中解耦稀疏的前景实例。虽然论文专注于遥感图像分析，但其核心创新——设计高效、适应数据稀疏特性的基础模型架构——在理念上与为特定科学领域（如化学）构建高效、专业的大模型有共通之处。然而，论文未涉及化学或质谱数据。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -1134,7 +1605,32 @@ The advancement of RS technology has enabled high-resolution Earth observation; 
 
 ---
 
-### 46. [Causal Intervention Framework for Variational Auto Encoder Mechanistic Interpretability](https://arxiv.org/abs/2505.03530)
+### 65. [Learning Transferable Friction Models and LuGre Identification Via Physics-Informed Neural Networks](https://arxiv.org/abs/2504.12441)
+
+**基本信息**
+
+- 🔗 arXiv: [`2504.12441`](https://arxiv.org/abs/2504.12441)
+- 👥 作者: Asutay Ozmen, João P. Hespanha, Katie Byl
+- 📄 PDF: [下载](https://arxiv.org/pdf/2504.12441.pdf)
+
+**💡 相关性分析**
+
+不相关。论文的研究对象是机器人系统中的摩擦建模，属于机器人学与控制领域。尽管其PINN方法具有一般性，但未应用于或关联到化学或质谱分析。
+
+**📖 中文摘要**
+
+论文《Learning Transferable Friction Models and LuGre Identification Via Physics-Informed Neural Networks》提出了一种物理信息摩擦估计框架，用于机器人学。该框架将成熟的摩擦模型与可学习组件集成，仅需少量通用测量数据即可实现物理一致且灵活的摩擦建模，并展示了学习模型在不同系统间的可迁移性。虽然论文应用在机器人控制，但其核心方法——结合物理先验与神经网络学习可迁移的、解释性强的模型——与“化学大模型”中构建融合物理化学知识的、可泛化的分子或性质预测模型在方法论精神上相似。然而，论文未在化学领域进行任何应用。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+Accurately modeling friction in robotics remains a core challenge, as robotics simulators like MuJoCo and PyBullet use simplified friction models or heuristics to balance computational efficiency with accuracy, where these simplifications and approximations can lead to substantial differences between simulated and physical performance. In this paper, we present a physics-informed friction estimation framework that enables the integration of well-established friction models with learnable components, requiring only minimal, generic measurement data. Our approach enforces physical consistency yet retains the flexibility to capture complex friction phenomena. We demonstrate, on an underactuated and nonlinear system, that the learned friction models, trained solely on small and noisy datasets, accurately reproduce dynamic friction properties with significantly higher fidelity than the simplified models commonly used in robotics simulators. Crucially, we show that our approach enables the learned models to be transferable to systems they are not trained on. This ability to generalize across multiple systems streamlines friction modeling for complex, underactuated tasks, offering a scalable and interpretable path toward improving friction model accuracy in robotics and control.
+
+</details>
+
+---
+
+### 66. [Causal Intervention Framework for Variational Auto Encoder Mechanistic Interpretability](https://arxiv.org/abs/2505.03530)
 
 **基本信息**
 
@@ -1144,11 +1640,11 @@ The advancement of RS technology has enabled high-resolution Earth observation; 
 
 **💡 相关性分析**
 
-满足标准1：论文提出的针对生成模型（VAE）的机制可解释性因果干预框架，其核心方法论直接适用于分析和理解化学领域广泛使用的分子VAE等生成模型，有助于提升化学大模型的可解释性和可控性。
+满足标准1：论文的核心研究内容是深度生成模型（VAE）的机制可解释性，并提供了系统的因果干预框架。生成模型（包括VAE）是构建“化学大模型”（如用于分子生成、性质预测的模型）的关键技术之一。因此，该论文直接关联到理解和改进化学大模型中可能采用的生成模型组件。
 
 **📖 中文摘要**
 
-论文《Causal Intervention Framework for Variational Auto Encoder Mechanistic Interpretability》提出了一个用于变分自编码器（VAE）机制可解释性的因果干预框架。该框架通过在不同层级（输入、潜在空间、激活修补）进行针对性干预，来识别和分析VAE中的“电路模块”，研究语义因子如何通过网络层进行编码、处理和分离。虽然论文主要使用合成数据和标准解纠缠基准进行评估，但其提出的框架和方法论与“化学大模型”的可解释性研究直接相关。在化学领域，VAE及其变体（如用于分子生成和表示的VAE）被广泛使用。理解这些生成模型的内部工作机制、它们如何编码化学语义（如官能团、溶解度），以及如何进行因果干预以控制特定属性的生成，对于构建可靠、可控的化学大模型至关重要。该论文为系统性地分析和解释化学VAE模型提供了工具和评估指标。
+论文《Causal Intervention Framework for Variational Auto Encoder Mechanistic Interpretability》为变分自编码器（VAE）的机制可解释性引入了一个全面的因果干预框架。该框架开发了识别和分析VAE中“电路模体”的技术，通过不同层次的干预来研究语义因子如何通过网络层编码、处理和分离。论文在具有已知因果关系的合成数据集和标准解纠缠基准上进行了应用和评估。这项工作推进了对生成模型的机制理解，并为构建更透明、可控的VAE架构提供了工具。VAE是生成模型的重要类别，在化学信息学中可用于分子生成、表示学习等任务。因此，这篇关于VAE机制可解释性的论文，为理解和改进可能在“化学大模型”中使用的生成模型组件提供了方法论参考。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -1159,7 +1655,32 @@ Mechanistic interpretability of deep learning models has emerged as a crucial re
 
 ---
 
-### 47. [RAISE: Enhancing Scientific Reasoning in LLMs via Step-by-Step Retrieval](https://arxiv.org/abs/2506.08625)
+### 67. [MIPHEI-ViT: Multiplex Immunofluorescence Prediction from H&E Images using ViT Foundation Models](https://arxiv.org/abs/2505.10294)
+
+**基本信息**
+
+- 🔗 arXiv: [`2505.10294`](https://arxiv.org/abs/2505.10294)
+- 👥 作者: Guillaume Balezo, Roger Trullo, Albert Pla Planas 等5人
+- 📄 PDF: [下载](https://arxiv.org/pdf/2505.10294.pdf)
+
+**💡 相关性分析**
+
+满足标准1：论文的核心研究内容是利用大模型（ViT）从一种测量数据（H&E图像）推理出更丰富的生物标记信息（mIF信号）。这种跨模态推理的范式与“质谱结构推理”中从质谱数据推断分子结构的核心问题高度相似，属于同一类“从测量数据推理底层结构/属性”的研究主题。
+
+**📖 中文摘要**
+
+论文《MIPHEI-ViT: Multiplex Immunofluorescence Prediction from H&E Images using ViT Foundation Models》提出MIPHEI模型，利用ViT病理基础模型作为编码器，从H&E组织病理学图像预测多重免疫荧光（mIF）信号。该模型针对包括免疫细胞谱系（如T细胞、B细胞、髓系细胞）在内的综合标记物面板进行预测。论文在多个公共数据集上进行了训练和验证。虽然该研究属于计算病理学和医学图像分析领域，但其核心是开发一个基于Transformer基础模型的、能够从一种模态（H&E图像）预测另一种更丰富模态（mIF信号）的跨模态预测框架。这种“从A预测B”的范式，与“质谱结构推理”中从质谱数据推断分子结构在问题形式上具有类比性。两者都涉及从复杂、高维的测量数据中解码出更结构化、更具语义的信息。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+Histopathological analysis is a cornerstone of cancer diagnosis, with Hematoxylin and Eosin (H&E) staining routinely acquired for every patient to visualize cell morphology and tissue architecture. On the other hand, multiplex immunofluorescence (mIF) enables more precise cell type identification via proteomic markers, but has yet to achieve widespread clinical adoption due to cost and logistical constraints. To bridge this gap, we introduce MIPHEI (Multiplex Immunofluorescence Prediction from H&E Images), a U-Net-inspired architecture that leverages a ViT pathology foundation model as encoder to predict mIF signals from H&E images using rich pretrained representations. MIPHEI targets a comprehensive panel of markers spanning nuclear content, immune lineages (T cells, B cells, myeloid), epithelium, stroma, vasculature, and proliferation. We train our model using the publicly available OrionCRC dataset of restained H&E and mIF images from colorectal cancer tissue, and validate it on five independent datasets: HEMIT, PathoCell, IMMUcan, Lizard and PanNuke. On OrionCRC test set, MIPHEI achieves accurate cell-type classification from H&E alone, with F1 scores of 0.93 for Pan-CK, 0.83 for alpha-SMA, 0.68 for CD3e, 0.36 for CD20, and 0.28 for CD68, substantially outperforming both a state-of-the-art baseline and a random classifier for most markers. Our results indicate that, for some molecular markers, our model captures the complex relationships between nuclear morphologies in their tissue context, as visible in H&E images and molecular markers defining specific cell types. MIPHEI offers a promising step toward enabling cell-type-aware analysis of large-scale H&E datasets, in view of uncovering relationships between spatial cellular organization and patient outcomes.
+
+</details>
+
+---
+
+### 68. [RAISE: Enhancing Scientific Reasoning in LLMs via Step-by-Step Retrieval](https://arxiv.org/abs/2506.08625)
 
 **基本信息**
 
@@ -1169,11 +1690,11 @@ Mechanistic interpretability of deep learning models has emerged as a crucial re
 
 **💡 相关性分析**
 
-满足标准1：论文提出的用于增强LLMs科学推理的逐步检索增强框架，其核心方法（结合外部知识库进行结构化检索推理）可直接应用于构建更强大的化学领域大模型，特别是辅助完成像质谱解析这类需要复杂领域知识推理的任务。
+满足标准1：论文的核心研究内容是提升LLM在科学推理任务中的能力，其提出的逐步检索增强框架（RAISE）直接针对大模型在需要专业知识和复杂推理的场景下的局限性。这完全契合“化学大模型”主题中关于如何让大模型更好地进行化学领域推理和研究的关键研究方向。
 
 **📖 中文摘要**
 
-论文《RAISE: Enhancing Scientific Reasoning in LLMs via Step-by-Step Retrieval》提出了RAISE框架，通过逐步检索增强大型语言模型（LLMs）的科学推理能力。该框架将推理过程分解为问题分解、逻辑查询生成和逻辑检索三个步骤，从开放语料库中检索逻辑相关的文档。虽然论文主要评估在通用科学推理基准上的表现，但其核心思想——通过结构化检索获取外部知识来辅助复杂推理——与“化学大模型”和“质谱结构推理”的需求高度契合。在化学信息学中，LLMs需要结合专业的化学知识（如反应规则、光谱数据库、物化性质）进行推理。RAISE的逐步检索机制为解决化学问题（例如，根据质谱特征推理可能的结构，需要检索子结构碎片库、已知化合物谱库等）提供了一个可操作的增强框架，能够提升LLMs在化学领域的准确性和可靠性。
+论文《RAISE: Enhancing Scientific Reasoning in LLMs via Step-by-Step Retrieval》提出了RAISE框架，通过逐步检索增强大型语言模型（LLMs）的科学推理能力。该框架分为问题分解、逻辑查询生成和逻辑检索三个步骤，旨在从外部语料库中检索逻辑相关的文档以支持复杂的科学推理。论文在科学推理基准上进行了评估，表明RAISE consistently outperforms other baselines。虽然论文关注一般科学推理，但其核心方法——通过检索增强来提升LLM在需要领域术语和最新知识的长链推理任务中的表现——与“化学大模型”面临的挑战（如需要准确的化学知识、处理复杂分子推理）直接相关。RAISE框架为构建更可靠、知识丰富的化学领域大模型提供了一种可行的技术路径。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -1184,7 +1705,7 @@ Scientific reasoning requires not only long-chain reasoning processes, but also 
 
 ---
 
-### 48. [Multimodal Fused Learning for Solving the Generalized Traveling Salesman Problem in Robotic Task Planning](https://arxiv.org/abs/2506.16931)
+### 69. [Multimodal Fused Learning for Solving the Generalized Traveling Salesman Problem in Robotic Task Planning](https://arxiv.org/abs/2506.16931)
 
 **基本信息**
 
@@ -1194,11 +1715,11 @@ Scientific reasoning requires not only long-chain reasoning processes, but also 
 
 **💡 相关性分析**
 
-满足标准1：论文核心研究的多模态（图与图像）融合学习方法，与化学信息学中融合分子图表示和分子形状/图像表示以构建更全面分子表征模型的挑战直接相关，提供了可借鉴的架构设计思路。
+不相关。论文的研究问题是机器人学中的组合优化和路径规划，其多模态融合方法针对的是空间坐标和图拓扑，与化学分子表示和质谱数据有本质区别。
 
 **📖 中文摘要**
 
-论文《Multimodal Fused Learning for Solving the Generalized Traveling Salesman Problem in Robotic Task Planning》提出了多模态融合学习（MMFL）框架，利用图和图像两种表示来解决广义旅行商问题（GTSP），用于机器人任务规划。虽然应用场景是机器人学，但其核心方法——融合不同模态（图结构信息和空间图像信息）以更好地解决组合优化问题——与“化学大模型”中的分子表示学习有很强的类比性。在化学信息学中，分子通常同时用图（原子和键）和基于网格的图像（如分子表面、电子密度）来表示。有效地融合这些多模态信息对于构建强大的分子性质预测或生成模型至关重要。该论文在GTSP上验证的多模态融合策略（如自适应分辨率缩放、带有专用瓶颈的多模态融合模块）为化学领域中如何设计神经网络架构以融合分子图与分子图像/形状信息提供了技术参考和灵感。
+论文《Multimodal Fused Learning for Solving the Generalized Traveling Salesman Problem in Robotic Task Planning》提出了多模态融合学习（MMFL）框架，用于解决机器人任务规划中的广义旅行商问题（GTSP）。该框架利用图和图像两种表示来捕捉问题的互补方面，并学习一个能够实时生成高质量任务规划方案的策略。具体包括一个基于坐标的图像构建器、自适应分辨率缩放策略以及一个带有专用瓶颈的多模态融合模块。虽然论文应用在机器人路径规划，但其核心创新——融合不同模态（图结构、空间图像）的信息以更好地解决组合优化问题——在方法论上与“化学大模型”可能面临的挑战（如融合分子图、序列、3D结构等多种表示以进行分子优化或设计）有概念上的关联。然而，论文未涉及任何化学应用。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -1209,57 +1730,57 @@ Effective and efficient task planning is essential for mobile robots, especially
 
 ---
 
-### 49. [Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes](https://arxiv.org/abs/2507.12261)
+### 70. [A Crowdsensing Intrusion Detection Dataset For Decentralized Federated Learning Models](https://arxiv.org/abs/2507.13313)
 
 **基本信息**
 
-- 🔗 arXiv: [`2507.12261`](https://arxiv.org/abs/2507.12261)
-- 👥 作者: Johann Frei, Nils Feldhus, Lisa Raithel 等6人
-- 📄 PDF: [下载](https://arxiv.org/pdf/2507.12261.pdf)
+- 🔗 arXiv: [`2507.13313`](https://arxiv.org/abs/2507.13313)
+- 👥 作者: Chao Feng, Alberto Huertas Celdran, Jing Han 等9人
+- 📄 PDF: [下载](https://arxiv.org/pdf/2507.13313.pdf)
 
 **💡 相关性分析**
 
-满足标准1：论文提出的基于智能体和工具使用的端到端文本到结构化数据生成框架，其方法论可迁移至化学信息学领域，用于从科学文本或实验报告中自动提取和构建结构化的化学信息（如化合物、反应、光谱数据），这与构建化学知识库和增强大模型数据源密切相关。
+不相关。尽管论文提供了数据集（满足标准2的形式），但该数据集的内容（物联网设备行为日志）与“化学大模型”和“质谱结构推理”主题所需的数据类型（化学结构、质谱数据、分子描述符等）完全无关，因此不具备实质相关性。
 
 **📖 中文摘要**
 
-论文《Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes》提出了一个基于LLM智能体的端到端框架，用于将自由文本临床笔记转化为结构化的FHIR（Fast Healthcare Interoperability Resources）资源。该框架利用LLM智能体、代码执行和医学术语数据库工具，以遵循FHIR模式并生成符合规范的结构化输出。虽然应用领域是临床信息学，但其核心技术创新——使用智能体框架结合领域知识工具，将非结构化文本精确转换为复杂的、模式化的结构化数据——与“化学大模型”和“质谱结构推理”中的信息提取和结构化任务高度相关。例如，从科学文献中自动提取化学反应条件、从质谱解析报告中提取化合物标识信息，或直接将质谱数据与文本描述结合生成结构化的化合物数据库条目，都可以借鉴该论文的智能体驱动、工具增强的端到端结构化生成范式。
+论文《A Crowdsensing Intrusion Detection Dataset For Decentralized Federated Learning Models》介绍了一个用于去中心化联邦学习（DFL）的物联网群智感知恶意软件检测数据集，并进行了实验研究。该数据集包含来自系统调用、文件系统活动、资源使用、内核事件、I/O事件和网络记录的行为记录，总计2158万条原始记录，被聚合为34.2万条数据记录用于模型训练和评估。论文在DFL平台上比较了传统机器学习、集中式联邦学习和去中心化联邦学习。虽然论文主题是网络安全和联邦学习，但其主要贡献是发布了一个新的、标注好的行为数据集。根据相关性标准，提供数据集（数据资源）的论文应被考虑。然而，该数据集专门针对物联网设备恶意软件检测的行为日志，与化学信息学或质谱分析所需的化学结构、质谱图谱、分子性质等数据类型完全不同，无法用于指定的研究主题。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
 
-For clinical data integration and healthcare services, the HL7 FHIR standard has established itself as a desirable format for interoperability between complex health data. Previous attempts at automating the translation from free-form clinical notes into structured FHIR resources address narrowly defined tasks and rely on modular approaches or LLMs with instruction tuning and constrained decoding. As those solutions frequently suffer from limited generalizability and structural inconformity, we propose an end-to-end framework powered by LLM agents, code execution, and healthcare terminology database tools to address these issues. Our solution, called Infherno, is designed to adhere to the FHIR document schema and competes well with a human baseline in predicting FHIR resources from unstructured text. The implementation features a front end for custom and synthetic data and both local and proprietary models, supporting clinical data integration processes and interoperability across institutions. Gemini 2.5-Pro excels in our evaluation on synthetic and clinical datasets, yet ambiguity and feasibility of collecting ground-truth data remain open problems.
+This paper introduces a dataset and an experimental study on Decentralized Federated Learning (DFL) for Internet of Things (IoT) crowdsensing malware detection. The dataset comprises behavioral records from benign and eight malware attacks. A total of 21,582,484 original records were collected from system calls, file system activities, resource usage, kernel events, input/output events, and network records. These records were aggregated into 30-second windows, resulting in 342,106 data records used for model training and evaluation. Experiments on the DFL platform compare traditional Machine Learning (ML), Centralized Federated Learning (CFL), and DFL across different node counts, topologies, and data distributions. Results show that DFL maintains competitive performance while preserving data locality, outperforming CFL in most settings. This dataset provides a solid foundation for studying the security of IoT crowdsensing environments.
 
 </details>
 
 ---
 
-### 50. [GeoReg: Weight-Constrained Few-Shot Regression for Socio-Economic Estimation using LLM](https://arxiv.org/abs/2507.13323)
+### 71. [Look Before You Fuse: 2D-Guided Cross-Modal Alignment for Robust 3D Detection](https://arxiv.org/abs/2507.16861)
 
 **基本信息**
 
-- 🔗 arXiv: [`2507.13323`](https://arxiv.org/abs/2507.13323)
-- 👥 作者: Kyeongjin Ahn, Sungwon Han, Seungeon Lee 等9人
-- 📄 PDF: [下载](https://arxiv.org/pdf/2507.13323.pdf)
+- 🔗 arXiv: [`2507.16861`](https://arxiv.org/abs/2507.16861)
+- 👥 作者: Xiang Li, Zhangchi Hu, Xiao Xu 等4人
+- 📄 PDF: [下载](https://arxiv.org/pdf/2507.16861.pdf)
 
 **💡 相关性分析**
 
-满足标准1：论文提出的利用LLM进行特征工程和约束建模以解决少样本回归问题的方法，其核心思路可直接应用于化学信息学中的小数据挑战，例如利用LLM理解分子描述符与目标性质的关系，或质谱特征与分子子结构的关系，从而构建更数据高效的化学模型。
+不相关。论文的研究领域是自动驾驶的多传感器融合（LiDAR和相机），其提出的方法专门针对空间几何对齐问题，与化学信息学中的质谱数据对齐或分子表示融合有本质不同。
 
 **📖 中文摘要**
 
-论文《GeoReg: Weight-Constrained Few-Shot Regression for Socio-Economic Estimation using LLM》提出了GeoReg模型，利用大语言模型（LLM）作为数据工程师，从卫星图像和网络地理空间信息等多源数据中提取特征，并在少样本设置下估计社会经济指标。其核心是利用LLM的先验知识理解数据特征与目标指标之间的上下文关系（正相关、负相关等），并对线性估计器施加相应的权重约束。虽然应用领域是社会经济估计，但其核心方法——利用LLM进行特征工程和关系建模以解决数据稀缺领域的回归问题——与“化学大模型”和“质谱结构推理”中的小数据问题高度相关。在化学中，许多任务（如新材料性质预测、稀有化合物谱图解析）也面临标记数据稀缺的挑战。GeoReg展示的利用LLM先验知识引导特征构建和模型约束的思路，为在化学小数据场景下构建稳健的预测或推理模型提供了有前景的方法论参考。
+论文《Look Before You Fuse: 2D-Guided Cross-Modal Alignment for Robust 3D Detection》专注于自动驾驶中的3D目标检测，旨在解决LiDAR和相机特征在鸟瞰图（BEV）表示中的空间未对齐问题。论文提出了利用2D目标先验进行跨模态特征预对齐的方法，包括先验引导深度校准（PGDC）、不连续性感知几何融合（DAGF）和结构引导深度调制器（SGDM）。其核心动机是利用2D检测器可靠识别的物体-背景边界信息来指导3D感知中的特征融合。虽然论文属于自动驾驶感知领域，但其解决“跨模态对齐”这一核心问题的思路——即利用一种模态（2D图像）的可靠信息来校准和增强另一种模态（3D点云）的特征，以实现更稳健的融合——与“质谱结构推理”中可能面临的挑战（如对齐质谱数据与其他分子表示形式）在问题抽象层面有相似性。然而，论文未涉及任何化学或质谱数据。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
 
-Socio-economic indicators like regional GDP, population, and education levels, are crucial to shaping policy decisions and fostering sustainable development. This research introduces GeoReg a regression model that integrates diverse data sources, including satellite imagery and web-based geospatial information, to estimate these indicators even for data-scarce regions such as developing countries. Our approach leverages the prior knowledge of large language model to address the scarcity of labeled data, with the language model functioning as a data engineer by extracting informative features to enable effective estimation in few-shot settings. Specifically, our model obtains contextual relationships between data features and the target indicator, categorizing their correlations as positive, negative, mixed, or irrelevant. These features are then fed into the linear estimator with tailored weight constraints for each category. To capture nonlinear patterns, the model also identifies meaningful feature interactions and integrates them, along with nonlinear transformations. Experiments across three countries at different stages of development demonstrate that our model outperforms baselines in estimating socio-economic indicators, even for low-income countries with limited data availability.
+Integrating LiDAR and camera inputs into a unified Bird's-Eye-View (BEV) representation is crucial for enhancing 3D perception capabilities of autonomous vehicles. However, existing methods suffer from spatial misalignment between LiDAR and camera features, which causes inaccurate depth supervision in camera branch and erroneous fusion during cross-modal feature aggregation. The root cause of this misalignment lies in projection errors, stemming from calibration inaccuracies and rolling shutter effect. The key insight of this work is that locations of these projection errors are not random but highly predictable, as they are concentrated at object-background boundaries which 2D detectors can reliably identify. Based on this, our main motivation is to utilize 2D object priors to pre-align cross-modal features before fusion. To address local misalignment, we propose Prior Guided Depth Calibration (PGDC), which leverages 2D priors to alleviate misalignment and preserve correct cross-modal feature pairs. To resolve global misalignment, we introduce Discontinuity Aware Geometric Fusion (DAGF) to suppress residual noise from PGDC and explicitly enhance sharp depth transitions at object-background boundaries, yielding a structurally aware representation. To effectively utilize these aligned representations, we incorporate Structural Guidance Depth Modulator (SGDM), using a gated attention mechanism to efficiently fuse aligned depth and image features. Our method achieves SOTA performance on nuScenes validation dataset, with its mAP and NDS reaching 71.5% and 73.6% respectively. Additionally, on the Argoverse 2 validation set, we achieve a competitive mAP of 41.7%.
 
 </details>
 
 ---
 
-### 51. [Physics-informed neural network for predicting fatigue life of unirradiated and irradiated austenitic and ferritic/martensitic steels under reactor-relevant conditions](https://arxiv.org/abs/2508.17303)
+### 72. [Physics-informed neural network for predicting fatigue life of unirradiated and irradiated austenitic and ferritic/martensitic steels under reactor-relevant conditions](https://arxiv.org/abs/2508.17303)
 
 **基本信息**
 
@@ -1269,11 +1790,11 @@ Socio-economic indicators like regional GDP, population, and education levels, a
 
 **💡 相关性分析**
 
-满足标准1：论文核心研究的物理信息神经网络（PINN）方法，是构建具有物理可解释性和约束性的“化学大模型”（如用于性质预测、过程模拟）的关键技术之一。该工作提供了PINN在复杂材料科学问题上的成功应用实例，验证了该范式在相关领域的潜力。
+满足标准1：论文的核心研究内容是应用物理信息神经网络（PINN）解决材料科学中的关键预测问题（疲劳寿命）。PINN是构建“化学大模型”的重要技术路径之一，用于将物理化学定律融入数据驱动的模型中。该论文展示了PINN在复杂科学预测任务中的有效应用，直接关联到利用先进机器学习模型（大模型）解决化学、材料科学问题的主题。
 
 **📖 中文摘要**
 
-论文《Physics-informed neural network for predicting fatigue life of unirradiated and irradiated austenitic and ferritic/martensitic steels under reactor-relevant conditions》提出了一种物理信息神经网络（PINN）框架，用于预测核反应堆用钢在辐照等复杂条件下的低周疲劳寿命。该模型将控制疲劳寿命的物理约束嵌入损失函数，在提高预测准确性的同时保证物理一致性。虽然应用领域是材料科学，但其核心方法——PINN——是“科学机器学习”的典范，也是构建“化学大模型”的重要范式之一。在化学信息学中，PINN被广泛应用于求解化学动力学方程、预测分子性质（结合量子力学约束）、以及优化化学过程。该论文展示了PINN在处理复杂、多因素（应变、辐照剂量、温度）耦合的工业级科学问题上的有效性，为在化学领域构建类似的高保真、物理约束模型（如预测反应速率、催化剂性能）提供了成功的应用案例和方法验证。
+论文《Physics-informed neural network for predicting fatigue life of unirradiated and irradiated austenitic and ferritic/martensitic steels under reactor-relevant conditions》提出了一种物理信息神经网络（PINN）框架，用于预测核反应堆中使用的辐照后奥氏体和铁素体/马氏体钢的低周疲劳寿命。该框架将疲劳寿命控制的物理约束嵌入损失函数，在495个应变控制疲劳数据点上进行了训练。论文展示了PINN相对于传统机器学习方法的优越性，并进行了可解释性分析。这项工作属于计算材料学和核工程领域。虽然应用特定，但其核心方法——PINN——是科学机器学习（SciML）的代表性技术之一，在化学、材料科学中广泛应用于构建融合物理知识的预测模型。因此，这篇论文作为PINN在材料性能预测中的一个成功案例，其方法论对“化学大模型”中构建物理信息驱动的化学性质预测模型具有参考价值。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -1284,32 +1805,7 @@ This study proposes a Physics-Informed Neural Network (PINN) framework to predic
 
 ---
 
-### 52. [CausalARC: Abstract Reasoning with Causal World Models](https://arxiv.org/abs/2509.03636)
-
-**基本信息**
-
-- 🔗 arXiv: [`2509.03636`](https://arxiv.org/abs/2509.03636)
-- 👥 作者: Jacqueline Maasch, John Kalantari, Kia Khezeli
-- 📄 PDF: [下载](https://arxiv.org/pdf/2509.03636.pdf)
-
-**💡 相关性分析**
-
-满足标准2：论文提出的CausalARC平台及其背后的因果世界模型框架，为开发和评估具有因果推理能力的化学大模型（这是该领域的前沿方向）提供了重要的概念框架、评估范式和潜在的工具资源。
-
-**📖 中文摘要**
-
-论文《CausalARC: Abstract Reasoning with Causal World Models》引入了CausalARC，一个用于评估AI在低数据和分布外泛化环境下推理能力的实验平台。该平台受抽象与推理语料库（ARC）启发，但每个推理任务都从一个完全指定的因果世界模型（结构因果模型）中采样。它提供观察性、干预性和反事实性的反馈作为少样本上下文学习示例。虽然平台本身是通用推理测试台，但其核心围绕“因果世界模型”和“结构化因果模型”展开，这与“化学大模型”的前沿研究方向高度一致。在化学领域，构建能够进行反事实推理（例如，“如果改变这个官能团，分子毒性会如何变化？”）和干预推理的因果模型是一个重要目标。CausalARC为开发和评估具有因果推理能力的化学大模型（无论是用于分子设计、反应预测还是谱图解析）提供了一个形式化、可控制的评估框架和灵感来源。
-
-<details>
-<summary><b>🔍 查看原文摘要</b></summary>
-
-On-the-fly reasoning often requires adaptation to novel problems under limited data and distribution shift. This work introduces CausalARC: an experimental testbed for AI reasoning in low-data and out-of-distribution regimes, modeled after the Abstraction and Reasoning Corpus (ARC). Each CausalARC reasoning task is sampled from a fully specified causal world model, formally expressed as a structural causal model. Principled data augmentations provide observational, interventional, and counterfactual feedback about the world model in the form of few-shot, in-context learning demonstrations. As a proof-of-concept, we illustrate the use of CausalARC for four language model evaluation settings: (1) abstract reasoning with test-time training, (2) counterfactual reasoning with in-context learning, (3) program synthesis, and (4) causal discovery with logical reasoning. Within- and between-model performance varied heavily across tasks, indicating room for significant improvement in language model reasoning.
-
-</details>
-
----
-
-### 53. [Fourier Learning Machines: Nonharmonic Fourier-Based Neural Networks for Scientific Machine Learning](https://arxiv.org/abs/2509.08759)
+### 73. [Fourier Learning Machines: Nonharmonic Fourier-Based Neural Networks for Scientific Machine Learning](https://arxiv.org/abs/2509.08759)
 
 **基本信息**
 
@@ -1319,11 +1815,11 @@ On-the-fly reasoning often requires adaptation to novel problems under limited d
 
 **💡 相关性分析**
 
-满足标准1：论文提出的傅里叶学习机（FLM）架构，其核心是基于可学习傅里叶基的表示方法，这与质谱分析中信号处理、谱图表示和特征学习的本质高度相关，为“质谱结构推理”提供了一种新的、有潜力的神经网络建模范式。
+满足标准1：论文的核心研究内容是提出一种新型的、基于傅里叶级数表示的神经网络架构（FLM），专门用于科学机器学习。这直接关联到“化学大模型”主题中关于为化学科学问题设计和开发新型、高效、可解释的基础模型架构的研究方向。
 
 **📖 中文摘要**
 
-论文《Fourier Learning Machines: Nonharmonic Fourier-Based Neural Networks for Scientific Machine Learning》提出了傅里叶学习机（FLM），一种设计用于表示多维非谐波傅里叶级数的神经网络架构。FLM使用简单的前馈结构和余弦激活函数，将级数的频率、振幅和相移作为可训练参数进行学习。该设计使模型能够创建适用于周期和非周期函数的问题特定谱基。论文评估了FLM在包括偏微分方程（PDE）和最优控制问题（OCP）在内的多个科学计算问题上的性能。FLM的核心——基于傅里叶级数的可学习谱表示——与“质谱结构推理”有深刻联系。质谱的本质是信号（强度）随质荷比（可视为频率域）的分布。将质谱数据表示为可学习的傅里叶级数，可能为谱图去噪、特征提取、以及建立谱图与分子结构之间的映射关系提供一种新颖且具有坚实数学基础的建模方法。这与质谱结构推理的核心任务直接相关。
+论文《Fourier Learning Machines: Nonharmonic Fourier-Based Neural Networks for Scientific Machine Learning》引入了傅里叶学习机（FLM），一种设计用于表示多维非调和傅里叶级数的神经网络架构。FLM使用具有余弦激活函数的前馈结构，将级数的频率、振幅和相移作为可训练参数进行学习。该设计允许模型创建适应周期和非周期函数的问题特定谱基。论文在包括偏微分方程（PDE）和最优控制问题（OCP）在内的多个科学计算问题上评估了FLM的性能。FLM作为一种新型的、具有明确频谱解释的神经网络架构，是科学机器学习（SciML）中的基础模型创新。SciML是构建“化学大模型”的核心方法论领域，旨在为科学问题设计专用的神经网络架构。因此，这篇提出新型科学机器学习基础架构的论文，与“化学大模型”主题中关于模型架构创新的研究直接相关。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -1334,107 +1830,7 @@ We introduce the Fourier Learning Machine (FLM), a neural network (NN) architect
 
 ---
 
-### 54. [Neuron-Guided Interpretation of Code LLMs: Where, Why, and How?](https://arxiv.org/abs/2512.19980)
-
-**基本信息**
-
-- 🔗 arXiv: [`2512.19980`](https://arxiv.org/abs/2512.19980)
-- 👥 作者: Zhe Yin, Xiaodong Gu, Beijun Shen
-- 📄 PDF: [下载](https://arxiv.org/pdf/2512.19980.pdf)
-
-**💡 相关性分析**
-
-满足标准1：论文的核心研究内容是分析代码大语言模型（Code LLMs）的内部工作机制，这直接属于“化学大模型”主题的范畴（大模型在特定科学领域的应用与可解释性研究）。
-
-**📖 中文摘要**
-
-本文研究了代码大语言模型（Code LLMs）在神经元层面的可解释性。作者分析了Llama-3.1-8B和Qwen2.5-Coder-32B等模型在处理多语言代码（C++、Java、Python等）时的内部激活模式。研究发现，模型中存在专门处理特定编程语言的神经元，也存在支持通用生成的通用神经元子集。此外，模型的较低层主要编码语言特定的语法，而中间层则捕获跨语言的语义抽象，这些“概念层”编码了语言无关的代码表示。这项工作通过神经元引导的微调、基于概念层嵌入的克隆检测以及概念层引导的代码摘要迁移等任务，展示了这些发现的实际应用价值。该研究为理解代码大模型的内部工作机制提供了新的视角，并探索了如何利用这些发现来提升模型在代码生成和理解任务上的性能。
-
-<details>
-<summary><b>🔍 查看原文摘要</b></summary>
-
-Code language models excel on code intelligence tasks, yet their internal interpretability is underexplored. Existing neuron interpretability techniques from NLP are suboptimal for source code due to programming languages formal, hierarchical, and executable nature. We empirically investigate code LLMs at the neuron level, localizing language-specific neurons (selectively responsive to one language) and concept layers (feed-forward layers encoding language-agnostic code representations). We analyze Llama-3.1-8B and Qwen2.5-Coder-32B on multilingual inputs in C++, Java, Python, Go, and JavaScript, measuring neuron selectivity and layerwise contributions during generation. We find (1) neurons specialized for individual languages alongside a universal subset supporting general-purpose generation; and (2) lower layers mainly encode language-specific syntax, while middle layers capture semantic abstractions shared across languages, emerging as concept layers. We demonstrate utility on three tasks: neuron-guided fine-tuning for code generation, clone detection via concept-layer embeddings, and concept-layer-guided transfer for code summarization, each yielding consistent gains in multilingual settings.
-
-</details>
-
----
-
-### 55. [Weights to Code: Extracting Interpretable Algorithms from the Discrete Transformer](https://arxiv.org/abs/2601.05770)
-
-**基本信息**
-
-- 🔗 arXiv: [`2601.05770`](https://arxiv.org/abs/2601.05770)
-- 👥 作者: Yifan Zhang, Wei Bi, Kechi Zhang 等6人
-- 📄 PDF: [下载](https://arxiv.org/pdf/2601.05770.pdf)
-
-**💡 相关性分析**
-
-满足标准1：论文的核心研究内容是设计一种新型Transformer架构（离散Transformer）用于从模型中提取可解释的算法，这直接涉及“化学大模型”主题中模型架构设计与可解释性研究。
-
-**📖 中文摘要**
-
-本文提出了“离散Transformer”（Discrete Transformer）架构，旨在弥合连续表示与离散符号逻辑之间的鸿沟。该架构通过温度退火采样注入离散性，并利用假设检验和符号回归来提取人类可读的程序。其目标是直接从在算法任务上训练的模型中合成可执行程序，实现无需人工编写代码的算法发现。论文表明，该架构在连续变量域上实现了与基于RNN的方法相当的性能，同时扩展了可解释性。退火动态显示出清晰的探索到利用的转变。此外，架构的归纳偏置为合成程序提供了细粒度控制，确立了离散Transformer作为无演示算法发现和Transformer可解释性的鲁棒框架。
-
-<details>
-<summary><b>🔍 查看原文摘要</b></summary>
-
-Algorithm extraction aims to synthesize executable programs directly from models trained on algorithmic tasks, enabling de novo algorithm discovery without relying on human-written code. However, applying this paradigm to Transformer is hindered by representation entanglement (e.g., superposition), where entangled features encoded in overlapping directions obstruct the recovery of symbolic expressions. We propose the Discrete Transformer, an architecture explicitly designed to bridge the gap between continuous representations and discrete symbolic logic. By injecting discreteness through temperature-annealed sampling, our framework effectively leverages hypothesis testing and symbolic regression to extract human-readable programs. Empirically, the Discrete Transformer achieves performance comparable to RNN-based methods while extending interpretability to continuous variable domains, and the annealing dynamics exhibit a clear exploration-to-exploitation transition. Finally, we show that architectural inductive biases provide fine-grained control over synthesized programs, establishing the Discrete Transformer as a robust framework for demonstration-free algorithm discovery and Transformer interpretability.
-
-</details>
-
----
-
-### 56. [DeeperBrain: A Neuro-Grounded EEG Foundation Model Towards Universal BCI](https://arxiv.org/abs/2601.06134)
-
-**基本信息**
-
-- 🔗 arXiv: [`2601.06134`](https://arxiv.org/abs/2601.06134)
-- 👥 作者: Jiquan Wang, Sha Zhao, Yangxuan Zhou 等6人
-- 📄 PDF: [下载](https://arxiv.org/pdf/2601.06134.pdf)
-
-**💡 相关性分析**
-
-满足标准1：论文的核心研究内容是构建一个用于脑电图分析的基础模型（DeeperBrain），这属于“化学大模型”主题的范畴（基础模型在科学数据分析中的应用）。
-
-**📖 中文摘要**
-
-本文提出了DeeperBrain，一个基于神经科学原理的脑电图（EEG）基础模型，旨在实现通用的脑机接口（BCI）。该模型在架构设计中融入了领域特定的归纳偏置，包括模拟容积传导的空间通道编码和捕获神经动力学的时间编码。在预训练阶段，采用了结合掩码EEG重建（MER）和神经动力学统计预测（NSP）的双目标策略。NSP通过预测可解释的序参量（如频谱功率、功能连接性等）来强制模型与宏观大脑状态对齐。实验表明，DeeperBrain在端到端微调和严格的冻结探测协议下均能达到先进性能，验证了将神经科学第一性原理嵌入学习表示中，可以赋予模型通用BCI所需的内在普适性。
-
-<details>
-<summary><b>🔍 查看原文摘要</b></summary>
-
-Electroencephalography (EEG) foundation models hold significant promise for universal Brain-Computer Interfaces (BCIs). However, existing approaches often rely on end-to-end fine-tuning and exhibit limited efficacy under frozen-probing protocols, lacking the intrinsic universality required for broad generalization. This limitation stems from adapting general-purpose sequence architectures that overlook the biophysical and dynamical principles of neural activity. To bridge this gap, we propose DeeperBrain, a neuro-grounded foundation model integrating domain-specific inductive biases into its model design and learning objectives. Architecturally, DeeperBrain incorporates a volume conduction-aware channel encoding to model spatial mixing via 3D geometry, and a neurodynamics-aware temporal encoding capturing slow adaptations using oscillatory and exponential bases. For pretraining, we introduce a dual-objective strategy combining Masked EEG Reconstruction (MER) for local fidelity and Neurodynamics Statistics Prediction (NSP). NSP enforces alignment with macroscopic brain states by predicting interpretable order parameters, including spectral power, functional connectivity, cross-frequency coupling, and dynamic complexity. Extensive experiments demonstrate that DeeperBrain achieves state-of-the-art or highly competitive performance under end-to-end fine-tuning. Crucially, it maintains superior efficacy under a rigorous frozen-probing protocol, verifying that embedding neuroscientific first principles endows learned representations with the intrinsic universality essential for universal BCI. The code will be publicly available.
-
-</details>
-
----
-
-### 57. [GeoMotionGPT: Geometry-Aligned Motion Understanding with Large Language Models](https://arxiv.org/abs/2601.07632)
-
-**基本信息**
-
-- 🔗 arXiv: [`2601.07632`](https://arxiv.org/abs/2601.07632)
-- 👥 作者: Zhankai Ye, Bofan Li, Yukai Jin 等8人
-- 📄 PDF: [下载](https://arxiv.org/pdf/2601.07632.pdf)
-
-**💡 相关性分析**
-
-满足标准1：论文的核心研究内容是改进大型语言模型（LLMs）对运动数据的理解和推理能力，涉及大模型在多模态数据（运动序列）上的应用与对齐，属于“化学大模型”主题的广义范畴（大模型处理科学数据）。
-
-**📖 中文摘要**
-
-本文提出了GeoMotionGPT，一个用于运动理解与运动-语言推理的新框架。针对现有基于离散运动标记化的方法在运动空间几何与语言模型嵌入空间对齐不足的问题，该框架显式地对运动码本和LLM嵌入空间施加正交性约束，确保它们的关系结构自然相互映射。具体方法包括使用带Gumbel-Softmax的仅解码器量化器、保持正交性的稀疏投影，以及两阶段正交正则化调度。实验表明，该框架在HumanML3D和KIT-ML数据集上显著提升了运动文本生成等任务的性能，消融实验验证了量化器、投影和正则化设计的有效性。这项工作通过几何对齐增强了LLM对运动数据的语义推理能力。
-
-<details>
-<summary><b>🔍 查看原文摘要</b></summary>
-
-Discrete motion tokenization has recently enabled Large Language Models (LLMs) to serve as versatile backbones for motion understanding and motion-language reasoning. However, existing pipelines typically decouple motion quantization from semantic embedding learning, linking them solely via token IDs. This approach fails to effectively align the intrinsic geometry of the motion space with the embedding space, thereby hindering the LLM's capacity for nuanced motion reasoning. We argue that alignment is most effective when both modalities share a unified geometric basis. Therefore, instead of forcing the LLM to reconstruct the complex geometry among motion tokens from scratch, we present a novel framework that explicitly enforces orthogonality on both the motion codebook and the LLM embedding space, ensuring that their relational structures naturally mirror each other. Specifically, we employ a decoder-only quantizer with Gumbel-Softmax for differentiable training and balanced codebook usage. To bridge the modalities, we use a sparse projection that maps motion codes into the LLM embedding space while preserving orthogonality. Finally, a two-stage orthonormal regularization schedule enforces soft constraints during tokenizer training and LLM fine-tuning to maintain geometric alignment without hindering semantic adaptation. Extensive experiments show that our framework improves the aggregated Average by 22.4% over the strongest baseline on HumanML3D and by 14.4% on KIT-ML, while ablations confirm the effectiveness of the tokenizer, projection, and regularization designs.
-
-</details>
-
----
-
-### 58. [Multimodal Machine Learning for Soft High-k Elastomers under Data Scarcity](https://arxiv.org/abs/2601.18032)
+### 74. [Multimodal Machine Learning for Soft High-k Elastomers under Data Scarcity](https://arxiv.org/abs/2601.18032)
 
 **基本信息**
 
@@ -1444,11 +1840,11 @@ Discrete motion tokenization has recently enabled Large Language Models (LLMs) t
 
 **💡 相关性分析**
 
-满足标准1和标准2：论文的核心研究内容是利用预训练的聚合物表示（化学大模型）进行材料性能预测，直接围绕‘化学大模型’主题。同时，论文整理并公开了高质量的介电弹性体数据集，为相关研究提供了数据资源。
+满足标准2：论文构建了一个高质量的介电弹性体数据集，并提出了一个利用预训练聚合物表示（化学大模型）的多模态学习框架，为化学大模型在材料发现中的应用提供了数据资源和工具。
 
 **📖 中文摘要**
 
-本文聚焦于软高介电常数弹性体的开发，这是一个化学材料设计问题。论文的核心贡献在于构建了一个高质量的丙烯酸酯基介电弹性体数据集，并提出了一个多模态学习框架。该框架利用大规模预训练的聚合物表示（即化学大模型）来迁移化学和结构知识，从而在数据稀缺的情况下实现对介电和机械性能的准确预测。这项工作直接为化学大模型在材料发现领域的应用提供了数据资源和具体方法，展示了如何利用预训练模型的知识来加速特定化学材料的性能预测和设计。
+本文聚焦于高性能介电弹性体的开发，这是一个化学信息学中的材料设计问题。论文的核心贡献在于构建了一个高质量的丙烯酸酯基介电弹性体数据集，该数据集系统地整合了分子序列、介电和机械性能。更重要的是，论文提出了一个多模态学习框架，该框架利用大规模预训练的聚合物表示（即化学大模型）来迁移化学和结构知识。通过利用这些预训练嵌入，该框架能够在数据稀缺的情况下，对介电和机械性能进行准确的少样本预测，从而加速数据高效的软高介电常数弹性体的发现。这项工作直接提供了用于化学大模型应用的数据集和工具。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -1459,7 +1855,32 @@ Dielectric materials are critical building blocks for modern electronics such as
 
 ---
 
-### 59. [AI4S-SDS: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment](https://arxiv.org/abs/2603.03686)
+### 75. [Sheaf Neural Networks and biomedical applications](https://arxiv.org/abs/2602.00159)
+
+**基本信息**
+
+- 🔗 arXiv: [`2602.00159`](https://arxiv.org/abs/2602.00159)
+- 👥 作者: Aneeqa Mehrab, Jan Willem Van Looy, Pietro Demurtas 等8人
+- 📄 PDF: [下载](https://arxiv.org/pdf/2602.00159.pdf)
+
+**💡 相关性分析**
+
+满足标准1：论文的核心研究内容是图神经网络（SNN）及其在生物医学图谱上的应用。图神经网络是化学信息学（用于分子图）和质谱结构推理（用于谱图表示）中的核心方法之一，因此该研究直接相关。
+
+**📖 中文摘要**
+
+本文介绍了层神经网络（SNN）的理论和数学模型，并将其应用于生物医学领域的一个具体案例研究。虽然论文主题是图神经网络（GNN）的变体，但其核心应用场景是生物医学问题，例如分析生物分子网络或生物医学图谱。在化学信息学和质谱分析领域，图神经网络是用于分子表示学习和质谱结构推理的常用工具。论文通过案例展示了SNN在生物医学图谱上的有效性，并声称其性能优于流行的图卷积网络（GCN）、图注意力网络（GAT）和GraphSage。这表明SNN作为一种新的图表示学习方法，有潜力被应用于分子图分析或质谱谱图推理等任务。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+The purpose of this paper is to elucidate the theory and mathematical modelling behind the sheaf neural network (SNN) algorithm and then show how SNN can effectively answer to biomedical questions in a concrete case study and outperform the most popular graph neural networks (GNNs) as graph convolutional networks (GCNs), graph attention networks (GAT) and GraphSage.
+
+</details>
+
+---
+
+### 76. [AI4S-SDS: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment](https://arxiv.org/abs/2603.03686)
 
 **基本信息**
 
@@ -1469,11 +1890,11 @@ Dielectric materials are critical building blocks for modern electronics such as
 
 **💡 相关性分析**
 
-满足标准1：论文的主要研究内容是开发一个用于自动化化学配方设计的神经符号框架，其中涉及多智能体协作和基于模型的优化，这直接应用了化学大模型（作为智能体的基础）来解决化学信息学中的核心问题——分子/配方设计。
+满足标准1：论文的核心研究内容是用于自动化化学配方设计的神经符号框架，这直接属于化学信息学中的“化学大模型”应用范畴，即利用AI模型进行分子/材料设计与发现。
 
 **📖 中文摘要**
 
-本文提出了AI4S-SDS，一个用于自动化化学配方设计的神经符号框架。该框架集成了多智能体协作和定制的蒙特卡洛树搜索（MCTS）引擎，旨在解决化学配方设计这一高维组合空间中的探索问题。论文的核心是开发一个闭环系统，通过模拟用户反应和结合可微分物理引擎来优化配方，以符合热力学约束。这项工作将化学大模型（作为智能体推理的基础）和结构化搜索方法应用于化学配方设计这一核心化学信息学问题，旨在实现科学发现。
+本文提出了AI4S-SDS，一个用于自动化化学配方设计的神经符号框架。该框架集成了多智能体协作和定制的蒙特卡洛树搜索（MCTS）引擎，旨在解决高维组合空间（离散组成选择和连续几何约束）的导航问题。为了克服大型语言模型（LLM）智能体在长程推理和上下文窗口限制方面的挑战，论文引入了稀疏状态存储和动态路径重建机制。更重要的是，该框架通过一个可微物理引擎，将符号推理与物理可行性（热力学约束）桥接起来，使用混合归一化损失和稀疏诱导正则化来优化连续混合比例。论文的实证结果表明，该框架在采用的基于HSP的物理约束下实现了完全有效性，并显著提高了探索多样性。在初步的光刻实验中，该框架识别出一种新型光刻胶显影剂配方，其性能与商业基准相比具有竞争力或更优。这项工作展示了面向科学发现的、多样性驱动的神经符号搜索在化学配方设计（化学信息学的一个核心问题）中的潜力。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -1484,7 +1905,7 @@ Automated design of chemical formulations is a cornerstone of materials science,
 
 ---
 
-### 60. [Offline Materials Optimization with CliqueFlowmer](https://arxiv.org/abs/2603.06082)
+### 77. [Offline Materials Optimization with CliqueFlowmer](https://arxiv.org/abs/2603.06082)
 
 **基本信息**
 
@@ -1494,11 +1915,11 @@ Automated design of chemical formulations is a cornerstone of materials science,
 
 **💡 相关性分析**
 
-满足标准1：论文的核心研究内容是开发CliqueFlowmer模型，这是一种专门用于材料发现（化学信息学核心领域）的模型优化方法。它深度结合了Transformer等大模型架构与优化算法，直接围绕‘化学大模型’在材料设计中的应用主题。
+满足标准1和2：论文的核心研究内容是用于材料发现和优化的新型AI模型（CliqueFlowmer），这直接属于“化学大模型”的应用范畴（标准1）。同时，论文开源了代码，为相关研究提供了工具资源（标准2）。
 
 **📖 中文摘要**
 
-本文针对计算材料发现（CMD）中的优化问题，提出了一种基于离线模型优化（MBO）的新方法CliqueFlowmer。该方法将目标材料属性的直接优化融入到生成过程中，超越了传统的基于最大似然训练的生成模型。CliqueFlowmer结合了基于团的MBO最新进展与Transformer和流生成模型，专门用于材料发现。论文验证了该模型在优化材料性能方面的能力，并表明其生成的材料显著优于生成式基线模型。这项工作为材料科学中的化学大模型应用提供了一种新的、更有效的优化范式。
+本文针对计算材料发现（CMD）中的优化问题，提出了一种基于离线模型优化（MBO）的新技术。与流行的生成建模方法不同，该方法将目标材料属性的直接优化融合到生成过程中。为此，论文引入了一个领域特定模型CliqueFlowmer，该模型将基于clique的最新MBO进展融入Transformer和流生成中。验证结果表明，CliqueFlowmer产生的材料性能显著优于生成基线。这项工作为专门的材料优化问题提供了新的解决方案，并开源了代码以支持跨学科研究。这直接关联到化学信息学中利用AI模型（如Transformer）进行材料设计和性质预测的核心任务。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -1509,7 +1930,7 @@ Recent advances in deep learning inspired neural network-based approaches to com
 
 ---
 
-### 61. [A Unified View of Drifting and Score-Based Models](https://arxiv.org/abs/2603.07514)
+### 78. [A Unified View of Drifting and Score-Based Models](https://arxiv.org/abs/2603.07514)
 
 **基本信息**
 
@@ -1519,11 +1940,11 @@ Recent advances in deep learning inspired neural network-based approaches to com
 
 **💡 相关性分析**
 
-满足标准1：论文的核心研究内容是从分数匹配的角度统一漂移模型和扩散模型的理论。扩散模型是当前化学大模型（特别是用于分子生成和结构推理）中常用的生成范式，因此该理论研究直接关联到化学大模型底层生成机制的理解。
+满足标准1：论文的核心研究内容是生成模型（漂移模型和基于分数的模型）的理论统一与联系。生成模型是构建“化学大模型”（用于分子生成、设计）的核心技术之一，因此该理论研究直接相关。
 
 **📖 中文摘要**
 
-本文从理论角度统一了漂移模型和基于分数的模型（如扩散模型）。论文的核心发现是，对于高斯核，基于核的漂移模型的平均漂移场恰好等于高斯平滑后的数据分布与模型分布之间的分数差异。这一恒等式源于Tweedie公式，表明高斯核漂移本质上是在平滑分布上的一种分数匹配式目标。这项工作建立了漂移模型与扩散模型之间的理论联系，而扩散模型是当前生成式AI和化学大模型（用于分子生成）中的重要组成部分。因此，该研究为理解相关生成模型的数学基础提供了重要见解。
+本文探讨了漂移模型（Drifting Models）与基于分数的模型（如扩散模型）之间的理论联系。论文表明，对于高斯核，漂移模型的总体均值漂移场恰好对应于高斯平滑后的数据分布与模型分布之间的分数差异。这一恒等式源于Tweedie公式，意味着高斯核漂移正是在平滑分布上的分数匹配式目标。此外，论文还将漂移模型与分布匹配蒸馏（DMD）联系起来：两种方法都使用分数失配传输方向，但漂移模型从核邻域非参数地实现分数信号，而DMD使用预训练的扩散教师模型。这项工作从理论层面统一了两种生成模型范式，对于理解和发展用于分子生成或谱图生成的生成模型（化学大模型的重要组成部分）具有基础意义。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -1534,7 +1955,7 @@ Drifting models train one-step generators by optimizing a mean-shift discrepancy
 
 ---
 
-### 62. [Nonparametric Variational Differential Privacy via Embedding Parameter Clipping](https://arxiv.org/abs/2603.09583)
+### 79. [Nonparametric Variational Differential Privacy via Embedding Parameter Clipping](https://arxiv.org/abs/2603.09583)
 
 **基本信息**
 
@@ -1544,11 +1965,11 @@ Drifting models train one-step generators by optimizing a mean-shift discrepancy
 
 **💡 相关性分析**
 
-满足标准1：论文的研究重点是改进用于构建隐私保护语言模型的变分框架。语言模型是化学大模型的核心组件，因此该工作直接关联到化学大模型在隐私敏感场景下的安全部署和性能优化。
+满足标准3：论文的核心是改进隐私保护机器学习框架（NVDP）。虽然应用场景是语言模型，但论文讨论的隐私保护机器学习技术、变分方法和理论分析，对于在化学信息学和质谱分析中处理敏感数据（如专利分子结构、临床质谱数据）具有重要的相关性和前瞻性讨论价值。
 
 **📖 中文摘要**
 
-本文针对非参数变分差分隐私（NVDP）框架中存在的潜在表示漂移问题，提出了一种基于参数裁剪的策略。NVDP框架是构建隐私保护语言模型的基础，而语言模型是化学大模型的重要组成部分。论文从最小化Rényi散度上界的目标出发，数学推导出对后验参数的具体约束，从而提高了模型的隐私保障和下游任务性能。这项工作通过改进变分模型，增强了在隐私约束下大模型的实用性和鲁棒性，对化学大模型在处理敏感化学数据（如私有分子库）时的隐私保护具有参考价值。
+本文针对非参数变分差分隐私（NVDP）框架中存在的潜在表示漂移问题，提出了一种基于理论推导的参数裁剪策略。NVDP框架为构建隐私保护的语言模型提供了基础，而本文的工作旨在通过直接约束后验分布的参数来改善其隐私-效用权衡。该方法从最小化Rényi散度上界的目标中数学推导而来，对后验均值、方差和混合权重参数产生了具体的、有理论依据的约束。实验表明，应用该技术的模型在实现更严格隐私界限（意味着更强的隐私性）的同时，在多个下游任务上获得了更高的性能。这项工作提出了一种简单有效的方法来改善变分模型中的隐私-效用权衡，使其更加鲁棒和实用。虽然主要应用于语言模型，但其核心的隐私保护机器学习框架和技术（如变分信息瓶颈、Rényi散度）同样适用于需要隐私保护的化学或生物医学数据（如分子数据、质谱数据）的分析与建模。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -1559,7 +1980,32 @@ The nonparametric variational information bottleneck (NVIB) provides the foundat
 
 ---
 
-### 63. [Understanding by Reconstruction: Reversing the Software Development Process for LLM Pretraining](https://arxiv.org/abs/2603.11103)
+### 80. [Thousand-GPU Large-Scale Training and Optimization Recipe for AI-Native Cloud Embodied Intelligence Infrastructure](https://arxiv.org/abs/2603.11101)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.11101`](https://arxiv.org/abs/2603.11101)
+- 👥 作者: Yongjian Guo, Yunxuan Ma, Haoran Sun 等25人
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.11101.pdf)
+
+**💡 相关性分析**
+
+满足标准3：论文的核心是提出一种通过合成智能体轨迹来增强LLM代码生成能力的新范式。虽然直接应用是代码生成，但其关于从静态结构数据中重建推理轨迹、利用多智能体模拟和思维链优化的方法论，对于构建能够进行复杂化学推理（如逆合成分析、反应机理推理）的“化学大模型”具有重要的相关性和前瞻性讨论价值。
+
+**📖 中文摘要**
+
+本文提出了一种通过逆向工程软件开发生命周期来增强大型语言模型（LLM）代码生成能力的新范式。论文认为，标准的预训练数据（静态软件仓库）只代表了复杂智力过程的终端状态，抽象掉了中间的规划、调试和迭代细化步骤。为了弥补这一差距，论文提出了“通过重建来理解”的范式，即利用多智能体模拟，基于源代码仓库的结构现实（如依赖图和文件层次结构）来合成这些潜在的智能体轨迹（规划、推理、调试步骤）。此外，为了确保合成数据的逻辑严谨性，论文采用了一种基于搜索的优化技术，迭代地细化思维链推理，以最大化生成代码的可能性。实验结果表明，在这些重建的轨迹上进行持续预训练，显著增强了Llama-3-8B在多样化基准测试中的性能。这项工作为改进代码生成LLM提供了一种新方法，而代码生成和分子/反应SMILES生成在序列生成和结构推理方面存在共性，因此该研究对开发用于化学信息学（如逆合成规划、分子设计）的“化学大模型”具有启发意义。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+Embodied intelligence is a key step towards Artificial General Intelligence (AGI), yet its development faces multiple challenges including data, frameworks, infrastructure, and evaluation systems. To address these issues, we have, for the first time in the industry, launched a cloud-based, thousand-GPU distributed training platform for embodied intelligence, built upon the widely adopted LeRobot framework, and have systematically overcome bottlenecks across the entire pipeline. At the data layer, we have restructured the data pipeline to optimize the flow of embodied training data. In terms of training, for the GR00T-N1.5 model, utilizing thousand-GPU clusters and data at the scale of hundreds of millions, the single-round training time has been reduced from 15 hours to just 22 minutes, achieving a 40-fold speedup. At the model layer, by combining variable-length FlashAttention and Data Packing, we have moved from sample redundancy to sequence integration, resulting in a 188% speed increase; {\pi}-0.5 attention optimization has accelerated training by 165%; and FP8 quantization has delivered a 140% speedup. On the infrastructure side, relying on high-performance storage, a 3.2T RDMA network, and a Ray-driven elastic AI data lake, we have achieved deep synergy among data, storage, communication, and computation. We have also built an end-to-end evaluation system, creating a closed loop from training to simulation to assessment. This framework has already been fully validated on thousand-GPU clusters, laying a crucial technical foundation for the development and application of next-generation autonomous intelligent robots, and is expected to accelerate the arrival of the era of human-machine integration.
+
+</details>
+
+---
+
+### 81. [Understanding by Reconstruction: Reversing the Software Development Process for LLM Pretraining](https://arxiv.org/abs/2603.11103)
 
 **基本信息**
 
@@ -1569,11 +2015,11 @@ The nonparametric variational information bottleneck (NVIB) provides the foundat
 
 **💡 相关性分析**
 
-满足标准1：论文的核心研究内容是提出一种为LLM注入规划与推理过程的新预训练范式，以增强其复杂推理能力。这种增强LLM推理能力的方法，对于提升化学大模型在质谱结构推理、逆合成分析等需要多步逻辑推理的化学信息学任务上至关重要，因此高度相关。
+满足标准3：论文的核心是提出一种通过合成智能体轨迹来增强LLM代码生成能力的新范式。虽然直接应用是代码生成，但其关于从静态结构数据中重建推理轨迹、利用多智能体模拟和思维链优化的方法论，对于构建能够进行复杂化学推理（如逆合成分析、反应机理推理）的“化学大模型”具有重要的相关性和前瞻性讨论价值。
 
 **📖 中文摘要**
 
-本文提出了一种名为“通过重建来理解”的新范式，旨在解决大语言模型（LLM）在复杂软件工程中深度推理能力不足的问题。作者认为，标准的预训练数据（静态代码库）缺失了背后的规划、调试和迭代过程。为此，他们引入了一个框架，通过多智能体模拟来合成这些“智能体轨迹”，并利用基于搜索的优化技术来提炼推理链。实验表明，在这些重建的轨迹上进行持续预训练，能显著提升LLM在长上下文理解、编码和智能体能力方面的表现。虽然论文以代码生成为例，但其核心思想——为模型注入规划与推理过程——对于提升化学大模型在分子逆向合成、反应预测等需要多步推理的任务能力具有直接的启发和借鉴意义。
+本文提出了一种通过逆向工程软件开发生命周期来增强大型语言模型（LLM）代码生成能力的新范式。论文认为，标准的预训练数据（静态软件仓库）只代表了复杂智力过程的终端状态，抽象掉了中间的规划、调试和迭代细化步骤。为了弥补这一差距，论文提出了“通过重建来理解”的范式，即利用多智能体模拟，基于源代码仓库的结构现实（如依赖图和文件层次结构）来合成这些潜在的智能体轨迹（规划、推理、调试步骤）。此外，为了确保合成数据的逻辑严谨性，论文采用了一种基于搜索的优化技术，迭代地细化思维链推理，以最大化生成代码的可能性。实验结果表明，在这些重建的轨迹上进行持续预训练，显著增强了Llama-3-8B在多样化基准测试中的性能。这项工作为改进代码生成LLM提供了一种新方法，而代码生成和分子/反应SMILES生成在序列生成和结构推理方面存在共性，因此该研究对开发用于化学信息学（如逆合成规划、分子设计）的“化学大模型”具有启发意义。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -1584,7 +2030,32 @@ While Large Language Models (LLMs) have achieved remarkable success in code gene
 
 ---
 
-### 64. [To See is Not to Master: Teaching LLMs to Use Private Libraries for Code Generation](https://arxiv.org/abs/2603.15159)
+### 82. [Multimodal OCR: Parse Anything from Documents](https://arxiv.org/abs/2603.13032)
+
+**基本信息**
+
+- 🔗 arXiv: [`2603.13032`](https://arxiv.org/abs/2603.13032)
+- 👥 作者: Handong Zheng, Yumeng Li, Kaile Zhang 等25人
+- 📄 PDF: [下载](https://arxiv.org/pdf/2603.13032.pdf)
+
+**💡 相关性分析**
+
+满足标准2和3：论文提出了一个用于解析文档中文本和图形的多模态OCR框架和模型，并构建了相应的数据引擎。这为化学信息学和质谱分析领域提供了从科学文献中自动化提取结构化信息（如分子结构、谱图、数据表格）的强大工具和潜在数据集（标准2）。同时，该研究关于多模态文档理解的方向，对于构建能够处理化学多模态数据（文本+结构图+谱图）的大模型具有重要的相关性和前瞻性讨论价值（标准3）。
+
+**📖 中文摘要**
+
+本文提出了多模态OCR（MOCR）范式，将文档中的文本和图形（如图表、表格、图标）联合解析为统一的文本表示。与仅关注文本识别的传统OCR不同，该方法将视觉元素视为一等解析目标，从而在解析文档时保留跨元素的语义关系。论文构建了一个从PDF、渲染的网页和原生SVG资产中提取的综合数据引擎，并通过分阶段预训练和监督微调训练了一个紧凑的3B参数模型（称为 this http URL ）。评估表明，该模型在文档解析和结构化图形解析任务上均表现出色。这项工作展示了构建大规模图像到代码语料库用于多模态预训练的可扩展路径。对于化学信息学和质谱分析，该技术可用于解析科学文献中的化学结构图、反应示意图、质谱谱图以及包含复杂表格数据的实验部分，从而为构建领域特定的多模态大模型（能够理解化学图形和文本）提供数据和技术基础。
+
+<details>
+<summary><b>🔍 查看原文摘要</b></summary>
+
+We present Multimodal OCR (MOCR), a document parsing paradigm that jointly parses text and graphics into unified textual representations. Unlike conventional OCR systems that focus on text recognition and leave graphical regions as cropped pixels, our method, termed this http URL , treats visual elements such as charts, diagrams, tables, and icons as first-class parsing targets, enabling systems to parse documents while preserving semantic relationships across elements. It offers several advantages: (1) it reconstructs both text and graphics as structured outputs, enabling more faithful document reconstruction; (2) it supports end-to-end training over heterogeneous document elements, allowing models to exploit semantic relations between textual and visual components; and (3) it converts previously discarded graphics into reusable code-level supervision, unlocking multimodal supervision embedded in existing documents. To make this paradigm practical at scale, we build a comprehensive data engine from PDFs, rendered webpages, and native SVG assets, and train a compact 3B-parameter model through staged pretraining and supervised fine-tuning. We evaluate this http URL from two perspectives: document parsing and structured graphics parsing. On document parsing benchmarks, it ranks second only to Gemini 3 Pro on our OCR Arena Elo leaderboard, surpasses existing open-source document parsing systems, and sets a new state of the art of 83.9 on olmOCR Bench. On structured graphics parsing, our model achieves higher reconstruction quality than Gemini 3 Pro across image-to-SVG benchmarks, demonstrating strong performance on charts, UI layouts, scientific figures, and chemical diagrams. These results show a scalable path toward building large-scale image-to-code corpora for multimodal pretraining. Code and models are publicly available at this https URL .
+
+</details>
+
+---
+
+### 83. [To See is Not to Master: Teaching LLMs to Use Private Libraries for Code Generation](https://arxiv.org/abs/2603.15159)
 
 **基本信息**
 
@@ -1594,11 +2065,11 @@ While Large Language Models (LLMs) have achieved remarkable success in code gene
 
 **💡 相关性分析**
 
-满足标准1：论文研究如何让大语言模型学习和使用私有API（一种特定领域语言）。这与化学信息学中让化学大模型集成和调用专业化学工具（如用于质谱结构推理的谱库匹配算法、量子化学计算软件）的核心挑战直接对应，为解决化学大模型的工具使用和领域适应问题提供了思路。
+满足标准3：论文的核心是解决让LLM有效利用私有API/工具库的问题。虽然应用场景是通用代码生成，但其提出的通过合成数据教导模型使用特定工具的方法论，对于构建能够调用化学信息学工具、质谱分析软件或数据库的“化学大模型”或“质谱分析助手”具有非常重要的相关性和前瞻性指导意义。
 
 **📖 中文摘要**
 
-本文关注大语言模型在私有库导向的代码生成任务中的局限性，即模型难以有效调用私有库的API。论文提出了PriCoder方法，通过自动合成数据来教导LLMs调用私有库API。该方法将数据合成建模为图构建问题，并交替进行图演化与剪枝。实验表明，PriCoder能显著提升模型在私有库代码生成上的能力。虽然论文聚焦于编程，但其核心问题——如何让大模型学习和使用一个封闭、特定的“领域语言”（私有API）——与化学信息学中让化学大模型理解和调用特定的化学知识库、工具或数据库（例如，用于质谱解析的谱库或化学规则）在本质上高度相似。该研究为解决化学大模型与领域工具集成问题提供了方法论参考。
+本文针对私有库导向的代码生成任务，提出了PriCoder方法，通过自动合成数据来教导大型语言模型（LLM）调用私有库API。现有方法主要依赖于在推理时检索私有库API文档并将相关知识注入上下文，但研究表明这并不足够。PriCoder将私有库数据合成建模为图的构建，并交替使用两个图算子：（1）渐进图演化，从基本样本逐步合成更多样化的训练样本；（2）多维图剪枝，通过严格的过滤流程提高数据质量。实验表明，PriCoder显著提高了私有库导向的代码生成能力。虽然论文聚焦于代码生成，但其核心问题——如何让AI模型有效利用特定领域（私有）的API或知识库——与化学信息学和质谱分析高度相关。例如，让化学大模型调用专业的化学信息学工具包（如RDKit）、质谱数据库搜索API或光谱模拟软件，是构建实用化学AI助手的关键。PriCoder提供的方法论（通过合成数据教导模型使用特定工具）可直接应用于教导化学大模型使用领域专用工具。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -1609,7 +2080,7 @@ Large Language Models (LLMs) have shown strong potential for code generation, ye
 
 ---
 
-### 65. [Learning to Predict, Discover, and Reason in High-Dimensional Event Sequences](https://arxiv.org/abs/2603.16313)
+### 84. [Learning to Predict, Discover, and Reason in High-Dimensional Event Sequences](https://arxiv.org/abs/2603.16313)
 
 **基本信息**
 
@@ -1619,11 +2090,11 @@ Large Language Models (LLMs) have shown strong potential for code generation, ye
 
 **💡 相关性分析**
 
-满足标准1：论文的核心研究内容涉及将大语言模型（LLMs）应用于高维事件序列的建模、预测和推理，这与“化学大模型”主题直接相关，并为“质谱结构推理”这类复杂序列数据的分析提供了潜在的方法论框架。
+满足标准1：论文的核心研究内容（利用大语言模型和序列建模框架进行高维事件序列的预测、发现和推理）与“化学大模型”和“质谱结构推理”主题直接相关。其提出的将复杂序列数据视为语言并用LLM进行建模和解释的范式，为构建用于质谱解析的化学大模型提供了方法论上的参考。
 
 **📖 中文摘要**
 
-本文提出了一种统一事件序列建模、因果发现和大语言模型（LLMs）的框架，用于处理高维事件流（如车辆诊断故障码序列）的自动故障诊断。论文的核心是将诊断序列视为一种可以建模、预测和解释的语言。该框架包含三个部分：用于预测性维护的Transformer架构、可扩展的因果发现框架以及一个用于自动合成布尔规则的多智能体系统。这项工作与“化学大模型”主题相关，因为它展示了如何将大语言模型（LLMs）应用于复杂、高维的序列数据（类似于质谱或化学结构序列）进行推理和规则生成，为“质谱结构推理”提供了方法论上的参考。
+论文提出了一种用于高维事件序列（如车辆诊断故障码）的统一框架，将事件序列建模、因果发现和大语言模型（LLM）整合在一起。该框架旨在实现从预测到因果理解再到推理的渐进式过渡。虽然论文主要关注汽车诊断，但其核心方法——利用Transformer架构进行预测性维护、可扩展的因果发现以及使用多智能体系统自动合成布尔规则——与化学信息学和质谱分析领域高度相关。具体而言，论文中提出的“将诊断序列视为一种可以建模、预测和解释的语言”的范式转变，以及利用LLM进行自动化规则合成的思想，可以直接应用于质谱数据的结构推理任务。例如，质谱图可以视为一种由碎片离子峰组成的“事件序列”，该框架可用于学习谱图与分子结构之间的复杂依赖关系，并可能自动推导出结构解析规则。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -1634,7 +2105,7 @@ Electronic control units (ECUs) embedded within modern vehicles generate a large
 
 ---
 
-### 66. [SCALE:Scalable Conditional Atlas-Level Endpoint transport for virtual cell perturbation prediction](https://arxiv.org/abs/2603.17380)
+### 85. [SCALE:Scalable Conditional Atlas-Level Endpoint transport for virtual cell perturbation prediction](https://arxiv.org/abs/2603.17380)
 
 **基本信息**
 
@@ -1644,11 +2115,11 @@ Electronic control units (ECUs) embedded within modern vehicles generate a large
 
 **💡 相关性分析**
 
-满足标准1：论文的核心研究内容是构建一个用于虚拟细胞扰动预测的大规模基础模型（SCALE），该模型集成了LLaMA（一种大语言模型）进行细胞编码，直接体现了“化学大模型”在生物化学系统建模中的应用。
+满足标准1：论文的核心研究内容是构建一个用于生物系统的大规模基础模型（SCALE），其架构基于LLaMA等大语言模型。这直接体现了“化学大模型”主题中关于构建领域专用大型模型的思想和方法。该模型的设计理念和技术路线可为化学信息学领域构建类似的大模型提供借鉴。
 
 **📖 中文摘要**
 
-本文提出了一个名为SCALE的大规模基础模型，用于虚拟细胞扰动预测。该模型将扰动预测表述为条件传输问题，并采用了一种结合LLaMA（一种大语言模型）进行细胞编码的架构。SCALE旨在解决大规模扰动预测中的训练/推理效率、高维稀疏表达空间的建模稳定性以及生物学保真度评估等瓶颈。这项工作与“化学大模型”主题相关，因为它展示了如何将大语言模型（如LLaMA）的编码能力整合到生物化学领域的特定预测任务中，构建了一个面向生物化学系统（细胞）的、具有可扩展性的基础模型。
+论文提出了SCALE，一个用于虚拟细胞扰动预测的大规模基础模型。该模型将扰动预测表述为条件传输问题，并使用一个结合了LLaMA编码器和端点导向监督的集合感知流架构来实现。虽然应用领域是计算生物学，但该模型的核心技术创新——利用基于LLaMA的编码器进行细胞编码，以及构建可扩展的基础模型框架——与“化学大模型”的主题高度契合。在化学领域，类似的架构和思想可以迁移用于构建预测分子性质、反应结果或质谱谱图的通用大模型。此外，论文强调的“可扩展基础设施、稳定传输建模和生物学忠实评估的协同设计”理念，对于开发面向化学和质谱分析的大模型同样具有重要的指导意义。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -1659,7 +2130,7 @@ Virtual cell models aim to enable in silico experimentation by predicting how ce
 
 ---
 
-### 67. [Cell-cell Communication Inference and Analysis: Biological Mechanisms, Computational Approaches, and Future Opportunities](https://arxiv.org/abs/2512.03497)
+### 86. [Cell-cell Communication Inference and Analysis: Biological Mechanisms, Computational Approaches, and Future Opportunities](https://arxiv.org/abs/2512.03497)
 
 **基本信息**
 
@@ -1669,11 +2140,11 @@ Virtual cell models aim to enable in silico experimentation by predicting how ce
 
 **💡 相关性分析**
 
-满足标准3：论文是一篇针对从单细胞和空间组学数据（常涉及质谱数据）中推断细胞间通讯的计算方法的综述，涵盖了大量相关模型和推理策略，与“化学大模型”（用于生物分子数据建模）和“质谱结构推理”（从质谱数据推断相互作用）主题高度相关。
+满足标准3：论文是一篇针对细胞间通讯推断这一领域的综述，系统性地回顾和分类了超过140种计算方法。这种对某个领域计算方法进行全面梳理和展望的综述形式，与“化学大模型”和“质谱结构推理”领域对方法学进行总结和展望的需求是类似的，提供了重要的相关讨论和领域视角。
 
 **📖 中文摘要**
 
-本文是关于从单细胞和空间组学数据中推断和分析细胞间通讯（CCC）的计算方法的综述。文章系统性地介绍了超过140种计算方法，涵盖了从整合已知配体-受体相互作用的策略到全新的推断方法。文章讨论了该领域的生物学机制、建模策略、当前挑战和未来机遇，并提供了一个在线资源以方便方法比较和选择。这项工作与“化学大模型”和“质谱结构推理”主题相关，因为它综述了用于分析复杂生物分子数据（通常来自质谱等组学技术）的计算模型和推理方法，这些方法的核心目标是从数据中推断出有意义的生物化学相互作用和结构。
+论文是关于从单细胞和空间组学数据中推断和分析细胞间通讯（CCC）的计算方法的综述。它介绍了CCC的生物学机制和建模策略，并重点概述了140多种从单细胞和空间转录组数据推断CCC的计算方法，强调了方法框架和生物学问题的多样性。虽然领域是计算生物学，但论文中系统梳理的“整合先验知识（如配体-受体相互作用）或通过从头计算方法”的技术路线，与化学信息学中整合已知化学反应规则或从头学习分子转化规律的研究范式相通。此外，对大量计算方法进行系统性分类和总结的综述工作本身，为如何组织和发展“化学大模型”或“质谱结构推理”领域的计算方法生态提供了范例。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -1684,7 +2155,7 @@ In multicellular organisms, cells coordinate their activities through cell-cell 
 
 ---
 
-### 68. [Generalization of Long-Range Machine Learning Potentials in Complex Chemical Spaces](https://arxiv.org/abs/2512.10989)
+### 87. [Generalization of Long-Range Machine Learning Potentials in Complex Chemical Spaces](https://arxiv.org/abs/2512.10989)
 
 **基本信息**
 
@@ -1694,11 +2165,11 @@ In multicellular organisms, cells coordinate their activities through cell-cell 
 
 **💡 相关性分析**
 
-满足标准1：论文的核心研究内容是评估和提升机器学习原子间势（MLIPs）——一种用于化学系统建模的机器学习模型——在复杂化学空间中的泛化能力，这直接属于“化学大模型”的研究范畴。
+满足标准1：论文的核心研究内容是评估和提升机器学习原子间势（MLIP）在复杂化学空间中的泛化能力，这直接关系到构建通用、可靠的“化学大模型”。论文提出的评估框架和关于长程相互作用重要性的结论，对于设计和训练化学领域的基础模型具有重要参考价值。
 
 **📖 中文摘要**
 
-本文系统地评估了不同具有长程修正的机器学习原子间势（MLIPs）在复杂化学空间中的泛化能力。研究强调了长程建模方案对于实现可泛化MLIPs的重要性，并引入了一种有偏的训练-测试分割策略来严格评估模型在化学空间未见区域的性能。虽然研究以金属有机框架为例，但该方法广泛适用于其他材料。这项工作与“化学大模型”主题直接相关，因为它专注于开发能够准确、可泛化地模拟化学系统（分子、材料）的机器学习模型，这是化学信息学和计算化学中“化学大模型”的核心目标之一。
+论文系统地评估了不同具有长程修正的机器学习原子间势（MLIP）架构在多样化化学空间中的泛化能力。研究表明，长程建模方案对于实现可泛化的MLIP至关重要，不仅能提高分布内性能，更重要的是能显著提升对化学空间未见区域的迁移能力。论文引入了有偏的训练-测试分割策略来严格评估模型在化学空间不同区域的性能。虽然主要应用在金属-有机框架材料上，但其关于机器学习势函数在复杂化学空间中泛化问题的研究，与“化学大模型”的主题紧密相关。构建能够准确、稳健地跨越广阔化学空间的分子表示和势函数模型，是化学大模型的核心挑战之一。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -1709,7 +2180,7 @@ The vastness of chemical space makes generalization a central challenge in the d
 
 ---
 
-### 69. [The Convergence Frontier: Integrating Machine Learning and High Performance Quantum Computing for Next-Generation Drug Discovery](https://arxiv.org/abs/2603.17790)
+### 88. [The Convergence Frontier: Integrating Machine Learning and High Performance Quantum Computing for Next-Generation Drug Discovery](https://arxiv.org/abs/2603.17790)
 
 **基本信息**
 
@@ -1719,11 +2190,11 @@ The vastness of chemical space makes generalization a central challenge in the d
 
 **💡 相关性分析**
 
-满足标准1和3：论文的核心内容是关于整合量子计算、高性能计算和机器学习来推动下一代药物发现，这直接涉及构建更强大、更精确的“化学大模型”。同时，论文包含了对未来技术融合前景的重要讨论和展望，符合“综述展望相关”的标准。
+满足标准1：论文的核心主题是整合机器学习、高性能计算和量子计算来推动下一代药物发现，这直接涉及构建下一代“化学大模型”所需的技术栈和计算范式。论文中关于量子计算加速数据生成、机器学习模型实现量子精度模拟的讨论，为化学大模型的发展指明了前沿方向。
 
 **📖 中文摘要**
 
-本文探讨了高性能计算（HPC）、机器学习（ML）和量子计算（QC）的融合如何解决药物发现中化学精度与计算可扩展性之间的瓶颈。论文指出，机器学习基础模型（如FeNNix-Bio1）能够实现量子精度的模拟，但其数据生成仍受限于经典计算。而高性能量子计算（HPQC）利用混合QPU-GPU架构，将成为量子化学数据的终极加速器，实现真正的化学精度。文章详细阐述了这种三方融合如何优化从系统准备到高保真模拟的药物发现流程。这项工作与“化学大模型”主题高度相关，因为它前瞻性地讨论了如何利用量子计算加速数据生成，以支撑下一代用于药物发现的、具有量子精度的大型化学机器学习模型。
+论文探讨了高性能计算（HPC）、机器学习（ML）和量子计算（QC）的融合如何为下一代药物发现带来变革。它详细阐述了高性能量子计算（HPQC）如何利用混合QPU-GPU架构，最终成为量子化学数据的加速器，从而实现真正的化学精度。论文将机器学习基础模型（如FeNNix-Bio1）定位为连接量子精度与计算可扩展性的关键。虽然焦点是药物发现，但其中关于整合量子力学、机器学习和高性能计算以突破计算瓶颈的论述，与“化学大模型”的愿景高度一致。构建能够进行高精度量子化学计算的化学大模型，正是该融合趋势的目标之一。
 
 <details>
 <summary><b>🔍 查看原文摘要</b></summary>
@@ -1735,8 +2206,8 @@ Integrating quantum mechanics into drug discovery marks a decisive shift from em
 ---
 
 ## 📊 数据统计
-- 累计运行天数：45
-- 累计论文数量：3233
+- 累计运行天数：46
+- 累计论文数量：3321
 
 ## 📝 历史记录
 
